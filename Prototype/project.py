@@ -1,7 +1,7 @@
 import os
 import json
 import re
-from z3 import Solver, Bool, Or, And, Implies, sat, Int, String, Not, Real
+from z3 import Solver, Or, And, sat, String, Not
 
 # Function to read the requirements.txt file from a directory
 def read_requirements(directory):
