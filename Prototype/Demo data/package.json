@@ -1,0 +1,31 @@
+{
+  "projects": {
+    "o": {
+      "3.2.0": {
+        "dependency_packages": null
+      },
+      "3.1.0": {
+        "dependency_packages": null
+      },
+      "2.1.0": {
+        "dependency_packages": null
+      },
+      "2.0.7": {
+        "dependency_packages": null
+      }
+    },
+    "j": {
+      "1.0.0": {
+        "dependency_packages": [
+          "o>=3.0"
+        ]
+      },
+      "0.9.6": {
+        "dependency_packages": null
+      },
+      "0.8.0": {
+        "dependency_packages": null
+      }
+    }
+  }
+}
