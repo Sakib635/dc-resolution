@@ -1,0 +1,6 @@
+Reading files execution time: 0.09697413444519043 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Generating SMT expression execution time: 0.054950714111328125 seconds
+Solving SMT expression execution time: 0.22019290924072266 seconds
+Getting latest version solution execution time: 0.0 seconds

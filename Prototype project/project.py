@@ -2,6 +2,9 @@ import os
 import json
 import re
 from z3 import Solver, Or, And, sat, String, Not
+import time
+
+
 
 # Function to read the requirements.txt file from a directory
 def read_requirements(directory):
@@ -188,32 +191,62 @@ def get_latest_version(solutions):
 
 
 
+
 def main():
-    directory = 'D:\Windsor\Windsor Thesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\Prototype\Demo data'
+    directory = 'D:\Windsor\Windsor Thesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\Prototype project\Demo data'
+
+
+
+    # Log file setup
+    log_file = 'execution_log.txt'
+
+    def log_execution_time(action_name, start_time, end_time):
+        with open(log_file, 'a') as file:
+            file.write(f'{action_name} execution time: {end_time - start_time} seconds\n')
+
+
 
     # Read files from the directory
+    start_time = time.time()
     requirements_txt = read_requirements(directory)
     projects_data = read_json_file(directory)
+    end_time = time.time()
+    log_execution_time("Reading files", start_time, end_time)
 
     # Parse requirements
+    start_time = time.time()
     requirements = parse_requirements(requirements_txt)
+    end_time = time.time()
+    log_execution_time("Parsing requirements", start_time, end_time)
     print("Parsed requirements:", requirements)
 
     # Fetch matching versions and their dependencies
+    start_time = time.time()
     direct_dependencies, transitive_dependencies = fetch_versions_and_dependencies(requirements, projects_data)
+    end_time = time.time()
+    log_execution_time("Fetching versions and dependencies", start_time, end_time)
     print("Direct dependencies:", direct_dependencies)
     print("Transitive dependencies:", transitive_dependencies)
 
     # Generate SMT expression
+    start_time = time.time()
     smt_expression = generate_smt_expression(direct_dependencies, transitive_dependencies)
+    end_time = time.time()
+    log_execution_time("Generating SMT expression", start_time, end_time)
     print("SMT Expression:", smt_expression)
 
     # Solve the SMT expression
+    start_time = time.time()
     solution = smt_solver(smt_expression)
+    end_time = time.time()
+    log_execution_time("Solving SMT expression", start_time, end_time)
     print(f'Possible Solutions: {solution}')
 
     # Get the latest version solution
+    start_time = time.time()
     latest_version_solution = get_latest_version(solution)
+    end_time = time.time()
+    log_execution_time("Getting latest version solution", start_time, end_time)
     print(f'Latest Solution: {latest_version_solution}')
 
 if __name__ == "__main__":
