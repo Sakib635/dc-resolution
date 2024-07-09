@@ -1,3 +1,6 @@
+import re
+
+
 def version_satisfies(version, spec):
 
     operator, spec_version = spec

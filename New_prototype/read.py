@@ -1,3 +1,7 @@
+import json
+import os
+
+
 def read_requirements(directory):
     """
     Reads the content of the `requirements.txt` file from a specified directory.
@@ -13,7 +17,7 @@ def read_requirements(directory):
 
 
 # Function to read the JSON file from a directory
-def read_json_file(directory, filename="updated_formated_8k.json"):
+def read_json_file(directory, filename="KGBase10k.json"):
     """
     Reads the content of a JSON file from a specified directory.
 

@@ -1,0 +1,1174 @@
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\1.docker-py execution time: 0.0 seconds
+Reading requirements file execution time: 0.0 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Generating SMT expression execution time: 0.015630483627319336 seconds
+Solving SMT expression execution time: 0.0 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\10.gitfs execution time: 0.002237081527709961 seconds
+Reading requirements file execution time: 0.002237081527709961 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.002639293670654297 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Generating SMT expression execution time: 0.011396169662475586 seconds
+Solving SMT expression execution time: 0.0 seconds
+Generating requirements.txt execution time: 0.008417606353759766 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\100.requests execution time: 0.0 seconds
+Reading requirements file execution time: 0.0 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Generating SMT expression execution time: 0.04770016670227051 seconds
+Solving SMT expression execution time: 0.0167083740234375 seconds
+Generating requirements.txt execution time: 0.0010292530059814453 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\101.piqueserver execution time: 0.0 seconds
+Reading requirements file execution time: 0.0 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Generating SMT expression execution time: 0.0 seconds
+Solving SMT expression execution time: 0.0039975643157958984 seconds
+Generating requirements.txt execution time: 0.0009992122650146484 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\103.allennlp execution time: 0.0 seconds
+Reading requirements file execution time: 0.0 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.022615432739257812 seconds
+Processing folder error: maximum recursion depth exceeded
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\104.trinity execution time: 0.013050079345703125 seconds
+Reading requirements file execution time: 0.013050079345703125 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Processing folder error: 
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\105.pip-tools execution time: 0.015674591064453125 seconds
+Reading requirements file execution time: 0.015674591064453125 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Generating SMT expression execution time: 0.2977292537689209 seconds
+Solving SMT expression execution time: 0.07851052284240723 seconds
+Generating requirements.txt execution time: 0.0012254714965820312 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\107.glue execution time: 0.0025496482849121094 seconds
+Reading requirements file execution time: 0.0025496482849121094 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Processing folder error: 
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\108.yotta execution time: 0.0024080276489257812 seconds
+Reading requirements file execution time: 0.0024080276489257812 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Processing folder error: 
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\109.pip-tools execution time: 0.0010144710540771484 seconds
+Reading requirements file execution time: 0.0010144710540771484 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Generating SMT expression execution time: 0.3147761821746826 seconds
+Solving SMT expression execution time: 0.06288647651672363 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\111.valinor execution time: 0.0178987979888916 seconds
+Reading requirements file execution time: 0.0178987979888916 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.004740715026855469 seconds
+Generating SMT expression execution time: 0.3287796974182129 seconds
+Solving SMT expression execution time: 0.06255912780761719 seconds
+Generating requirements.txt execution time: 0.028856992721557617 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\112.glue execution time: 0.05593109130859375 seconds
+Reading requirements file execution time: 0.05593109130859375 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Generating SMT expression execution time: 0.027962684631347656 seconds
+Solving SMT expression execution time: 0.0059947967529296875 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\113.molecule execution time: 0.008382558822631836 seconds
+Reading requirements file execution time: 0.008382558822631836 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0030951499938964844 seconds
+Processing folder error: maximum recursion depth exceeded
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\114.trinity execution time: 0.0 seconds
+Reading requirements file execution time: 0.0 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Processing folder error: 
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\116.plone.importexport execution time: 0.009225606918334961 seconds
+Reading requirements file execution time: 0.009225606918334961 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0021021366119384766 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Generating SMT expression execution time: 0.003960371017456055 seconds
+Solving SMT expression execution time: 0.0 seconds
+Generating requirements.txt execution time: 0.0009882450103759766 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\118.pydgraph execution time: 0.003682374954223633 seconds
+Reading requirements file execution time: 0.003682374954223633 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0010123252868652344 seconds
+Fetching transitive dependencies execution time: 0.017032623291015625 seconds
+Generating SMT expression execution time: 1.1688992977142334 seconds
+Solving SMT expression execution time: 0.04683184623718262 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\119.moto execution time: 0.019381999969482422 seconds
+Reading requirements file execution time: 0.019381999969482422 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0010004043579101562 seconds
+Fetching transitive dependencies execution time: 0.00885152816772461 seconds
+Generating SMT expression execution time: 0.37532806396484375 seconds
+Solving SMT expression execution time: 0.06297445297241211 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\12.connexion execution time: 0.009842872619628906 seconds
+Reading requirements file execution time: 0.009842872619628906 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.1075582504272461 seconds
+Generating SMT expression execution time: 6.434714317321777 seconds
+Solving SMT expression execution time: 0.6760804653167725 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\120.docker-py execution time: 0.005646944046020508 seconds
+Reading requirements file execution time: 0.005646944046020508 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Generating SMT expression execution time: 0.0 seconds
+Solving SMT expression execution time: 0.0 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\122.gbdxtools execution time: 0.09990453720092773 seconds
+Reading requirements file execution time: 0.09990453720092773 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 2.0816729068756104 seconds
+Generating SMT expression execution time: 22.10139536857605 seconds
+Solving SMT expression execution time: 2.5343470573425293 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\123.esgf-prepare execution time: 0.0035932064056396484 seconds
+Reading requirements file execution time: 0.0035932064056396484 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.03732180595397949 seconds
+Generating SMT expression execution time: 1.247507095336914 seconds
+Solving SMT expression execution time: 0.15732479095458984 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\124.yotta execution time: 0.0009510517120361328 seconds
+Reading requirements file execution time: 0.0009510517120361328 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Processing folder error: 
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\125.molecule execution time: 0.007039546966552734 seconds
+Reading requirements file execution time: 0.007039546966552734 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Processing folder error: maximum recursion depth exceeded
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\126.python-myusps execution time: 0.0 seconds
+Reading requirements file execution time: 0.0 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.01156473159790039 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Generating SMT expression execution time: 0.005224466323852539 seconds
+Solving SMT expression execution time: 0.002048969268798828 seconds
+Generating requirements.txt execution time: 0.000985860824584961 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\127.pydgraph execution time: 0.0015947818756103516 seconds
+Reading requirements file execution time: 0.0015947818756103516 seconds
+Parsing requirements execution time: 0.0010137557983398438 seconds
+Fetching versions and dependencies execution time: 0.0010285377502441406 seconds
+Fetching transitive dependencies execution time: 0.026337623596191406 seconds
+Generating SMT expression execution time: 1.165907621383667 seconds
+Solving SMT expression execution time: 0.06290507316589355 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\128.valinor execution time: 0.019524812698364258 seconds
+Reading requirements file execution time: 0.019524812698364258 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0010030269622802734 seconds
+Fetching transitive dependencies execution time: 0.007402658462524414 seconds
+Generating SMT expression execution time: 0.3260002136230469 seconds
+Solving SMT expression execution time: 0.05946755409240723 seconds
+Generating requirements.txt execution time: 0.015554428100585938 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\13.yotta execution time: 0.0 seconds
+Reading requirements file execution time: 0.0 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Processing folder error: 
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\130.certbot execution time: 0.010378122329711914 seconds
+Reading requirements file execution time: 0.010378122329711914 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.02950453758239746 seconds
+Generating SMT expression execution time: 2.9338324069976807 seconds
+Solving SMT expression execution time: 0.20045113563537598 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\131.certbot execution time: 0.02619171142578125 seconds
+Reading requirements file execution time: 0.02619171142578125 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.001171112060546875 seconds
+Fetching transitive dependencies execution time: 0.04312300682067871 seconds
+Generating SMT expression execution time: 3.2074480056762695 seconds
+Solving SMT expression execution time: 0.26728105545043945 seconds
+Generating requirements.txt execution time: 0.015727519989013672 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\132.bcbio-nextgen execution time: 0.008803844451904297 seconds
+Reading requirements file execution time: 0.008803844451904297 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Generating SMT expression execution time: 0.004799842834472656 seconds
+Solving SMT expression execution time: 0.0 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\133.botocore execution time: 0.012039899826049805 seconds
+Reading requirements file execution time: 0.012039899826049805 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0015070438385009766 seconds
+Fetching transitive dependencies execution time: 0.0010013580322265625 seconds
+Generating SMT expression execution time: 0.12017941474914551 seconds
+Solving SMT expression execution time: 0.015676259994506836 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\135.yotta execution time: 0.0 seconds
+Reading requirements file execution time: 0.0 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Processing folder error: 
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\136.gitfs execution time: 0.0 seconds
+Reading requirements file execution time: 0.0 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.001649618148803711 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Generating SMT expression execution time: 0.006247520446777344 seconds
+Solving SMT expression execution time: 0.0 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\137.channels execution time: 0.005586147308349609 seconds
+Reading requirements file execution time: 0.005586147308349609 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.0356748104095459 seconds
+Generating SMT expression execution time: 2.404226064682007 seconds
+Solving SMT expression execution time: 0.09424972534179688 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\138.pyhelm execution time: 0.008688688278198242 seconds
+Reading requirements file execution time: 0.008688688278198242 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.00403904914855957 seconds
+Fetching transitive dependencies execution time: 0.0031969547271728516 seconds
+Generating SMT expression execution time: 0.02902841567993164 seconds
+Solving SMT expression execution time: 0.015596389770507812 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\139.moviepy execution time: 0.030229568481445312 seconds
+Reading requirements file execution time: 0.030229568481445312 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0010120868682861328 seconds
+Fetching transitive dependencies execution time: 0.002063274383544922 seconds
+Generating SMT expression execution time: 0.9945480823516846 seconds
+Solving SMT expression execution time: 0.12600493431091309 seconds
+Generating requirements.txt execution time: 0.001043081283569336 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\140.charm-tools execution time: 0.011568307876586914 seconds
+Reading requirements file execution time: 0.011568307876586914 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.07851052284240723 seconds
+Generating SMT expression execution time: 3.1183910369873047 seconds
+Solving SMT expression execution time: 0.30901122093200684 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\141.Zappa execution time: 0.009926795959472656 seconds
+Reading requirements file execution time: 0.009926795959472656 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.004985332489013672 seconds
+Fetching transitive dependencies execution time: 0.011706352233886719 seconds
+Generating SMT expression execution time: 0.6303970813751221 seconds
+Solving SMT expression execution time: 0.18841147422790527 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\142.botocore execution time: 0.012184381484985352 seconds
+Reading requirements file execution time: 0.012184381484985352 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.001112222671508789 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Generating SMT expression execution time: 0.07426309585571289 seconds
+Solving SMT expression execution time: 0.01654505729675293 seconds
+Generating requirements.txt execution time: 0.0009927749633789062 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\143.esgf-prepare execution time: 0.0016980171203613281 seconds
+Reading requirements file execution time: 0.0016980171203613281 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.000997304916381836 seconds
+Fetching transitive dependencies execution time: 0.050565481185913086 seconds
+Generating SMT expression execution time: 1.4179470539093018 seconds
+Solving SMT expression execution time: 0.15671658515930176 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\145.docker-py execution time: 0.016742944717407227 seconds
+Reading requirements file execution time: 0.016742944717407227 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.001035451889038086 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Generating SMT expression execution time: 0.003491640090942383 seconds
+Solving SMT expression execution time: 0.004281520843505859 seconds
+Generating requirements.txt execution time: 0.03318047523498535 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\146.rasa execution time: 0.033181190490722656 seconds
+Reading requirements file execution time: 0.033181190490722656 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.018558979034423828 seconds
+Fetching transitive dependencies execution time: 0.03678750991821289 seconds
+Generating SMT expression execution time: 1.5418670177459717 seconds
+Solving SMT expression execution time: 0.18913793563842773 seconds
+Generating requirements.txt execution time: 0.00099945068359375 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\147.allennlp execution time: 0.010454177856445312 seconds
+Reading requirements file execution time: 0.010454177856445312 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Processing folder error: maximum recursion depth exceeded
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\148.firebase-admin-python execution time: 0.015624046325683594 seconds
+Reading requirements file execution time: 0.015624046325683594 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.011003732681274414 seconds
+Fetching transitive dependencies execution time: 0.5676822662353516 seconds
+Generating SMT expression execution time: 22.678441286087036 seconds
+Solving SMT expression execution time: 3.74298095703125 seconds
+Generating requirements.txt execution time: 0.001291036605834961 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\149.endpoints-python execution time: 0.005917549133300781 seconds
+Reading requirements file execution time: 0.005917549133300781 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0009915828704833984 seconds
+Fetching transitive dependencies execution time: 0.0010020732879638672 seconds
+Generating SMT expression execution time: 0.03895902633666992 seconds
+Solving SMT expression execution time: 0.03010249137878418 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\15.python-django execution time: 0.019849061965942383 seconds
+Reading requirements file execution time: 0.019849061965942383 seconds
+Parsing requirements execution time: 0.0010027885437011719 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Generating SMT expression execution time: 0.00820469856262207 seconds
+Solving SMT expression execution time: 0.004170417785644531 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\150.docker-py execution time: 0.007312297821044922 seconds
+Reading requirements file execution time: 0.007312297821044922 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.002004384994506836 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Generating SMT expression execution time: 0.0066144466400146484 seconds
+Solving SMT expression execution time: 0.0029578208923339844 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\151.reana execution time: 0.016018152236938477 seconds
+Reading requirements file execution time: 0.016018152236938477 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Generating SMT expression execution time: 0.008819818496704102 seconds
+Solving SMT expression execution time: 0.004879474639892578 seconds
+Generating requirements.txt execution time: 0.0009603500366210938 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\152.pyscaffold execution time: 0.003838777542114258 seconds
+Reading requirements file execution time: 0.003838777542114258 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Generating SMT expression execution time: 0.016747474670410156 seconds
+Solving SMT expression execution time: 0.003969669342041016 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\153.spaCy execution time: 0.00833582878112793 seconds
+Reading requirements file execution time: 0.00833582878112793 seconds
+Parsing requirements execution time: 0.0006220340728759766 seconds
+Fetching versions and dependencies execution time: 0.0030045509338378906 seconds
+Fetching transitive dependencies execution time: 0.035248517990112305 seconds
+Generating SMT expression execution time: 2.526003122329712 seconds
+Solving SMT expression execution time: 0.1887190341949463 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\154.pip-tools execution time: 0.018777132034301758 seconds
+Reading requirements file execution time: 0.018777132034301758 seconds
+Parsing requirements execution time: 0.0009770393371582031 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.0009870529174804688 seconds
+Generating SMT expression execution time: 0.017683982849121094 seconds
+Solving SMT expression execution time: 0.007781982421875 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\155.django-google-analytics execution time: 0.12382173538208008 seconds
+Reading requirements file execution time: 0.12382173538208008 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0010051727294921875 seconds
+Processing folder error: maximum recursion depth exceeded
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\157.rasa execution time: 0.011604547500610352 seconds
+Reading requirements file execution time: 0.011604547500610352 seconds
+Parsing requirements execution time: 0.0005407333374023438 seconds
+Fetching versions and dependencies execution time: 0.001016855239868164 seconds
+Fetching transitive dependencies execution time: 1.7880778312683105 seconds
+Generating SMT expression execution time: 16.53518795967102 seconds
+Solving SMT expression execution time: 2.0641133785247803 seconds
+Generating requirements.txt execution time: 0.001260519027709961 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\158.moto execution time: 6.842613220214844e-05 seconds
+Reading requirements file execution time: 6.842613220214844e-05 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.012872457504272461 seconds
+Fetching transitive dependencies execution time: 2.1316041946411133 seconds
+Generating SMT expression execution time: 29.585123300552368 seconds
+Solving SMT expression execution time: 3.6844334602355957 seconds
+Generating requirements.txt execution time: 0.0021805763244628906 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\159.docker-py execution time: 0.0 seconds
+Reading requirements file execution time: 0.0 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Generating SMT expression execution time: 0.020049095153808594 seconds
+Solving SMT expression execution time: 0.0010967254638671875 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\160.moto execution time: 0.01815056800842285 seconds
+Reading requirements file execution time: 0.01815056800842285 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.005301713943481445 seconds
+Fetching transitive dependencies execution time: 0.05168581008911133 seconds
+Generating SMT expression execution time: 2.391110420227051 seconds
+Solving SMT expression execution time: 0.48690342903137207 seconds
+Generating requirements.txt execution time: 0.0011506080627441406 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\161.datapackage-py execution time: 0.0366816520690918 seconds
+Reading requirements file execution time: 0.0366816520690918 seconds
+Parsing requirements execution time: 5.173683166503906e-05 seconds
+Fetching versions and dependencies execution time: 0.0014848709106445312 seconds
+Processing folder error: maximum recursion depth exceeded
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\162.loguru execution time: 0.05287933349609375 seconds
+Reading requirements file execution time: 0.05287933349609375 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Generating SMT expression execution time: 0.0 seconds
+Solving SMT expression execution time: 0.013689517974853516 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\163.kwalitee execution time: 0.010643720626831055 seconds
+Reading requirements file execution time: 0.010643720626831055 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0007638931274414062 seconds
+Processing folder error: maximum recursion depth exceeded
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\165.rasa execution time: 0.05228161811828613 seconds
+Reading requirements file execution time: 0.05228161811828613 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0024797916412353516 seconds
+Fetching transitive dependencies execution time: 0.0662240982055664 seconds
+Generating SMT expression execution time: 3.460710287094116 seconds
+Processing folder error: b'there is no current proof'
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\166.dal_admin_filters execution time: 0.021032094955444336 seconds
+Reading requirements file execution time: 0.021032094955444336 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0005357265472412109 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Generating SMT expression execution time: 0.0055735111236572266 seconds
+Solving SMT expression execution time: 0.0019855499267578125 seconds
+Generating requirements.txt execution time: 0.0010097026824951172 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\167.botocore execution time: 0.0039827823638916016 seconds
+Reading requirements file execution time: 0.0039827823638916016 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.005138874053955078 seconds
+Fetching transitive dependencies execution time: 0.002012491226196289 seconds
+Generating SMT expression execution time: 0.1377878189086914 seconds
+Solving SMT expression execution time: 0.015693187713623047 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\17.certbot execution time: 0.022189617156982422 seconds
+Reading requirements file execution time: 0.022189617156982422 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.026359081268310547 seconds
+Generating SMT expression execution time: 2.9143240451812744 seconds
+Solving SMT expression execution time: 0.15781450271606445 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\170.pyce execution time: 0.04381561279296875 seconds
+Reading requirements file execution time: 0.04381561279296875 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Generating SMT expression execution time: 0.0 seconds
+Solving SMT expression execution time: 0.0 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\171.channels execution time: 0.0065898895263671875 seconds
+Reading requirements file execution time: 0.0065898895263671875 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.001007080078125 seconds
+Fetching transitive dependencies execution time: 0.020030975341796875 seconds
+Generating SMT expression execution time: 2.4536824226379395 seconds
+Solving SMT expression execution time: 0.07869458198547363 seconds
+Generating requirements.txt execution time: 0.0010457038879394531 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\172.requests execution time: 0.0 seconds
+Reading requirements file execution time: 0.0 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0057299137115478516 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Generating SMT expression execution time: 0.01849365234375 seconds
+Solving SMT expression execution time: 0.008583307266235352 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\173.jaeger-client-python execution time: 0.007664680480957031 seconds
+Reading requirements file execution time: 0.007664680480957031 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.0010018348693847656 seconds
+Generating SMT expression execution time: 0.03428459167480469 seconds
+Solving SMT expression execution time: 0.0 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\174.certbot execution time: 0.014480352401733398 seconds
+Reading requirements file execution time: 0.014480352401733398 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.12490653991699219 seconds
+Generating SMT expression execution time: 10.889370441436768 seconds
+Solving SMT expression execution time: 0.4246714115142822 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\175.awx execution time: 9.560585021972656e-05 seconds
+Reading requirements file execution time: 9.560585021972656e-05 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Processing folder error: 
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\176.Zappa execution time: 0.00994110107421875 seconds
+Reading requirements file execution time: 0.00994110107421875 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.005769014358520508 seconds
+Fetching transitive dependencies execution time: 0.011780500411987305 seconds
+Generating SMT expression execution time: 0.4784262180328369 seconds
+Solving SMT expression execution time: 0.1411278247833252 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\178.demos execution time: 0.0 seconds
+Reading requirements file execution time: 0.0 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Generating SMT expression execution time: 0.01567554473876953 seconds
+Proof for UNSAT execution time: 0.40271425247192383 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\180.allennlp execution time: 0.0 seconds
+Reading requirements file execution time: 0.0 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Processing folder error: maximum recursion depth exceeded
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\181.bcbio-nextgen execution time: 0.01567363739013672 seconds
+Reading requirements file execution time: 0.01567363739013672 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Generating SMT expression execution time: 0.01289224624633789 seconds
+Solving SMT expression execution time: 0.002801179885864258 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\183.python-pcl execution time: 0.012787580490112305 seconds
+Reading requirements file execution time: 0.012787580490112305 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Generating SMT expression execution time: 0.038726806640625 seconds
+Solving SMT expression execution time: 0.01581716537475586 seconds
+Generating requirements.txt execution time: 0.019248008728027344 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\184.mazer execution time: 0.0 seconds
+Reading requirements file execution time: 0.0 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.016596317291259766 seconds
+Generating SMT expression execution time: 0.2714729309082031 seconds
+Solving SMT expression execution time: 0.031250715255737305 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\185.bcbio-nextgen execution time: 0.01576542854309082 seconds
+Reading requirements file execution time: 0.01576542854309082 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Generating SMT expression execution time: 0.0 seconds
+Solving SMT expression execution time: 0.00944066047668457 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\187.reana-workflow-controller execution time: 0.012131690979003906 seconds
+Reading requirements file execution time: 0.012131690979003906 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.001798391342163086 seconds
+Fetching transitive dependencies execution time: 0.061551809310913086 seconds
+Generating SMT expression execution time: 4.421315670013428 seconds
+Solving SMT expression execution time: 0.34563636779785156 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\19.ckan execution time: 0.0456080436706543 seconds
+Reading requirements file execution time: 0.0456080436706543 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Generating SMT expression execution time: 0.2246849536895752 seconds
+Proof for UNSAT execution time: 1.0421059131622314 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\190.spaCy execution time: 0.0 seconds
+Reading requirements file execution time: 0.0 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.015607118606567383 seconds
+Fetching transitive dependencies execution time: 0.1267564296722412 seconds
+Generating SMT expression execution time: 5.738548994064331 seconds
+Solving SMT expression execution time: 0.2949049472808838 seconds
+Generating requirements.txt execution time: 0.0010514259338378906 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\192.tfx execution time: 0.0 seconds
+Reading requirements file execution time: 0.0 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Processing folder error: maximum recursion depth exceeded
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\193.moto execution time: 0.0 seconds
+Reading requirements file execution time: 0.0 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0206143856048584 seconds
+Fetching transitive dependencies execution time: 0.06734251976013184 seconds
+Generating SMT expression execution time: 2.7671923637390137 seconds
+Solving SMT expression execution time: 0.3459954261779785 seconds
+Generating requirements.txt execution time: 0.0009596347808837891 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\194.the-law-factory-parser execution time: 0.007710695266723633 seconds
+Reading requirements file execution time: 0.007710695266723633 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Generating SMT expression execution time: 0.0 seconds
+Solving SMT expression execution time: 0.0 seconds
+Generating requirements.txt execution time: 0.0015070438385009766 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\195.bcbio-nextgen execution time: 0.00823068618774414 seconds
+Reading requirements file execution time: 0.00823068618774414 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0004074573516845703 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Generating SMT expression execution time: 0.0 seconds
+Solving SMT expression execution time: 0.0 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\196.geopandas execution time: 0.00826263427734375 seconds
+Reading requirements file execution time: 0.00826263427734375 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.001001596450805664 seconds
+Fetching transitive dependencies execution time: 0.0200192928314209 seconds
+Generating SMT expression execution time: 2.7776455879211426 seconds
+Solving SMT expression execution time: 0.37090516090393066 seconds
+Generating requirements.txt execution time: 0.0009982585906982422 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\197.landlab execution time: 0.03376483917236328 seconds
+Reading requirements file execution time: 0.03376483917236328 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.23375368118286133 seconds
+Generating SMT expression execution time: 10.277683973312378 seconds
+Solving SMT expression execution time: 0.6590824127197266 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\199.sentry-python execution time: 0.008121013641357422 seconds
+Reading requirements file execution time: 0.008121013641357422 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Generating SMT expression execution time: 0.02878093719482422 seconds
+Solving SMT expression execution time: 0.01268625259399414 seconds
+Generating requirements.txt execution time: 0.0010406970977783203 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\2.docker-py execution time: 0.0020232200622558594 seconds
+Reading requirements file execution time: 0.0020232200622558594 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0009980201721191406 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Generating SMT expression execution time: 0.00935220718383789 seconds
+Solving SMT expression execution time: 0.0050508975982666016 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\20.ansible execution time: 0.05282139778137207 seconds
+Reading requirements file execution time: 0.05282139778137207 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.02931690216064453 seconds
+Generating SMT expression execution time: 1.388378381729126 seconds
+Solving SMT expression execution time: 0.12050771713256836 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\200.certbot execution time: 0.018350839614868164 seconds
+Reading requirements file execution time: 0.018350839614868164 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.03794407844543457 seconds
+Generating SMT expression execution time: 11.497830867767334 seconds
+Solving SMT expression execution time: 0.6393623352050781 seconds
+Generating requirements.txt execution time: 0.0019998550415039062 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\202.Distributed-Jmeter execution time: 0.04981827735900879 seconds
+Reading requirements file execution time: 0.04981827735900879 seconds
+Parsing requirements execution time: 0.012015581130981445 seconds
+Fetching versions and dependencies execution time: 0.20336246490478516 seconds
+Processing folder error: maximum recursion depth exceeded
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\203.jaeger-client-python execution time: 0.0 seconds
+Reading requirements file execution time: 0.0 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Generating SMT expression execution time: 0.0902862548828125 seconds
+Solving SMT expression execution time: 0.012772560119628906 seconds
+Generating requirements.txt execution time: 0.03091883659362793 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\204.crossbar execution time: 0.019275188446044922 seconds
+Reading requirements file execution time: 0.019275188446044922 seconds
+Parsing requirements execution time: 0.012018442153930664 seconds
+Fetching versions and dependencies execution time: 0.010997772216796875 seconds
+Fetching transitive dependencies execution time: 0.0372769832611084 seconds
+Generating SMT expression execution time: 2.333059072494507 seconds
+Proof for UNSAT execution time: 2.4020779132843018 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\205.reana-workflow-controller execution time: 0.01566147804260254 seconds
+Reading requirements file execution time: 0.01566147804260254 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.015614986419677734 seconds
+Fetching transitive dependencies execution time: 0.5048031806945801 seconds
+Generating SMT expression execution time: 15.12766695022583 seconds
+Solving SMT expression execution time: 0.8197531700134277 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\206.dvc execution time: 0.007983684539794922 seconds
+Reading requirements file execution time: 0.007983684539794922 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.00503849983215332 seconds
+Fetching transitive dependencies execution time: 0.37549614906311035 seconds
+Generating SMT expression execution time: 17.188411474227905 seconds
+Solving SMT expression execution time: 1.2831571102142334 seconds
+Generating requirements.txt execution time: 0.025438785552978516 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\208.bookstore execution time: 0.0034401416778564453 seconds
+Reading requirements file execution time: 0.0034401416778564453 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.021727800369262695 seconds
+Processing folder error: maximum recursion depth exceeded
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\21.allennlp execution time: 0.02042412757873535 seconds
+Reading requirements file execution time: 0.02042412757873535 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.007427215576171875 seconds
+Processing folder error: maximum recursion depth exceeded
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\211.docker-py execution time: 0.0 seconds
+Reading requirements file execution time: 0.0 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.013092279434204102 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Generating SMT expression execution time: 0.009274721145629883 seconds
+Solving SMT expression execution time: 0.0050296783447265625 seconds
+Generating requirements.txt execution time: 0.0002846717834472656 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\24.django-storages execution time: 0.0021753311157226562 seconds
+Reading requirements file execution time: 0.0021753311157226562 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.030108213424682617 seconds
+Generating SMT expression execution time: 2.582151412963867 seconds
+Solving SMT expression execution time: 0.07706117630004883 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\25.Tax-Brain execution time: 0.013143777847290039 seconds
+Reading requirements file execution time: 0.013143777847290039 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.05332303047180176 seconds
+Generating SMT expression execution time: 2.007660150527954 seconds
+Solving SMT expression execution time: 0.1073007583618164 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\27.allennlp execution time: 0.011332988739013672 seconds
+Reading requirements file execution time: 0.011332988739013672 seconds
+Parsing requirements execution time: 0.0010135173797607422 seconds
+Fetching versions and dependencies execution time: 0.01100015640258789 seconds
+Processing folder error: maximum recursion depth exceeded
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\28.pip-tools execution time: 0.029373645782470703 seconds
+Reading requirements file execution time: 0.029373645782470703 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.00978994369506836 seconds
+Generating SMT expression execution time: 0.3681063652038574 seconds
+Solving SMT expression execution time: 0.04926180839538574 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\29.pip-tools execution time: 0.0027844905853271484 seconds
+Reading requirements file execution time: 0.0027844905853271484 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.000986337661743164 seconds
+Fetching transitive dependencies execution time: 0.006015300750732422 seconds
+Generating SMT expression execution time: 0.335296630859375 seconds
+Solving SMT expression execution time: 0.04688572883605957 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\3.apispec-oneofschema execution time: 0.015653371810913086 seconds
+Reading requirements file execution time: 0.015653371810913086 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.009525537490844727 seconds
+Generating SMT expression execution time: 0.42354488372802734 seconds
+Solving SMT expression execution time: 0.03123331069946289 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\30.pyhelm execution time: 0.009041786193847656 seconds
+Reading requirements file execution time: 0.009041786193847656 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0035881996154785156 seconds
+Fetching transitive dependencies execution time: 0.002009868621826172 seconds
+Generating SMT expression execution time: 0.04530048370361328 seconds
+Solving SMT expression execution time: 0.011636495590209961 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\31.spinningup execution time: 0.007811069488525391 seconds
+Reading requirements file execution time: 0.007811069488525391 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Generating SMT expression execution time: 0.0 seconds
+Solving SMT expression execution time: 0.003010988235473633 seconds
+Generating requirements.txt execution time: 0.0009598731994628906 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\32.bcbio-nextgen execution time: 0.008274078369140625 seconds
+Reading requirements file execution time: 0.008274078369140625 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0011284351348876953 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Generating SMT expression execution time: 0.007706165313720703 seconds
+Solving SMT expression execution time: 0.0030024051666259766 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\34.certbot execution time: 0.030112028121948242 seconds
+Reading requirements file execution time: 0.030112028121948242 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.07687211036682129 seconds
+Generating SMT expression execution time: 3.5546650886535645 seconds
+Solving SMT expression execution time: 0.19146156311035156 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\35.yotta execution time: 0.02443218231201172 seconds
+Reading requirements file execution time: 0.02443218231201172 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Processing folder error: 
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\36.gallery-dl execution time: 0.008140325546264648 seconds
+Reading requirements file execution time: 0.008140325546264648 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0008783340454101562 seconds
+Fetching transitive dependencies execution time: 0.018186569213867188 seconds
+Generating SMT expression execution time: 0.29628562927246094 seconds
+Solving SMT expression execution time: 0.027816295623779297 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\39.python-sdk execution time: 0.00747990608215332 seconds
+Reading requirements file execution time: 0.00747990608215332 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0010042190551757812 seconds
+Fetching transitive dependencies execution time: 0.013992786407470703 seconds
+Generating SMT expression execution time: 0.3275184631347656 seconds
+Solving SMT expression execution time: 0.04339432716369629 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\4.tableschema-py execution time: 0.008990287780761719 seconds
+Reading requirements file execution time: 0.008990287780761719 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.000997781753540039 seconds
+Fetching transitive dependencies execution time: 0.2783801555633545 seconds
+Generating SMT expression execution time: 9.305776119232178 seconds
+Solving SMT expression execution time: 0.615447998046875 seconds
+Generating requirements.txt execution time: 0.0009822845458984375 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\40.tmtk execution time: 0.019934654235839844 seconds
+Reading requirements file execution time: 0.019934654235839844 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.001991748809814453 seconds
+Processing folder error: maximum recursion depth exceeded
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\41.certbot execution time: 0.031045198440551758 seconds
+Reading requirements file execution time: 0.031045198440551758 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0013890266418457031 seconds
+Fetching transitive dependencies execution time: 0.03313398361206055 seconds
+Generating SMT expression execution time: 3.8357744216918945 seconds
+Solving SMT expression execution time: 0.18251705169677734 seconds
+Generating requirements.txt execution time: 0.001012563705444336 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\42.snapcraft execution time: 0.008005619049072266 seconds
+Reading requirements file execution time: 0.008005619049072266 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0029981136322021484 seconds
+Fetching transitive dependencies execution time: 0.020571231842041016 seconds
+Generating SMT expression execution time: 0.27930593490600586 seconds
+Solving SMT expression execution time: 0.019425153732299805 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\43.kube-hunter execution time: 0.013352155685424805 seconds
+Reading requirements file execution time: 0.013352155685424805 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0010118484497070312 seconds
+Fetching transitive dependencies execution time: 0.018830537796020508 seconds
+Generating SMT expression execution time: 0.4769904613494873 seconds
+Solving SMT expression execution time: 0.07862663269042969 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\45.vector-datasource execution time: 0.009529352188110352 seconds
+Reading requirements file execution time: 0.009529352188110352 seconds
+Parsing requirements execution time: 0.0010023117065429688 seconds
+Fetching versions and dependencies execution time: 0.00400543212890625 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Generating SMT expression execution time: 0.015378236770629883 seconds
+Proof for UNSAT execution time: 0.9514663219451904 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\47.dvc execution time: 0.04882025718688965 seconds
+Reading requirements file execution time: 0.04882025718688965 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0017230510711669922 seconds
+Processing folder error: maximum recursion depth exceeded
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\48.rasa execution time: 0.0 seconds
+Reading requirements file execution time: 0.0 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.013166189193725586 seconds
+Fetching transitive dependencies execution time: 0.04373526573181152 seconds
+Generating SMT expression execution time: 1.7232294082641602 seconds
+Proof for UNSAT execution time: 1.0994417667388916 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\5.datapackage-py execution time: 0.008427619934082031 seconds
+Reading requirements file execution time: 0.008427619934082031 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.30307507514953613 seconds
+Generating SMT expression execution time: 9.82768964767456 seconds
+Solving SMT expression execution time: 0.7635378837585449 seconds
+Generating requirements.txt execution time: 0.0019948482513427734 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\50.rasa execution time: 0.0376887321472168 seconds
+Reading requirements file execution time: 0.0376887321472168 seconds
+Parsing requirements execution time: 0.0010004043579101562 seconds
+Fetching versions and dependencies execution time: 0.010017871856689453 seconds
+Fetching transitive dependencies execution time: 0.04459977149963379 seconds
+Generating SMT expression execution time: 2.184607982635498 seconds
+Proof for UNSAT execution time: 1.3134756088256836 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\51.certbot execution time: 0.004034996032714844 seconds
+Reading requirements file execution time: 0.004034996032714844 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.1936640739440918 seconds
+Generating SMT expression execution time: 13.830193996429443 seconds
+Solving SMT expression execution time: 0.5127127170562744 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\52.moto execution time: 0.014423608779907227 seconds
+Reading requirements file execution time: 0.014423608779907227 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.017678499221801758 seconds
+Generating SMT expression execution time: 0.4095301628112793 seconds
+Solving SMT expression execution time: 0.055416107177734375 seconds
+Generating requirements.txt execution time: 0.0009999275207519531 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\53.botocore execution time: 0.010583639144897461 seconds
+Reading requirements file execution time: 0.010583639144897461 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0020339488983154297 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Generating SMT expression execution time: 0.009315967559814453 seconds
+Solving SMT expression execution time: 0.0040111541748046875 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\54.reana-workflow-controller execution time: 0.04436445236206055 seconds
+Reading requirements file execution time: 0.04436445236206055 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0009949207305908203 seconds
+Fetching transitive dependencies execution time: 0.13464069366455078 seconds
+Generating SMT expression execution time: 9.024160623550415 seconds
+Solving SMT expression execution time: 0.5172059535980225 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\57.pyswarms execution time: 0.008009672164916992 seconds
+Reading requirements file execution time: 0.008009672164916992 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.003003358840942383 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Generating SMT expression execution time: 0.01387929916381836 seconds
+Proof for UNSAT execution time: 0.8555576801300049 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\58.certbot execution time: 0.12099671363830566 seconds
+Reading requirements file execution time: 0.12099671363830566 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.001512289047241211 seconds
+Fetching transitive dependencies execution time: 0.020006656646728516 seconds
+Generating SMT expression execution time: 3.126307249069214 seconds
+Solving SMT expression execution time: 0.17276263236999512 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\59.yellowbrick execution time: 0.005285739898681641 seconds
+Reading requirements file execution time: 0.005285739898681641 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.03964042663574219 seconds
+Generating SMT expression execution time: 2.490219831466675 seconds
+Solving SMT expression execution time: 0.2361588478088379 seconds
+Generating requirements.txt execution time: 0.0009970664978027344 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\6.spaCy execution time: 0.01699542999267578 seconds
+Reading requirements file execution time: 0.01699542999267578 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.003996610641479492 seconds
+Fetching transitive dependencies execution time: 0.06734251976013184 seconds
+Generating SMT expression execution time: 3.187957525253296 seconds
+Solving SMT expression execution time: 0.24044156074523926 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\60.knowit execution time: 0.015505313873291016 seconds
+Reading requirements file execution time: 0.015505313873291016 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.01575756072998047 seconds
+Generating SMT expression execution time: 0.7336852550506592 seconds
+Solving SMT expression execution time: 0.06662893295288086 seconds
+Generating requirements.txt execution time: 0.0009708404541015625 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\61.piqueserver execution time: 0.012410163879394531 seconds
+Reading requirements file execution time: 0.012410163879394531 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.05063509941101074 seconds
+Generating SMT expression execution time: 1.9744057655334473 seconds
+Solving SMT expression execution time: 0.16531777381896973 seconds
+Generating requirements.txt execution time: 0.0019729137420654297 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\62.commcare-cloud execution time: 0.0386052131652832 seconds
+Reading requirements file execution time: 0.0386052131652832 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.011052131652832031 seconds
+Fetching transitive dependencies execution time: 0.021068334579467773 seconds
+Generating SMT expression execution time: 1.11549973487854 seconds
+Proof for UNSAT execution time: 1.1336748600006104 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\63.bcbio-nextgen execution time: 0.02385997772216797 seconds
+Reading requirements file execution time: 0.02385997772216797 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.011719703674316406 seconds
+Processing folder error: maximum recursion depth exceeded
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\65.kinto execution time: 0.049283742904663086 seconds
+Reading requirements file execution time: 0.049283742904663086 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.01753854751586914 seconds
+Fetching transitive dependencies execution time: 0.07198166847229004 seconds
+Generating SMT expression execution time: 14.967044830322266 seconds
+Proof for UNSAT execution time: 1.5585718154907227 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\66.molecule execution time: 0.0010478496551513672 seconds
+Reading requirements file execution time: 0.0010478496551513672 seconds
+Parsing requirements execution time: 0.008843183517456055 seconds
+Fetching versions and dependencies execution time: 0.0023446083068847656 seconds
+Processing folder error: maximum recursion depth exceeded
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\67.ngraph-python execution time: 0.02150869369506836 seconds
+Reading requirements file execution time: 0.02150869369506836 seconds
+Parsing requirements execution time: 0.0010030269622802734 seconds
+Fetching versions and dependencies execution time: 0.008329391479492188 seconds
+Fetching transitive dependencies execution time: 0.15707898139953613 seconds
+Generating SMT expression execution time: 18.536359786987305 seconds
+Proof for UNSAT execution time: 2.3398029804229736 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\68.tlbc-monitor execution time: 0.013132810592651367 seconds
+Reading requirements file execution time: 0.013132810592651367 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Processing folder error: maximum recursion depth exceeded
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\7.molecule execution time: 0.00167083740234375 seconds
+Reading requirements file execution time: 0.00167083740234375 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.003662109375 seconds
+Processing folder error: maximum recursion depth exceeded
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\72.pip-tools execution time: 0.0 seconds
+Reading requirements file execution time: 0.0 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Generating SMT expression execution time: 0.021942615509033203 seconds
+Solving SMT expression execution time: 0.005996227264404297 seconds
+Generating requirements.txt execution time: 0.0009658336639404297 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\73.gallery-dl execution time: 0.001997232437133789 seconds
+Reading requirements file execution time: 0.001997232437133789 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.026155710220336914 seconds
+Generating SMT expression execution time: 0.5367796421051025 seconds
+Solving SMT expression execution time: 0.030965328216552734 seconds
+Generating requirements.txt execution time: 0.0010156631469726562 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\74.spaCy execution time: 0.01623392105102539 seconds
+Reading requirements file execution time: 0.01623392105102539 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.007105827331542969 seconds
+Fetching transitive dependencies execution time: 0.0956873893737793 seconds
+Generating SMT expression execution time: 5.1172776222229 seconds
+Solving SMT expression execution time: 0.5267214775085449 seconds
+Generating requirements.txt execution time: 0.0009999275207519531 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\75.connexion execution time: 0.010999679565429688 seconds
+Reading requirements file execution time: 0.010999679565429688 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0009982585906982422 seconds
+Fetching transitive dependencies execution time: 0.22335147857666016 seconds
+Generating SMT expression execution time: 7.783297777175903 seconds
+Solving SMT expression execution time: 0.5473523139953613 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\78.gitfs execution time: 0.011428117752075195 seconds
+Reading requirements file execution time: 0.011428117752075195 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Generating SMT expression execution time: 0.011934280395507812 seconds
+Solving SMT expression execution time: 0.003001689910888672 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\79.hangoutsbot execution time: 0.0 seconds
+Reading requirements file execution time: 0.0 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Processing folder error: 
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\8.commis execution time: 0.020292043685913086 seconds
+Reading requirements file execution time: 0.020292043685913086 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.001590728759765625 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Generating SMT expression execution time: 0.008994102478027344 seconds
+Solving SMT expression execution time: 0.0030333995819091797 seconds
+Generating requirements.txt execution time: 0.0010004043579101562 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\80.kwalitee execution time: 0.01002049446105957 seconds
+Reading requirements file execution time: 0.01002049446105957 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Processing folder error: maximum recursion depth exceeded
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\82.endpoints-python execution time: 0.007924318313598633 seconds
+Reading requirements file execution time: 0.007924318313598633 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0010023117065429688 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Generating SMT expression execution time: 0.05888700485229492 seconds
+Solving SMT expression execution time: 0.01709270477294922 seconds
+Generating requirements.txt execution time: 0.0009558200836181641 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\83.enochecker execution time: 0.009388446807861328 seconds
+Reading requirements file execution time: 0.009388446807861328 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0050013065338134766 seconds
+Fetching transitive dependencies execution time: 0.009013175964355469 seconds
+Generating SMT expression execution time: 0.47356128692626953 seconds
+Proof for UNSAT execution time: 1.0041818618774414 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\85.knowit execution time: 0.0 seconds
+Reading requirements file execution time: 0.0 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.013779401779174805 seconds
+Generating SMT expression execution time: 0.858698844909668 seconds
+Solving SMT expression execution time: 0.08452582359313965 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\86.knowit execution time: 0.0 seconds
+Reading requirements file execution time: 0.0 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.022436857223510742 seconds
+Generating SMT expression execution time: 0.7287867069244385 seconds
+Solving SMT expression execution time: 0.0891115665435791 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\87.pynwb execution time: 0.018390655517578125 seconds
+Reading requirements file execution time: 0.018390655517578125 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.0537412166595459 seconds
+Generating SMT expression execution time: 1.3530030250549316 seconds
+Proof for UNSAT execution time: 1.174325704574585 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\88.hknweb execution time: 0.05041909217834473 seconds
+Reading requirements file execution time: 0.05041909217834473 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Generating SMT expression execution time: 0.010014772415161133 seconds
+Solving SMT expression execution time: 0.004000425338745117 seconds
+Generating requirements.txt execution time: 0.0010111331939697266 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\89.bcbio-nextgen execution time: 0.00200653076171875 seconds
+Reading requirements file execution time: 0.00200653076171875 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Generating SMT expression execution time: 0.010037899017333984 seconds
+Solving SMT expression execution time: 0.005223512649536133 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\90.ckan execution time: 0.0010061264038085938 seconds
+Reading requirements file execution time: 0.0010061264038085938 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Processing folder error: 
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\91.nucypher execution time: 0.03511834144592285 seconds
+Reading requirements file execution time: 0.03511834144592285 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0030045509338378906 seconds
+Processing folder error: maximum recursion depth exceeded
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\92.pip-tools execution time: 0.0 seconds
+Reading requirements file execution time: 0.0 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.009015560150146484 seconds
+Generating SMT expression execution time: 0.4235389232635498 seconds
+Solving SMT expression execution time: 0.07496833801269531 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\93.qha execution time: 0.015174627304077148 seconds
+Reading requirements file execution time: 0.015174627304077148 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.10018801689147949 seconds
+Generating SMT expression execution time: 5.450655460357666 seconds
+Solving SMT expression execution time: 0.44341325759887695 seconds
+Generating requirements.txt execution time: 0.0010077953338623047 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\95.spinningup execution time: 0.002142667770385742 seconds
+Reading requirements file execution time: 0.002142667770385742 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Generating SMT expression execution time: 0.006997585296630859 seconds
+Solving SMT expression execution time: 0.003076791763305664 seconds
+Generating requirements.txt execution time: 0.0019927024841308594 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\97.botocore execution time: 0.01160740852355957 seconds
+Reading requirements file execution time: 0.01160740852355957 seconds
+Parsing requirements execution time: 0.0010046958923339844 seconds
+Fetching versions and dependencies execution time: 0.0009951591491699219 seconds
+Fetching transitive dependencies execution time: 0.0047740936279296875 seconds
+Generating SMT expression execution time: 0.2609822750091553 seconds
+Solving SMT expression execution time: 0.03127789497375488 seconds
+Generating requirements.txt execution time: 0.0010576248168945312 seconds
+Processing file: D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/watchman\99.requests execution time: 0.01291799545288086 seconds
+Reading requirements file execution time: 0.01291799545288086 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Generating SMT expression execution time: 0.029142141342163086 seconds
+Solving SMT expression execution time: 0.016417264938354492 seconds
+Generating requirements.txt execution time: 0.0 seconds

@@ -1,3 +1,6 @@
+import re
+
+
 def parse_requirements(requirements_txt):
     """
     Parses the content of requirements.txt into a dictionary of packages and their version specifiers.

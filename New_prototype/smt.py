@@ -1,10 +1,10 @@
-from z3 import Optimize
-import z3
+import time
+from z3 import Optimize, String, Or, Implies, And, set_param, Solver, unsat, sat
 
 
-def generate_smt_expression(
-    direct_dependencies, transitive_dependencies, ctx, add_soft_clauses=True
-):
+
+
+def generate_smt_expression(direct_dependencies, transitive_dependencies, ctx, add_soft_clauses=True):
     """
     Generate an SMT (Satisfiability Modulo Theories) expression to handle package version constraints,
     including both direct and transitive dependencies, using an Optimize solver.
@@ -33,9 +33,7 @@ def generate_smt_expression(
             constraints.append(package_constraint)
             if add_soft_clauses:
                 # Add soft constraints with weights for versions
-                sorted_versions = sorted(
-                    versions, reverse=False
-                )  # Sort versions to prioritize newer versions
+                sorted_versions = sorted(versions, reverse=False)  # Sort versions to prioritize newer versions
                 weight = 1
                 for version in sorted_versions:
                     # Add a soft constraint with increasing weight for newer versions
@@ -46,28 +44,17 @@ def generate_smt_expression(
     for package_version, dependencies in transitive_dependencies.items():
         if isinstance(dependencies, dict):
             # Split the package_version to get the package name and its version
-            package, version = package_version.split("==")
+            package, version = package_version.split('==')
             for dep_package, dep_versions in dependencies.items():
                 # Create a constraint for each dependency that it must be one of the specified versions
-                expressions = [
-                    String(dep_package, ctx=ctx) == dep_version
-                    for dep_version in dep_versions
-                ]
+                expressions = [String(dep_package, ctx=ctx) == dep_version for dep_version in dep_versions]
                 if len(expressions) == 0:
                     continue
                 dependency_constraint = Or(expressions)
-                constraints.append(
-                    Implies(
-                        String(package, ctx=ctx) == version,
-                        dependency_constraint,
-                        ctx=ctx,
-                    )
-                )
+                constraints.append(Implies(String(package, ctx=ctx) == version, dependency_constraint, ctx=ctx))
                 if add_soft_clauses:
                     # Add soft constraints with weights for versions
-                    sorted_versions = sorted(
-                        dep_versions, reverse=False
-                    )  # Sort versions to prioritize newer versions
+                    sorted_versions = sorted(dep_versions, reverse=False)  # Sort versions to prioritize newer versions
                     weight = 1
                     for dep_version in sorted_versions:
                         # Add a soft constraint with increasing weight for newer versions
