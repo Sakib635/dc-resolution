@@ -1,0 +1,10 @@
+Cython>=0.27,<1
+Twisted>=17,<19
+Jinja2>=2,<3
+pyenet
+toml
+pypng==0.0.19
+aiohttp>=3.3.0,<3.6.0
+packaging>=19.0
+geoip2>=2.9,<3.0
+

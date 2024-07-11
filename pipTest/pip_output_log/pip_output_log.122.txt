@@ -1,0 +1,324 @@
+Collecting six>=1.10.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.122.gbdxtools.txt (line 1))
+  Obtaining dependency information for six>=1.10.0 from https://files.pythonhosted.org/packages/d9/5a/e7c31adbe875f2abbb91bd84cf2dc52d792b5a01506781dbcf25c91daf11/six-1.16.0-py2.py3-none-any.whl.metadata
+  Downloading six-1.16.0-py2.py3-none-any.whl.metadata (1.8 kB)
+Collecting future>=0.15.2 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.122.gbdxtools.txt (line 2))
+  Obtaining dependency information for future>=0.15.2 from https://files.pythonhosted.org/packages/da/71/ae30dadffc90b9006d77af76b393cb9dfbfc9629f339fc1574a1c52e6806/future-1.0.0-py3-none-any.whl.metadata
+  Downloading future-1.0.0-py3-none-any.whl.metadata (4.0 kB)
+Collecting requests>=2.12.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.122.gbdxtools.txt (line 3))
+  Obtaining dependency information for requests>=2.12.1 from https://files.pythonhosted.org/packages/f9/9b/335f9764261e915ed497fcdeb11df5dfd6f7bf257d4a6a2a686d80da4d54/requests-2.32.3-py3-none-any.whl.metadata
+  Downloading requests-2.32.3-py3-none-any.whl.metadata (4.6 kB)
+Collecting boto3 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.122.gbdxtools.txt (line 4))
+  Obtaining dependency information for boto3 from https://files.pythonhosted.org/packages/cd/65/7cf1fd8f8073b1884fe7e559acb3fdd9957ba0cecd46e8bd4b2844b0a48a/boto3-1.34.143-py3-none-any.whl.metadata
+  Downloading boto3-1.34.143-py3-none-any.whl.metadata (6.6 kB)
+Collecting gbdx-auth>=0.2.6 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.122.gbdxtools.txt (line 5))
+  Downloading gbdx-auth-0.4.0.tar.gz (4.7 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting pytest (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.122.gbdxtools.txt (line 6))
+  Obtaining dependency information for pytest from https://files.pythonhosted.org/packages/4e/e7/81ebdd666d3bff6670d27349b5053605d83d55548e6bd5711f3b0ae7dd23/pytest-8.2.2-py3-none-any.whl.metadata
+  Downloading pytest-8.2.2-py3-none-any.whl.metadata (7.6 kB)
+Collecting pytest-runner (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.122.gbdxtools.txt (line 7))
+  Obtaining dependency information for pytest-runner from https://files.pythonhosted.org/packages/23/2b/73982c02d28538b6a1182c0a2faf764ca6a76a6dbe89a69288184051a67b/pytest_runner-6.0.1-py3-none-any.whl.metadata
+  Downloading pytest_runner-6.0.1-py3-none-any.whl.metadata (7.3 kB)
+Collecting vcrpy (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.122.gbdxtools.txt (line 8))
+  Downloading vcrpy-6.0.1.tar.gz (84 kB)
+     ---------------------------------------- 84.8/84.8 kB 2.4 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting mock (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.122.gbdxtools.txt (line 9))
+  Obtaining dependency information for mock from https://files.pythonhosted.org/packages/6b/20/471f41173930550f279ccb65596a5ac19b9ac974a8d93679bcd3e0c31498/mock-5.1.0-py3-none-any.whl.metadata
+  Downloading mock-5.1.0-py3-none-any.whl.metadata (3.0 kB)
+Collecting bumpversion (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.122.gbdxtools.txt (line 10))
+  Obtaining dependency information for bumpversion from https://files.pythonhosted.org/packages/4e/ff/93f0db7b3ca337e9f2a289980083e858775dfb3672b38052c6911b36ea66/bumpversion-0.6.0-py2.py3-none-any.whl.metadata
+  Downloading bumpversion-0.6.0-py2.py3-none-any.whl.metadata (19 kB)
+Collecting shapely (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.122.gbdxtools.txt (line 11))
+  Obtaining dependency information for shapely from https://files.pythonhosted.org/packages/81/35/6d8b5cf9a747b94e8940619d914280fc4ce8e86e411ad19d39e7e8be036c/shapely-2.0.4-cp312-cp312-win_amd64.whl.metadata
+  Downloading shapely-2.0.4-cp312-cp312-win_amd64.whl.metadata (7.2 kB)
+Collecting ephem (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.122.gbdxtools.txt (line 12))
+  Obtaining dependency information for ephem from https://files.pythonhosted.org/packages/fc/6d/6a50857a523d453c9a7aabcaf896c7482ba76176f5bc57d8b7ef60384a73/ephem-4.1.5-cp312-cp312-win_amd64.whl.metadata
+  Downloading ephem-4.1.5-cp312-cp312-win_amd64.whl.metadata (6.1 kB)
+Collecting toolz (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.122.gbdxtools.txt (line 13))
+  Obtaining dependency information for toolz from https://files.pythonhosted.org/packages/b7/8a/d82202c9f89eab30f9fc05380daae87d617e2ad11571ab23d7c13a29bb54/toolz-0.12.1-py3-none-any.whl.metadata
+  Downloading toolz-0.12.1-py3-none-any.whl.metadata (5.1 kB)
+Collecting cloudpickle (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.122.gbdxtools.txt (line 14))
+  Obtaining dependency information for cloudpickle from https://files.pythonhosted.org/packages/96/43/dae06432d0c4b1dc9e9149ad37b4ca8384cf6eb7700cd9215b177b914f0a/cloudpickle-3.0.0-py3-none-any.whl.metadata
+  Downloading cloudpickle-3.0.0-py3-none-any.whl.metadata (7.0 kB)
+Collecting dask==1.1.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.122.gbdxtools.txt (line 15))
+  Obtaining dependency information for dask==1.1.1 from https://files.pythonhosted.org/packages/7c/2b/cf9e5477bec3bd3b4687719876ea38e9d8c9dc9d3526365c74e836e6a650/dask-1.1.1-py2.py3-none-any.whl.metadata
+  Downloading dask-1.1.1-py2.py3-none-any.whl.metadata (3.0 kB)
+Collecting numpy<1.16.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.122.gbdxtools.txt (line 16))
+  Downloading numpy-1.15.4.zip (4.5 MB)
+     ---------------------------------------- 4.5/4.5 MB 11.4 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'error'
+  error: subprocess-exited-with-error
+  
+  Preparing metadata (pyproject.toml) did not run successfully.
+  exit code: 1
+  
+  [239 lines of output]
+  Running from numpy source directory.
+  <string>:378: UserWarning: Unrecognized setuptools command, proceeding with generating Cython sources and expanding templates
+  C:\Users\ASUS\AppData\Local\Temp\pip-install-1j4hdb55\numpy_3645544a4457490c911005f0cd6130d8\numpy\distutils\misc_util.py:477: SyntaxWarning: "is" with 'str' literal. Did you mean "=="?
+    return is_string(s) and ('*' in s or '?' is s)
+  blas_opt_info:
+  blas_mkl_info:
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+    libraries mkl_rt not found in ['D:\\Windsor\\WindsorThesis\\Git repo\\Thesis-Project-Python-Dependency-Conflict-Resolution\\pipTest\\myenv\\lib', 'C:\\']
+    NOT AVAILABLE
+  
+  blis_info:
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+    libraries blis not found in ['D:\\Windsor\\WindsorThesis\\Git repo\\Thesis-Project-Python-Dependency-Conflict-Resolution\\pipTest\\myenv\\lib', 'C:\\']
+    NOT AVAILABLE
+  
+  openblas_info:
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+    libraries openblas not found in ['D:\\Windsor\\WindsorThesis\\Git repo\\Thesis-Project-Python-Dependency-Conflict-Resolution\\pipTest\\myenv\\lib', 'C:\\']
+  get_default_fcompiler: matching types: '['gnu', 'intelv', 'absoft', 'compaqv', 'intelev', 'gnu95', 'g95', 'intelvem', 'intelem', 'flang']'
+  customize GnuFCompiler
+  Could not locate executable g77
+  Could not locate executable f77
+  customize IntelVisualFCompiler
+  Could not locate executable ifort
+  Could not locate executable ifl
+  customize AbsoftFCompiler
+  Could not locate executable f90
+  customize CompaqVisualFCompiler
+  Could not locate executable DF
+  customize IntelItaniumVisualFCompiler
+  Could not locate executable efl
+  customize Gnu95FCompiler
+  Could not locate executable gfortran
+  Could not locate executable f95
+  customize G95FCompiler
+  Could not locate executable g95
+  customize IntelEM64VisualFCompiler
+  customize IntelEM64TFCompiler
+  Could not locate executable efort
+  Could not locate executable efc
+  customize PGroupFlangCompiler
+  Could not locate executable flang
+  don't know how to compile Fortran code on platform 'nt'
+    NOT AVAILABLE
+  
+  atlas_3_10_blas_threads_info:
+  Setting PTATLAS=ATLAS
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+    libraries tatlas not found in ['D:\\Windsor\\WindsorThesis\\Git repo\\Thesis-Project-Python-Dependency-Conflict-Resolution\\pipTest\\myenv\\lib', 'C:\\']
+    NOT AVAILABLE
+  
+  atlas_3_10_blas_info:
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+    libraries satlas not found in ['D:\\Windsor\\WindsorThesis\\Git repo\\Thesis-Project-Python-Dependency-Conflict-Resolution\\pipTest\\myenv\\lib', 'C:\\']
+    NOT AVAILABLE
+  
+  atlas_blas_threads_info:
+  Setting PTATLAS=ATLAS
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+    libraries ptf77blas,ptcblas,atlas not found in ['D:\\Windsor\\WindsorThesis\\Git repo\\Thesis-Project-Python-Dependency-Conflict-Resolution\\pipTest\\myenv\\lib', 'C:\\']
+    NOT AVAILABLE
+  
+  atlas_blas_info:
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+    libraries f77blas,cblas,atlas not found in ['D:\\Windsor\\WindsorThesis\\Git repo\\Thesis-Project-Python-Dependency-Conflict-Resolution\\pipTest\\myenv\\lib', 'C:\\']
+    NOT AVAILABLE
+  
+  accelerate_info:
+    NOT AVAILABLE
+  
+  C:\Users\ASUS\AppData\Local\Temp\pip-install-1j4hdb55\numpy_3645544a4457490c911005f0cd6130d8\numpy\distutils\system_info.py:625: UserWarning:
+      Atlas (http://math-atlas.sourceforge.net/) libraries not found.
+      Directories to search for the libraries can be specified in the
+      numpy/distutils/site.cfg file (section [atlas]) or by setting
+      the ATLAS environment variable.
+    self.calc_info()
+  blas_info:
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+    libraries blas not found in ['D:\\Windsor\\WindsorThesis\\Git repo\\Thesis-Project-Python-Dependency-Conflict-Resolution\\pipTest\\myenv\\lib', 'C:\\']
+    NOT AVAILABLE
+  
+  C:\Users\ASUS\AppData\Local\Temp\pip-install-1j4hdb55\numpy_3645544a4457490c911005f0cd6130d8\numpy\distutils\system_info.py:625: UserWarning:
+      Blas (http://www.netlib.org/blas/) libraries not found.
+      Directories to search for the libraries can be specified in the
+      numpy/distutils/site.cfg file (section [blas]) or by setting
+      the BLAS environment variable.
+    self.calc_info()
+  blas_src_info:
+    NOT AVAILABLE
+  
+  C:\Users\ASUS\AppData\Local\Temp\pip-install-1j4hdb55\numpy_3645544a4457490c911005f0cd6130d8\numpy\distutils\system_info.py:625: UserWarning:
+      Blas (http://www.netlib.org/blas/) sources not found.
+      Directories to search for the sources can be specified in the
+      numpy/distutils/site.cfg file (section [blas_src]) or by setting
+      the BLAS_SRC environment variable.
+    self.calc_info()
+    NOT AVAILABLE
+  
+  'svnversion' is not recognized as an internal or external command,
+  operable program or batch file.
+  'svnversion' is not recognized as an internal or external command,
+  operable program or batch file.
+  non-existing path in 'numpy\\distutils': 'site.cfg'
+  F2PY Version 2
+  lapack_opt_info:
+  lapack_mkl_info:
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+    libraries mkl_rt not found in ['D:\\Windsor\\WindsorThesis\\Git repo\\Thesis-Project-Python-Dependency-Conflict-Resolution\\pipTest\\myenv\\lib', 'C:\\']
+    NOT AVAILABLE
+  
+  openblas_lapack_info:
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+    libraries openblas not found in ['D:\\Windsor\\WindsorThesis\\Git repo\\Thesis-Project-Python-Dependency-Conflict-Resolution\\pipTest\\myenv\\lib', 'C:\\']
+    NOT AVAILABLE
+  
+  openblas_clapack_info:
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+    libraries openblas,lapack not found in ['D:\\Windsor\\WindsorThesis\\Git repo\\Thesis-Project-Python-Dependency-Conflict-Resolution\\pipTest\\myenv\\lib', 'C:\\']
+    NOT AVAILABLE
+  
+  atlas_3_10_threads_info:
+  Setting PTATLAS=ATLAS
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+    libraries tatlas,tatlas not found in D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\lib
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+    libraries lapack_atlas not found in D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\lib
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+    libraries tatlas,tatlas not found in C:\
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+    libraries lapack_atlas not found in C:\
+  <class 'numpy.distutils.system_info.atlas_3_10_threads_info'>
+    NOT AVAILABLE
+  
+  atlas_3_10_info:
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+    libraries satlas,satlas not found in D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\lib
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+    libraries lapack_atlas not found in D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\lib
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+    libraries satlas,satlas not found in C:\
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+    libraries lapack_atlas not found in C:\
+  <class 'numpy.distutils.system_info.atlas_3_10_info'>
+    NOT AVAILABLE
+  
+  atlas_threads_info:
+  Setting PTATLAS=ATLAS
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+    libraries ptf77blas,ptcblas,atlas not found in D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\lib
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+    libraries lapack_atlas not found in D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\lib
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+    libraries ptf77blas,ptcblas,atlas not found in C:\
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+    libraries lapack_atlas not found in C:\
+  <class 'numpy.distutils.system_info.atlas_threads_info'>
+    NOT AVAILABLE
+  
+  atlas_info:
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+    libraries f77blas,cblas,atlas not found in D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\lib
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+    libraries lapack_atlas not found in D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\lib
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+    libraries f77blas,cblas,atlas not found in C:\
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+    libraries lapack_atlas not found in C:\
+  <class 'numpy.distutils.system_info.atlas_info'>
+    NOT AVAILABLE
+  
+  lapack_info:
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+    libraries lapack not found in ['D:\\Windsor\\WindsorThesis\\Git repo\\Thesis-Project-Python-Dependency-Conflict-Resolution\\pipTest\\myenv\\lib', 'C:\\']
+    NOT AVAILABLE
+  
+  C:\Users\ASUS\AppData\Local\Temp\pip-install-1j4hdb55\numpy_3645544a4457490c911005f0cd6130d8\numpy\distutils\system_info.py:625: UserWarning:
+      Lapack (http://www.netlib.org/lapack/) libraries not found.
+      Directories to search for the libraries can be specified in the
+      numpy/distutils/site.cfg file (section [lapack]) or by setting
+      the LAPACK environment variable.
+    self.calc_info()
+  lapack_src_info:
+    NOT AVAILABLE
+  
+  C:\Users\ASUS\AppData\Local\Temp\pip-install-1j4hdb55\numpy_3645544a4457490c911005f0cd6130d8\numpy\distutils\system_info.py:625: UserWarning:
+      Lapack (http://www.netlib.org/lapack/) sources not found.
+      Directories to search for the sources can be specified in the
+      numpy/distutils/site.cfg file (section [lapack_src]) or by setting
+      the LAPACK_SRC environment variable.
+    self.calc_info()
+    NOT AVAILABLE
+  
+  C:\Users\ASUS\AppData\Local\Temp\pip-build-env-z33yjnle\overlay\Lib\site-packages\setuptools\_distutils\dist.py:268: UserWarning: Unknown distribution option: 'define_macros'
+    warnings.warn(msg)
+  running dist_info
+  running build_src
+  build_src
+  building py_modules sources
+  creating build
+  creating build\src.win-amd64-3.1
+  creating build\src.win-amd64-3.1\numpy
+  creating build\src.win-amd64-3.1\numpy\distutils
+  building library "npymath" sources
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  error: Microsoft Visual C++ 14.0 or greater is required. Get it with "Microsoft C++ Build Tools": https://visualstudio.microsoft.com/visual-cpp-build-tools/
+  [end of output]
+  
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+error: metadata-generation-failed
+
+Encountered error while generating package metadata.
+
+See above for output.
+
+note: This is an issue with the package mentioned above, not pip.
+hint: See above for details.
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: python.exe -m pip install --upgrade pip

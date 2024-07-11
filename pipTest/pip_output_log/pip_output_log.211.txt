@@ -1,0 +1,42 @@
+Collecting requests==2.11.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.211.docker-py.txt (line 1))
+  Obtaining dependency information for requests==2.11.1 from https://files.pythonhosted.org/packages/ea/03/92d3278bf8287c5caa07dbd9ea139027d5a3592b0f4d14abf072f890fab2/requests-2.11.1-py2.py3-none-any.whl.metadata
+  Downloading requests-2.11.1-py2.py3-none-any.whl.metadata (39 kB)
+Collecting six>=1.4.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.211.docker-py.txt (line 2))
+  Obtaining dependency information for six>=1.4.0 from https://files.pythonhosted.org/packages/d9/5a/e7c31adbe875f2abbb91bd84cf2dc52d792b5a01506781dbcf25c91daf11/six-1.16.0-py2.py3-none-any.whl.metadata
+  Downloading six-1.16.0-py2.py3-none-any.whl.metadata (1.8 kB)
+Collecting websocket-client==0.32.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.211.docker-py.txt (line 3))
+  Downloading websocket_client-0.32.0.tar.gz (192 kB)
+     -------------------------------------- 192.2/192.2 kB 2.3 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting backports.ssl_match_hostname>=3.5 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.211.docker-py.txt (line 4))
+  Downloading backports.ssl_match_hostname-3.7.0.1.tar.gz (5.7 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting ipaddress==1.0.16 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.211.docker-py.txt (line 5))
+  Downloading ipaddress-1.0.16.tar.gz (31 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting docker-pycreds==0.2.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.211.docker-py.txt (line 6))
+  Obtaining dependency information for docker-pycreds==0.2.1 from https://files.pythonhosted.org/packages/ff/ec/14e976222468249cc50df4a031e5922581747b52dc96a0b1d5d73fee8f0e/docker_pycreds-0.2.1-py2.py3-none-any.whl.metadata
+  Downloading docker_pycreds-0.2.1-py2.py3-none-any.whl.metadata (947 bytes)
+Downloading requests-2.11.1-py2.py3-none-any.whl (514 kB)
+   ---------------------------------------- 514.8/514.8 kB 8.0 MB/s eta 0:00:00
+Downloading docker_pycreds-0.2.1-py2.py3-none-any.whl (4.5 kB)
+Downloading six-1.16.0-py2.py3-none-any.whl (11 kB)
+Would install backports.ssl_match_hostname-3.7.0.1 docker-pycreds-0.2.1 ipaddress-1.0.16 requests-2.11.1 six-1.16.0 websocket_client-0.32.0
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: python.exe -m pip install --upgrade pip

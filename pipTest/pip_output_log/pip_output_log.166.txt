@@ -1,0 +1,23 @@
+Collecting django==2.1.7 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.166.dal_admin_filters.txt (line 1))
+  Obtaining dependency information for django==2.1.7 from https://files.pythonhosted.org/packages/c7/87/fbd666c4f87591ae25b7bb374298e8629816e87193c4099d3608ef11fab9/Django-2.1.7-py3-none-any.whl.metadata
+  Downloading Django-2.1.7-py3-none-any.whl.metadata (3.5 kB)
+Collecting django-autocomplete-light==3.3.2 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.166.dal_admin_filters.txt (line 2))
+  Downloading django-autocomplete-light-3.3.2.tar.gz (179 kB)
+     -------------------------------------- 179.0/179.0 kB 1.4 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting pytz (from django==2.1.7->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.166.dal_admin_filters.txt (line 1))
+  Obtaining dependency information for pytz from https://files.pythonhosted.org/packages/9c/3d/a121f284241f08268b21359bd425f7d4825cffc5ac5cd0e1b3d82ffd2b10/pytz-2024.1-py2.py3-none-any.whl.metadata
+  Downloading pytz-2024.1-py2.py3-none-any.whl.metadata (22 kB)
+Downloading Django-2.1.7-py3-none-any.whl (7.3 MB)
+   ---------------------------------------- 7.3/7.3 MB 8.5 MB/s eta 0:00:00
+Downloading pytz-2024.1-py2.py3-none-any.whl (505 kB)
+   --------------------------------------- 505.5/505.5 kB 16.0 MB/s eta 0:00:00
+Would install Django-2.1.7 django-autocomplete-light-3.3.2 pytz-2024.1
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: python.exe -m pip install --upgrade pip

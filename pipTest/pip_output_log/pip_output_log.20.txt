@@ -1,0 +1,48 @@
+Collecting jinja2 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.20.ansible.txt (line 1))
+  Obtaining dependency information for jinja2 from https://files.pythonhosted.org/packages/31/80/3a54838c3fb461f6fec263ebf3a3a41771bd05190238de3486aae8540c36/jinja2-3.1.4-py3-none-any.whl.metadata
+  Downloading jinja2-3.1.4-py3-none-any.whl.metadata (2.6 kB)
+Collecting PyYAML (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.20.ansible.txt (line 2))
+  Obtaining dependency information for PyYAML from https://files.pythonhosted.org/packages/2b/9f/fbade56564ad486809c27b322d0f7e6a89c01f6b4fe208402e90d4443a99/PyYAML-6.0.1-cp312-cp312-win_amd64.whl.metadata
+  Downloading PyYAML-6.0.1-cp312-cp312-win_amd64.whl.metadata (2.1 kB)
+Collecting paramiko (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.20.ansible.txt (line 3))
+  Obtaining dependency information for paramiko from https://files.pythonhosted.org/packages/ad/50/8792484502c8141c20c996b802fefa8435a9c018a2bb440a06b172782118/paramiko-3.4.0-py3-none-any.whl.metadata
+  Downloading paramiko-3.4.0-py3-none-any.whl.metadata (4.4 kB)
+Collecting cryptography (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.20.ansible.txt (line 4))
+  Obtaining dependency information for cryptography from https://files.pythonhosted.org/packages/a2/7b/b0d330852dd5953daee6b15f742f15d9f18e9c0154eb4cfcc8718f0436da/cryptography-42.0.8-cp39-abi3-win_amd64.whl.metadata
+  Downloading cryptography-42.0.8-cp39-abi3-win_amd64.whl.metadata (5.4 kB)
+Collecting MarkupSafe>=2.0 (from jinja2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.20.ansible.txt (line 1))
+  Obtaining dependency information for MarkupSafe>=2.0 from https://files.pythonhosted.org/packages/3f/14/c3554d512d5f9100a95e737502f4a2323a1959f6d0d01e0d0997b35f7b10/MarkupSafe-2.1.5-cp312-cp312-win_amd64.whl.metadata
+  Downloading MarkupSafe-2.1.5-cp312-cp312-win_amd64.whl.metadata (3.1 kB)
+Collecting bcrypt>=3.2 (from paramiko->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.20.ansible.txt (line 3))
+  Obtaining dependency information for bcrypt>=3.2 from https://files.pythonhosted.org/packages/b1/46/fada28872f3f3e121868f4cd2d61dcdc7085a07821debf1320cafeabc0db/bcrypt-4.1.3-cp39-abi3-win_amd64.whl.metadata
+  Downloading bcrypt-4.1.3-cp39-abi3-win_amd64.whl.metadata (9.8 kB)
+Collecting pynacl>=1.5 (from paramiko->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.20.ansible.txt (line 3))
+  Obtaining dependency information for pynacl>=1.5 from https://files.pythonhosted.org/packages/5e/22/d3db169895faaf3e2eda892f005f433a62db2decbcfbc2f61e6517adfa87/PyNaCl-1.5.0-cp36-abi3-win_amd64.whl.metadata
+  Downloading PyNaCl-1.5.0-cp36-abi3-win_amd64.whl.metadata (8.7 kB)
+Collecting cffi>=1.12 (from cryptography->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.20.ansible.txt (line 4))
+  Obtaining dependency information for cffi>=1.12 from https://files.pythonhosted.org/packages/e9/63/e285470a4880a4f36edabe4810057bd4b562c6ddcc165eacf9c3c7210b40/cffi-1.16.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading cffi-1.16.0-cp312-cp312-win_amd64.whl.metadata (1.5 kB)
+Collecting pycparser (from cffi>=1.12->cryptography->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.20.ansible.txt (line 4))
+  Obtaining dependency information for pycparser from https://files.pythonhosted.org/packages/13/a3/a812df4e2dd5696d1f351d58b8fe16a405b234ad2886a0dab9183fb78109/pycparser-2.22-py3-none-any.whl.metadata
+  Downloading pycparser-2.22-py3-none-any.whl.metadata (943 bytes)
+Downloading jinja2-3.1.4-py3-none-any.whl (133 kB)
+   ---------------------------------------- 133.3/133.3 kB 2.6 MB/s eta 0:00:00
+Downloading PyYAML-6.0.1-cp312-cp312-win_amd64.whl (138 kB)
+   ---------------------------------------- 138.7/138.7 kB 8.0 MB/s eta 0:00:00
+Downloading paramiko-3.4.0-py3-none-any.whl (225 kB)
+   --------------------------------------- 225.9/225.9 kB 13.5 MB/s eta 0:00:00
+Downloading cryptography-42.0.8-cp39-abi3-win_amd64.whl (2.9 MB)
+   ---------------------------------------- 2.9/2.9 MB 23.0 MB/s eta 0:00:00
+Downloading bcrypt-4.1.3-cp39-abi3-win_amd64.whl (158 kB)
+   ---------------------------------------- 158.1/158.1 kB 9.2 MB/s eta 0:00:00
+Downloading cffi-1.16.0-cp312-cp312-win_amd64.whl (181 kB)
+   --------------------------------------- 182.0/182.0 kB 10.7 MB/s eta 0:00:00
+Downloading MarkupSafe-2.1.5-cp312-cp312-win_amd64.whl (17 kB)
+Downloading PyNaCl-1.5.0-cp36-abi3-win_amd64.whl (212 kB)
+   --------------------------------------- 212.1/212.1 kB 13.5 MB/s eta 0:00:00
+Downloading pycparser-2.22-py3-none-any.whl (117 kB)
+   ---------------------------------------- 117.6/117.6 kB 6.7 MB/s eta 0:00:00
+Would install Jinja2-3.1.4 MarkupSafe-2.1.5 PyNaCl-1.5.0 PyYAML-6.0.1 bcrypt-4.1.3 cffi-1.16.0 cryptography-42.0.8 paramiko-3.4.0 pycparser-2.22
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: python.exe -m pip install --upgrade pip

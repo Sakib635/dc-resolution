@@ -1,0 +1,129 @@
+Collecting lawfactory-utils (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.194.the-law-factory-parser.txt (line 1))
+  Obtaining dependency information for lawfactory-utils from https://files.pythonhosted.org/packages/63/fd/78f719a37d0a1853ee4a38c26ed1883f386905e2cf2cf188809a29c26dd4/lawfactory_utils-0.2.2-py2.py3-none-any.whl.metadata
+  Downloading lawfactory_utils-0.2.2-py2.py3-none-any.whl.metadata (2.2 kB)
+Collecting senapy (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.194.the-law-factory-parser.txt (line 2))
+  Obtaining dependency information for senapy from https://files.pythonhosted.org/packages/b9/ae/5cce9bde5f660441b0598dc5d801781d179c3c3873e625be436e62ea666e/senapy-0.3.2-py2.py3-none-any.whl.metadata
+  Downloading senapy-0.3.2-py2.py3-none-any.whl.metadata (1.8 kB)
+Collecting metslesliens==1.3.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.194.the-law-factory-parser.txt (line 3))
+  Obtaining dependency information for metslesliens==1.3.0 from https://files.pythonhosted.org/packages/66/fa/bbddf556c2ebbb1008f0255b3d2ff880c45ac800cac4cb0fb456d0626005/metslesliens-1.3.0-py3-none-any.whl.metadata
+  Downloading metslesliens-1.3.0-py3-none-any.whl.metadata (8.9 kB)
+Collecting diff-match-patch==20121119 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.194.the-law-factory-parser.txt (line 4))
+  Downloading diff-match-patch-20121119.tar.gz (54 kB)
+     -------------------------------------- 54.1/54.1 kB 562.5 kB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting python-gitlab==1.5.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.194.the-law-factory-parser.txt (line 5))
+  Downloading python-gitlab-1.5.1.tar.gz (107 kB)
+     -------------------------------------- 108.0/108.0 kB 2.1 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting parsimonious (from metslesliens==1.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.194.the-law-factory-parser.txt (line 3))
+  Obtaining dependency information for parsimonious from https://files.pythonhosted.org/packages/aa/0f/c8b64d9b54ea631fcad4e9e3c8dbe8c11bb32a623be94f22974c88e71eaf/parsimonious-0.10.0-py3-none-any.whl.metadata
+  Downloading parsimonious-0.10.0-py3-none-any.whl.metadata (25 kB)
+Collecting requests>=2.4.2 (from python-gitlab==1.5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.194.the-law-factory-parser.txt (line 5))
+  Obtaining dependency information for requests>=2.4.2 from https://files.pythonhosted.org/packages/f9/9b/335f9764261e915ed497fcdeb11df5dfd6f7bf257d4a6a2a686d80da4d54/requests-2.32.3-py3-none-any.whl.metadata
+  Downloading requests-2.32.3-py3-none-any.whl.metadata (4.6 kB)
+Collecting six (from python-gitlab==1.5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.194.the-law-factory-parser.txt (line 5))
+  Obtaining dependency information for six from https://files.pythonhosted.org/packages/d9/5a/e7c31adbe875f2abbb91bd84cf2dc52d792b5a01506781dbcf25c91daf11/six-1.16.0-py2.py3-none-any.whl.metadata
+  Downloading six-1.16.0-py2.py3-none-any.whl.metadata (1.8 kB)
+Collecting requests>=2.4.2 (from python-gitlab==1.5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.194.the-law-factory-parser.txt (line 5))
+  Obtaining dependency information for requests>=2.4.2 from https://files.pythonhosted.org/packages/ff/17/5cbb026005115301a8fb2f9b0e3e8d32313142fe8b617070e7baad20554f/requests-2.20.1-py2.py3-none-any.whl.metadata
+  Downloading requests-2.20.1-py2.py3-none-any.whl.metadata (5.5 kB)
+Collecting lxml<4.3,>=4.2 (from lawfactory-utils->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.194.the-law-factory-parser.txt (line 1))
+  Downloading lxml-4.2.6.tar.gz (2.4 MB)
+     ---------------------------------------- 2.4/2.4 MB 19.1 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting beautifulsoup4<4.7,>=4.6 (from lawfactory-utils->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.194.the-law-factory-parser.txt (line 1))
+  Obtaining dependency information for beautifulsoup4<4.7,>=4.6 from https://files.pythonhosted.org/packages/21/0a/47fdf541c97fd9b6a610cb5fd518175308a7cc60569962e776ac52420387/beautifulsoup4-4.6.3-py3-none-any.whl.metadata
+  Downloading beautifulsoup4-4.6.3-py3-none-any.whl.metadata (3.0 kB)
+Collecting click<6.8,>=6.7 (from senapy->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.194.the-law-factory-parser.txt (line 2))
+  Obtaining dependency information for click<6.8,>=6.7 from https://files.pythonhosted.org/packages/34/c1/8806f99713ddb993c5366c362b2f908f18269f8d792aff1abfd700775a77/click-6.7-py2.py3-none-any.whl.metadata
+  Downloading click-6.7-py2.py3-none-any.whl.metadata (424 bytes)
+Collecting html5lib<1.1,>=1.0 (from senapy->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.194.the-law-factory-parser.txt (line 2))
+  Obtaining dependency information for html5lib<1.1,>=1.0 from https://files.pythonhosted.org/packages/a5/62/bbd2be0e7943ec8504b517e62bab011b4946e1258842bc159e5dfde15b96/html5lib-1.0.1-py2.py3-none-any.whl.metadata
+  Downloading html5lib-1.0.1-py2.py3-none-any.whl.metadata (15 kB)
+Collecting dateparser<0.8,>=0.7 (from senapy->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.194.the-law-factory-parser.txt (line 2))
+  Obtaining dependency information for dateparser<0.8,>=0.7 from https://files.pythonhosted.org/packages/c1/d5/5a2e51bc0058f66b54669735f739d27afc3eb453ab00520623c7ab168e22/dateparser-0.7.6-py2.py3-none-any.whl.metadata
+  Downloading dateparser-0.7.6-py2.py3-none-any.whl.metadata (26 kB)
+Collecting python-dateutil (from dateparser<0.8,>=0.7->senapy->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.194.the-law-factory-parser.txt (line 2))
+  Obtaining dependency information for python-dateutil from https://files.pythonhosted.org/packages/ec/57/56b9bcc3c9c6a792fcbaf139543cee77261f3651ca9da0c93f5c1221264b/python_dateutil-2.9.0.post0-py2.py3-none-any.whl.metadata
+  Downloading python_dateutil-2.9.0.post0-py2.py3-none-any.whl.metadata (8.4 kB)
+Collecting pytz (from dateparser<0.8,>=0.7->senapy->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.194.the-law-factory-parser.txt (line 2))
+  Obtaining dependency information for pytz from https://files.pythonhosted.org/packages/9c/3d/a121f284241f08268b21359bd425f7d4825cffc5ac5cd0e1b3d82ffd2b10/pytz-2024.1-py2.py3-none-any.whl.metadata
+  Downloading pytz-2024.1-py2.py3-none-any.whl.metadata (22 kB)
+Collecting regex!=2019.02.19 (from dateparser<0.8,>=0.7->senapy->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.194.the-law-factory-parser.txt (line 2))
+  Obtaining dependency information for regex!=2019.02.19 from https://files.pythonhosted.org/packages/8b/ee/05f14a99a81f1a897a9146f3f565efb116ad6412f875f52e895c02666825/regex-2024.5.15-cp312-cp312-win_amd64.whl.metadata
+  Downloading regex-2024.5.15-cp312-cp312-win_amd64.whl.metadata (41 kB)
+     ---------------------------------------- 42.0/42.0 kB 2.0 MB/s eta 0:00:00
+Collecting tzlocal (from dateparser<0.8,>=0.7->senapy->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.194.the-law-factory-parser.txt (line 2))
+  Obtaining dependency information for tzlocal from https://files.pythonhosted.org/packages/97/3f/c4c51c55ff8487f2e6d0e618dba917e3c3ee2caae6cf0fbb59c9b1876f2e/tzlocal-5.2-py3-none-any.whl.metadata
+  Downloading tzlocal-5.2-py3-none-any.whl.metadata (7.8 kB)
+Collecting webencodings (from html5lib<1.1,>=1.0->senapy->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.194.the-law-factory-parser.txt (line 2))
+  Obtaining dependency information for webencodings from https://files.pythonhosted.org/packages/f4/24/2a3e3df732393fed8b3ebf2ec078f05546de641fe1b667ee316ec1dcf3b7/webencodings-0.5.1-py2.py3-none-any.whl.metadata
+  Downloading webencodings-0.5.1-py2.py3-none-any.whl.metadata (2.1 kB)
+Collecting chardet<3.1.0,>=3.0.2 (from requests>=2.4.2->python-gitlab==1.5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.194.the-law-factory-parser.txt (line 5))
+  Obtaining dependency information for chardet<3.1.0,>=3.0.2 from https://files.pythonhosted.org/packages/bc/a9/01ffebfb562e4274b6487b4bb1ddec7ca55ec7510b22e4c51f14098443b8/chardet-3.0.4-py2.py3-none-any.whl.metadata
+  Downloading chardet-3.0.4-py2.py3-none-any.whl.metadata (3.2 kB)
+Collecting idna<2.8,>=2.5 (from requests>=2.4.2->python-gitlab==1.5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.194.the-law-factory-parser.txt (line 5))
+  Obtaining dependency information for idna<2.8,>=2.5 from https://files.pythonhosted.org/packages/4b/2a/0276479a4b3caeb8a8c1af2f8e4355746a97fab05a372e4a2c6a6b876165/idna-2.7-py2.py3-none-any.whl.metadata
+  Downloading idna-2.7-py2.py3-none-any.whl.metadata (8.9 kB)
+Collecting urllib3<1.25,>=1.21.1 (from requests>=2.4.2->python-gitlab==1.5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.194.the-law-factory-parser.txt (line 5))
+  Obtaining dependency information for urllib3<1.25,>=1.21.1 from https://files.pythonhosted.org/packages/01/11/525b02e4acc0c747de8b6ccdab376331597c569c42ea66ab0a1dbd36eca2/urllib3-1.24.3-py2.py3-none-any.whl.metadata
+  Downloading urllib3-1.24.3-py2.py3-none-any.whl.metadata (36 kB)
+Collecting certifi>=2017.4.17 (from requests>=2.4.2->python-gitlab==1.5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.194.the-law-factory-parser.txt (line 5))
+  Obtaining dependency information for certifi>=2017.4.17 from https://files.pythonhosted.org/packages/1c/d5/c84e1a17bf61d4df64ca866a1c9a913874b4e9bdc131ec689a0ad013fb36/certifi-2024.7.4-py3-none-any.whl.metadata
+  Downloading certifi-2024.7.4-py3-none-any.whl.metadata (2.2 kB)
+Collecting tzdata (from tzlocal->dateparser<0.8,>=0.7->senapy->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.194.the-law-factory-parser.txt (line 2))
+  Obtaining dependency information for tzdata from https://files.pythonhosted.org/packages/65/58/f9c9e6be752e9fcb8b6a0ee9fb87e6e7a1f6bcab2cdc73f02bb7ba91ada0/tzdata-2024.1-py2.py3-none-any.whl.metadata
+  Downloading tzdata-2024.1-py2.py3-none-any.whl.metadata (1.4 kB)
+Downloading metslesliens-1.3.0-py3-none-any.whl (18 kB)
+Downloading lawfactory_utils-0.2.2-py2.py3-none-any.whl (7.0 kB)
+Downloading senapy-0.3.2-py2.py3-none-any.whl (22 kB)
+Downloading beautifulsoup4-4.6.3-py3-none-any.whl (90 kB)
+   ---------------------------------------- 90.4/90.4 kB 5.3 MB/s eta 0:00:00
+Downloading click-6.7-py2.py3-none-any.whl (71 kB)
+   ---------------------------------------- 71.2/71.2 kB 4.1 MB/s eta 0:00:00
+Downloading dateparser-0.7.6-py2.py3-none-any.whl (362 kB)
+   --------------------------------------- 362.0/362.0 kB 23.5 MB/s eta 0:00:00
+Downloading html5lib-1.0.1-py2.py3-none-any.whl (117 kB)
+   ---------------------------------------- 117.3/117.3 kB 6.7 MB/s eta 0:00:00
+Downloading requests-2.20.1-py2.py3-none-any.whl (57 kB)
+   ---------------------------------------- 58.0/58.0 kB 3.2 MB/s eta 0:00:00
+Downloading six-1.16.0-py2.py3-none-any.whl (11 kB)
+Downloading parsimonious-0.10.0-py3-none-any.whl (48 kB)
+   ---------------------------------------- 48.4/48.4 kB 2.5 MB/s eta 0:00:00
+Downloading certifi-2024.7.4-py3-none-any.whl (162 kB)
+   ---------------------------------------- 163.0/163.0 kB ? eta 0:00:00
+Downloading chardet-3.0.4-py2.py3-none-any.whl (133 kB)
+   ---------------------------------------- 133.4/133.4 kB 7.7 MB/s eta 0:00:00
+Downloading idna-2.7-py2.py3-none-any.whl (58 kB)
+   ---------------------------------------- 58.2/58.2 kB 3.0 MB/s eta 0:00:00
+Downloading regex-2024.5.15-cp312-cp312-win_amd64.whl (268 kB)
+   ---------------------------------------- 268.5/268.5 kB ? eta 0:00:00
+Downloading urllib3-1.24.3-py2.py3-none-any.whl (118 kB)
+   ---------------------------------------- 118.8/118.8 kB 6.8 MB/s eta 0:00:00
+Downloading python_dateutil-2.9.0.post0-py2.py3-none-any.whl (229 kB)
+   ---------------------------------------- 229.9/229.9 kB ? eta 0:00:00
+Downloading pytz-2024.1-py2.py3-none-any.whl (505 kB)
+   --------------------------------------- 505.5/505.5 kB 15.5 MB/s eta 0:00:00
+Downloading tzlocal-5.2-py3-none-any.whl (17 kB)
+Downloading webencodings-0.5.1-py2.py3-none-any.whl (11 kB)
+Downloading tzdata-2024.1-py2.py3-none-any.whl (345 kB)
+   --------------------------------------- 345.4/345.4 kB 20.9 MB/s eta 0:00:00
+Would install beautifulsoup4-4.6.3 certifi-2024.7.4 chardet-3.0.4 click-6.7 dateparser-0.7.6 diff-match-patch-20121119 html5lib-1.0.1 idna-2.7 lawfactory-utils-0.2.2 lxml-4.2.6 metslesliens-1.3.0 parsimonious-0.10.0 python-dateutil-2.9.0.post0 python-gitlab-1.5.1 pytz-2024.1 regex-2024.5.15 requests-2.20.1 senapy-0.3.2 six-1.16.0 tzdata-2024.1 tzlocal-5.2 urllib3-1.24.3 webencodings-0.5.1
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: python.exe -m pip install --upgrade pip

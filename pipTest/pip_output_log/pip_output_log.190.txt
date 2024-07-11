@@ -1,0 +1,15 @@
+Ignoring pathlib: markers 'python_version < "3.4"' don't match your environment
+Collecting cymem<2.1.0,>=2.0.2 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.190.spaCy.txt (line 1))
+  Obtaining dependency information for cymem<2.1.0,>=2.0.2 from https://files.pythonhosted.org/packages/35/e0/34b11adc80502f0760ce2892dfdfcd8a7f450acd3147156c98620cb4071d/cymem-2.0.8-cp312-cp312-win_amd64.whl.metadata
+  Downloading cymem-2.0.8-cp312-cp312-win_amd64.whl.metadata (8.6 kB)
+Collecting preshed<2.1.0,>=2.0.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.190.spaCy.txt (line 2))
+  Downloading preshed-2.0.1.tar.gz (113 kB)
+     -------------------------------------- 113.7/113.7 kB 1.1 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+ERROR: Some build dependencies for preshed<2.1.0,>=2.0.1 from https://files.pythonhosted.org/packages/0b/14/c9aa735cb9c131545fc9e23031baccb87041ac9215b3d75f99e3cf18f6a3/preshed-2.0.1.tar.gz (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.190.spaCy.txt (line 2)) conflict with the backend dependencies: wheel==0.43.0 is incompatible with wheel>=0.32.0,<0.33.0.
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: python.exe -m pip install --upgrade pip

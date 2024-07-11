@@ -1,0 +1,94 @@
+Collecting Cython<0.26,>=0.25.2 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.101.piqueserver.txt (line 1))
+  Downloading Cython-0.25.2.tar.gz (1.7 MB)
+     ---------------------------------------- 1.7/1.7 MB 6.0 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting Twisted<16.7,>=16.6.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.101.piqueserver.txt (line 2))
+  Downloading Twisted-16.6.0.tar.bz2 (3.0 MB)
+     ---------------------------------------- 3.0/3.0 MB 27.2 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Installing backend dependencies: started
+  Installing backend dependencies: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting Jinja2<2.9,>=2.8 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.101.piqueserver.txt (line 3))
+  Obtaining dependency information for Jinja2<2.9,>=2.8 from https://files.pythonhosted.org/packages/67/ea/92b1d9d8f2dc43302df7f5271b9500bbfc237386782343561a5f62beb306/Jinja2-2.8.1-py2.py3-none-any.whl.metadata
+  Downloading Jinja2-2.8.1-py2.py3-none-any.whl.metadata (2.1 kB)
+Collecting Pillow<=4.0,>=3.4.2 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.101.piqueserver.txt (line 4))
+  Downloading Pillow-4.0.0.tar.gz (11.1 MB)
+     --------------------------------------- 11.1/11.1 MB 17.7 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting pygeoip<0.4,>=0.3.2 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.101.piqueserver.txt (line 5))
+  Obtaining dependency information for pygeoip<0.4,>=0.3.2 from https://files.pythonhosted.org/packages/f2/48/a3ce59694fa05605fee44273fe2d8b7e9df0d808cdf3914de1771b8986c4/pygeoip-0.3.2-py2.py3-none-any.whl.metadata
+  Downloading pygeoip-0.3.2-py2.py3-none-any.whl.metadata (592 bytes)
+Collecting pycrypto<2.7,>=2.6.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.101.piqueserver.txt (line 6))
+  Downloading pycrypto-2.6.1.tar.gz (446 kB)
+     ------------------------------------- 446.2/446.2 kB 14.1 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting pyasn1<0.2,>=0.1.9 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.101.piqueserver.txt (line 7))
+  Obtaining dependency information for pyasn1<0.2,>=0.1.9 from https://files.pythonhosted.org/packages/69/be/e8946f7867b84b0e61a613f6fd56f63266190b1a470f945178f7cbc4d0ae/pyasn1-0.1.9-py2.py3-none-any.whl.metadata
+  Downloading pyasn1-0.1.9-py2.py3-none-any.whl.metadata (1.1 kB)
+Collecting zope.interface<4.4,>=4.3.3 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.101.piqueserver.txt (line 8))
+  Downloading zope.interface-4.3.3.tar.gz (150 kB)
+     -------------------------------------- 150.6/150.6 kB 4.5 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'error'
+  error: subprocess-exited-with-error
+  
+  Getting requirements to build wheel did not run successfully.
+  exit code: 1
+  
+  [20 lines of output]
+  Traceback (most recent call last):
+    File "D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 353, in <module>
+      main()
+    File "D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 335, in main
+      json_out['return_val'] = hook(**hook_input['kwargs'])
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 118, in get_requires_for_build_wheel
+      return hook(config_settings)
+             ^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-iza38nof\overlay\Lib\site-packages\setuptools\build_meta.py", line 327, in get_requires_for_build_wheel
+      return self._get_build_requires(config_settings, requirements=[])
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-iza38nof\overlay\Lib\site-packages\setuptools\build_meta.py", line 297, in _get_build_requires
+      self.run_setup()
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-iza38nof\overlay\Lib\site-packages\setuptools\build_meta.py", line 497, in run_setup
+      super().run_setup(setup_script=setup_script)
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-iza38nof\overlay\Lib\site-packages\setuptools\build_meta.py", line 313, in run_setup
+      exec(code, locals())
+    File "<string>", line 26, in <module>
+  ImportError: cannot import name 'Feature' from 'setuptools' (C:\Users\ASUS\AppData\Local\Temp\pip-build-env-iza38nof\overlay\Lib\site-packages\setuptools\__init__.py)
+  [end of output]
+  
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+error: subprocess-exited-with-error
+
+Getting requirements to build wheel did not run successfully.
+exit code: 1
+
+See above for output.
+
+note: This error originates from a subprocess, and is likely not a problem with pip.
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: python.exe -m pip install --upgrade pip

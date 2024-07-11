@@ -1,0 +1,13 @@
+Collecting bcbio-nextgen==1.0.2 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.195.bcbio-nextgen.txt (line 1))
+  Downloading bcbio-nextgen-1.0.2.tar.gz (485 kB)
+     -------------------------------------- 485.6/485.6 kB 2.5 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Would install bcbio-nextgen-1.0.2
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: python.exe -m pip install --upgrade pip

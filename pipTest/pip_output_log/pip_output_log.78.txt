@@ -1,0 +1,30 @@
+Collecting fusepy==2.0.2 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTestCopy/watchman\requirements.78.gitfs.txt (line 1))
+  Downloading fusepy-2.0.2.tar.gz (9.1 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'error'
+  error: subprocess-exited-with-error
+  
+  Getting requirements to build wheel did not run successfully.
+  exit code: 1
+  
+  [4 lines of output]
+  <string>:8: DeprecationWarning: lib2to3 package is deprecated and may not be able to parse Python 3.10+
+  C:\Users\ASUS\AppData\Local\Temp\pip-build-env-ouxxq4ml\overlay\Lib\site-packages\setuptools\_distutils\dist.py:268: UserWarning: Unknown distribution option: 'use_2to3_exclude_fixers'
+    warnings.warn(msg)
+  error in fusepy setup command: use_2to3 is invalid.
+  [end of output]
+  
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+error: subprocess-exited-with-error
+
+Getting requirements to build wheel did not run successfully.
+exit code: 1
+
+See above for output.
+
+note: This error originates from a subprocess, and is likely not a problem with pip.
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

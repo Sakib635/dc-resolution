@@ -1,0 +1,121 @@
+Collecting appdirs==1.4.3 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.204.crossbar.txt (line 1))
+  Obtaining dependency information for appdirs==1.4.3 from https://files.pythonhosted.org/packages/56/eb/810e700ed1349edde4cbdc1b2a21e28cdf115f9faf263f6bbf8447c1abf3/appdirs-1.4.3-py2.py3-none-any.whl.metadata
+  Downloading appdirs-1.4.3-py2.py3-none-any.whl.metadata (8.8 kB)
+Collecting argh==0.26.2 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.204.crossbar.txt (line 2))
+  Obtaining dependency information for argh==0.26.2 from https://files.pythonhosted.org/packages/06/1c/e667a7126f0b84aaa1c56844337bf0ac12445d1beb9c8a6199a7314944bf/argh-0.26.2-py2.py3-none-any.whl.metadata
+  Downloading argh-0.26.2-py2.py3-none-any.whl.metadata (8.6 kB)
+Collecting argon2-cffi==19.1.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.204.crossbar.txt (line 3))
+  Downloading argon2_cffi-19.1.0.tar.gz (1.8 MB)
+     ---------------------------------------- 1.8/1.8 MB 8.9 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting asn1crypto==0.24.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.204.crossbar.txt (line 4))
+  Obtaining dependency information for asn1crypto==0.24.0 from https://files.pythonhosted.org/packages/ea/cd/35485615f45f30a510576f1a56d1e0a7ad7bd8ab5ed7cdc600ef7cd06222/asn1crypto-0.24.0-py2.py3-none-any.whl.metadata
+  Downloading asn1crypto-0.24.0-py2.py3-none-any.whl.metadata (1.1 kB)
+Collecting attrs==19.1.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.204.crossbar.txt (line 5))
+  Obtaining dependency information for attrs==19.1.0 from https://files.pythonhosted.org/packages/23/96/d828354fa2dbdf216eaa7b7de0db692f12c234f7ef888cc14980ef40d1d2/attrs-19.1.0-py2.py3-none-any.whl.metadata
+  Downloading attrs-19.1.0-py2.py3-none-any.whl.metadata (10 kB)
+Collecting autobahn==19.5.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.204.crossbar.txt (line 6))
+  Obtaining dependency information for autobahn==19.5.1 from https://files.pythonhosted.org/packages/92/5c/3b6605bd1c3bcd94b6d59182a53cc551f2077895c1720888e6b2cf855df6/autobahn-19.5.1-py2.py3-none-any.whl.metadata
+  Downloading autobahn-19.5.1-py2.py3-none-any.whl.metadata (13 kB)
+Collecting Automat==0.7.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.204.crossbar.txt (line 7))
+  Obtaining dependency information for Automat==0.7.0 from https://files.pythonhosted.org/packages/a3/86/14c16bb98a5a3542ed8fed5d74fb064a902de3bdd98d6584b34553353c45/Automat-0.7.0-py2.py3-none-any.whl.metadata
+  Downloading Automat-0.7.0-py2.py3-none-any.whl.metadata (17 kB)
+Collecting bcrypt==3.1.6 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.204.crossbar.txt (line 8))
+  Downloading bcrypt-3.1.6.tar.gz (42 kB)
+     ---------------------------------------- 42.2/42.2 kB ? eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting bitstring==3.1.5 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.204.crossbar.txt (line 9))
+  Downloading bitstring-3.1.5.zip (624 kB)
+     ------------------------------------- 624.4/624.4 kB 19.8 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting cbor==1.0.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.204.crossbar.txt (line 10))
+  Downloading cbor-1.0.0.tar.gz (20 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting cbor2==4.1.2 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.204.crossbar.txt (line 11))
+  Obtaining dependency information for cbor2==4.1.2 from https://files.pythonhosted.org/packages/21/b4/0d4050c576476bcf3b3e18f9afb2b338325279ce0efc0ddca6557adb0e6a/cbor2-4.1.2-py2.py3-none-any.whl.metadata
+  Downloading cbor2-4.1.2-py2.py3-none-any.whl.metadata (2.1 kB)
+Collecting certifi==2019.3.9 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.204.crossbar.txt (line 12))
+  Obtaining dependency information for certifi==2019.3.9 from https://files.pythonhosted.org/packages/60/75/f692a584e85b7eaba0e03827b3d51f45f571c2e793dd731e598828d380aa/certifi-2019.3.9-py2.py3-none-any.whl.metadata
+  Downloading certifi-2019.3.9-py2.py3-none-any.whl.metadata (2.5 kB)
+Collecting cffi==1.12.3 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.204.crossbar.txt (line 13))
+  Downloading cffi-1.12.3.tar.gz (456 kB)
+     ------------------------------------- 456.3/456.3 kB 14.4 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'error'
+  error: subprocess-exited-with-error
+  
+  Getting requirements to build wheel did not run successfully.
+  exit code: 1
+  
+  [35 lines of output]
+  Traceback (most recent call last):
+    File "D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 353, in <module>
+      main()
+    File "D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 335, in main
+      json_out['return_val'] = hook(**hook_input['kwargs'])
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 118, in get_requires_for_build_wheel
+      return hook(config_settings)
+             ^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-h0xzh983\overlay\Lib\site-packages\setuptools\build_meta.py", line 327, in get_requires_for_build_wheel
+      return self._get_build_requires(config_settings, requirements=[])
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-h0xzh983\overlay\Lib\site-packages\setuptools\build_meta.py", line 297, in _get_build_requires
+      self.run_setup()
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-h0xzh983\overlay\Lib\site-packages\setuptools\build_meta.py", line 497, in run_setup
+      super().run_setup(setup_script=setup_script)
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-h0xzh983\overlay\Lib\site-packages\setuptools\build_meta.py", line 313, in run_setup
+      exec(code, locals())
+    File "<string>", line 127, in <module>
+    File "<string>", line 105, in uses_msvc
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-h0xzh983\overlay\Lib\site-packages\setuptools\_distutils\command\config.py", line 220, in try_compile
+      self._compile(body, headers, include_dirs, lang)
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-h0xzh983\overlay\Lib\site-packages\setuptools\_distutils\command\config.py", line 132, in _compile
+      self.compiler.compile([src], include_dirs=include_dirs)
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-h0xzh983\overlay\Lib\site-packages\setuptools\_distutils\_msvccompiler.py", line 343, in compile
+      self.initialize()
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-h0xzh983\overlay\Lib\site-packages\setuptools\_distutils\_msvccompiler.py", line 253, in initialize
+      vc_env = _get_vc_env(plat_spec)
+               ^^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-h0xzh983\overlay\Lib\site-packages\setuptools\msvc.py", line 232, in msvc14_get_vc_env
+      return _msvc14_get_vc_env(plat_spec)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-h0xzh983\overlay\Lib\site-packages\setuptools\msvc.py", line 189, in _msvc14_get_vc_env
+      raise distutils.errors.DistutilsPlatformError("Unable to find vcvarsall.bat")
+  distutils.errors.DistutilsPlatformError: Microsoft Visual C++ 14.0 or greater is required. Get it with "Microsoft C++ Build Tools": https://visualstudio.microsoft.com/visual-cpp-build-tools/
+  [end of output]
+  
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+error: subprocess-exited-with-error
+
+Getting requirements to build wheel did not run successfully.
+exit code: 1
+
+See above for output.
+
+note: This error originates from a subprocess, and is likely not a problem with pip.
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: python.exe -m pip install --upgrade pip

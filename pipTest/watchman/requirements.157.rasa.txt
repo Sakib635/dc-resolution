@@ -1,0 +1,17 @@
+pathlib
+cloudpickle
+gevent
+klein
+boto3
+packaging
+typing
+future
+six
+tqdm
+requests
+jsonschema
+matplotlib>=2.0,<2.1
+numpy>=1.13
+simplejson
+pyyaml
+coloredlogs

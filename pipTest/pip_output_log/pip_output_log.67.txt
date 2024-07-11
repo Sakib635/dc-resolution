@@ -1,0 +1,61 @@
+Collecting numpy==1.11.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTestCopy/watchman\requirements.67.ngraph-python.txt (line 1))
+  Downloading numpy-1.11.1.zip (4.7 MB)
+     ---------------------------------------- 4.7/4.7 MB 8.3 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'error'
+  error: subprocess-exited-with-error
+  
+  Preparing metadata (pyproject.toml) did not run successfully.
+  exit code: 1
+  
+  [32 lines of output]
+  Running from numpy source directory.
+  <string>:327: UserWarning: Unrecognized setuptools command, proceeding with generating Cython sources and expanding templates
+  C:\Users\ASUS\AppData\Local\Temp\pip-install-grwr1rx_\numpy_a2130a1733e64df88b973db62fe7ac26\numpy\distutils\misc_util.py:1881: SyntaxWarning: invalid escape sequence '\_'
+    """Try to get version string of a package.
+  C:\Users\ASUS\AppData\Local\Temp\pip-install-grwr1rx_\numpy_a2130a1733e64df88b973db62fe7ac26\numpy\distutils\misc_util.py:452: SyntaxWarning: "is" with 'str' literal. Did you mean "=="?
+    return is_string(s) and ('*' in s or '?' is s)
+  Traceback (most recent call last):
+    File "D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 353, in <module>
+      main()
+    File "D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 335, in main
+      json_out['return_val'] = hook(**hook_input['kwargs'])
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 149, in prepare_metadata_for_build_wheel
+      return hook(metadata_directory, config_settings)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-9reg4tjb\overlay\Lib\site-packages\setuptools\build_meta.py", line 368, in prepare_metadata_for_build_wheel
+      self.run_setup()
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-9reg4tjb\overlay\Lib\site-packages\setuptools\build_meta.py", line 497, in run_setup
+      super().run_setup(setup_script=setup_script)
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-9reg4tjb\overlay\Lib\site-packages\setuptools\build_meta.py", line 313, in run_setup
+      exec(code, locals())
+    File "<string>", line 386, in <module>
+    File "<string>", line 365, in setup_package
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-install-grwr1rx_\numpy_a2130a1733e64df88b973db62fe7ac26\numpy\distutils\__init__.py", line 8, in <module>
+      from . import ccompiler
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-install-grwr1rx_\numpy_a2130a1733e64df88b973db62fe7ac26\numpy\distutils\ccompiler.py", line 15, in <module>
+      from numpy.distutils import log
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-install-grwr1rx_\numpy_a2130a1733e64df88b973db62fe7ac26\numpy\distutils\log.py", line 13, in <module>
+      from numpy.distutils.misc_util import (red_text, default_text, cyan_text,
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-install-grwr1rx_\numpy_a2130a1733e64df88b973db62fe7ac26\numpy\distutils\misc_util.py", line 6, in <module>
+      import imp
+  ModuleNotFoundError: No module named 'imp'
+  [end of output]
+  
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+error: metadata-generation-failed
+
+Encountered error while generating package metadata.
+
+See above for output.
+
+note: This is an issue with the package mentioned above, not pip.
+hint: See above for details.
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

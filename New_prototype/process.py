@@ -1,27 +1,12 @@
 import os
 import json
-import re
 import time
-import logging
-
 from create_requirements import generate_requirements_txt, read_solution_file
 from dependency import fetch_direct_dependencies, fetch_transitive_dependencies
 from requirements import parse_requirements
 from smt import generate_smt_expression, smt_solver
-from z3 import (
-    Solver,
-    Or,
-    And,
-    Implies,
-    unsat,
-    sat,
-    String,
-    Not,
-    Optimize,
-    set_param,
-    Context,
-    Z3Exception,
-)
+from z3 import Context
+
 
 def read_requirements(directory):
 

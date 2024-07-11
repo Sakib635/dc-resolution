@@ -1,0 +1,77 @@
+Collecting requests (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.123.esgf-prepare.txt (line 1))
+  Obtaining dependency information for requests from https://files.pythonhosted.org/packages/f9/9b/335f9764261e915ed497fcdeb11df5dfd6f7bf257d4a6a2a686d80da4d54/requests-2.32.3-py3-none-any.whl.metadata
+  Downloading requests-2.32.3-py3-none-any.whl.metadata (4.6 kB)
+Collecting fuzzywuzzy (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.123.esgf-prepare.txt (line 2))
+  Obtaining dependency information for fuzzywuzzy from https://files.pythonhosted.org/packages/43/ff/74f23998ad2f93b945c0309f825be92e04e0348e062026998b5eefef4c33/fuzzywuzzy-0.18.0-py2.py3-none-any.whl.metadata
+  Downloading fuzzywuzzy-0.18.0-py2.py3-none-any.whl.metadata (4.9 kB)
+Collecting netCDF4 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.123.esgf-prepare.txt (line 3))
+  Obtaining dependency information for netCDF4 from https://files.pythonhosted.org/packages/e5/f4/f3766752af4e72b10421f4fd7cca765b6395f7a12acea9d91428ffac29a9/netCDF4-1.7.1.post1-cp312-cp312-win_amd64.whl.metadata
+  Downloading netCDF4-1.7.1.post1-cp312-cp312-win_amd64.whl.metadata (1.8 kB)
+Collecting lockfile (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.123.esgf-prepare.txt (line 4))
+  Obtaining dependency information for lockfile from https://files.pythonhosted.org/packages/c8/22/9460e311f340cb62d26a38c419b1381b8593b0bb6b5d1f056938b086d362/lockfile-0.12.2-py2.py3-none-any.whl.metadata
+  Downloading lockfile-0.12.2-py2.py3-none-any.whl.metadata (2.4 kB)
+Collecting hurry.filesize (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.123.esgf-prepare.txt (line 5))
+  Downloading hurry.filesize-0.9.tar.gz (2.8 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting treelib (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.123.esgf-prepare.txt (line 6))
+  Obtaining dependency information for treelib from https://files.pythonhosted.org/packages/74/93/0944bb5ade972a5ef2dd9211a20730081ed2833024239171807d7a9bd4b0/treelib-1.7.0-py3-none-any.whl.metadata
+  Downloading treelib-1.7.0-py3-none-any.whl.metadata (1.3 kB)
+Collecting esgconfigparser (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.123.esgf-prepare.txt (line 7))
+  Downloading ESGConfigParser-0.1.17.tar.gz (7.5 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'error'
+  error: subprocess-exited-with-error
+  
+  Getting requirements to build wheel did not run successfully.
+  exit code: 1
+  
+  [28 lines of output]
+  C:\Users\ASUS\AppData\Local\Temp\pip-install-rf8m7wt1\esgconfigparser_a0e6e650ec98418e986317ff02e96d94\ESGConfigParser\__init__.py:206: SyntaxWarning: invalid escape sequence '\.'
+    pattern = pattern.replace('\.', '__ESCAPE_DOT__')
+  C:\Users\ASUS\AppData\Local\Temp\pip-install-rf8m7wt1\esgconfigparser_a0e6e650ec98418e986317ff02e96d94\ESGConfigParser\__init__.py:226: SyntaxWarning: invalid escape sequence '\d'
+    pattern = '{}{}(?P<version>v[\d]+|latest)$'.format(pattern, sep)
+  C:\Users\ASUS\AppData\Local\Temp\pip-install-rf8m7wt1\esgconfigparser_a0e6e650ec98418e986317ff02e96d94\ESGConfigParser\__init__.py:229: SyntaxWarning: invalid escape sequence '\w'
+    pattern = '{}{}(?P<filename>[\w.-]+)$'.format(pattern, sep)
+  Traceback (most recent call last):
+    File "D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 353, in <module>
+      main()
+    File "D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 335, in main
+      json_out['return_val'] = hook(**hook_input['kwargs'])
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 118, in get_requires_for_build_wheel
+      return hook(config_settings)
+             ^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-76nlobbp\overlay\Lib\site-packages\setuptools\build_meta.py", line 327, in get_requires_for_build_wheel
+      return self._get_build_requires(config_settings, requirements=[])
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-76nlobbp\overlay\Lib\site-packages\setuptools\build_meta.py", line 297, in _get_build_requires
+      self.run_setup()
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-76nlobbp\overlay\Lib\site-packages\setuptools\build_meta.py", line 497, in run_setup
+      super().run_setup(setup_script=setup_script)
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-76nlobbp\overlay\Lib\site-packages\setuptools\build_meta.py", line 313, in run_setup
+      exec(code, locals())
+    File "<string>", line 6, in <module>
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-install-rf8m7wt1\esgconfigparser_a0e6e650ec98418e986317ff02e96d94\ESGConfigParser\__init__.py", line 13, in <module>
+      from ConfigParser import ConfigParser, _Chainmap, DEFAULTSECT, MAX_INTERPOLATION_DEPTH
+  ModuleNotFoundError: No module named 'ConfigParser'
+  [end of output]
+  
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+error: subprocess-exited-with-error
+
+Getting requirements to build wheel did not run successfully.
+exit code: 1
+
+See above for output.
+
+note: This error originates from a subprocess, and is likely not a problem with pip.
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: python.exe -m pip install --upgrade pip

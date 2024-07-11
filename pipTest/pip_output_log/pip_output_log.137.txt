@@ -1,0 +1,333 @@
+Collecting Django>=1.11 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.137.channels.txt (line 1))
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/b7/fc/bff93df9b0bc23d66411cc54e7cd10195b81d61d25591317038d9823e99e/Django-5.0.7-py3-none-any.whl.metadata
+  Downloading Django-5.0.7-py3-none-any.whl.metadata (4.1 kB)
+Collecting asgiref~=2.3 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.137.channels.txt (line 2))
+  Obtaining dependency information for asgiref~=2.3 from https://files.pythonhosted.org/packages/6a/ca/c141dc77da60230e393d33b5b29afbca718b7e6ce07921c42cf08af907f8/asgiref-2.3.2-py2.py3-none-any.whl.metadata
+  Downloading asgiref-2.3.2-py2.py3-none-any.whl.metadata (4.3 kB)
+Collecting daphne~=2.2 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.137.channels.txt (line 3))
+  Obtaining dependency information for daphne~=2.2 from https://files.pythonhosted.org/packages/0e/ab/12d731a6ca89e523405341d0074e279eb1f744fd4f6a50cb75cfd5149762/daphne-2.5.0-py2.py3-none-any.whl.metadata
+  Downloading daphne-2.5.0-py2.py3-none-any.whl.metadata (6.6 kB)
+INFO: pip is looking at multiple versions of django to determine which version is compatible with other requirements. This could take a while.
+Collecting Django>=1.11 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.137.channels.txt (line 1))
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/1d/23/02f3795a71196019bcfec4c67890a6369e43b023474154fa0b2b7060346d/Django-5.0.6-py3-none-any.whl.metadata
+  Downloading Django-5.0.6-py3-none-any.whl.metadata (4.1 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/d3/31/32ce7eb77accc1678054fe951228766b47f9ec7d68d96d1caaa2611cbafe/Django-5.0.4-py3-none-any.whl.metadata
+  Downloading Django-5.0.4-py3-none-any.whl.metadata (4.1 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/9c/5b/eed82065c5d938b17c4b7304ab5ebe762c7a5a7eaa8a10ab35541580d79a/Django-5.0.3-py3-none-any.whl.metadata
+  Downloading Django-5.0.3-py3-none-any.whl.metadata (4.2 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/50/1b/7536019fd20654919dcd81b475fee1e54f21bd71b2b4e094b2ab075478b2/Django-5.0.2-py3-none-any.whl.metadata
+  Downloading Django-5.0.2-py3-none-any.whl.metadata (4.1 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/97/67/6804ff6fc4fa6df188924412601cc418ddc2d0a500963b0801a97b7ec08a/Django-5.0.1-py3-none-any.whl.metadata
+  Downloading Django-5.0.1-py3-none-any.whl.metadata (4.2 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/ba/c7/61b02c0ef9e129080a8c2bffefb3cb2b9ddddece4c44dc473c1c4f0647c1/Django-5.0-py3-none-any.whl.metadata
+  Downloading Django-5.0-py3-none-any.whl.metadata (4.1 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/70/be/04a395243beed12454c0b9652686f9e8abf11d57ba23213e5bcabdceb7a6/Django-4.2.14-py3-none-any.whl.metadata
+  Downloading Django-4.2.14-py3-none-any.whl.metadata (4.1 kB)
+INFO: pip is still looking at multiple versions of django to determine which version is compatible with other requirements. This could take a while.
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/21/b3/7b72ea66fa18c3e4c9b686fc2fe65b675c37a64574add5d6cfaeb1e06a28/Django-4.2.13-py3-none-any.whl.metadata
+  Downloading Django-4.2.13-py3-none-any.whl.metadata (4.1 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/a1/b9/5adf3f78e4c7b762eb6f1140057bd128c978c3f85c08e412f951aef65f9e/Django-4.2.11-py3-none-any.whl.metadata
+  Downloading Django-4.2.11-py3-none-any.whl.metadata (4.2 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/20/8c/498ce1ac30228f3bc36d4d427fe10268bd01e6f0361ead6c60b2b255c6b6/Django-4.2.10-py3-none-any.whl.metadata
+  Downloading Django-4.2.10-py3-none-any.whl.metadata (4.1 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/59/7c/e11e300ed554f8626b75eae9bb8f450f830daefb8b40681873ab54d9eaa8/Django-4.2.9-py3-none-any.whl.metadata
+  Downloading Django-4.2.9-py3-none-any.whl.metadata (4.2 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/8a/79/7f45e9c129c3cd8e4d54806649efeb1db9c223c54a1c54b30511d246bc60/Django-4.2.8-py3-none-any.whl.metadata
+  Downloading Django-4.2.8-py3-none-any.whl.metadata (4.2 kB)
+INFO: This is taking longer than usual. You might need to provide the dependency resolver with stricter constraints to reduce runtime. See https://pip.pypa.io/warnings/backtracking for guidance. If you want to abort this run, press Ctrl + C.
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/2d/6d/e87236e3c7b2f5911d132034177aebb605f3953910cc429df8061b13bf10/Django-4.2.7-py3-none-any.whl.metadata
+  Downloading Django-4.2.7-py3-none-any.whl.metadata (4.1 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/b9/45/707dfc56f381222c1c798503546cb390934ab246fc45b5051ef66e31099c/Django-4.2.6-py3-none-any.whl.metadata
+  Downloading Django-4.2.6-py3-none-any.whl.metadata (4.1 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/bf/8b/c38f2354b6093d9ba310a14b43a830fdf776edd60c2e25c7c5f4d23cc243/Django-4.2.5-py3-none-any.whl.metadata
+  Downloading Django-4.2.5-py3-none-any.whl.metadata (4.1 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/7f/9e/fc6bab255ae10bc57fa2f65646eace3d5405fbb7f5678b90140052d1db0f/Django-4.2.4-py3-none-any.whl.metadata
+  Downloading Django-4.2.4-py3-none-any.whl.metadata (4.1 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/d4/83/227ebf197e413f3599cea96dddc7d6b8ff220310cc5b40dd0f1a15e5a9d1/Django-4.2.3-py3-none-any.whl.metadata
+  Downloading Django-4.2.3-py3-none-any.whl.metadata (4.1 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/ba/f3/7a66888bda4017198a692887bd566123732783073c1fd424db15358525fd/Django-4.2.2-py3-none-any.whl.metadata
+  Downloading Django-4.2.2-py3-none-any.whl.metadata (4.1 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/12/13/78e8622180f101e95297965045ff1325ea7301c1b80f756debbeaa84c3be/Django-4.2.1-py3-none-any.whl.metadata
+  Downloading Django-4.2.1-py3-none-any.whl.metadata (4.1 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/d9/40/6012f98b14b64b4d3dc47b0c2f116fccbd0795ab35515d0c40dac73b81b8/Django-4.2-py3-none-any.whl.metadata
+  Downloading Django-4.2-py3-none-any.whl.metadata (4.1 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/ad/ac/203ce7fd2e03fb0392e0a6160f4b27d0d1efe1614cb65f1d29e6bbf2ef69/Django-4.1.13-py3-none-any.whl.metadata
+  Downloading Django-4.1.13-py3-none-any.whl.metadata (4.1 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/0d/c7/cfdf590422a0f7a6a6ae6a4cbb2721456141662af4b203f583286f0dcd62/Django-4.1.12-py3-none-any.whl.metadata
+  Downloading Django-4.1.12-py3-none-any.whl.metadata (4.1 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/38/9f/144a9293f86886f2e85c9bd981c8c28597fd15b1a59431db1921e7c1938b/Django-4.1.11-py3-none-any.whl.metadata
+  Downloading Django-4.1.11-py3-none-any.whl.metadata (4.1 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/34/25/8a218de57fc9853297a1a8e4927688eff8107d5bc6dcf6c964c59801f036/Django-4.1.10-py3-none-any.whl.metadata
+  Downloading Django-4.1.10-py3-none-any.whl.metadata (4.1 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/7e/4c/cbdaa1488ae5207e6eab912ff0d23f5d786676efbb55f21e7f3cfe98055a/Django-4.1.9-py3-none-any.whl.metadata
+  Downloading Django-4.1.9-py3-none-any.whl.metadata (4.1 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/bb/32/80134d57b584ed8b03e9a52da5860b8ac7d1210431ac25d8d83389006edc/Django-4.1.8-py3-none-any.whl.metadata
+  Downloading Django-4.1.8-py3-none-any.whl.metadata (4.1 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/89/86/59e237f7176cfc1544446914fa329fd560bb8fce46be52dd7af5dc7c54f9/Django-4.1.7-py3-none-any.whl.metadata
+  Downloading Django-4.1.7-py3-none-any.whl.metadata (4.1 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/5c/be/8800ef92dbe66017e78fb9589e16333e0a87f67068485dbfb8114a883b67/Django-4.1.6-py3-none-any.whl.metadata
+  Downloading Django-4.1.6-py3-none-any.whl.metadata (4.1 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/2d/ac/9f013a51e6008ba94a282c15778a3ea51a0953f6711a77f9baa471fd1b1d/Django-4.1.5-py3-none-any.whl.metadata
+  Downloading Django-4.1.5-py3-none-any.whl.metadata (4.1 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/21/26/28895838228c46ece278d764720995d5a51e4bce7d02d2a54e70f59108e1/Django-4.1.4-py3-none-any.whl.metadata
+  Downloading Django-4.1.4-py3-none-any.whl.metadata (4.1 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/4f/be/cd28514516e66c40b87e487be68cf61a1637bd3ec60a2db90bb5075a2df5/Django-4.1.3-py3-none-any.whl.metadata
+  Downloading Django-4.1.3-py3-none-any.whl.metadata (4.0 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/91/02/786ced9f0b9980670f46f7563f9c5494a24e3dd1920cc7be6cc7ac377389/Django-4.1.2-py3-none-any.whl.metadata
+  Downloading Django-4.1.2-py3-none-any.whl.metadata (4.0 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/80/5c/884f9fed747679a1f70321465e664f3dc1602e8b7a6e96a21163894018b3/Django-4.1.1-py3-none-any.whl.metadata
+  Downloading Django-4.1.1-py3-none-any.whl.metadata (4.0 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/9b/41/e1e7d6ecc3bc76681dfdc6b373566822bc2aab96fa3eceaaed70accc28b6/Django-4.1-py3-none-any.whl.metadata
+  Downloading Django-4.1-py3-none-any.whl.metadata (4.0 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/60/f0/b7322879f851bcf939c97310e4e42f223105a7cb0f123c62553a05f132c4/Django-4.0.10-py3-none-any.whl.metadata
+  Downloading Django-4.0.10-py3-none-any.whl.metadata (4.1 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/0f/8a/65b639fcf107cb77ef759ae540a53dc5c38496673c0b2884635c726ad23f/Django-4.0.9-py3-none-any.whl.metadata
+  Downloading Django-4.0.9-py3-none-any.whl.metadata (4.0 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/e1/d0/d90528978da16288d470bb423abad307ed7ae724090132ff6bf67d6a5579/Django-4.0.8-py3-none-any.whl.metadata
+  Downloading Django-4.0.8-py3-none-any.whl.metadata (4.0 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/e3/41/9c6d5fe4e4ee6204ecf0cb96d843cca06be59b702d66afe5cf810508575e/Django-4.0.7-py3-none-any.whl.metadata
+  Downloading Django-4.0.7-py3-none-any.whl.metadata (4.0 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/12/97/e341b13d605a9d0732a37975ce6bfae643c296721b8644f42d5d720c99bf/Django-4.0.6-py3-none-any.whl.metadata
+  Downloading Django-4.0.6-py3-none-any.whl.metadata (4.0 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/ec/71/950794da9635865d27c92a6955083264eabb004c2c12c077036194620823/Django-4.0.5-py3-none-any.whl.metadata
+  Downloading Django-4.0.5-py3-none-any.whl.metadata (4.0 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/66/90/bce00eb942fbc47b0774ac78910ee4e6f719572aad56dc238823e5d0ee54/Django-4.0.4-py3-none-any.whl.metadata
+  Downloading Django-4.0.4-py3-none-any.whl.metadata (4.0 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/1a/80/b06ce333aabba7ab1b6a41ea3c4e46970ceb396e705733480a2d47a7f74b/Django-4.0.3-py3-none-any.whl.metadata
+  Downloading Django-4.0.3-py3-none-any.whl.metadata (4.0 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/5d/2f/4705e8f2848f4523bb1b94b0dd9b425431aa1875c0921fb86777e62b4335/Django-4.0.2-py3-none-any.whl.metadata
+  Downloading Django-4.0.2-py3-none-any.whl.metadata (4.0 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/67/ec/20e5e4a29a7aef4ba7d2b3c24aac875e3bdf6c7d4de7d73db12282f15e22/Django-4.0.1-py3-none-any.whl.metadata
+  Downloading Django-4.0.1-py3-none-any.whl.metadata (4.0 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/80/70/52fce3520b7a1421685828b04f76d5a26aabc7603fdb7af26c4ca7bb0512/Django-4.0-py3-none-any.whl.metadata
+  Downloading Django-4.0-py3-none-any.whl.metadata (4.0 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/30/8e/cc23c762c5dcd1d367d73cf006a326e0df2bd0e785cba18b658b39904c1e/Django-3.2.25-py3-none-any.whl.metadata
+  Downloading Django-3.2.25-py3-none-any.whl.metadata (4.1 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/34/e5/42d59f93804c142b6ef535b83c620ea51bbe8cc3c9c68c627f5ee5b1ce26/Django-3.2.24-py3-none-any.whl.metadata
+  Downloading Django-3.2.24-py3-none-any.whl.metadata (4.0 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/c9/69/72663af69f1a70fa186813220c8ec5ce7f9056b6d987077e2c38ed794bee/Django-3.2.23-py3-none-any.whl.metadata
+  Downloading Django-3.2.23-py3-none-any.whl.metadata (4.1 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/1b/29/13d5f2a5de460b66a92e4e99b0e2ceb9f3e619da70e51772981268524e0d/Django-3.2.22-py3-none-any.whl.metadata
+  Downloading Django-3.2.22-py3-none-any.whl.metadata (4.0 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/97/8d/03ac2f7a3f751f597be12c03a09147f9ca80906264044bb05758bbcc2b32/Django-3.2.21-py3-none-any.whl.metadata
+  Downloading Django-3.2.21-py3-none-any.whl.metadata (4.1 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/84/eb/5329ae72bf26b91844985d0de74e4edf876e3ca409d085820f230eea2eba/Django-3.2.20-py3-none-any.whl.metadata
+  Downloading Django-3.2.20-py3-none-any.whl.metadata (4.1 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/22/af/979a4c610e727cc936c3db3d48cfcb3c270e106ff919f23fc1a27870ba00/Django-3.2.19-py3-none-any.whl.metadata
+  Downloading Django-3.2.19-py3-none-any.whl.metadata (4.1 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/57/12/da22535f809b8c06c8d58eaf236ec8683ffd4e1dc4eced175b174e6446fa/Django-3.2.18-py3-none-any.whl.metadata
+  Downloading Django-3.2.18-py3-none-any.whl.metadata (4.1 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/1f/2e/efaa4b1c7db4292715ecedd95b2221438d7a897132f652708d84e4587d59/Django-3.2.17-py3-none-any.whl.metadata
+  Downloading Django-3.2.17-py3-none-any.whl.metadata (4.1 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/8a/c4/f946a6b02fcbba84e56074f2fc36866433b009bea2528b09fe0bac4fe1aa/Django-3.2.16-py3-none-any.whl.metadata
+  Downloading Django-3.2.16-py3-none-any.whl.metadata (4.1 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/db/f9/9ddc8444397ed7e72c52f63b48ecc2849ae1ca4d621776399a81e501ee3c/Django-3.2.15-py3-none-any.whl.metadata
+  Downloading Django-3.2.15-py3-none-any.whl.metadata (4.1 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/c0/a8/4afc7742ad1e506909ce8c5056761f22c8a2db0a8b4a46cfa290b1cd6685/Django-3.2.14-py3-none-any.whl.metadata
+  Downloading Django-3.2.14-py3-none-any.whl.metadata (4.0 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/c3/68/b63abc009adee25c1bd266b3740e173eab656608cf21641594a37e02cf57/Django-3.2.13-py3-none-any.whl.metadata
+  Downloading Django-3.2.13-py3-none-any.whl.metadata (4.0 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/9c/0e/02b7eff8fac2c25ede489933d4e899f6e6f283ae8eaf5189431057c8d406/Django-3.2.12-py3-none-any.whl.metadata
+  Downloading Django-3.2.12-py3-none-any.whl.metadata (4.0 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/03/40/1ec2b4abb0c91f0c6195692a9f7a3709f1c0fe95258f3e4d8aa7d8dab92b/Django-3.2.11-py3-none-any.whl.metadata
+  Downloading Django-3.2.11-py3-none-any.whl.metadata (4.1 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/8f/9c/1ba2005b24cdb443eee5a43ebfa427f7915d6ed68f41484244ae21cd558f/Django-3.2.10-py3-none-any.whl.metadata
+  Downloading Django-3.2.10-py3-none-any.whl.metadata (4.0 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/a8/ca/e88eb097959c48cd313dfc4bc394699a48fe5c158ed3a64c13e4fa46c1fd/Django-3.2.9-py3-none-any.whl.metadata
+  Downloading Django-3.2.9-py3-none-any.whl.metadata (4.0 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/22/e6/7c6f9e682578550f748cc33dff04bf812fe0fb7d819fa094a4bb6d2dc2a1/Django-3.2.8-py3-none-any.whl.metadata
+  Downloading Django-3.2.8-py3-none-any.whl.metadata (3.9 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/27/1c/6fe40cdfdbbc8a0d7c211dde68777f1d435bde7879697d0bc20c73d136ac/Django-3.2.7-py3-none-any.whl.metadata
+  Downloading Django-3.2.7-py3-none-any.whl.metadata (3.9 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/d5/9b/3514fae1e9d0c71044739dca5ed55f50443bd1309548b63603712365e6e9/Django-3.2.6-py3-none-any.whl.metadata
+  Downloading Django-3.2.6-py3-none-any.whl.metadata (3.9 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/37/a1/790e01bf4348dd68090d47108052a8130954d473d54b4ea7924f5bb154de/Django-3.2.5-py3-none-any.whl.metadata
+  Downloading Django-3.2.5-py3-none-any.whl.metadata (3.9 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/70/22/ed1943c0ef2be99ade872f49a20aa4cfc70eb4ffc866fc61b128211f3e5d/Django-3.2.4-py3-none-any.whl.metadata
+  Downloading Django-3.2.4-py3-none-any.whl.metadata (3.9 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/89/69/c556b5b3e7a6701724485fc07c8349791e585b784dc70c9c0683d98ef0db/Django-3.2.3-py3-none-any.whl.metadata
+  Downloading Django-3.2.3-py3-none-any.whl.metadata (3.9 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/cf/91/e23103dd21fa1b5c1fefb65c4d403107b10bf450ee6955621169fcc86db9/Django-3.2.2-py3-none-any.whl.metadata
+  Downloading Django-3.2.2-py3-none-any.whl.metadata (3.9 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/12/cf/3eab33ab45e2ce93d5a7500c523f8a407ddcb71177759741c7bf514b7bbe/Django-3.2.1-py3-none-any.whl.metadata
+  Downloading Django-3.2.1-py3-none-any.whl.metadata (3.9 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/a8/9b/fe94c509e514f6c227308e81076506eb9d67f2bfb8061ce5cdfbde0432e3/Django-3.2-py3-none-any.whl.metadata
+  Downloading Django-3.2-py3-none-any.whl.metadata (3.9 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/6b/2e/b031dc0789840ebc108d4654c134e86a9f6593ce9c58ce39328c142b24b8/Django-3.1.14-py3-none-any.whl.metadata
+  Downloading Django-3.1.14-py3-none-any.whl.metadata (3.6 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/ba/52/6d9ff9141e2eca84c94e4939c2a7666096ee7c64ce57d8bc65aa0c95fa7a/Django-3.1.13-py3-none-any.whl.metadata
+  Downloading Django-3.1.13-py3-none-any.whl.metadata (3.6 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/4e/34/4fe787d20c5997a5ee246903791fd8ec2c4672f37ee7cbed1d75f7cf4065/Django-3.1.12-py3-none-any.whl.metadata
+  Downloading Django-3.1.12-py3-none-any.whl.metadata (3.6 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/58/7d/0bedb56dfe0e104b212d04f66176f7d2b315d1f929ce86899b4c5c16e467/Django-3.1.11-py3-none-any.whl.metadata
+  Downloading Django-3.1.11-py3-none-any.whl.metadata (3.7 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/6f/78/77e58e30f8e8528a244663ea8551f5a741c8b9fcbc6993935bd802c676d1/Django-3.1.10-py3-none-any.whl.metadata
+  Downloading Django-3.1.10-py3-none-any.whl.metadata (3.7 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/7a/4e/c6ec8e544eea36804c8795078df33aaca4932b7257188bd72124287372c4/Django-3.1.9-py3-none-any.whl.metadata
+  Downloading Django-3.1.9-py3-none-any.whl.metadata (3.7 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/67/90/f5dbec986deb4706e2baa957aaf9d547fe80d1f8f9a80f2878d22204b76e/Django-3.1.8-py3-none-any.whl.metadata
+  Downloading Django-3.1.8-py3-none-any.whl.metadata (3.7 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/b8/6f/9a4415cc4fe9228e26ea53cf2005961799b2abb8da0411e519fdb74754fa/Django-3.1.7-py3-none-any.whl.metadata
+  Downloading Django-3.1.7-py3-none-any.whl.metadata (3.7 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/75/42/f59a8ebf14be6d17438f13042c775f53d3dfa71fff973e4aef64ca89582c/Django-3.1.6-py3-none-any.whl.metadata
+  Downloading Django-3.1.6-py3-none-any.whl.metadata (3.7 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/b2/8f/d27f35f0639103271231bc81a96ad9188e6b5bc878e140ccb0dc610ccef0/Django-3.1.5-py3-none-any.whl.metadata
+  Downloading Django-3.1.5-py3-none-any.whl.metadata (3.7 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/08/c7/7ce40e5a5cb47ede081b9fa8a3dd93d101c884882ae34927967b0792f5fb/Django-3.1.4-py3-none-any.whl.metadata
+  Downloading Django-3.1.4-py3-none-any.whl.metadata (3.7 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/7f/17/16267e782a30ea2ce08a9a452c1db285afb0ff226cfe3753f484d3d65662/Django-3.1.3-py3-none-any.whl.metadata
+  Downloading Django-3.1.3-py3-none-any.whl.metadata (3.7 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/50/22/4c91847beceadbb54b5a518909ed5000bb1777168c7d6b087e8f79e5e05b/Django-3.1.2-py3-none-any.whl.metadata
+  Downloading Django-3.1.2-py3-none-any.whl.metadata (3.6 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/01/a5/fb3dad18422fcd4241d18460a1fe17542bfdeadcf74e3861d1a2dfc9e459/Django-3.1.1-py3-none-any.whl.metadata
+  Downloading Django-3.1.1-py3-none-any.whl.metadata (3.6 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/2b/5a/4bd5624546912082a1bd2709d0edc0685f5c7827a278d806a20cf6adea28/Django-3.1-py3-none-any.whl.metadata
+  Downloading Django-3.1-py3-none-any.whl.metadata (3.6 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/34/3b/393482eb369b3c50608b66feac8eabd4c5c15ae80468fb1eccc0b9c136a2/Django-3.0.14-py3-none-any.whl.metadata
+  Downloading Django-3.0.14-py3-none-any.whl.metadata (3.6 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/37/b8/8f1a4cc2a427108784cbd9202a33f08d5ef7dd2985fa4a0e8ed7213c72f5/Django-3.0.13-py3-none-any.whl.metadata
+  Downloading Django-3.0.13-py3-none-any.whl.metadata (3.6 kB)
+Collecting pytz (from Django>=1.11->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.137.channels.txt (line 1))
+  Obtaining dependency information for pytz from https://files.pythonhosted.org/packages/9c/3d/a121f284241f08268b21359bd425f7d4825cffc5ac5cd0e1b3d82ffd2b10/pytz-2024.1-py2.py3-none-any.whl.metadata
+  Downloading pytz-2024.1-py2.py3-none-any.whl.metadata (22 kB)
+Collecting sqlparse>=0.2.2 (from Django>=1.11->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.137.channels.txt (line 1))
+  Obtaining dependency information for sqlparse>=0.2.2 from https://files.pythonhosted.org/packages/43/5d/a0fdd88fd486b39ae1fd1a75ff75b4e29a0df96c0304d462fd407b82efe0/sqlparse-0.5.0-py3-none-any.whl.metadata
+  Downloading sqlparse-0.5.0-py3-none-any.whl.metadata (3.9 kB)
+Collecting Django>=1.11 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.137.channels.txt (line 1))
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/bd/42/712421cdd7f39e8b26e32021df9cecb94533b1892b2668c941a98e89af3c/Django-3.0.12-py3-none-any.whl.metadata
+  Downloading Django-3.0.12-py3-none-any.whl.metadata (3.6 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/20/65/c3bec6de30da7184a3632670a3ca9db305859a4db17e8bda42dee56f3245/Django-3.0.11-py3-none-any.whl.metadata
+  Downloading Django-3.0.11-py3-none-any.whl.metadata (3.6 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/38/86/42288adf01882693e00981524ee0c0a692c3358b81a9f835a0d7812b2190/Django-3.0.10-py3-none-any.whl.metadata
+  Downloading Django-3.0.10-py3-none-any.whl.metadata (3.6 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/87/dc/3f96196718beab06849f94f54ff20ffec78af8424c866c61cdced30fb1ce/Django-3.0.9-py3-none-any.whl.metadata
+  Downloading Django-3.0.9-py3-none-any.whl.metadata (3.6 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/ca/ab/5e004afa025a6fb640c6e983d4983e6507421ff01be224da79ab7de7a21f/Django-3.0.8-py3-none-any.whl.metadata
+  Downloading Django-3.0.8-py3-none-any.whl.metadata (3.6 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/5c/63/6d7efecbf3f06db8c6577950a24a191e55cadf7cda4d7fe6976206c886dd/Django-3.0.7-py3-none-any.whl.metadata
+  Downloading Django-3.0.7-py3-none-any.whl.metadata (3.6 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/9d/04/04abb097c84c770180eeebe7ed920ce42f9917ab5ad4de01ff8ed11bc25b/Django-3.0.6-py3-none-any.whl.metadata
+  Downloading Django-3.0.6-py3-none-any.whl.metadata (3.6 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/a9/4f/8a247eee2958529a6a805d38fbacd9764fd566462fa0016aa2a2947ab2a6/Django-3.0.5-py3-none-any.whl.metadata
+  Downloading Django-3.0.5-py3-none-any.whl.metadata (3.6 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/12/68/8c125da33aaf0942add5095a7a2a8e064b3812d598e9fb5aca9957872d71/Django-3.0.4-py3-none-any.whl.metadata
+  Downloading Django-3.0.4-py3-none-any.whl.metadata (3.6 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/c6/b7/63d23df1e311ca0d90f41352a9efe7389ba353df95deea5676652e615420/Django-3.0.3-py3-none-any.whl.metadata
+  Downloading Django-3.0.3-py3-none-any.whl.metadata (3.6 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/55/d1/8ade70e65fa157e1903fe4078305ca53b6819ab212d9fbbe5755afc8ea2e/Django-3.0.2-py3-none-any.whl.metadata
+  Downloading Django-3.0.2-py3-none-any.whl.metadata (3.6 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/6a/23/08f7fd7afdd24184a400fcaebf921bd09b5b5235cbd62ffa02308a7d35d6/Django-3.0.1-py3-none-any.whl.metadata
+  Downloading Django-3.0.1-py3-none-any.whl.metadata (3.6 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/43/d6/0aed0b12c66527748ce5a007da4618a65dfbe1f8fca82eccedf57d60295f/Django-3.0-py3-none-any.whl.metadata
+  Downloading Django-3.0-py3-none-any.whl.metadata (3.6 kB)
+  Obtaining dependency information for Django>=1.11 from https://files.pythonhosted.org/packages/43/69/eaac9a827335898d626066989865974fa48bfc23efd1b34628d64543b2d9/Django-2.2.28-py3-none-any.whl.metadata
+  Downloading Django-2.2.28-py3-none-any.whl.metadata (3.6 kB)
+Collecting async-timeout<4.0,>=2.0 (from asgiref~=2.3->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.137.channels.txt (line 2))
+  Obtaining dependency information for async-timeout<4.0,>=2.0 from https://files.pythonhosted.org/packages/e1/1e/5a4441be21b0726c4464f3f23c8b19628372f606755a9d2e46c187e65ec4/async_timeout-3.0.1-py3-none-any.whl.metadata
+  Downloading async_timeout-3.0.1-py3-none-any.whl.metadata (4.0 kB)
+Collecting twisted[tls]>=18.7 (from daphne~=2.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.137.channels.txt (line 3))
+  Obtaining dependency information for twisted[tls]>=18.7 from https://files.pythonhosted.org/packages/f8/f3/ff962a66ed957f4b51a669f25f6d0026a51dda1d25e3766a63d9a5aaf81e/twisted-24.3.0-py3-none-any.whl.metadata
+  Downloading twisted-24.3.0-py3-none-any.whl.metadata (9.5 kB)
+Collecting autobahn>=0.18 (from daphne~=2.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.137.channels.txt (line 3))
+  Downloading autobahn-23.6.2.tar.gz (480 kB)
+     -------------------------------------- 480.8/480.8 kB 6.0 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+INFO: pip is looking at multiple versions of daphne to determine which version is compatible with other requirements. This could take a while.
+Collecting daphne~=2.2 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.137.channels.txt (line 3))
+  Obtaining dependency information for daphne~=2.2 from https://files.pythonhosted.org/packages/3c/f6/2b5282e477379a106e095ca809b1e05a5581d3ee9d617b681714ae9ad294/daphne-2.4.1-py2.py3-none-any.whl.metadata
+  Downloading daphne-2.4.1-py2.py3-none-any.whl.metadata (6.6 kB)
+  Obtaining dependency information for daphne~=2.2 from https://files.pythonhosted.org/packages/a6/ec/557d4b731367a5687969eb3f30d9bf8499226436d4c37410ceba72667e16/daphne-2.4.0-py2.py3-none-any.whl.metadata
+  Downloading daphne-2.4.0-py2.py3-none-any.whl.metadata (6.6 kB)
+  Obtaining dependency information for daphne~=2.2 from https://files.pythonhosted.org/packages/43/2e/9b2498d30d7397a27aae5c67f194a9a002be406bdb5a1cb9699de9bb1878/daphne-2.3.0-py2.py3-none-any.whl.metadata
+  Downloading daphne-2.3.0-py2.py3-none-any.whl.metadata (6.6 kB)
+  Obtaining dependency information for daphne~=2.2 from https://files.pythonhosted.org/packages/12/db/cecc130407d073470812f9e2f66897aa81399fa819671c8cf7b16e84366d/daphne-2.2.5-py2.py3-none-any.whl.metadata
+  Downloading daphne-2.2.5-py2.py3-none-any.whl.metadata (6.5 kB)
+Collecting txaio>=21.2.1 (from autobahn>=0.18->daphne~=2.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.137.channels.txt (line 3))
+  Obtaining dependency information for txaio>=21.2.1 from https://files.pythonhosted.org/packages/7d/6c/a53cc9a97c2da76d9cd83c03f377468599a28f2d4ad9fc71c3b99640e71e/txaio-23.1.1-py2.py3-none-any.whl.metadata
+  Downloading txaio-23.1.1-py2.py3-none-any.whl.metadata (5.4 kB)
+Collecting cryptography>=3.4.6 (from autobahn>=0.18->daphne~=2.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.137.channels.txt (line 3))
+  Obtaining dependency information for cryptography>=3.4.6 from https://files.pythonhosted.org/packages/a2/7b/b0d330852dd5953daee6b15f742f15d9f18e9c0154eb4cfcc8718f0436da/cryptography-42.0.8-cp39-abi3-win_amd64.whl.metadata
+  Downloading cryptography-42.0.8-cp39-abi3-win_amd64.whl.metadata (5.4 kB)
+Collecting hyperlink>=21.0.0 (from autobahn>=0.18->daphne~=2.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.137.channels.txt (line 3))
+  Obtaining dependency information for hyperlink>=21.0.0 from https://files.pythonhosted.org/packages/6e/aa/8caf6a0a3e62863cbb9dab27135660acba46903b703e224f14f447e57934/hyperlink-21.0.0-py2.py3-none-any.whl.metadata
+  Downloading hyperlink-21.0.0-py2.py3-none-any.whl.metadata (1.5 kB)
+Collecting setuptools (from autobahn>=0.18->daphne~=2.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.137.channels.txt (line 3))
+  Obtaining dependency information for setuptools from https://files.pythonhosted.org/packages/ef/15/88e46eb9387e905704b69849618e699dc2f54407d8953cc4ec4b8b46528d/setuptools-70.3.0-py3-none-any.whl.metadata
+  Using cached setuptools-70.3.0-py3-none-any.whl.metadata (5.8 kB)
+Collecting attrs>=21.3.0 (from twisted[tls]>=18.7->daphne~=2.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.137.channels.txt (line 3))
+  Obtaining dependency information for attrs>=21.3.0 from https://files.pythonhosted.org/packages/e0/44/827b2a91a5816512fcaf3cc4ebc465ccd5d598c45cefa6703fcf4a79018f/attrs-23.2.0-py3-none-any.whl.metadata
+  Downloading attrs-23.2.0-py3-none-any.whl.metadata (9.5 kB)
+Collecting automat>=0.8.0 (from twisted[tls]>=18.7->daphne~=2.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.137.channels.txt (line 3))
+  Obtaining dependency information for automat>=0.8.0 from https://files.pythonhosted.org/packages/29/90/64aabce6c1b820395452cc5472b8f11cd98320f40941795b8069aef4e0e0/Automat-22.10.0-py2.py3-none-any.whl.metadata
+  Downloading Automat-22.10.0-py2.py3-none-any.whl.metadata (1.0 kB)
+Collecting constantly>=15.1 (from twisted[tls]>=18.7->daphne~=2.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.137.channels.txt (line 3))
+  Obtaining dependency information for constantly>=15.1 from https://files.pythonhosted.org/packages/b8/40/c199d095151addf69efdb4b9ca3a4f20f70e20508d6222bffb9b76f58573/constantly-23.10.4-py3-none-any.whl.metadata
+  Downloading constantly-23.10.4-py3-none-any.whl.metadata (1.8 kB)
+Collecting incremental>=22.10.0 (from twisted[tls]>=18.7->daphne~=2.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.137.channels.txt (line 3))
+  Obtaining dependency information for incremental>=22.10.0 from https://files.pythonhosted.org/packages/77/51/8073577012492fcd15628e811db585f447c500fa407e944ab3a18ec55fb7/incremental-22.10.0-py2.py3-none-any.whl.metadata
+  Downloading incremental-22.10.0-py2.py3-none-any.whl.metadata (6.0 kB)
+Collecting twisted-iocpsupport<2,>=1.0.2 (from twisted[tls]>=18.7->daphne~=2.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.137.channels.txt (line 3))
+  Obtaining dependency information for twisted-iocpsupport<2,>=1.0.2 from https://files.pythonhosted.org/packages/f3/9d/3813cd573dff68426e0ab0f9f47c7876dd9d98238e55aefa019c89c400b9/twisted_iocpsupport-1.0.4-cp312-cp312-win_amd64.whl.metadata
+  Downloading twisted_iocpsupport-1.0.4-cp312-cp312-win_amd64.whl.metadata (2.2 kB)
+Collecting typing-extensions>=4.2.0 (from twisted[tls]>=18.7->daphne~=2.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.137.channels.txt (line 3))
+  Obtaining dependency information for typing-extensions>=4.2.0 from https://files.pythonhosted.org/packages/26/9f/ad63fc0248c5379346306f8668cda6e2e2e9c95e01216d2b8ffd9ff037d0/typing_extensions-4.12.2-py3-none-any.whl.metadata
+  Downloading typing_extensions-4.12.2-py3-none-any.whl.metadata (3.0 kB)
+Collecting zope-interface>=5 (from twisted[tls]>=18.7->daphne~=2.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.137.channels.txt (line 3))
+  Obtaining dependency information for zope-interface>=5 from https://files.pythonhosted.org/packages/19/68/4a5bb890be19a934878b68acab8b09e93d34613cccb576026016bffb5de5/zope.interface-6.4.post2-cp312-cp312-win_amd64.whl.metadata
+  Downloading zope.interface-6.4.post2-cp312-cp312-win_amd64.whl.metadata (44 kB)
+     ---------------------------------------- 44.1/44.1 kB 2.1 MB/s eta 0:00:00
+Collecting six (from automat>=0.8.0->twisted[tls]>=18.7->daphne~=2.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.137.channels.txt (line 3))
+  Obtaining dependency information for six from https://files.pythonhosted.org/packages/d9/5a/e7c31adbe875f2abbb91bd84cf2dc52d792b5a01506781dbcf25c91daf11/six-1.16.0-py2.py3-none-any.whl.metadata
+  Downloading six-1.16.0-py2.py3-none-any.whl.metadata (1.8 kB)
+Collecting cffi>=1.12 (from cryptography>=3.4.6->autobahn>=0.18->daphne~=2.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.137.channels.txt (line 3))
+  Obtaining dependency information for cffi>=1.12 from https://files.pythonhosted.org/packages/e9/63/e285470a4880a4f36edabe4810057bd4b562c6ddcc165eacf9c3c7210b40/cffi-1.16.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading cffi-1.16.0-cp312-cp312-win_amd64.whl.metadata (1.5 kB)
+Collecting idna>=2.5 (from hyperlink>=21.0.0->autobahn>=0.18->daphne~=2.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.137.channels.txt (line 3))
+  Obtaining dependency information for idna>=2.5 from https://files.pythonhosted.org/packages/e5/3e/741d8c82801c347547f8a2a06aa57dbb1992be9e948df2ea0eda2c8b79e8/idna-3.7-py3-none-any.whl.metadata
+  Downloading idna-3.7-py3-none-any.whl.metadata (9.9 kB)
+Collecting pycparser (from cffi>=1.12->cryptography>=3.4.6->autobahn>=0.18->daphne~=2.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.137.channels.txt (line 3))
+  Obtaining dependency information for pycparser from https://files.pythonhosted.org/packages/13/a3/a812df4e2dd5696d1f351d58b8fe16a405b234ad2886a0dab9183fb78109/pycparser-2.22-py3-none-any.whl.metadata
+  Downloading pycparser-2.22-py3-none-any.whl.metadata (943 bytes)
+Downloading Django-2.2.28-py3-none-any.whl (7.5 MB)
+   ---------------------------------------- 7.5/7.5 MB 11.4 MB/s eta 0:00:00
+Downloading asgiref-2.3.2-py2.py3-none-any.whl (9.3 kB)
+Downloading daphne-2.2.5-py2.py3-none-any.whl (25 kB)
+Downloading async_timeout-3.0.1-py3-none-any.whl (8.2 kB)
+Downloading sqlparse-0.5.0-py3-none-any.whl (43 kB)
+   ---------------------------------------- 44.0/44.0 kB ? eta 0:00:00
+Downloading twisted-24.3.0-py3-none-any.whl (3.2 MB)
+   ---------------------------------------- 3.2/3.2 MB 25.2 MB/s eta 0:00:00
+Downloading pytz-2024.1-py2.py3-none-any.whl (505 kB)
+   --------------------------------------- 505.5/505.5 kB 16.0 MB/s eta 0:00:00
+Downloading attrs-23.2.0-py3-none-any.whl (60 kB)
+   ---------------------------------------- 60.8/60.8 kB ? eta 0:00:00
+Downloading Automat-22.10.0-py2.py3-none-any.whl (26 kB)
+Downloading constantly-23.10.4-py3-none-any.whl (13 kB)
+Downloading cryptography-42.0.8-cp39-abi3-win_amd64.whl (2.9 MB)
+   ---------------------------------------- 2.9/2.9 MB 20.5 MB/s eta 0:00:00
+Downloading hyperlink-21.0.0-py2.py3-none-any.whl (74 kB)
+   ---------------------------------------- 74.6/74.6 kB 4.3 MB/s eta 0:00:00
+Downloading incremental-22.10.0-py2.py3-none-any.whl (16 kB)
+Downloading twisted_iocpsupport-1.0.4-cp312-cp312-win_amd64.whl (47 kB)
+   ---------------------------------------- 47.6/47.6 kB 2.5 MB/s eta 0:00:00
+Downloading txaio-23.1.1-py2.py3-none-any.whl (30 kB)
+Downloading typing_extensions-4.12.2-py3-none-any.whl (37 kB)
+Downloading zope.interface-6.4.post2-cp312-cp312-win_amd64.whl (206 kB)
+   --------------------------------------- 206.5/206.5 kB 13.1 MB/s eta 0:00:00
+Using cached setuptools-70.3.0-py3-none-any.whl (931 kB)
+Downloading cffi-1.16.0-cp312-cp312-win_amd64.whl (181 kB)
+   --------------------------------------- 182.0/182.0 kB 10.7 MB/s eta 0:00:00
+Downloading idna-3.7-py3-none-any.whl (66 kB)
+   ---------------------------------------- 66.8/66.8 kB ? eta 0:00:00
+Downloading six-1.16.0-py2.py3-none-any.whl (11 kB)
+Downloading pycparser-2.22-py3-none-any.whl (117 kB)
+   -------------------------------------- 117.6/117.6 kB 683.5 kB/s eta 0:00:00
+Would install Automat-22.10.0 Django-2.2.28 Twisted-24.3.0 asgiref-2.3.2 async-timeout-3.0.1 attrs-23.2.0 autobahn-23.6.2 cffi-1.16.0 constantly-23.10.4 cryptography-42.0.8 daphne-2.2.5 hyperlink-21.0.0 idna-3.7 incremental-22.10.0 pycparser-2.22 pytz-2024.1 setuptools-70.3.0 six-1.16.0 sqlparse-0.5.0 twisted-iocpsupport-1.0.4 txaio-23.1.1 typing_extensions-4.12.2 zope.interface-6.4.post2
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: python.exe -m pip install --upgrade pip

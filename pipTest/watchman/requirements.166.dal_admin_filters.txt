@@ -1,0 +1,2 @@
+django==2.1.7
+django-autocomplete-light==3.3.2

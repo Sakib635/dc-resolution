@@ -1,0 +1,7 @@
+requests
+fuzzywuzzy
+netCDF4
+lockfile
+hurry.filesize
+treelib
+esgconfigparser

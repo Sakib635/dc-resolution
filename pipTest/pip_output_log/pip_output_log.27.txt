@@ -1,0 +1,66 @@
+Collecting torch>=0.4.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.27.allennlp.txt (line 1))
+  Obtaining dependency information for torch>=0.4.1 from https://files.pythonhosted.org/packages/af/77/cf6ceb000f8a064c7b373fb3471d85bcc39917d175af82fead4a2857c669/torch-2.3.1-cp312-cp312-win_amd64.whl.metadata
+  Downloading torch-2.3.1-cp312-cp312-win_amd64.whl.metadata (26 kB)
+Collecting jsonnet>=0.10.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.27.allennlp.txt (line 2))
+  Downloading jsonnet-0.20.0.tar.gz (594 kB)
+     -------------------------------------- 594.2/594.2 kB 4.7 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting overrides (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.27.allennlp.txt (line 3))
+  Obtaining dependency information for overrides from https://files.pythonhosted.org/packages/2c/ab/fc8290c6a4c722e5514d80f62b2dc4c4df1a68a41d1364e625c35990fcf3/overrides-7.7.0-py3-none-any.whl.metadata
+  Downloading overrides-7.7.0-py3-none-any.whl.metadata (5.8 kB)
+Collecting nltk (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.27.allennlp.txt (line 4))
+  Obtaining dependency information for nltk from https://files.pythonhosted.org/packages/a6/0a/0d20d2c0f16be91b9fa32a77b76c60f9baf6eba419e5ef5deca17af9c582/nltk-3.8.1-py3-none-any.whl.metadata
+  Downloading nltk-3.8.1-py3-none-any.whl.metadata (2.8 kB)
+Collecting spacy<2.2,>=2.0.18 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.27.allennlp.txt (line 5))
+  Downloading spacy-2.1.9.tar.gz (30.7 MB)
+     --------------------------------------- 30.7/30.7 MB 13.4 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'error'
+  error: subprocess-exited-with-error
+  
+  pip subprocess to install build dependencies did not run successfully.
+  exit code: 1
+  
+  [23 lines of output]
+  Collecting setuptools
+    Obtaining dependency information for setuptools from https://files.pythonhosted.org/packages/ef/15/88e46eb9387e905704b69849618e699dc2f54407d8953cc4ec4b8b46528d/setuptools-70.3.0-py3-none-any.whl.metadata
+    Using cached setuptools-70.3.0-py3-none-any.whl.metadata (5.8 kB)
+  Collecting wheel<0.33.0,>0.32.0
+    Obtaining dependency information for wheel<0.33.0,>0.32.0 from https://files.pythonhosted.org/packages/ff/47/1dfa4795e24fd6f93d5d58602dd716c3f101cfd5a77cd9acbe519b44a0a9/wheel-0.32.3-py2.py3-none-any.whl.metadata
+    Downloading wheel-0.32.3-py2.py3-none-any.whl.metadata (2.1 kB)
+  Collecting Cython
+    Obtaining dependency information for Cython from https://files.pythonhosted.org/packages/2f/59/6669edfd1fad83ee18d698b897f25871b5296e258f74964a003d50d003fe/Cython-3.0.10-cp312-cp312-win_amd64.whl.metadata
+    Downloading Cython-3.0.10-cp312-cp312-win_amd64.whl.metadata (3.2 kB)
+  Collecting cymem<2.1.0,>=2.0.2
+    Obtaining dependency information for cymem<2.1.0,>=2.0.2 from https://files.pythonhosted.org/packages/35/e0/34b11adc80502f0760ce2892dfdfcd8a7f450acd3147156c98620cb4071d/cymem-2.0.8-cp312-cp312-win_amd64.whl.metadata
+    Downloading cymem-2.0.8-cp312-cp312-win_amd64.whl.metadata (8.6 kB)
+  Collecting preshed<2.1.0,>=2.0.1
+    Downloading preshed-2.0.1.tar.gz (113 kB)
+       -------------------------------------- 113.7/113.7 kB 1.3 MB/s eta 0:00:00
+    Installing build dependencies: started
+    Installing build dependencies: finished with status 'done'
+    Getting requirements to build wheel: started
+    Getting requirements to build wheel: finished with status 'done'
+  ERROR: Some build dependencies for preshed<2.1.0,>=2.0.1 from https://files.pythonhosted.org/packages/0b/14/c9aa735cb9c131545fc9e23031baccb87041ac9215b3d75f99e3cf18f6a3/preshed-2.0.1.tar.gz conflict with the backend dependencies: wheel==0.43.0 is incompatible with wheel>=0.32.0,<0.33.0.
+  
+  [notice] A new release of pip is available: 23.2.1 -> 24.1.2
+  [notice] To update, run: python.exe -m pip install --upgrade pip
+  [end of output]
+  
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+error: subprocess-exited-with-error
+
+pip subprocess to install build dependencies did not run successfully.
+exit code: 1
+
+See above for output.
+
+note: This error originates from a subprocess, and is likely not a problem with pip.
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: python.exe -m pip install --upgrade pip

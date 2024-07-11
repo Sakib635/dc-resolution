@@ -1,0 +1,24 @@
+Collecting filelock (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.183.python-pcl.txt (line 1))
+  Obtaining dependency information for filelock from https://files.pythonhosted.org/packages/ae/f0/48285f0262fe47103a4a45972ed2f9b93e4c80b8fd609fa98da78b2a5706/filelock-3.15.4-py3-none-any.whl.metadata
+  Downloading filelock-3.15.4-py3-none-any.whl.metadata (2.9 kB)
+Collecting nose (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.183.python-pcl.txt (line 2))
+  Obtaining dependency information for nose from https://files.pythonhosted.org/packages/15/d8/dd071918c040f50fa1cf80da16423af51ff8ce4a0f2399b7bf8de45ac3d9/nose-1.3.7-py3-none-any.whl.metadata
+  Downloading nose-1.3.7-py3-none-any.whl.metadata (1.7 kB)
+Collecting numpy (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.183.python-pcl.txt (line 3))
+  Obtaining dependency information for numpy from https://files.pythonhosted.org/packages/ad/9c/4a93b8e395b755c53628573d75d7b21985d9a0f416e978d637084ccc8ec3/numpy-2.0.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading numpy-2.0.0-cp312-cp312-win_amd64.whl.metadata (60 kB)
+     -------------------------------------- 60.9/60.9 kB 649.5 kB/s eta 0:00:00
+Collecting Cython>=0.25.2 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.183.python-pcl.txt (line 4))
+  Obtaining dependency information for Cython>=0.25.2 from https://files.pythonhosted.org/packages/2f/59/6669edfd1fad83ee18d698b897f25871b5296e258f74964a003d50d003fe/Cython-3.0.10-cp312-cp312-win_amd64.whl.metadata
+  Downloading Cython-3.0.10-cp312-cp312-win_amd64.whl.metadata (3.2 kB)
+Downloading filelock-3.15.4-py3-none-any.whl (16 kB)
+Downloading nose-1.3.7-py3-none-any.whl (154 kB)
+   ---------------------------------------- 154.7/154.7 kB 2.3 MB/s eta 0:00:00
+Downloading numpy-2.0.0-cp312-cp312-win_amd64.whl (16.2 MB)
+   ---------------------------------------- 16.2/16.2 MB 16.0 MB/s eta 0:00:00
+Downloading Cython-3.0.10-cp312-cp312-win_amd64.whl (2.8 MB)
+   ---------------------------------------- 2.8/2.8 MB 22.3 MB/s eta 0:00:00
+Would install Cython-3.0.10 filelock-3.15.4 nose-1.3.7 numpy-2.0.0
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: python.exe -m pip install --upgrade pip

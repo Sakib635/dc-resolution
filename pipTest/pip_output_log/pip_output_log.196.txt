@@ -1,0 +1,62 @@
+Collecting Cython>=0.16 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.196.geopandas.txt (line 1))
+  Obtaining dependency information for Cython>=0.16 from https://files.pythonhosted.org/packages/2f/59/6669edfd1fad83ee18d698b897f25871b5296e258f74964a003d50d003fe/Cython-3.0.10-cp312-cp312-win_amd64.whl.metadata
+  Downloading Cython-3.0.10-cp312-cp312-win_amd64.whl.metadata (3.2 kB)
+Collecting shapely>=1.2.18 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.196.geopandas.txt (line 2))
+  Obtaining dependency information for shapely>=1.2.18 from https://files.pythonhosted.org/packages/81/35/6d8b5cf9a747b94e8940619d914280fc4ce8e86e411ad19d39e7e8be036c/shapely-2.0.4-cp312-cp312-win_amd64.whl.metadata
+  Downloading shapely-2.0.4-cp312-cp312-win_amd64.whl.metadata (7.2 kB)
+Collecting fiona>=1.0.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.196.geopandas.txt (line 3))
+  Obtaining dependency information for fiona>=1.0.1 from https://files.pythonhosted.org/packages/0c/a9/fca1698d2f5a1fbaf451659a7bde506bbf7daca72a21ba6201e557df6490/fiona-1.9.6-cp312-cp312-win_amd64.whl.metadata
+  Downloading fiona-1.9.6-cp312-cp312-win_amd64.whl.metadata (51 kB)
+     -------------------------------------- 51.5/51.5 kB 444.0 kB/s eta 0:00:00
+Collecting pyproj>=1.9.3 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.196.geopandas.txt (line 4))
+  Obtaining dependency information for pyproj>=1.9.3 from https://files.pythonhosted.org/packages/c7/f3/2f32fe143cd7ba1d4d68f1b6dce9ca402d909cbd5a5830e3a8fa3d1acbbf/pyproj-3.6.1-cp312-cp312-win_amd64.whl.metadata
+  Downloading pyproj-3.6.1-cp312-cp312-win_amd64.whl.metadata (31 kB)
+Collecting six>=1.3.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.196.geopandas.txt (line 5))
+  Obtaining dependency information for six>=1.3.0 from https://files.pythonhosted.org/packages/d9/5a/e7c31adbe875f2abbb91bd84cf2dc52d792b5a01506781dbcf25c91daf11/six-1.16.0-py2.py3-none-any.whl.metadata
+  Downloading six-1.16.0-py2.py3-none-any.whl.metadata (1.8 kB)
+Collecting numpy<3,>=1.14 (from shapely>=1.2.18->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.196.geopandas.txt (line 2))
+  Obtaining dependency information for numpy<3,>=1.14 from https://files.pythonhosted.org/packages/ad/9c/4a93b8e395b755c53628573d75d7b21985d9a0f416e978d637084ccc8ec3/numpy-2.0.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading numpy-2.0.0-cp312-cp312-win_amd64.whl.metadata (60 kB)
+     ---------------------------------------- 60.9/60.9 kB 1.6 MB/s eta 0:00:00
+Collecting attrs>=19.2.0 (from fiona>=1.0.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.196.geopandas.txt (line 3))
+  Obtaining dependency information for attrs>=19.2.0 from https://files.pythonhosted.org/packages/e0/44/827b2a91a5816512fcaf3cc4ebc465ccd5d598c45cefa6703fcf4a79018f/attrs-23.2.0-py3-none-any.whl.metadata
+  Downloading attrs-23.2.0-py3-none-any.whl.metadata (9.5 kB)
+Collecting certifi (from fiona>=1.0.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.196.geopandas.txt (line 3))
+  Obtaining dependency information for certifi from https://files.pythonhosted.org/packages/1c/d5/c84e1a17bf61d4df64ca866a1c9a913874b4e9bdc131ec689a0ad013fb36/certifi-2024.7.4-py3-none-any.whl.metadata
+  Downloading certifi-2024.7.4-py3-none-any.whl.metadata (2.2 kB)
+Collecting click~=8.0 (from fiona>=1.0.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.196.geopandas.txt (line 3))
+  Obtaining dependency information for click~=8.0 from https://files.pythonhosted.org/packages/00/2e/d53fa4befbf2cfa713304affc7ca780ce4fc1fd8710527771b58311a3229/click-8.1.7-py3-none-any.whl.metadata
+  Downloading click-8.1.7-py3-none-any.whl.metadata (3.0 kB)
+Collecting click-plugins>=1.0 (from fiona>=1.0.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.196.geopandas.txt (line 3))
+  Obtaining dependency information for click-plugins>=1.0 from https://files.pythonhosted.org/packages/e9/da/824b92d9942f4e472702488857914bdd50f73021efea15b4cad9aca8ecef/click_plugins-1.1.1-py2.py3-none-any.whl.metadata
+  Downloading click_plugins-1.1.1-py2.py3-none-any.whl.metadata (6.4 kB)
+Collecting cligj>=0.5 (from fiona>=1.0.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.196.geopandas.txt (line 3))
+  Obtaining dependency information for cligj>=0.5 from https://files.pythonhosted.org/packages/73/86/43fa9f15c5b9fb6e82620428827cd3c284aa933431405d1bcf5231ae3d3e/cligj-0.7.2-py3-none-any.whl.metadata
+  Downloading cligj-0.7.2-py3-none-any.whl.metadata (5.0 kB)
+Collecting colorama (from click~=8.0->fiona>=1.0.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.196.geopandas.txt (line 3))
+  Obtaining dependency information for colorama from https://files.pythonhosted.org/packages/d1/d6/3965ed04c63042e047cb6a3e6ed1a63a35087b6a609aa3a15ed8ac56c221/colorama-0.4.6-py2.py3-none-any.whl.metadata
+  Downloading colorama-0.4.6-py2.py3-none-any.whl.metadata (17 kB)
+Downloading Cython-3.0.10-cp312-cp312-win_amd64.whl (2.8 MB)
+   ---------------------------------------- 2.8/2.8 MB 17.9 MB/s eta 0:00:00
+Downloading shapely-2.0.4-cp312-cp312-win_amd64.whl (1.4 MB)
+   ---------------------------------------- 1.4/1.4 MB 30.5 MB/s eta 0:00:00
+Downloading fiona-1.9.6-cp312-cp312-win_amd64.whl (22.9 MB)
+   ---------------------------------------- 22.9/22.9 MB 15.2 MB/s eta 0:00:00
+Downloading pyproj-3.6.1-cp312-cp312-win_amd64.whl (6.1 MB)
+   ---------------------------------------- 6.1/6.1 MB 17.6 MB/s eta 0:00:00
+Downloading six-1.16.0-py2.py3-none-any.whl (11 kB)
+Downloading attrs-23.2.0-py3-none-any.whl (60 kB)
+   ---------------------------------------- 60.8/60.8 kB 3.2 MB/s eta 0:00:00
+Downloading click-8.1.7-py3-none-any.whl (97 kB)
+   ---------------------------------------- 97.9/97.9 kB 5.5 MB/s eta 0:00:00
+Downloading click_plugins-1.1.1-py2.py3-none-any.whl (7.5 kB)
+Downloading cligj-0.7.2-py3-none-any.whl (7.1 kB)
+Downloading numpy-2.0.0-cp312-cp312-win_amd64.whl (16.2 MB)
+   ---------------------------------------- 16.2/16.2 MB 16.4 MB/s eta 0:00:00
+Downloading certifi-2024.7.4-py3-none-any.whl (162 kB)
+   ---------------------------------------- 163.0/163.0 kB 4.9 MB/s eta 0:00:00
+Downloading colorama-0.4.6-py2.py3-none-any.whl (25 kB)
+Would install Cython-3.0.10 attrs-23.2.0 certifi-2024.7.4 click-8.1.7 click-plugins-1.1.1 cligj-0.7.2 colorama-0.4.6 fiona-1.9.6 numpy-2.0.0 pyproj-3.6.1 shapely-2.0.4 six-1.16.0
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: python.exe -m pip install --upgrade pip

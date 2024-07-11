@@ -1,10 +1,7 @@
 import time
 from z3 import Optimize, String, Or, Implies, And, set_param, Solver, unsat, sat
 
-
-
-
-def generate_smt_expression(direct_dependencies, transitive_dependencies, ctx, add_soft_clauses=True):
+def generate_smt_expression(direct_dependencies, transitive_dependencies, ctx, add_soft_clauses):
     """
     Generate an SMT (Satisfiability Modulo Theories) expression to handle package version constraints,
     including both direct and transitive dependencies, using an Optimize solver.
@@ -37,7 +34,7 @@ def generate_smt_expression(direct_dependencies, transitive_dependencies, ctx, a
                 weight = 1
                 for version in sorted_versions:
                     # Add a soft constraint with increasing weight for newer versions
-                    solver.add_soft(String(package) == version, weight)
+                    solver.add_soft(String(package, ctx=ctx) == version, weight)
                     weight += 1  # Increment the weight for the next version
 
     # # Generate constraints for transitive dependencies
@@ -58,7 +55,7 @@ def generate_smt_expression(direct_dependencies, transitive_dependencies, ctx, a
                     weight = 1
                     for dep_version in sorted_versions:
                         # Add a soft constraint with increasing weight for newer versions
-                        solver.add_soft(String(dep_package) == dep_version, weight)
+                        solver.add_soft(String(dep_package, ctx=ctx) == dep_version, weight)
                         weight += 1  # Increment the weight for the next version
 
     # Combine all constraints into a single final constraint
@@ -82,7 +79,7 @@ def verify_solution(solver, model):
 def smt_solver(solver, ctx):
 
     start_time = time.time()
-    set_param("smt.random_seed", 1)
+    # set_param("smt.random_seed", 1)
 
     result = solver.check()
 

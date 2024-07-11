@@ -1,0 +1,93 @@
+Collecting tox<3.0.0,>=2.5.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.133.botocore.txt (line 1))
+  Obtaining dependency information for tox<3.0.0,>=2.5.0 from https://files.pythonhosted.org/packages/1d/4e/20c679f8c5948f7c48591fde33d442e716af66a31a88f5791850a75041eb/tox-2.9.1-py2.py3-none-any.whl.metadata
+  Downloading tox-2.9.1-py2.py3-none-any.whl.metadata (47 kB)
+     -------------------------------------- 47.6/47.6 kB 342.6 kB/s eta 0:00:00
+Collecting python-dateutil<2.7.0,>=2.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.133.botocore.txt (line 2))
+  Obtaining dependency information for python-dateutil<2.7.0,>=2.1 from https://files.pythonhosted.org/packages/4b/0d/7ed381ab4fe80b8ebf34411d14f253e1cf3e56e2820ffa1d8844b23859a2/python_dateutil-2.6.1-py2.py3-none-any.whl.metadata
+  Downloading python_dateutil-2.6.1-py2.py3-none-any.whl.metadata (1.1 kB)
+Collecting nose==1.3.7 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.133.botocore.txt (line 4))
+  Obtaining dependency information for nose==1.3.7 from https://files.pythonhosted.org/packages/15/d8/dd071918c040f50fa1cf80da16423af51ff8ce4a0f2399b7bf8de45ac3d9/nose-1.3.7-py3-none-any.whl.metadata
+  Downloading nose-1.3.7-py3-none-any.whl.metadata (1.7 kB)
+Collecting mock==1.3.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.133.botocore.txt (line 5))
+  Obtaining dependency information for mock==1.3.0 from https://files.pythonhosted.org/packages/b2/50/664a70b87408bb6c14c1af2337efa64eb8d1af80c933531758b8fb41ec25/mock-1.3.0-py2.py3-none-any.whl.metadata
+  Downloading mock-1.3.0-py2.py3-none-any.whl.metadata (3.2 kB)
+Collecting wheel==0.24.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.133.botocore.txt (line 6))
+  Obtaining dependency information for wheel==0.24.0 from https://files.pythonhosted.org/packages/e8/14/eaaac12b0432c984a27ad0050a5a0bedc6135df35a0f5f1f35228faf12d4/wheel-0.24.0-py2.py3-none-any.whl.metadata
+  Downloading wheel-0.24.0-py2.py3-none-any.whl.metadata (9.1 kB)
+Collecting docutils>=0.10 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.133.botocore.txt (line 7))
+  Obtaining dependency information for docutils>=0.10 from https://files.pythonhosted.org/packages/8f/d7/9322c609343d929e75e7e5e6255e614fcc67572cfd083959cdef3b7aad79/docutils-0.21.2-py3-none-any.whl.metadata
+  Downloading docutils-0.21.2-py3-none-any.whl.metadata (2.8 kB)
+Collecting behave==1.2.5 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.133.botocore.txt (line 8))
+  Obtaining dependency information for behave==1.2.5 from https://files.pythonhosted.org/packages/e6/9f/5232e488461eb4f6eec04d49da22050f32f54eebf212525d67ef198f2527/behave-1.2.5-py2.py3-none-any.whl.metadata
+  Downloading behave-1.2.5-py2.py3-none-any.whl.metadata (4.6 kB)
+Collecting jsonschema==2.5.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.133.botocore.txt (line 9))
+  Obtaining dependency information for jsonschema==2.5.1 from https://files.pythonhosted.org/packages/bd/cc/5388547ea3504bd8cbf99ba2ae7a3231598f54038e9b228cbd174f8ec6a1/jsonschema-2.5.1-py2.py3-none-any.whl.metadata
+  Downloading jsonschema-2.5.1-py2.py3-none-any.whl.metadata (4.7 kB)
+Collecting urllib3<1.24,>=1.20 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.133.botocore.txt (line 10))
+  Obtaining dependency information for urllib3<1.24,>=1.20 from https://files.pythonhosted.org/packages/bd/c9/6fdd990019071a4a32a5e7cb78a1d92c53851ef4f56f62a3486e6a7d8ffb/urllib3-1.23-py2.py3-none-any.whl.metadata
+  Downloading urllib3-1.23-py2.py3-none-any.whl.metadata (34 kB)
+Collecting pbr>=0.11 (from mock==1.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.133.botocore.txt (line 5))
+  Obtaining dependency information for pbr>=0.11 from https://files.pythonhosted.org/packages/64/dd/171c9fb653591cf265bcc89c436eec75c9bde3dec921cc236fa71e5698df/pbr-6.0.0-py2.py3-none-any.whl.metadata
+  Downloading pbr-6.0.0-py2.py3-none-any.whl.metadata (1.3 kB)
+Collecting six>=1.7 (from mock==1.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.133.botocore.txt (line 5))
+  Obtaining dependency information for six>=1.7 from https://files.pythonhosted.org/packages/d9/5a/e7c31adbe875f2abbb91bd84cf2dc52d792b5a01506781dbcf25c91daf11/six-1.16.0-py2.py3-none-any.whl.metadata
+  Downloading six-1.16.0-py2.py3-none-any.whl.metadata (1.8 kB)
+Collecting parse>=1.6.3 (from behave==1.2.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.133.botocore.txt (line 8))
+  Obtaining dependency information for parse>=1.6.3 from https://files.pythonhosted.org/packages/d0/31/ba45bf0b2aa7898d81cbbfac0e88c267befb59ad91a19e36e1bc5578ddb1/parse-1.20.2-py2.py3-none-any.whl.metadata
+  Downloading parse-1.20.2-py2.py3-none-any.whl.metadata (22 kB)
+Collecting parse-type>=0.3.4 (from behave==1.2.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.133.botocore.txt (line 8))
+  Obtaining dependency information for parse-type>=0.3.4 from https://files.pythonhosted.org/packages/ea/57/8a965284ef665bdb538693203ecf064232b89ba43cdab226f9e3d714ed1a/parse_type-0.6.2-py2.py3-none-any.whl.metadata
+  Downloading parse_type-0.6.2-py2.py3-none-any.whl.metadata (12 kB)
+Collecting py>=1.4.17 (from tox<3.0.0,>=2.5.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.133.botocore.txt (line 1))
+  Obtaining dependency information for py>=1.4.17 from https://files.pythonhosted.org/packages/f6/f0/10642828a8dfb741e5f3fbaac830550a518a775c7fff6f04a007259b0548/py-1.11.0-py2.py3-none-any.whl.metadata
+  Downloading py-1.11.0-py2.py3-none-any.whl.metadata (2.8 kB)
+Collecting pluggy<1.0,>=0.3.0 (from tox<3.0.0,>=2.5.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.133.botocore.txt (line 1))
+  Obtaining dependency information for pluggy<1.0,>=0.3.0 from https://files.pythonhosted.org/packages/a0/28/85c7aa31b80d150b772fbe4a229487bc6644da9ccb7e427dd8cc60cb8a62/pluggy-0.13.1-py2.py3-none-any.whl.metadata
+  Downloading pluggy-0.13.1-py2.py3-none-any.whl.metadata (15 kB)
+Collecting virtualenv>=1.11.2 (from tox<3.0.0,>=2.5.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.133.botocore.txt (line 1))
+  Obtaining dependency information for virtualenv>=1.11.2 from https://files.pythonhosted.org/packages/07/4d/410156100224c5e2f0011d435e477b57aed9576fc7fe137abcf14ec16e11/virtualenv-20.26.3-py3-none-any.whl.metadata
+  Downloading virtualenv-20.26.3-py3-none-any.whl.metadata (4.5 kB)
+Collecting distlib<1,>=0.3.7 (from virtualenv>=1.11.2->tox<3.0.0,>=2.5.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.133.botocore.txt (line 1))
+  Obtaining dependency information for distlib<1,>=0.3.7 from https://files.pythonhosted.org/packages/8e/41/9307e4f5f9976bc8b7fea0b66367734e8faf3ec84bc0d412d8cfabbb66cd/distlib-0.3.8-py2.py3-none-any.whl.metadata
+  Downloading distlib-0.3.8-py2.py3-none-any.whl.metadata (5.1 kB)
+Collecting filelock<4,>=3.12.2 (from virtualenv>=1.11.2->tox<3.0.0,>=2.5.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.133.botocore.txt (line 1))
+  Obtaining dependency information for filelock<4,>=3.12.2 from https://files.pythonhosted.org/packages/ae/f0/48285f0262fe47103a4a45972ed2f9b93e4c80b8fd609fa98da78b2a5706/filelock-3.15.4-py3-none-any.whl.metadata
+  Downloading filelock-3.15.4-py3-none-any.whl.metadata (2.9 kB)
+Collecting platformdirs<5,>=3.9.1 (from virtualenv>=1.11.2->tox<3.0.0,>=2.5.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.133.botocore.txt (line 1))
+  Obtaining dependency information for platformdirs<5,>=3.9.1 from https://files.pythonhosted.org/packages/68/13/2aa1f0e1364feb2c9ef45302f387ac0bd81484e9c9a4c5688a322fbdfd08/platformdirs-4.2.2-py3-none-any.whl.metadata
+  Downloading platformdirs-4.2.2-py3-none-any.whl.metadata (11 kB)
+Downloading nose-1.3.7-py3-none-any.whl (154 kB)
+   ---------------------------------------- 154.7/154.7 kB 3.1 MB/s eta 0:00:00
+Downloading mock-1.3.0-py2.py3-none-any.whl (56 kB)
+   ---------------------------------------- 56.3/56.3 kB ? eta 0:00:00
+Downloading wheel-0.24.0-py2.py3-none-any.whl (63 kB)
+   ---------------------------------------- 63.3/63.3 kB 3.5 MB/s eta 0:00:00
+Downloading behave-1.2.5-py2.py3-none-any.whl (109 kB)
+   ---------------------------------------- 110.0/110.0 kB ? eta 0:00:00
+Downloading jsonschema-2.5.1-py2.py3-none-any.whl (38 kB)
+Downloading tox-2.9.1-py2.py3-none-any.whl (73 kB)
+   ---------------------------------------- 73.5/73.5 kB 4.2 MB/s eta 0:00:00
+Downloading python_dateutil-2.6.1-py2.py3-none-any.whl (194 kB)
+   --------------------------------------- 194.2/194.2 kB 11.5 MB/s eta 0:00:00
+Downloading docutils-0.21.2-py3-none-any.whl (587 kB)
+   --------------------------------------- 587.4/587.4 kB 12.3 MB/s eta 0:00:00
+Downloading urllib3-1.23-py2.py3-none-any.whl (133 kB)
+   ---------------------------------------- 133.3/133.3 kB 7.7 MB/s eta 0:00:00
+Downloading parse-1.20.2-py2.py3-none-any.whl (20 kB)
+Downloading parse_type-0.6.2-py2.py3-none-any.whl (26 kB)
+Downloading pbr-6.0.0-py2.py3-none-any.whl (107 kB)
+   ---------------------------------------- 107.5/107.5 kB 3.1 MB/s eta 0:00:00
+Downloading pluggy-0.13.1-py2.py3-none-any.whl (18 kB)
+Downloading py-1.11.0-py2.py3-none-any.whl (98 kB)
+   ---------------------------------------- 98.7/98.7 kB 5.9 MB/s eta 0:00:00
+Downloading six-1.16.0-py2.py3-none-any.whl (11 kB)
+Downloading virtualenv-20.26.3-py3-none-any.whl (5.7 MB)
+   ---------------------------------------- 5.7/5.7 MB 12.5 MB/s eta 0:00:00
+Downloading distlib-0.3.8-py2.py3-none-any.whl (468 kB)
+   --------------------------------------- 468.9/468.9 kB 14.8 MB/s eta 0:00:00
+Downloading filelock-3.15.4-py3-none-any.whl (16 kB)
+Downloading platformdirs-4.2.2-py3-none-any.whl (18 kB)
+Would install behave-1.2.5 distlib-0.3.8 docutils-0.21.2 filelock-3.15.4 jsonschema-2.5.1 mock-1.3.0 nose-1.3.7 parse-1.20.2 parse-type-0.6.2 pbr-6.0.0 platformdirs-4.2.2 pluggy-0.13.1 py-1.11.0 python-dateutil-2.6.1 six-1.16.0 tox-2.9.1 urllib3-1.23 virtualenv-20.26.3 wheel-0.24.0
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: python.exe -m pip install --upgrade pip

@@ -1,0 +1,62 @@
+Collecting requests==2.22.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.165.rasa.txt (line 1))
+  Obtaining dependency information for requests==2.22.0 from https://files.pythonhosted.org/packages/51/bd/23c926cd341ea6b7dd0b2a00aba99ae0f828be89d72b2190f27c11d4b7fb/requests-2.22.0-py2.py3-none-any.whl.metadata
+  Downloading requests-2.22.0-py2.py3-none-any.whl.metadata (5.5 kB)
+Collecting boto3==1.9.146 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.165.rasa.txt (line 2))
+  Obtaining dependency information for boto3==1.9.146 from https://files.pythonhosted.org/packages/20/9c/7111470f07700a6b06305943fc7521e49d9669dbda0c1862c4658130f235/boto3-1.9.146-py2.py3-none-any.whl.metadata
+  Downloading boto3-1.9.146-py2.py3-none-any.whl.metadata (4.8 kB)
+Collecting matplotlib<3.1.0,>=3.0.3 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.165.rasa.txt (line 3))
+  Downloading matplotlib-3.0.3.tar.gz (36.6 MB)
+     ---------------------------------------- 36.6/36.6 MB 5.9 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'error'
+  error: subprocess-exited-with-error
+  
+  Getting requirements to build wheel did not run successfully.
+  exit code: 1
+  
+  [29 lines of output]
+  Traceback (most recent call last):
+    File "D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 353, in <module>
+      main()
+    File "D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 335, in main
+      json_out['return_val'] = hook(**hook_input['kwargs'])
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 118, in get_requires_for_build_wheel
+      return hook(config_settings)
+             ^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-dae0lu6t\overlay\Lib\site-packages\setuptools\build_meta.py", line 327, in get_requires_for_build_wheel
+      return self._get_build_requires(config_settings, requirements=[])
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-dae0lu6t\overlay\Lib\site-packages\setuptools\build_meta.py", line 297, in _get_build_requires
+      self.run_setup()
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-dae0lu6t\overlay\Lib\site-packages\setuptools\build_meta.py", line 497, in run_setup
+      super().run_setup(setup_script=setup_script)
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-dae0lu6t\overlay\Lib\site-packages\setuptools\build_meta.py", line 313, in run_setup
+      exec(code, locals())
+    File "<string>", line 53, in <module>
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-install-qu95_oj0\matplotlib_88ab511571b44c25b93215ace8315e9d\versioneer.py", line 1410, in get_version
+      return get_versions()["version"]
+             ^^^^^^^^^^^^^^
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-install-qu95_oj0\matplotlib_88ab511571b44c25b93215ace8315e9d\versioneer.py", line 1344, in get_versions
+      cfg = get_config_from_root(root)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-install-qu95_oj0\matplotlib_88ab511571b44c25b93215ace8315e9d\versioneer.py", line 401, in get_config_from_root
+      parser = configparser.SafeConfigParser()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  AttributeError: module 'configparser' has no attribute 'SafeConfigParser'. Did you mean: 'RawConfigParser'?
+  [end of output]
+  
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+error: subprocess-exited-with-error
+
+Getting requirements to build wheel did not run successfully.
+exit code: 1
+
+See above for output.
+
+note: This error originates from a subprocess, and is likely not a problem with pip.
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: python.exe -m pip install --upgrade pip

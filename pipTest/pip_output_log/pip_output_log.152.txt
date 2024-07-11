@@ -1,0 +1,17 @@
+Collecting six (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.152.pyscaffold.txt (line 1))
+  Obtaining dependency information for six from https://files.pythonhosted.org/packages/d9/5a/e7c31adbe875f2abbb91bd84cf2dc52d792b5a01506781dbcf25c91daf11/six-1.16.0-py2.py3-none-any.whl.metadata
+  Downloading six-1.16.0-py2.py3-none-any.whl.metadata (1.8 kB)
+Collecting setuptools_scm<1.8a0,>=1.7 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.152.pyscaffold.txt (line 2))
+  Obtaining dependency information for setuptools_scm<1.8a0,>=1.7 from https://files.pythonhosted.org/packages/22/28/564c8c9d350857494ffd99a8c2e1c7f6d711b2343167b5be1ae2f028502e/setuptools_scm-1.7.0-py2.py3-none-any.whl.metadata
+  Downloading setuptools_scm-1.7.0-py2.py3-none-any.whl.metadata (6.8 kB)
+Collecting pbr<1.8a0,>=1.7 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.152.pyscaffold.txt (line 3))
+  Obtaining dependency information for pbr<1.8a0,>=1.7 from https://files.pythonhosted.org/packages/22/eb/8d8a7e6f2aaf11d36c3e8c6562cc6f80c5cb071460265b611071c57ccf7b/pbr-1.7.0-py2.py3-none-any.whl.metadata
+  Downloading pbr-1.7.0-py2.py3-none-any.whl.metadata (2.6 kB)
+Downloading six-1.16.0-py2.py3-none-any.whl (11 kB)
+Downloading setuptools_scm-1.7.0-py2.py3-none-any.whl (14 kB)
+Downloading pbr-1.7.0-py2.py3-none-any.whl (87 kB)
+   ---------------------------------------- 87.7/87.7 kB 1.6 MB/s eta 0:00:00
+Would install pbr-1.7.0 setuptools-scm-1.7.0 six-1.16.0
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: python.exe -m pip install --upgrade pip

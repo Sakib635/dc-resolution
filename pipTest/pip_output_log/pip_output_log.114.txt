@@ -1,0 +1,12 @@
+Collecting setuptools-markdown (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.114.trinity.txt (line 1))
+  Obtaining dependency information for setuptools-markdown from https://files.pythonhosted.org/packages/cb/d5/617cfee5e25eb4e3e2943a23f70e04b987cde0d8865542b4ff50cef3ae76/setuptools_markdown-0.4.1-py2.py3-none-any.whl.metadata
+  Downloading setuptools_markdown-0.4.1-py2.py3-none-any.whl.metadata (1.6 kB)
+Collecting pypandoc (from setuptools-markdown->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.114.trinity.txt (line 1))
+  Obtaining dependency information for pypandoc from https://files.pythonhosted.org/packages/fc/09/91ab02feebc195a39ce0a39edcafbe866e69ff700a59790e605b3d5f69b1/pypandoc-1.13-py3-none-any.whl.metadata
+  Downloading pypandoc-1.13-py3-none-any.whl.metadata (16 kB)
+Downloading setuptools_markdown-0.4.1-py2.py3-none-any.whl (4.2 kB)
+Downloading pypandoc-1.13-py3-none-any.whl (21 kB)
+Would install pypandoc-1.13 setuptools-markdown-0.4.1
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: python.exe -m pip install --upgrade pip

@@ -1,0 +1,21 @@
+Reading files execution time: 2.3648228645324707 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Generating SMT expression execution time: 0.04414510726928711 seconds
+Solving SMT expression execution time: 0.5684733390808105 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Reading files execution time: 1.0507192611694336 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.0 seconds
+Generating SMT expression execution time: 0.0 seconds
+Solving SMT expression execution time: 0.0272524356842041 seconds
+Generating requirements.txt execution time: 0.0 seconds
+Reading files execution time: 2.4169275760650635 seconds
+Parsing requirements execution time: 0.0 seconds
+Fetching versions and dependencies execution time: 0.0 seconds
+Fetching transitive dependencies execution time: 0.12431931495666504 seconds
+Generating SMT expression execution time: 9.503352880477905 seconds
+Solving SMT expression execution time: 0.8192920684814453 seconds
+Generating requirements.txt execution time: 0.0 seconds

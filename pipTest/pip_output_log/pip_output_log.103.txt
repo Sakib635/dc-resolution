@@ -1,0 +1,38 @@
+Collecting torch>=0.4.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.103.allennlp.txt (line 1))
+  Obtaining dependency information for torch>=0.4.1 from https://files.pythonhosted.org/packages/af/77/cf6ceb000f8a064c7b373fb3471d85bcc39917d175af82fead4a2857c669/torch-2.3.1-cp312-cp312-win_amd64.whl.metadata
+  Downloading torch-2.3.1-cp312-cp312-win_amd64.whl.metadata (26 kB)
+Collecting jsonnet==0.10.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.103.allennlp.txt (line 2))
+  Downloading jsonnet-0.10.0.tar.gz (124 kB)
+     -------------------------------------- 124.8/124.8 kB 1.5 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting overrides (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.103.allennlp.txt (line 3))
+  Obtaining dependency information for overrides from https://files.pythonhosted.org/packages/2c/ab/fc8290c6a4c722e5514d80f62b2dc4c4df1a68a41d1364e625c35990fcf3/overrides-7.7.0-py3-none-any.whl.metadata
+  Downloading overrides-7.7.0-py3-none-any.whl.metadata (5.8 kB)
+Collecting nltk (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.103.allennlp.txt (line 4))
+  Obtaining dependency information for nltk from https://files.pythonhosted.org/packages/a6/0a/0d20d2c0f16be91b9fa32a77b76c60f9baf6eba419e5ef5deca17af9c582/nltk-3.8.1-py3-none-any.whl.metadata
+  Downloading nltk-3.8.1-py3-none-any.whl.metadata (2.8 kB)
+Collecting msgpack<0.6.0,>=0.5.6 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.103.allennlp.txt (line 5))
+  Downloading msgpack-0.5.6.tar.gz (138 kB)
+     -------------------------------------- 138.3/138.3 kB 8.0 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting spacy<2.1,>=2.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.103.allennlp.txt (line 6))
+  Downloading spacy-2.0.18.tar.gz (24.9 MB)
+     --------------------------------------- 24.9/24.9 MB 11.1 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+ERROR: Some build dependencies for spacy<2.1,>=2.0 from https://files.pythonhosted.org/packages/67/5e/63283836960c97283ad20ae58ef62767e232fc351564a22a85df598fd794/spacy-2.0.18.tar.gz (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.103.allennlp.txt (line 6)) conflict with the backend dependencies: wheel==0.43.0 is incompatible with wheel>=0.32.0,<0.33.0.
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: python.exe -m pip install --upgrade pip

@@ -1,0 +1,125 @@
+Collecting lazy_property (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTestCopy/watchman\requirements.93.qha.txt (line 1))
+  Obtaining dependency information for lazy_property from https://files.pythonhosted.org/packages/4f/87/871a1522823d2bba3e8fd8cdea0f5eb7fa7596889f1ed73167d895127046/lazy_property-0.0.1-py2.py3-none-any.whl.metadata
+  Downloading lazy_property-0.0.1-py2.py3-none-any.whl.metadata (273 bytes)
+Collecting numba (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTestCopy/watchman\requirements.93.qha.txt (line 2))
+  Obtaining dependency information for numba from https://files.pythonhosted.org/packages/ca/bd/0fe29fcd1b6a8de479a4ed25c6e56470e467e3611c079d55869ceef2b6d1/numba-0.60.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading numba-0.60.0-cp312-cp312-win_amd64.whl.metadata (2.8 kB)
+Collecting numpy (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTestCopy/watchman\requirements.93.qha.txt (line 3))
+  Obtaining dependency information for numpy from https://files.pythonhosted.org/packages/ad/9c/4a93b8e395b755c53628573d75d7b21985d9a0f416e978d637084ccc8ec3/numpy-2.0.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading numpy-2.0.0-cp312-cp312-win_amd64.whl.metadata (60 kB)
+     -------------------------------------- 60.9/60.9 kB 538.9 kB/s eta 0:00:00
+Collecting bigfloat (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTestCopy/watchman\requirements.93.qha.txt (line 4))
+  Downloading bigfloat-0.4.0.tar.gz (258 kB)
+     -------------------------------------- 258.2/258.2 kB 3.9 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting pandas (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTestCopy/watchman\requirements.93.qha.txt (line 5))
+  Obtaining dependency information for pandas from https://files.pythonhosted.org/packages/22/a5/a0b255295406ed54269814bc93723cfd1a0da63fb9aaf99e1364f07923e5/pandas-2.2.2-cp312-cp312-win_amd64.whl.metadata
+  Downloading pandas-2.2.2-cp312-cp312-win_amd64.whl.metadata (19 kB)
+Collecting scientific-string (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTestCopy/watchman\requirements.93.qha.txt (line 6))
+  Obtaining dependency information for scientific-string from https://files.pythonhosted.org/packages/ae/66/49cece4d7fd66b71e8ba25523daa57ad56dbe010543be25296f9859b4b0d/scientific_string-0.1.0-py3-none-any.whl.metadata
+  Downloading scientific_string-0.1.0-py3-none-any.whl.metadata (292 bytes)
+Collecting scipy (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTestCopy/watchman\requirements.93.qha.txt (line 7))
+  Obtaining dependency information for scipy from https://files.pythonhosted.org/packages/3f/72/305686527c68f33f1dd3ebdd28f53340d372b2f9e44dccaf6f92e17739d3/scipy-1.14.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading scipy-1.14.0-cp312-cp312-win_amd64.whl.metadata (60 kB)
+     ---------------------------------------- 60.8/60.8 kB ? eta 0:00:00
+Collecting text-stream (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTestCopy/watchman\requirements.93.qha.txt (line 8))
+  Downloading text_stream-0.2.0.tar.gz (3.3 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting pyyaml (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTestCopy/watchman\requirements.93.qha.txt (line 9))
+  Obtaining dependency information for pyyaml from https://files.pythonhosted.org/packages/2b/9f/fbade56564ad486809c27b322d0f7e6a89c01f6b4fe208402e90d4443a99/PyYAML-6.0.1-cp312-cp312-win_amd64.whl.metadata
+  Downloading PyYAML-6.0.1-cp312-cp312-win_amd64.whl.metadata (2.1 kB)
+Collecting matplotlib (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTestCopy/watchman\requirements.93.qha.txt (line 10))
+  Obtaining dependency information for matplotlib from https://files.pythonhosted.org/packages/e3/31/aeab8a3db1fb22a7d04c5215f872b92451baf7f6595ffd59004aeead0b2c/matplotlib-3.9.1-cp312-cp312-win_amd64.whl.metadata
+  Downloading matplotlib-3.9.1-cp312-cp312-win_amd64.whl.metadata (11 kB)
+Collecting seaborn (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTestCopy/watchman\requirements.93.qha.txt (line 11))
+  Obtaining dependency information for seaborn from https://files.pythonhosted.org/packages/83/11/00d3c3dfc25ad54e731d91449895a79e4bf2384dc3ac01809010ba88f6d5/seaborn-0.13.2-py3-none-any.whl.metadata
+  Downloading seaborn-0.13.2-py3-none-any.whl.metadata (5.4 kB)
+Collecting llvmlite<0.44,>=0.43.0dev0 (from numba->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTestCopy/watchman\requirements.93.qha.txt (line 2))
+  Obtaining dependency information for llvmlite<0.44,>=0.43.0dev0 from https://files.pythonhosted.org/packages/c6/94/dea10e263655ce78d777e78d904903faae39d1fc440762be4a9dc46bed49/llvmlite-0.43.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading llvmlite-0.43.0-cp312-cp312-win_amd64.whl.metadata (4.9 kB)
+Collecting six (from bigfloat->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTestCopy/watchman\requirements.93.qha.txt (line 4))
+  Obtaining dependency information for six from https://files.pythonhosted.org/packages/d9/5a/e7c31adbe875f2abbb91bd84cf2dc52d792b5a01506781dbcf25c91daf11/six-1.16.0-py2.py3-none-any.whl.metadata
+  Downloading six-1.16.0-py2.py3-none-any.whl.metadata (1.8 kB)
+Collecting python-dateutil>=2.8.2 (from pandas->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTestCopy/watchman\requirements.93.qha.txt (line 5))
+  Obtaining dependency information for python-dateutil>=2.8.2 from https://files.pythonhosted.org/packages/ec/57/56b9bcc3c9c6a792fcbaf139543cee77261f3651ca9da0c93f5c1221264b/python_dateutil-2.9.0.post0-py2.py3-none-any.whl.metadata
+  Downloading python_dateutil-2.9.0.post0-py2.py3-none-any.whl.metadata (8.4 kB)
+Collecting pytz>=2020.1 (from pandas->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTestCopy/watchman\requirements.93.qha.txt (line 5))
+  Obtaining dependency information for pytz>=2020.1 from https://files.pythonhosted.org/packages/9c/3d/a121f284241f08268b21359bd425f7d4825cffc5ac5cd0e1b3d82ffd2b10/pytz-2024.1-py2.py3-none-any.whl.metadata
+  Downloading pytz-2024.1-py2.py3-none-any.whl.metadata (22 kB)
+Collecting tzdata>=2022.7 (from pandas->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTestCopy/watchman\requirements.93.qha.txt (line 5))
+  Obtaining dependency information for tzdata>=2022.7 from https://files.pythonhosted.org/packages/65/58/f9c9e6be752e9fcb8b6a0ee9fb87e6e7a1f6bcab2cdc73f02bb7ba91ada0/tzdata-2024.1-py2.py3-none-any.whl.metadata
+  Downloading tzdata-2024.1-py2.py3-none-any.whl.metadata (1.4 kB)
+Collecting contourpy>=1.0.1 (from matplotlib->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTestCopy/watchman\requirements.93.qha.txt (line 10))
+  Obtaining dependency information for contourpy>=1.0.1 from https://files.pythonhosted.org/packages/78/38/a046bb0ebce6f530175d434e7364149e338ffe1069ee286ed8ba7f6481ee/contourpy-1.2.1-cp312-cp312-win_amd64.whl.metadata
+  Downloading contourpy-1.2.1-cp312-cp312-win_amd64.whl.metadata (5.8 kB)
+Collecting cycler>=0.10 (from matplotlib->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTestCopy/watchman\requirements.93.qha.txt (line 10))
+  Obtaining dependency information for cycler>=0.10 from https://files.pythonhosted.org/packages/e7/05/c19819d5e3d95294a6f5947fb9b9629efb316b96de511b418c53d245aae6/cycler-0.12.1-py3-none-any.whl.metadata
+  Downloading cycler-0.12.1-py3-none-any.whl.metadata (3.8 kB)
+Collecting fonttools>=4.22.0 (from matplotlib->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTestCopy/watchman\requirements.93.qha.txt (line 10))
+  Obtaining dependency information for fonttools>=4.22.0 from https://files.pythonhosted.org/packages/6d/9a/b695930e1b4e6929cc60e294489421632a05c105ac8c56ee63ef56a47872/fonttools-4.53.1-cp312-cp312-win_amd64.whl.metadata
+  Downloading fonttools-4.53.1-cp312-cp312-win_amd64.whl.metadata (165 kB)
+     ------------------------------------- 165.9/165.9 kB 10.4 MB/s eta 0:00:00
+Collecting kiwisolver>=1.3.1 (from matplotlib->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTestCopy/watchman\requirements.93.qha.txt (line 10))
+  Obtaining dependency information for kiwisolver>=1.3.1 from https://files.pythonhosted.org/packages/63/50/2746566bdf4a6a842d117367d05c90cfb87ac04e9e2845aa1fa21f071362/kiwisolver-1.4.5-cp312-cp312-win_amd64.whl.metadata
+  Downloading kiwisolver-1.4.5-cp312-cp312-win_amd64.whl.metadata (6.5 kB)
+Collecting packaging>=20.0 (from matplotlib->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTestCopy/watchman\requirements.93.qha.txt (line 10))
+  Obtaining dependency information for packaging>=20.0 from https://files.pythonhosted.org/packages/08/aa/cc0199a5f0ad350994d660967a8efb233fe0416e4639146c089643407ce6/packaging-24.1-py3-none-any.whl.metadata
+  Downloading packaging-24.1-py3-none-any.whl.metadata (3.2 kB)
+Collecting pillow>=8 (from matplotlib->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTestCopy/watchman\requirements.93.qha.txt (line 10))
+  Obtaining dependency information for pillow>=8 from https://files.pythonhosted.org/packages/74/0a/d4ce3c44bca8635bd29a2eab5aa181b654a734a29b263ca8efe013beea98/pillow-10.4.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading pillow-10.4.0-cp312-cp312-win_amd64.whl.metadata (9.3 kB)
+Collecting pyparsing>=2.3.1 (from matplotlib->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTestCopy/watchman\requirements.93.qha.txt (line 10))
+  Obtaining dependency information for pyparsing>=2.3.1 from https://files.pythonhosted.org/packages/9d/ea/6d76df31432a0e6fdf81681a895f009a4bb47b3c39036db3e1b528191d52/pyparsing-3.1.2-py3-none-any.whl.metadata
+  Downloading pyparsing-3.1.2-py3-none-any.whl.metadata (5.1 kB)
+Downloading lazy_property-0.0.1-py2.py3-none-any.whl (2.4 kB)
+Downloading numba-0.60.0-cp312-cp312-win_amd64.whl (2.7 MB)
+   ---------------------------------------- 2.7/2.7 MB 21.6 MB/s eta 0:00:00
+Downloading numpy-2.0.0-cp312-cp312-win_amd64.whl (16.2 MB)
+   ---------------------------------------- 16.2/16.2 MB 12.4 MB/s eta 0:00:00
+Downloading pandas-2.2.2-cp312-cp312-win_amd64.whl (11.5 MB)
+   ---------------------------------------- 11.5/11.5 MB 17.7 MB/s eta 0:00:00
+Downloading scientific_string-0.1.0-py3-none-any.whl (4.0 kB)
+Downloading scipy-1.14.0-cp312-cp312-win_amd64.whl (44.5 MB)
+   ---------------------------------------- 44.5/44.5 MB 7.7 MB/s eta 0:00:00
+Downloading PyYAML-6.0.1-cp312-cp312-win_amd64.whl (138 kB)
+   ---------------------------------------- 138.7/138.7 kB 4.1 MB/s eta 0:00:00
+Downloading matplotlib-3.9.1-cp312-cp312-win_amd64.whl (8.0 MB)
+   ---------------------------------------- 8.0/8.0 MB 13.8 MB/s eta 0:00:00
+Downloading seaborn-0.13.2-py3-none-any.whl (294 kB)
+   ---------------------------------------- 294.9/294.9 kB 9.2 MB/s eta 0:00:00
+Downloading contourpy-1.2.1-cp312-cp312-win_amd64.whl (189 kB)
+   --------------------------------------- 189.9/189.9 kB 11.2 MB/s eta 0:00:00
+Downloading cycler-0.12.1-py3-none-any.whl (8.3 kB)
+Downloading fonttools-4.53.1-cp312-cp312-win_amd64.whl (2.2 MB)
+   ---------------------------------------- 2.2/2.2 MB 19.8 MB/s eta 0:00:00
+Downloading kiwisolver-1.4.5-cp312-cp312-win_amd64.whl (56 kB)
+   ---------------------------------------- 56.0/56.0 kB 3.1 MB/s eta 0:00:00
+Downloading llvmlite-0.43.0-cp312-cp312-win_amd64.whl (28.1 MB)
+   ---------------------------------------- 28.1/28.1 MB 8.3 MB/s eta 0:00:00
+Downloading packaging-24.1-py3-none-any.whl (53 kB)
+   ---------------------------------------- 54.0/54.0 kB 2.9 MB/s eta 0:00:00
+Downloading pillow-10.4.0-cp312-cp312-win_amd64.whl (2.6 MB)
+   ---------------------------------------- 2.6/2.6 MB 16.3 MB/s eta 0:00:00
+Downloading pyparsing-3.1.2-py3-none-any.whl (103 kB)
+   ---------------------------------------- 103.2/103.2 kB 5.8 MB/s eta 0:00:00
+Downloading python_dateutil-2.9.0.post0-py2.py3-none-any.whl (229 kB)
+   --------------------------------------- 229.9/229.9 kB 14.6 MB/s eta 0:00:00
+Downloading pytz-2024.1-py2.py3-none-any.whl (505 kB)
+   --------------------------------------- 505.5/505.5 kB 16.0 MB/s eta 0:00:00
+Downloading six-1.16.0-py2.py3-none-any.whl (11 kB)
+Downloading tzdata-2024.1-py2.py3-none-any.whl (345 kB)
+   ---------------------------------------- 345.4/345.4 kB 7.1 MB/s eta 0:00:00
+Would install PyYAML-6.0.1 bigfloat-0.4.0 contourpy-1.2.1 cycler-0.12.1 fonttools-4.53.1 kiwisolver-1.4.5 lazy-property-0.0.1 llvmlite-0.43.0 matplotlib-3.9.1 numba-0.60.0 numpy-2.0.0 packaging-24.1 pandas-2.2.2 pillow-10.4.0 pyparsing-3.1.2 python-dateutil-2.9.0.post0 pytz-2024.1 scientific-string-0.1.0 scipy-1.14.0 seaborn-0.13.2 six-1.16.0 text_stream-0.2.0 tzdata-2024.1
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

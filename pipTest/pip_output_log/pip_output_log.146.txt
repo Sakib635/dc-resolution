@@ -1,0 +1,102 @@
+Collecting cloudpickle<0.7.0,>=0.6.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.146.rasa.txt (line 1))
+  Obtaining dependency information for cloudpickle<0.7.0,>=0.6.1 from https://files.pythonhosted.org/packages/fc/87/7b7ef3038b4783911e3fdecb5c566e3a817ce3e890e164fc174c088edb1e/cloudpickle-0.6.1-py2.py3-none-any.whl.metadata
+  Downloading cloudpickle-0.6.1-py2.py3-none-any.whl.metadata (3.8 kB)
+Collecting gevent<1.3,>=1.2 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.146.rasa.txt (line 2))
+  Downloading gevent-1.2.2.tar.gz (3.1 MB)
+     ---------------------------------------- 3.1/3.1 MB 10.4 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting klein<17.11,>=17.10 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.146.rasa.txt (line 3))
+  Obtaining dependency information for klein<17.11,>=17.10 from https://files.pythonhosted.org/packages/8a/6b/adc97a7bb3fb781fdd9e49177ad873c1479f87b9745271cbeda81cbb9cc8/klein-17.10.0-py2.py3-none-any.whl.metadata
+  Downloading klein-17.10.0-py2.py3-none-any.whl.metadata (3.2 kB)
+Collecting boto3<1.6,>=1.5 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.146.rasa.txt (line 4))
+  Obtaining dependency information for boto3<1.6,>=1.5 from https://files.pythonhosted.org/packages/30/e2/7a6d16a80dcf2290411d2cf2545f224f174a0bd5c6e4508a55f3879232f3/boto3-1.5.36-py2.py3-none-any.whl.metadata
+  Downloading boto3-1.5.36-py2.py3-none-any.whl.metadata (5.0 kB)
+Collecting packaging<17.2,>=17.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.146.rasa.txt (line 5))
+  Obtaining dependency information for packaging<17.2,>=17.1 from https://files.pythonhosted.org/packages/ad/c2/b500ea05d5f9f361a562f089fc91f77ed3b4783e13a08a3daf82069b1224/packaging-17.1-py2.py3-none-any.whl.metadata
+  Downloading packaging-17.1-py2.py3-none-any.whl.metadata (6.6 kB)
+Collecting typing<3.7,>=3.6 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.146.rasa.txt (line 6))
+  Obtaining dependency information for typing<3.7,>=3.6 from https://files.pythonhosted.org/packages/4a/bd/eee1157fc2d8514970b345d69cb9975dcd1e42cd7e61146ed841f6e68309/typing-3.6.6-py3-none-any.whl.metadata
+  Downloading typing-3.6.6-py3-none-any.whl.metadata (1.8 kB)
+Collecting future<0.17.0,>=0.16.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.146.rasa.txt (line 7))
+  Downloading future-0.16.0.tar.gz (824 kB)
+     ------------------------------------- 824.5/824.5 kB 17.3 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting tqdm<4.20,>=4.19 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.146.rasa.txt (line 8))
+  Obtaining dependency information for tqdm<4.20,>=4.19 from https://files.pythonhosted.org/packages/b3/c4/b67cf1ab472b770e08e94105a0c7ca7032cd070627c435f5998c9cf6e64f/tqdm-4.19.9-py2.py3-none-any.whl.metadata
+  Downloading tqdm-4.19.9-py2.py3-none-any.whl.metadata (32 kB)
+Collecting requests<2.21,>=2.20 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.146.rasa.txt (line 9))
+  Obtaining dependency information for requests<2.21,>=2.20 from https://files.pythonhosted.org/packages/ff/17/5cbb026005115301a8fb2f9b0e3e8d32313142fe8b617070e7baad20554f/requests-2.20.1-py2.py3-none-any.whl.metadata
+  Downloading requests-2.20.1-py2.py3-none-any.whl.metadata (5.5 kB)
+Collecting jsonschema<2.7,>=2.6 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.146.rasa.txt (line 10))
+  Obtaining dependency information for jsonschema<2.7,>=2.6 from https://files.pythonhosted.org/packages/77/de/47e35a97b2b05c2fadbec67d44cfcdcd09b8086951b331d82de90d2912da/jsonschema-2.6.0-py2.py3-none-any.whl.metadata
+  Downloading jsonschema-2.6.0-py2.py3-none-any.whl.metadata (4.6 kB)
+Collecting matplotlib<2.1,>=2.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.146.rasa.txt (line 11))
+  Downloading matplotlib-2.0.2.tar.gz (53.9 MB)
+     ---------------------------------------- 53.9/53.9 MB 8.3 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'error'
+  error: subprocess-exited-with-error
+  
+  Getting requirements to build wheel did not run successfully.
+  exit code: 1
+  
+  [33 lines of output]
+  C:\Users\ASUS\AppData\Local\Temp\pip-install-pjsin3df\matplotlib_1d1d7c7933d7446f8d17b4d86351a895\setupext.py:2101: SyntaxWarning: invalid escape sequence '\.'
+    pattern = '(3\.1\d+)|(MiKTeX \d+.\d+)'
+  C:\Users\ASUS\AppData\Local\Temp\pip-install-pjsin3df\matplotlib_1d1d7c7933d7446f8d17b4d86351a895\versioneer.py:472: SyntaxWarning: invalid escape sequence '\s'
+    LONG_VERSION_PY['git'] = '''
+  Traceback (most recent call last):
+    File "D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 353, in <module>
+      main()
+    File "D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 335, in main
+      json_out['return_val'] = hook(**hook_input['kwargs'])
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 118, in get_requires_for_build_wheel
+      return hook(config_settings)
+             ^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-by0xpbtl\overlay\Lib\site-packages\setuptools\build_meta.py", line 327, in get_requires_for_build_wheel
+      return self._get_build_requires(config_settings, requirements=[])
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-by0xpbtl\overlay\Lib\site-packages\setuptools\build_meta.py", line 297, in _get_build_requires
+      self.run_setup()
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-by0xpbtl\overlay\Lib\site-packages\setuptools\build_meta.py", line 497, in run_setup
+      super().run_setup(setup_script=setup_script)
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-by0xpbtl\overlay\Lib\site-packages\setuptools\build_meta.py", line 313, in run_setup
+      exec(code, locals())
+    File "<string>", line 58, in <module>
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-install-pjsin3df\matplotlib_1d1d7c7933d7446f8d17b4d86351a895\versioneer.py", line 1410, in get_version
+      return get_versions()["version"]
+             ^^^^^^^^^^^^^^
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-install-pjsin3df\matplotlib_1d1d7c7933d7446f8d17b4d86351a895\versioneer.py", line 1344, in get_versions
+      cfg = get_config_from_root(root)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-install-pjsin3df\matplotlib_1d1d7c7933d7446f8d17b4d86351a895\versioneer.py", line 401, in get_config_from_root
+      parser = configparser.SafeConfigParser()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  AttributeError: module 'configparser' has no attribute 'SafeConfigParser'. Did you mean: 'RawConfigParser'?
+  [end of output]
+  
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+error: subprocess-exited-with-error
+
+Getting requirements to build wheel did not run successfully.
+exit code: 1
+
+See above for output.
+
+note: This error originates from a subprocess, and is likely not a problem with pip.
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: python.exe -m pip install --upgrade pip

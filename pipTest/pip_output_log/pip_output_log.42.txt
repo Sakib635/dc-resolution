@@ -1,0 +1,245 @@
+Collecting click<7.0,>=6.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.42.snapcraft.txt (line 1))
+  Obtaining dependency information for click<7.0,>=6.0 from https://files.pythonhosted.org/packages/34/c1/8806f99713ddb993c5366c362b2f908f18269f8d792aff1abfd700775a77/click-6.7-py2.py3-none-any.whl.metadata
+  Downloading click-6.7-py2.py3-none-any.whl.metadata (424 bytes)
+Collecting configparser==3.5.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.42.snapcraft.txt (line 2))
+  Downloading configparser-3.5.0.tar.gz (39 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting jsonschema==2.5.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.42.snapcraft.txt (line 3))
+  Obtaining dependency information for jsonschema==2.5.1 from https://files.pythonhosted.org/packages/bd/cc/5388547ea3504bd8cbf99ba2ae7a3231598f54038e9b228cbd174f8ec6a1/jsonschema-2.5.1-py2.py3-none-any.whl.metadata
+  Downloading jsonschema-2.5.1-py2.py3-none-any.whl.metadata (4.7 kB)
+Collecting progressbar33==2.4 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.42.snapcraft.txt (line 4))
+  Downloading progressbar33-2.4.tar.gz (10 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting PyYAML==3.13 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.42.snapcraft.txt (line 5))
+  Downloading PyYAML-3.13.tar.gz (270 kB)
+     -------------------------------------- 270.6/270.6 kB 3.3 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting pyxdg==0.25 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.42.snapcraft.txt (line 7))
+  Downloading pyxdg-0.25.tar.gz (48 kB)
+     ---------------------------------------- 48.9/48.9 kB 2.6 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting requests==2.20.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.42.snapcraft.txt (line 8))
+  Obtaining dependency information for requests==2.20.0 from https://files.pythonhosted.org/packages/f1/ca/10332a30cb25b627192b4ea272c351bce3ca1091e541245cccbace6051d8/requests-2.20.0-py2.py3-none-any.whl.metadata
+  Downloading requests-2.20.0-py2.py3-none-any.whl.metadata (5.6 kB)
+Collecting requests-unixsocket==0.1.5 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.42.snapcraft.txt (line 9))
+  Downloading requests-unixsocket-0.1.5.tar.gz (10 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Installing backend dependencies: started
+  Installing backend dependencies: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting requests-toolbelt==0.8.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.42.snapcraft.txt (line 10))
+  Obtaining dependency information for requests-toolbelt==0.8.0 from https://files.pythonhosted.org/packages/97/8a/d710f792d6f6ecc089c5e55b66e66c3f2f35516a1ede5a8f54c13350ffb0/requests_toolbelt-0.8.0-py2.py3-none-any.whl.metadata
+  Downloading requests_toolbelt-0.8.0-py2.py3-none-any.whl.metadata (12 kB)
+Collecting responses==0.5.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.42.snapcraft.txt (line 11))
+  Obtaining dependency information for responses==0.5.1 from https://files.pythonhosted.org/packages/60/ff/d99b0ef8e5169fbde76f9de6bcc7cad4e4b60e07ff8077cb64ad992314f8/responses-0.5.1-py2.py3-none-any.whl.metadata
+  Downloading responses-0.5.1-py2.py3-none-any.whl.metadata (5.9 kB)
+Collecting petname==1.12 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.42.snapcraft.txt (line 12))
+  Downloading petname-1.12.tar.gz (197 kB)
+     ------------------------------------- 197.1/197.1 kB 11.7 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting pyelftools==0.24 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.42.snapcraft.txt (line 13))
+  Downloading pyelftools-0.24.tar.gz (411 kB)
+     -------------------------------------- 411.9/411.9 kB 8.5 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting pylxd==2.2.9 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.42.snapcraft.txt (line 14))
+  Downloading pylxd-2.2.9.tar.gz (99 kB)
+     ---------------------------------------- 99.1/99.1 kB 5.6 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Installing backend dependencies: started
+  Installing backend dependencies: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting pymacaroons==0.9.2 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.42.snapcraft.txt (line 15))
+  Obtaining dependency information for pymacaroons==0.9.2 from https://files.pythonhosted.org/packages/22/01/9e4b6b45c890463779d470e5d46543d626b35bed0475bf8f0b1229151140/pymacaroons-0.9.2-py2.py3-none-any.whl.metadata
+  Downloading pymacaroons-0.9.2-py2.py3-none-any.whl.metadata (1.6 kB)
+Collecting pymacaroons-pynacl==0.9.3 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.42.snapcraft.txt (line 16))
+  Obtaining dependency information for pymacaroons-pynacl==0.9.3 from https://files.pythonhosted.org/packages/e3/c3/1e56bcddb5e4df44b2dd9791866ace4c00c96e4fd91794b0930871495d45/pymacaroons_pynacl-0.9.3-py2.py3-none-any.whl.metadata
+  Downloading pymacaroons_pynacl-0.9.3-py2.py3-none-any.whl.metadata (1.6 kB)
+Collecting pysha3==1.0.2 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.42.snapcraft.txt (line 17))
+  Downloading pysha3-1.0.2.tar.gz (829 kB)
+     ------------------------------------- 829.2/829.2 kB 13.2 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting raven==6.5.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.42.snapcraft.txt (line 18))
+  Obtaining dependency information for raven==6.5.0 from https://files.pythonhosted.org/packages/33/b3/d626d5136de3a5b7bf99a98cb983261baee30320fa220f7a5726dcafefbd/raven-6.5.0-py2.py3-none-any.whl.metadata
+  Downloading raven-6.5.0-py2.py3-none-any.whl.metadata (2.8 kB)
+Collecting simplejson==3.8.2 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.42.snapcraft.txt (line 19))
+  Downloading simplejson-3.8.2.tar.gz (76 kB)
+     ---------------------------------------- 76.6/76.6 kB 4.1 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting tabulate==0.7.5 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.42.snapcraft.txt (line 20))
+  Downloading tabulate-0.7.5.tar.gz (29 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting python-debian==0.1.28 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.42.snapcraft.txt (line 21))
+  Downloading python-debian-0.1.28.tar.gz (44 kB)
+     ---------------------------------------- 44.4/44.4 kB 2.3 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting chardet==3.0.4 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.42.snapcraft.txt (line 22))
+  Obtaining dependency information for chardet==3.0.4 from https://files.pythonhosted.org/packages/bc/a9/01ffebfb562e4274b6487b4bb1ddec7ca55ec7510b22e4c51f14098443b8/chardet-3.0.4-py2.py3-none-any.whl.metadata
+  Downloading chardet-3.0.4-py2.py3-none-any.whl.metadata (3.2 kB)
+Collecting cx_Freeze>=5.0.2 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.42.snapcraft.txt (line 23))
+  Obtaining dependency information for cx_Freeze>=5.0.2 from https://files.pythonhosted.org/packages/99/3e/c6f085b6483cae0492497424c5d07d7019a9e186bd3aa60d88003ecb7117/cx_Freeze-7.1.1-cp312-cp312-win_amd64.whl.metadata
+  Downloading cx_Freeze-7.1.1-cp312-cp312-win_amd64.whl.metadata (6.8 kB)
+Collecting lxml==4.3.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.42.snapcraft.txt (line 24))
+  Downloading lxml-4.3.0.tar.gz (2.5 MB)
+     ---------------------------------------- 2.5/2.5 MB 6.1 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting idna<2.8,>=2.5 (from requests==2.20.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.42.snapcraft.txt (line 8))
+  Obtaining dependency information for idna<2.8,>=2.5 from https://files.pythonhosted.org/packages/4b/2a/0276479a4b3caeb8a8c1af2f8e4355746a97fab05a372e4a2c6a6b876165/idna-2.7-py2.py3-none-any.whl.metadata
+  Downloading idna-2.7-py2.py3-none-any.whl.metadata (8.9 kB)
+Collecting urllib3<1.25,>=1.21.1 (from requests==2.20.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.42.snapcraft.txt (line 8))
+  Obtaining dependency information for urllib3<1.25,>=1.21.1 from https://files.pythonhosted.org/packages/01/11/525b02e4acc0c747de8b6ccdab376331597c569c42ea66ab0a1dbd36eca2/urllib3-1.24.3-py2.py3-none-any.whl.metadata
+  Downloading urllib3-1.24.3-py2.py3-none-any.whl.metadata (36 kB)
+Collecting certifi>=2017.4.17 (from requests==2.20.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.42.snapcraft.txt (line 8))
+  Obtaining dependency information for certifi>=2017.4.17 from https://files.pythonhosted.org/packages/1c/d5/c84e1a17bf61d4df64ca866a1c9a913874b4e9bdc131ec689a0ad013fb36/certifi-2024.7.4-py3-none-any.whl.metadata
+  Downloading certifi-2024.7.4-py3-none-any.whl.metadata (2.2 kB)
+Collecting cookies (from responses==0.5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.42.snapcraft.txt (line 11))
+  Obtaining dependency information for cookies from https://files.pythonhosted.org/packages/6a/60/557f84aa2db629e5124aa05408b975b1b5d0e1cec16cde0bfa06aae097d3/cookies-2.2.1-py2.py3-none-any.whl.metadata
+  Downloading cookies-2.2.1-py2.py3-none-any.whl.metadata (5.2 kB)
+Collecting six (from responses==0.5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.42.snapcraft.txt (line 11))
+  Obtaining dependency information for six from https://files.pythonhosted.org/packages/d9/5a/e7c31adbe875f2abbb91bd84cf2dc52d792b5a01506781dbcf25c91daf11/six-1.16.0-py2.py3-none-any.whl.metadata
+  Downloading six-1.16.0-py2.py3-none-any.whl.metadata (1.8 kB)
+Collecting pbr>=1.6 (from pylxd==2.2.9->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.42.snapcraft.txt (line 14))
+  Obtaining dependency information for pbr>=1.6 from https://files.pythonhosted.org/packages/64/dd/171c9fb653591cf265bcc89c436eec75c9bde3dec921cc236fa71e5698df/pbr-6.0.0-py2.py3-none-any.whl.metadata
+  Using cached pbr-6.0.0-py2.py3-none-any.whl.metadata (1.3 kB)
+Collecting python-dateutil>=2.4.2 (from pylxd==2.2.9->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.42.snapcraft.txt (line 14))
+  Obtaining dependency information for python-dateutil>=2.4.2 from https://files.pythonhosted.org/packages/ec/57/56b9bcc3c9c6a792fcbaf139543cee77261f3651ca9da0c93f5c1221264b/python_dateutil-2.9.0.post0-py2.py3-none-any.whl.metadata
+  Downloading python_dateutil-2.9.0.post0-py2.py3-none-any.whl.metadata (8.4 kB)
+Collecting ws4py!=0.3.5,>=0.3.4 (from pylxd==2.2.9->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.42.snapcraft.txt (line 14))
+  Downloading ws4py-0.5.1.tar.gz (51 kB)
+     ---------------------------------------- 51.4/51.4 kB ? eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting cryptography!=1.3.0,>=1.0 (from pylxd==2.2.9->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.42.snapcraft.txt (line 14))
+  Obtaining dependency information for cryptography!=1.3.0,>=1.0 from https://files.pythonhosted.org/packages/a2/7b/b0d330852dd5953daee6b15f742f15d9f18e9c0154eb4cfcc8718f0436da/cryptography-42.0.8-cp39-abi3-win_amd64.whl.metadata
+  Downloading cryptography-42.0.8-cp39-abi3-win_amd64.whl.metadata (5.4 kB)
+Collecting libnacl<1.4,>=1.3.6 (from pymacaroons==0.9.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.42.snapcraft.txt (line 15))
+  Downloading libnacl-1.3.6.tar.gz (25 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'error'
+  error: subprocess-exited-with-error
+  
+  Getting requirements to build wheel did not run successfully.
+  exit code: 1
+  
+  [39 lines of output]
+  Traceback (most recent call last):
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-install-i5qdyilc\libnacl_27be21a9a4ea4745915be660510d7cc1\libnacl\__init__.py", line 33, in _get_nacl
+      return ctypes.cdll.LoadLibrary('tweetnacl')
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Python312\Lib\ctypes\__init__.py", line 460, in LoadLibrary
+      return self._dlltype(name)
+             ^^^^^^^^^^^^^^^^^^^
+    File "C:\Python312\Lib\ctypes\__init__.py", line 379, in __init__
+      self._handle = _dlopen(self._name, mode)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^
+  FileNotFoundError: Could not find module 'tweetnacl' (or one of its dependencies). Try using the full path with constructor syntax.
+  
+  During handling of the above exception, another exception occurred:
+  
+  Traceback (most recent call last):
+    File "D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 353, in <module>
+      main()
+    File "D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 335, in main
+      json_out['return_val'] = hook(**hook_input['kwargs'])
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 118, in get_requires_for_build_wheel
+      return hook(config_settings)
+             ^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-ihb0i13v\overlay\Lib\site-packages\setuptools\build_meta.py", line 327, in get_requires_for_build_wheel
+      return self._get_build_requires(config_settings, requirements=[])
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-ihb0i13v\overlay\Lib\site-packages\setuptools\build_meta.py", line 297, in _get_build_requires
+      self.run_setup()
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-ihb0i13v\overlay\Lib\site-packages\setuptools\build_meta.py", line 497, in run_setup
+      super().run_setup(setup_script=setup_script)
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-ihb0i13v\overlay\Lib\site-packages\setuptools\build_meta.py", line 313, in run_setup
+      exec(code, locals())
+    File "<string>", line 7, in <module>
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-install-i5qdyilc\libnacl_27be21a9a4ea4745915be660510d7cc1\libnacl\__init__.py", line 70, in <module>
+      nacl = _get_nacl()
+             ^^^^^^^^^^^
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-install-i5qdyilc\libnacl_27be21a9a4ea4745915be660510d7cc1\libnacl\__init__.py", line 37, in _get_nacl
+      raise OSError(msg)
+  OSError: Could not locate nacl lib, searched for libsodium, tweetnacl
+  [end of output]
+  
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+error: subprocess-exited-with-error
+
+Getting requirements to build wheel did not run successfully.
+exit code: 1
+
+See above for output.
+
+note: This error originates from a subprocess, and is likely not a problem with pip.
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: python.exe -m pip install --upgrade pip

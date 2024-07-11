@@ -1,0 +1,6 @@
+coverage
+freezegun
+mock
+nose
+requests
+sure

@@ -1,0 +1,4 @@
+threadloop>=1,<2
+thrift
+tornado>=4.3,<5
+opentracing>=1.2.2,<2

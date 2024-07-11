@@ -1,0 +1,26 @@
+Collecting ansimarkup>=1.4.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.162.loguru.txt (line 1))
+  Obtaining dependency information for ansimarkup>=1.4.0 from https://files.pythonhosted.org/packages/60/99/878823a360a0bd9ae034d39fe37f8fdd976de8da642c2ec608f093efc273/ansimarkup-2.1.0-py3-none-any.whl.metadata
+  Downloading ansimarkup-2.1.0-py3-none-any.whl.metadata (11 kB)
+Collecting better_exceptions_fork>=0.2.1.post6 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.162.loguru.txt (line 2))
+  Downloading better_exceptions_fork-0.2.1.post6.tar.gz (49 kB)
+     -------------------------------------- 49.8/49.8 kB 507.6 kB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting colorama>=0.4.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.162.loguru.txt (line 3))
+  Obtaining dependency information for colorama>=0.4.1 from https://files.pythonhosted.org/packages/d1/d6/3965ed04c63042e047cb6a3e6ed1a63a35087b6a609aa3a15ed8ac56c221/colorama-0.4.6-py2.py3-none-any.whl.metadata
+  Downloading colorama-0.4.6-py2.py3-none-any.whl.metadata (17 kB)
+Collecting pygments>=2.2.0 (from better_exceptions_fork>=0.2.1.post6->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.162.loguru.txt (line 2))
+  Obtaining dependency information for pygments>=2.2.0 from https://files.pythonhosted.org/packages/f7/3f/01c8b82017c199075f8f788d0d906b9ffbbc5a47dc9918a945e13d5a2bda/pygments-2.18.0-py3-none-any.whl.metadata
+  Downloading pygments-2.18.0-py3-none-any.whl.metadata (2.5 kB)
+Downloading ansimarkup-2.1.0-py3-none-any.whl (11 kB)
+Downloading colorama-0.4.6-py2.py3-none-any.whl (25 kB)
+Downloading pygments-2.18.0-py3-none-any.whl (1.2 MB)
+   ---------------------------------------- 1.2/1.2 MB 8.5 MB/s eta 0:00:00
+Would install Pygments-2.18.0 ansimarkup-2.1.0 better_exceptions_fork-0.2.1.post6 colorama-0.4.6
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: python.exe -m pip install --upgrade pip

@@ -1,0 +1,92 @@
+Collecting argparse==1.4.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.19.ckan.txt (line 1))
+  Obtaining dependency information for argparse==1.4.0 from https://files.pythonhosted.org/packages/f2/94/3af39d34be01a24a6e65433d19e107099374224905f1e0cc6bbe1fd22a2f/argparse-1.4.0-py2.py3-none-any.whl.metadata
+  Downloading argparse-1.4.0-py2.py3-none-any.whl.metadata (2.8 kB)
+Collecting babel==2.3.4 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.19.ckan.txt (line 2))
+  Obtaining dependency information for babel==2.3.4 from https://files.pythonhosted.org/packages/b4/ec/acd307eac2e23f9cab1c8bdbe29b3b1d43215e31c32f8aa91b3a97925b5b/Babel-2.3.4-py2.py3-none-any.whl.metadata
+  Downloading Babel-2.3.4-py2.py3-none-any.whl.metadata (1.0 kB)
+Collecting beaker==1.10.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.19.ckan.txt (line 3))
+  Downloading Beaker-1.10.0.tar.gz (41 kB)
+     -------------------------------------- 41.0/41.0 kB 331.0 kB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting bleach==3.0.2 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.19.ckan.txt (line 4))
+  Obtaining dependency information for bleach==3.0.2 from https://files.pythonhosted.org/packages/d4/0d/4696373c3b714f6022d668fbab619690a42050dbeacede6d10ed97fbd3e2/bleach-3.0.2-py2.py3-none-any.whl.metadata
+  Downloading bleach-3.0.2-py2.py3-none-any.whl.metadata (18 kB)
+Collecting certifi==2018.10.15 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.19.ckan.txt (line 5))
+  Obtaining dependency information for certifi==2018.10.15 from https://files.pythonhosted.org/packages/56/9d/1d02dd80bc4cd955f98980f28c5ee2200e1209292d5f9e9cc8d030d18655/certifi-2018.10.15-py2.py3-none-any.whl.metadata
+  Downloading certifi-2018.10.15-py2.py3-none-any.whl.metadata (2.6 kB)
+Collecting chardet==3.0.4 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.19.ckan.txt (line 6))
+  Obtaining dependency information for chardet==3.0.4 from https://files.pythonhosted.org/packages/bc/a9/01ffebfb562e4274b6487b4bb1ddec7ca55ec7510b22e4c51f14098443b8/chardet-3.0.4-py2.py3-none-any.whl.metadata
+  Downloading chardet-3.0.4-py2.py3-none-any.whl.metadata (3.2 kB)
+Collecting click==6.7 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.19.ckan.txt (line 7))
+  Obtaining dependency information for click==6.7 from https://files.pythonhosted.org/packages/34/c1/8806f99713ddb993c5366c362b2f908f18269f8d792aff1abfd700775a77/click-6.7-py2.py3-none-any.whl.metadata
+  Downloading click-6.7-py2.py3-none-any.whl.metadata (424 bytes)
+Collecting decorator==4.3.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.19.ckan.txt (line 8))
+  Obtaining dependency information for decorator==4.3.0 from https://files.pythonhosted.org/packages/bc/bb/a24838832ba35baf52f32ab1a49b906b5f82fb7c76b2f6a7e35e140bac30/decorator-4.3.0-py2.py3-none-any.whl.metadata
+  Downloading decorator-4.3.0-py2.py3-none-any.whl.metadata (2.7 kB)
+Collecting fanstatic==0.12 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.19.ckan.txt (line 9))
+  Downloading fanstatic-0.12.tar.gz (63 kB)
+     ---------------------------------------- 63.3/63.3 kB 1.7 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting flask-babel==0.11.2 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.19.ckan.txt (line 10))
+  Obtaining dependency information for flask-babel==0.11.2 from https://files.pythonhosted.org/packages/c6/1b/ce9253dc6a71ede1d7b19cd280f7a21219b47ac75005dd97bcfbdbe8eab9/Flask_Babel-0.11.2-py2.py3-none-any.whl.metadata
+  Downloading Flask_Babel-0.11.2-py2.py3-none-any.whl.metadata (1.1 kB)
+Collecting flask==0.12.4 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.19.ckan.txt (line 11))
+  Obtaining dependency information for flask==0.12.4 from https://files.pythonhosted.org/packages/2e/48/f1936dadac2326b3d73f2fe0a964a87d16be16eb9d7fc56f09c1bea3d17c/Flask-0.12.4-py2.py3-none-any.whl.metadata
+  Downloading Flask-0.12.4-py2.py3-none-any.whl.metadata (1.9 kB)
+Collecting formencode==1.3.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.19.ckan.txt (line 12))
+  Downloading FormEncode-1.3.1.tar.gz (197 kB)
+     -------------------------------------- 197.3/197.3 kB 5.8 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'error'
+  error: subprocess-exited-with-error
+  
+  Getting requirements to build wheel did not run successfully.
+  exit code: 1
+  
+  [20 lines of output]
+  Traceback (most recent call last):
+    File "D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 353, in <module>
+      main()
+    File "D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 335, in main
+      json_out['return_val'] = hook(**hook_input['kwargs'])
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 118, in get_requires_for_build_wheel
+      return hook(config_settings)
+             ^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-mgzls4kv\overlay\Lib\site-packages\setuptools\build_meta.py", line 327, in get_requires_for_build_wheel
+      return self._get_build_requires(config_settings, requirements=[])
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-mgzls4kv\overlay\Lib\site-packages\setuptools\build_meta.py", line 297, in _get_build_requires
+      self.run_setup()
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-mgzls4kv\overlay\Lib\site-packages\setuptools\build_meta.py", line 497, in run_setup
+      super().run_setup(setup_script=setup_script)
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-mgzls4kv\overlay\Lib\site-packages\setuptools\build_meta.py", line 313, in run_setup
+      exec(code, locals())
+    File "<string>", line 15, in <module>
+  ImportError: Python version not supported
+  [end of output]
+  
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+error: subprocess-exited-with-error
+
+Getting requirements to build wheel did not run successfully.
+exit code: 1
+
+See above for output.
+
+note: This error originates from a subprocess, and is likely not a problem with pip.
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: python.exe -m pip install --upgrade pip

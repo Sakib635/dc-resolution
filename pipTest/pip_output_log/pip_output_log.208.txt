@@ -1,0 +1,284 @@
+Collecting future (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.208.bookstore.txt (line 1))
+  Obtaining dependency information for future from https://files.pythonhosted.org/packages/da/71/ae30dadffc90b9006d77af76b393cb9dfbfc9629f339fc1574a1c52e6806/future-1.0.0-py3-none-any.whl.metadata
+  Downloading future-1.0.0-py3-none-any.whl.metadata (4.0 kB)
+Collecting futures (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.208.bookstore.txt (line 2))
+  Downloading futures-3.0.5.tar.gz (25 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting ipython>=5.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.208.bookstore.txt (line 3))
+  Obtaining dependency information for ipython>=5.0 from https://files.pythonhosted.org/packages/73/48/4d2818054671bb272d1b12ca65748a4145dc602a463683b5c21b260becee/ipython-8.26.0-py3-none-any.whl.metadata
+  Downloading ipython-8.26.0-py3-none-any.whl.metadata (5.0 kB)
+Collecting notebook (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.208.bookstore.txt (line 4))
+  Obtaining dependency information for notebook from https://files.pythonhosted.org/packages/32/b4/b0cdaf52c35a3a40633136bee5152d6670acb555c698d23a3458dca65781/notebook-7.2.1-py3-none-any.whl.metadata
+  Downloading notebook-7.2.1-py3-none-any.whl.metadata (10 kB)
+Collecting s3fs (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.208.bookstore.txt (line 5))
+  Obtaining dependency information for s3fs from https://files.pythonhosted.org/packages/d6/00/f933f6e3d669d4532bc88ada9508e5b873d8768cb54e16563b13f4e968a7/s3fs-2024.6.1-py3-none-any.whl.metadata
+  Downloading s3fs-2024.6.1-py3-none-any.whl.metadata (1.6 kB)
+Collecting tornado>=5.1.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.208.bookstore.txt (line 6))
+  Obtaining dependency information for tornado>=5.1.1 from https://files.pythonhosted.org/packages/d9/2f/3f2f05e84a7aff787a96d5fb06821323feb370fe0baed4db6ea7b1088f32/tornado-6.4.1-cp38-abi3-win_amd64.whl.metadata
+  Downloading tornado-6.4.1-cp38-abi3-win_amd64.whl.metadata (2.6 kB)
+Collecting aiobotocore==0.10.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.208.bookstore.txt (line 7))
+  Obtaining dependency information for aiobotocore==0.10.0 from https://files.pythonhosted.org/packages/f4/8b/07d1115c83df7f3901a2a351eb347a23fe4e7ddfcf3190b8158854e3f765/aiobotocore-0.10.0-py3-none-any.whl.metadata
+  Downloading aiobotocore-0.10.0-py3-none-any.whl.metadata (9.8 kB)
+Collecting aiohttp==3.3.2 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.208.bookstore.txt (line 8))
+  Downloading aiohttp-3.3.2.tar.gz (771 kB)
+     -------------------------------------- 771.4/771.4 kB 6.9 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting botocore==1.12.49 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.208.bookstore.txt (line 9))
+  Obtaining dependency information for botocore==1.12.49 from https://files.pythonhosted.org/packages/9f/92/ef02dcb2ba6bf95e96b68884a94d3e66e81093aac3b358d95898f07fda20/botocore-1.12.49-py2.py3-none-any.whl.metadata
+  Downloading botocore-1.12.49-py2.py3-none-any.whl.metadata (2.9 kB)
+Collecting boto3==1.9.49 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.208.bookstore.txt (line 10))
+  Obtaining dependency information for boto3==1.9.49 from https://files.pythonhosted.org/packages/ab/ba/34037d2a97f6b1bc7dd6de4aefcf1633225993571dcb7372d4777c05716e/boto3-1.9.49-py2.py3-none-any.whl.metadata
+  Downloading boto3-1.9.49-py2.py3-none-any.whl.metadata (4.8 kB)
+Collecting awscli==1.16.59 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.208.bookstore.txt (line 11))
+  Obtaining dependency information for awscli==1.16.59 from https://files.pythonhosted.org/packages/ef/cc/d8f288b5b450e59b92c460727012ee002925324bc655255a9945a45ab9ad/awscli-1.16.59-py2.py3-none-any.whl.metadata
+  Downloading awscli-1.16.59-py2.py3-none-any.whl.metadata (19 kB)
+Collecting wrapt>=1.10.10 (from aiobotocore==0.10.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.208.bookstore.txt (line 7))
+  Obtaining dependency information for wrapt>=1.10.10 from https://files.pythonhosted.org/packages/5c/cc/8297f9658506b224aa4bd71906447dea6bb0ba629861a758c28f67428b91/wrapt-1.16.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading wrapt-1.16.0-cp312-cp312-win_amd64.whl.metadata (6.8 kB)
+Collecting attrs>=17.3.0 (from aiohttp==3.3.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.208.bookstore.txt (line 8))
+  Obtaining dependency information for attrs>=17.3.0 from https://files.pythonhosted.org/packages/e0/44/827b2a91a5816512fcaf3cc4ebc465ccd5d598c45cefa6703fcf4a79018f/attrs-23.2.0-py3-none-any.whl.metadata
+  Downloading attrs-23.2.0-py3-none-any.whl.metadata (9.5 kB)
+Collecting chardet<4.0,>=2.0 (from aiohttp==3.3.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.208.bookstore.txt (line 8))
+  Obtaining dependency information for chardet<4.0,>=2.0 from https://files.pythonhosted.org/packages/bc/a9/01ffebfb562e4274b6487b4bb1ddec7ca55ec7510b22e4c51f14098443b8/chardet-3.0.4-py2.py3-none-any.whl.metadata
+  Downloading chardet-3.0.4-py2.py3-none-any.whl.metadata (3.2 kB)
+Collecting multidict<5.0,>=4.0 (from aiohttp==3.3.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.208.bookstore.txt (line 8))
+  Downloading multidict-4.7.6.tar.gz (50 kB)
+     ---------------------------------------- 51.0/51.0 kB 2.5 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting async-timeout<4.0,>=3.0 (from aiohttp==3.3.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.208.bookstore.txt (line 8))
+  Obtaining dependency information for async-timeout<4.0,>=3.0 from https://files.pythonhosted.org/packages/e1/1e/5a4441be21b0726c4464f3f23c8b19628372f606755a9d2e46c187e65ec4/async_timeout-3.0.1-py3-none-any.whl.metadata
+  Downloading async_timeout-3.0.1-py3-none-any.whl.metadata (4.0 kB)
+Collecting yarl<2.0,>=1.0 (from aiohttp==3.3.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.208.bookstore.txt (line 8))
+  Obtaining dependency information for yarl<2.0,>=1.0 from https://files.pythonhosted.org/packages/c5/f4/2fdc5a11503bc61818243653d836061c9ce0370e2dd9ac5917258a007675/yarl-1.9.4-cp312-cp312-win_amd64.whl.metadata
+  Downloading yarl-1.9.4-cp312-cp312-win_amd64.whl.metadata (32 kB)
+Collecting python-dateutil<3.0.0,>=2.1 (from botocore==1.12.49->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.208.bookstore.txt (line 9))
+  Obtaining dependency information for python-dateutil<3.0.0,>=2.1 from https://files.pythonhosted.org/packages/ec/57/56b9bcc3c9c6a792fcbaf139543cee77261f3651ca9da0c93f5c1221264b/python_dateutil-2.9.0.post0-py2.py3-none-any.whl.metadata
+  Downloading python_dateutil-2.9.0.post0-py2.py3-none-any.whl.metadata (8.4 kB)
+Collecting jmespath<1.0.0,>=0.7.1 (from botocore==1.12.49->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.208.bookstore.txt (line 9))
+  Obtaining dependency information for jmespath<1.0.0,>=0.7.1 from https://files.pythonhosted.org/packages/07/cb/5f001272b6faeb23c1c9e0acc04d48eaaf5c862c17709d20e3469c6e0139/jmespath-0.10.0-py2.py3-none-any.whl.metadata
+  Downloading jmespath-0.10.0-py2.py3-none-any.whl.metadata (8.0 kB)
+Collecting docutils>=0.10 (from botocore==1.12.49->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.208.bookstore.txt (line 9))
+  Obtaining dependency information for docutils>=0.10 from https://files.pythonhosted.org/packages/8f/d7/9322c609343d929e75e7e5e6255e614fcc67572cfd083959cdef3b7aad79/docutils-0.21.2-py3-none-any.whl.metadata
+  Downloading docutils-0.21.2-py3-none-any.whl.metadata (2.8 kB)
+Collecting urllib3<1.25,>=1.20 (from botocore==1.12.49->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.208.bookstore.txt (line 9))
+  Obtaining dependency information for urllib3<1.25,>=1.20 from https://files.pythonhosted.org/packages/01/11/525b02e4acc0c747de8b6ccdab376331597c569c42ea66ab0a1dbd36eca2/urllib3-1.24.3-py2.py3-none-any.whl.metadata
+  Downloading urllib3-1.24.3-py2.py3-none-any.whl.metadata (36 kB)
+Collecting s3transfer<0.2.0,>=0.1.10 (from boto3==1.9.49->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.208.bookstore.txt (line 10))
+  Obtaining dependency information for s3transfer<0.2.0,>=0.1.10 from https://files.pythonhosted.org/packages/d7/14/2a0004d487464d120c9fb85313a75cd3d71a7506955be458eebfe19a6b1d/s3transfer-0.1.13-py2.py3-none-any.whl.metadata
+  Downloading s3transfer-0.1.13-py2.py3-none-any.whl.metadata (1.6 kB)
+Collecting colorama<=0.3.9,>=0.2.5 (from awscli==1.16.59->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.208.bookstore.txt (line 11))
+  Obtaining dependency information for colorama<=0.3.9,>=0.2.5 from https://files.pythonhosted.org/packages/db/c8/7dcf9dbcb22429512708fe3a547f8b6101c0d02137acbd892505aee57adf/colorama-0.3.9-py2.py3-none-any.whl.metadata
+  Downloading colorama-0.3.9-py2.py3-none-any.whl.metadata (13 kB)
+Collecting rsa<=3.5.0,>=3.1.2 (from awscli==1.16.59->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.208.bookstore.txt (line 11))
+  Obtaining dependency information for rsa<=3.5.0,>=3.1.2 from https://files.pythonhosted.org/packages/e1/ae/baedc9cb175552e95f3395c43055a6a5e125ae4d48a1d7a924baca83e92e/rsa-3.4.2-py2.py3-none-any.whl.metadata
+  Downloading rsa-3.4.2-py2.py3-none-any.whl.metadata (996 bytes)
+Collecting PyYAML<=3.13,>=3.10 (from awscli==1.16.59->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.208.bookstore.txt (line 11))
+  Downloading PyYAML-3.13.tar.gz (270 kB)
+     -------------------------------------- 270.6/270.6 kB 8.4 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting decorator (from ipython>=5.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.208.bookstore.txt (line 3))
+  Obtaining dependency information for decorator from https://files.pythonhosted.org/packages/d5/50/83c593b07763e1161326b3b8c6686f0f4b0f24d5526546bee538c89837d6/decorator-5.1.1-py3-none-any.whl.metadata
+  Downloading decorator-5.1.1-py3-none-any.whl.metadata (4.0 kB)
+Collecting jedi>=0.16 (from ipython>=5.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.208.bookstore.txt (line 3))
+  Obtaining dependency information for jedi>=0.16 from https://files.pythonhosted.org/packages/20/9f/bc63f0f0737ad7a60800bfd472a4836661adae21f9c2535f3957b1e54ceb/jedi-0.19.1-py2.py3-none-any.whl.metadata
+  Downloading jedi-0.19.1-py2.py3-none-any.whl.metadata (22 kB)
+Collecting matplotlib-inline (from ipython>=5.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.208.bookstore.txt (line 3))
+  Obtaining dependency information for matplotlib-inline from https://files.pythonhosted.org/packages/8f/8e/9ad090d3553c280a8060fbf6e24dc1c0c29704ee7d1c372f0c174aa59285/matplotlib_inline-0.1.7-py3-none-any.whl.metadata
+  Downloading matplotlib_inline-0.1.7-py3-none-any.whl.metadata (3.9 kB)
+Collecting prompt-toolkit<3.1.0,>=3.0.41 (from ipython>=5.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.208.bookstore.txt (line 3))
+  Obtaining dependency information for prompt-toolkit<3.1.0,>=3.0.41 from https://files.pythonhosted.org/packages/e8/23/22750c4b768f09386d1c3cc4337953e8936f48a888fa6dddfb669b2c9088/prompt_toolkit-3.0.47-py3-none-any.whl.metadata
+  Downloading prompt_toolkit-3.0.47-py3-none-any.whl.metadata (6.4 kB)
+Collecting pygments>=2.4.0 (from ipython>=5.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.208.bookstore.txt (line 3))
+  Obtaining dependency information for pygments>=2.4.0 from https://files.pythonhosted.org/packages/f7/3f/01c8b82017c199075f8f788d0d906b9ffbbc5a47dc9918a945e13d5a2bda/pygments-2.18.0-py3-none-any.whl.metadata
+  Downloading pygments-2.18.0-py3-none-any.whl.metadata (2.5 kB)
+Collecting stack-data (from ipython>=5.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.208.bookstore.txt (line 3))
+  Obtaining dependency information for stack-data from https://files.pythonhosted.org/packages/f1/7b/ce1eafaf1a76852e2ec9b22edecf1daa58175c090266e9f6c64afcd81d91/stack_data-0.6.3-py3-none-any.whl.metadata
+  Downloading stack_data-0.6.3-py3-none-any.whl.metadata (18 kB)
+Collecting traitlets>=5.13.0 (from ipython>=5.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.208.bookstore.txt (line 3))
+  Obtaining dependency information for traitlets>=5.13.0 from https://files.pythonhosted.org/packages/00/c0/8f5d070730d7836adc9c9b6408dec68c6ced86b304a9b26a14df072a6e8c/traitlets-5.14.3-py3-none-any.whl.metadata
+  Downloading traitlets-5.14.3-py3-none-any.whl.metadata (10 kB)
+Collecting jupyter-server<3,>=2.4.0 (from notebook->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.208.bookstore.txt (line 4))
+  Obtaining dependency information for jupyter-server<3,>=2.4.0 from https://files.pythonhosted.org/packages/26/f5/be75c159deda5b54e15cf54029915ad28337fcfef402d671566c45f9e61f/jupyter_server-2.14.1-py3-none-any.whl.metadata
+  Downloading jupyter_server-2.14.1-py3-none-any.whl.metadata (8.4 kB)
+Collecting jupyterlab-server<3,>=2.27.1 (from notebook->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.208.bookstore.txt (line 4))
+  Obtaining dependency information for jupyterlab-server<3,>=2.27.1 from https://files.pythonhosted.org/packages/cb/46/d5ffd7c0f63db4e9f0982c3d58efeea10fc5f47e79fb328431df78843772/jupyterlab_server-2.27.2-py3-none-any.whl.metadata
+  Downloading jupyterlab_server-2.27.2-py3-none-any.whl.metadata (5.9 kB)
+Collecting jupyterlab<4.3,>=4.2.0 (from notebook->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.208.bookstore.txt (line 4))
+  Obtaining dependency information for jupyterlab<4.3,>=4.2.0 from https://files.pythonhosted.org/packages/2d/d1/69edb0a70473089057afc1e10936a743d985f5f80774da982f47b84c4d55/jupyterlab-4.2.3-py3-none-any.whl.metadata
+  Downloading jupyterlab-4.2.3-py3-none-any.whl.metadata (16 kB)
+Collecting notebook-shim<0.3,>=0.2 (from notebook->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.208.bookstore.txt (line 4))
+  Obtaining dependency information for notebook-shim<0.3,>=0.2 from https://files.pythonhosted.org/packages/f9/33/bd5b9137445ea4b680023eb0469b2bb969d61303dedb2aac6560ff3d14a1/notebook_shim-0.2.4-py3-none-any.whl.metadata
+  Downloading notebook_shim-0.2.4-py3-none-any.whl.metadata (4.0 kB)
+INFO: pip is looking at multiple versions of s3fs to determine which version is compatible with other requirements. This could take a while.
+Collecting s3fs (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.208.bookstore.txt (line 5))
+  Obtaining dependency information for s3fs from https://files.pythonhosted.org/packages/57/ec/c1de85ae00a06613d65f9681098801de1e9922acdc09310047864fb89485/s3fs-2024.6.0-py3-none-any.whl.metadata
+  Downloading s3fs-2024.6.0-py3-none-any.whl.metadata (1.6 kB)
+  Obtaining dependency information for s3fs from https://files.pythonhosted.org/packages/48/da/8e924dcfe126e402f0c6d967368ceddab9519ee0292ea2312f212722cb1e/s3fs-2024.5.0-py3-none-any.whl.metadata
+  Downloading s3fs-2024.5.0-py3-none-any.whl.metadata (1.6 kB)
+  Obtaining dependency information for s3fs from https://files.pythonhosted.org/packages/a2/dc/b373f0cfdc67a6b23bc80d0e743b8adf125f4066b39172acb4bb2b90e6be/s3fs-2024.3.1-py3-none-any.whl.metadata
+  Downloading s3fs-2024.3.1-py3-none-any.whl.metadata (1.6 kB)
+  Obtaining dependency information for s3fs from https://files.pythonhosted.org/packages/72/45/02935f47f1a180982555a1c53e63444aa1c7d48db60a9880867bb64c1e2e/s3fs-2024.3.0-py3-none-any.whl.metadata
+  Downloading s3fs-2024.3.0-py3-none-any.whl.metadata (1.6 kB)
+  Obtaining dependency information for s3fs from https://files.pythonhosted.org/packages/7c/76/efa5f84237620d5aa38e58285945b47449d8a94bf7037cae06f680b34c41/s3fs-2024.2.0-py3-none-any.whl.metadata
+  Downloading s3fs-2024.2.0-py3-none-any.whl.metadata (1.6 kB)
+  Obtaining dependency information for s3fs from https://files.pythonhosted.org/packages/5b/d6/b8a748b7d3fc7b0fd2ede1cf26a80281d65cc24d5d56b66c3a4c87e256e2/s3fs-2023.12.2-py3-none-any.whl.metadata
+  Downloading s3fs-2023.12.2-py3-none-any.whl.metadata (1.6 kB)
+  Obtaining dependency information for s3fs from https://files.pythonhosted.org/packages/78/f9/dc65842d80fa01d6cd9dcae7efb17c7789a0be6436aabbea4ae8b07c4682/s3fs-2023.12.1-py3-none-any.whl.metadata
+  Downloading s3fs-2023.12.1-py3-none-any.whl.metadata (1.6 kB)
+INFO: pip is still looking at multiple versions of s3fs to determine which version is compatible with other requirements. This could take a while.
+  Obtaining dependency information for s3fs from https://files.pythonhosted.org/packages/55/d1/7d6279cf80ed186a35a884fa2c22b5423611609bcca9296e47bfed0da27b/s3fs-2023.10.0-py3-none-any.whl.metadata
+  Downloading s3fs-2023.10.0-py3-none-any.whl.metadata (1.6 kB)
+  Obtaining dependency information for s3fs from https://files.pythonhosted.org/packages/36/93/8aed66523d90361211a02dc0435855cc1ef357978decc2b05c8291fc515f/s3fs-2023.9.2-py3-none-any.whl.metadata
+  Downloading s3fs-2023.9.2-py3-none-any.whl.metadata (1.6 kB)
+  Obtaining dependency information for s3fs from https://files.pythonhosted.org/packages/51/dc/ef0a84b2d7d03e042bdced0a5bab9cfee1e11a0080f010e43b37222784ce/s3fs-2023.9.1-py3-none-any.whl.metadata
+  Downloading s3fs-2023.9.1-py3-none-any.whl.metadata (1.6 kB)
+  Obtaining dependency information for s3fs from https://files.pythonhosted.org/packages/98/19/fb5e526056deefe616530678462b02bb457089eb5bf50d47e84e105d0c6f/s3fs-2023.9.0-py3-none-any.whl.metadata
+  Downloading s3fs-2023.9.0-py3-none-any.whl.metadata (1.6 kB)
+  Obtaining dependency information for s3fs from https://files.pythonhosted.org/packages/34/d0/9dbfa30e20ed5176fd4bbbd3d69b80e465025b594e63dad7402a4130e0c1/s3fs-2023.6.0-py3-none-any.whl.metadata
+  Downloading s3fs-2023.6.0-py3-none-any.whl.metadata (1.6 kB)
+INFO: This is taking longer than usual. You might need to provide the dependency resolver with stricter constraints to reduce runtime. See https://pip.pypa.io/warnings/backtracking for guidance. If you want to abort this run, press Ctrl + C.
+  Obtaining dependency information for s3fs from https://files.pythonhosted.org/packages/3a/04/c1ed8ae87a3ea12f7ccfe1376d7ae338f1bc1f03d1581b5db395776047d6/s3fs-2023.5.0-py3-none-any.whl.metadata
+  Downloading s3fs-2023.5.0-py3-none-any.whl.metadata (1.6 kB)
+  Obtaining dependency information for s3fs from https://files.pythonhosted.org/packages/a8/f7/0225656c90c7cea36c38f7e15904e60033af58527c5cee48a0d477ef35d8/s3fs-2023.4.0-py3-none-any.whl.metadata
+  Downloading s3fs-2023.4.0-py3-none-any.whl.metadata (1.6 kB)
+  Obtaining dependency information for s3fs from https://files.pythonhosted.org/packages/6a/ed/c2497531421ee4ea1e244878070796e25a8d734cd2615634bb4a5bfecb15/s3fs-2023.3.0-py3-none-any.whl.metadata
+  Downloading s3fs-2023.3.0-py3-none-any.whl.metadata (1.6 kB)
+  Obtaining dependency information for s3fs from https://files.pythonhosted.org/packages/23/17/890cd0304664f2809922938640940b906685e377a1ac72225ef93d9d33a6/s3fs-2023.1.0-py3-none-any.whl.metadata
+  Downloading s3fs-2023.1.0-py3-none-any.whl.metadata (1.5 kB)
+  Obtaining dependency information for s3fs from https://files.pythonhosted.org/packages/04/5c/6a5696e6e0fc30cfab334ed47e7e04707a6efd0ac1fe24158f5969fb4ef8/s3fs-2022.11.0-py3-none-any.whl.metadata
+  Downloading s3fs-2022.11.0-py3-none-any.whl.metadata (1.5 kB)
+  Obtaining dependency information for s3fs from https://files.pythonhosted.org/packages/33/34/49020b4674b1c0758c4507550977c0cb9224ef274659b5ed3bae298863e8/s3fs-2022.10.0-py3-none-any.whl.metadata
+  Downloading s3fs-2022.10.0-py3-none-any.whl.metadata (1.5 kB)
+  Obtaining dependency information for s3fs from https://files.pythonhosted.org/packages/fb/6a/d2b077d0d03e02077d697f3ec03012f500cea49c4e703d59d551018cf9ee/s3fs-2022.8.2-py3-none-any.whl.metadata
+  Downloading s3fs-2022.8.2-py3-none-any.whl.metadata (1.6 kB)
+  Obtaining dependency information for s3fs from https://files.pythonhosted.org/packages/b2/b1/260232e7addb497011842282b24779cab2b7f2dd853b052813c5287f6f54/s3fs-2022.8.1-py3-none-any.whl.metadata
+  Downloading s3fs-2022.8.1-py3-none-any.whl.metadata (1.6 kB)
+  Obtaining dependency information for s3fs from https://files.pythonhosted.org/packages/b2/5f/382bc6345bfc47febd0f7c732b90b7724f3fa88a1f71a3f1a0fcbee278fe/s3fs-2022.8.0-py3-none-any.whl.metadata
+  Downloading s3fs-2022.8.0-py3-none-any.whl.metadata (1.6 kB)
+  Obtaining dependency information for s3fs from https://files.pythonhosted.org/packages/8d/e1/8476e0bab027651a4b572c0a0776ac95bcceebf4912dc2940bcd58c57c9f/s3fs-2022.7.1-py3-none-any.whl.metadata
+  Downloading s3fs-2022.7.1-py3-none-any.whl.metadata (1.5 kB)
+  Obtaining dependency information for s3fs from https://files.pythonhosted.org/packages/cb/d1/3d3800d8748d3091d02296ed018276a34a387c1361879784ac74c8dc1215/s3fs-2022.7.0-py3-none-any.whl.metadata
+  Downloading s3fs-2022.7.0-py3-none-any.whl.metadata (1.5 kB)
+  Obtaining dependency information for s3fs from https://files.pythonhosted.org/packages/f5/65/dd14d312b9d3d73023e7e56ae52295e5a96583077702cd8d71e3c5f80f7a/s3fs-2022.5.0-py3-none-any.whl.metadata
+  Downloading s3fs-2022.5.0-py3-none-any.whl.metadata (1.5 kB)
+  Obtaining dependency information for s3fs from https://files.pythonhosted.org/packages/20/f0/9a784318e776f4bc6f26b44e81b7f2dc4f2ec7d8ffdec0ee52f8ce435351/s3fs-2022.3.0-py3-none-any.whl.metadata
+  Downloading s3fs-2022.3.0-py3-none-any.whl.metadata (1.5 kB)
+  Obtaining dependency information for s3fs from https://files.pythonhosted.org/packages/ff/10/683249cebdb8893fefdc08d8260eba7f4bacc908281b54f01f25f679ae32/s3fs-2022.2.0-py3-none-any.whl.metadata
+  Downloading s3fs-2022.2.0-py3-none-any.whl.metadata (1.5 kB)
+  Obtaining dependency information for s3fs from https://files.pythonhosted.org/packages/f1/ff/76ed699715acec23c487f3bb59b6b8be01289d1fe9ff2a447d8c400b6ee8/s3fs-2022.1.0-py3-none-any.whl.metadata
+  Downloading s3fs-2022.1.0-py3-none-any.whl.metadata (1.6 kB)
+  Obtaining dependency information for s3fs from https://files.pythonhosted.org/packages/46/42/cbdd10502fa5ba8a477fbc997afcf12f14663273d582c35e2b54944a6704/s3fs-2021.11.1-py3-none-any.whl.metadata
+  Downloading s3fs-2021.11.1-py3-none-any.whl.metadata (1.6 kB)
+  Obtaining dependency information for s3fs from https://files.pythonhosted.org/packages/cd/fd/b93343c808b3adaa89d2510ac4ae3a2110aa935af39a61ed323f43d23959/s3fs-2021.11.0-py3-none-any.whl.metadata
+  Downloading s3fs-2021.11.0-py3-none-any.whl.metadata (1.6 kB)
+  Obtaining dependency information for s3fs from https://files.pythonhosted.org/packages/a3/23/a38e67bc4b6384be3f2297c6b73bfaff2cce28cf07030920344e0adc2083/s3fs-2021.10.1-py3-none-any.whl.metadata
+  Downloading s3fs-2021.10.1-py3-none-any.whl.metadata (1.5 kB)
+  Obtaining dependency information for s3fs from https://files.pythonhosted.org/packages/00/f2/009dcb95736486c85eb4ce8c071584317d795836611d51f4c398645785d3/s3fs-2021.10.0-py3-none-any.whl.metadata
+  Downloading s3fs-2021.10.0-py3-none-any.whl.metadata (1.5 kB)
+  Obtaining dependency information for s3fs from https://files.pythonhosted.org/packages/29/4c/f8f0c68b02860f273fcb6f4ea3bba78fe5dc2d9b546915822a5b3dd3ce81/s3fs-2021.9.0-py3-none-any.whl.metadata
+  Downloading s3fs-2021.9.0-py3-none-any.whl.metadata (1.5 kB)
+  Obtaining dependency information for s3fs from https://files.pythonhosted.org/packages/34/5e/8a70f47e32973c8063f7e5460e32edeb5c645948457e7c82b0e319538253/s3fs-2021.8.1-py3-none-any.whl.metadata
+  Downloading s3fs-2021.8.1-py3-none-any.whl.metadata (1.5 kB)
+  Obtaining dependency information for s3fs from https://files.pythonhosted.org/packages/f4/d4/963041f9110e2c657921310440e3ad39a9067a513077e3827ab1ba10716c/s3fs-2021.8.0-py3-none-any.whl.metadata
+  Downloading s3fs-2021.8.0-py3-none-any.whl.metadata (1.5 kB)
+  Obtaining dependency information for s3fs from https://files.pythonhosted.org/packages/14/9c/e935d230d000da44a8d77e04fe7262203085a53db7116f976d4a4102efd7/s3fs-2021.7.0-py3-none-any.whl.metadata
+  Downloading s3fs-2021.7.0-py3-none-any.whl.metadata (1.5 kB)
+  Obtaining dependency information for s3fs from https://files.pythonhosted.org/packages/f7/d0/d6b9a3d989bc3515e03ff38fa3eb2a49e12e3c5e609972bc672764f32b6d/s3fs-2021.6.1-py3-none-any.whl.metadata
+  Downloading s3fs-2021.6.1-py3-none-any.whl.metadata (1.5 kB)
+  Obtaining dependency information for s3fs from https://files.pythonhosted.org/packages/71/97/099148a047dfed51c843336443d44cc404ece9c9fdc94032f0a09923788d/s3fs-2021.6.0-py3-none-any.whl.metadata
+  Downloading s3fs-2021.6.0-py3-none-any.whl.metadata (1.5 kB)
+  Obtaining dependency information for s3fs from https://files.pythonhosted.org/packages/c5/51/3436ab8eadf24cb2625cdc11d855c85d10bf15ba8d59bfd46ff01a85773f/s3fs-2021.5.0-py3-none-any.whl.metadata
+  Downloading s3fs-2021.5.0-py3-none-any.whl.metadata (1.5 kB)
+  Obtaining dependency information for s3fs from https://files.pythonhosted.org/packages/f7/57/f22362bc2d11ed7a7fa94f0997b1229c73b4f28d8595d0fdc78802c011f6/s3fs-2021.4.0-py3-none-any.whl.metadata
+  Downloading s3fs-2021.4.0-py3-none-any.whl.metadata (1.5 kB)
+  Obtaining dependency information for s3fs from https://files.pythonhosted.org/packages/08/86/bcabd656a78122c7642a16ce2ea77347b77888b2fcde43bd2e925e393c64/s3fs-0.6.0-py3-none-any.whl.metadata
+  Downloading s3fs-0.6.0-py3-none-any.whl.metadata (1.4 kB)
+  Obtaining dependency information for s3fs from https://files.pythonhosted.org/packages/d0/47/8f96b4a3af8bd54dda28df960307978679b3cc64bc8ec5460697c30bc783/s3fs-0.5.2-py3-none-any.whl.metadata
+  Downloading s3fs-0.5.2-py3-none-any.whl.metadata (1.2 kB)
+  Obtaining dependency information for s3fs from https://files.pythonhosted.org/packages/a7/58/732ea1c735d725b1cc4cf365ae6326c22569a5e88c8502d13844e91f08ef/s3fs-0.5.1-py3-none-any.whl.metadata
+  Downloading s3fs-0.5.1-py3-none-any.whl.metadata (1.3 kB)
+  Obtaining dependency information for s3fs from https://files.pythonhosted.org/packages/92/15/792d40668bd63acc8f816188ed3c3a27f393717122c8bed5fe8f550616da/s3fs-0.5.0-py3-none-any.whl.metadata
+  Downloading s3fs-0.5.0-py3-none-any.whl.metadata (1.3 kB)
+  Obtaining dependency information for s3fs from https://files.pythonhosted.org/packages/b8/e4/b8fc59248399d2482b39340ec9be4bb2493846ac23641b43115a7e5cd675/s3fs-0.4.2-py3-none-any.whl.metadata
+  Downloading s3fs-0.4.2-py3-none-any.whl.metadata (1.3 kB)
+  Obtaining dependency information for s3fs from https://files.pythonhosted.org/packages/cb/58/2965a4852735a174e92cf62212afdffdf9f72aec564f8d971b6cb24f87bc/s3fs-0.4.1-py3-none-any.whl.metadata
+  Downloading s3fs-0.4.1-py3-none-any.whl.metadata (1.3 kB)
+  Obtaining dependency information for s3fs from https://files.pythonhosted.org/packages/72/5c/ec84c7ec49fde2c3b0d885ecae4504fa40fc77fef7684e9f2939c50f9b94/s3fs-0.4.0-py3-none-any.whl.metadata
+  Downloading s3fs-0.4.0-py3-none-any.whl.metadata (1.4 kB)
+  Downloading s3fs-0.3.5.tar.gz (46 kB)
+     ---------------------------------------- 46.3/46.3 kB 2.4 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'error'
+  error: subprocess-exited-with-error
+  
+  Getting requirements to build wheel did not run successfully.
+  exit code: 1
+  
+  [31 lines of output]
+  C:\Users\ASUS\AppData\Local\Temp\pip-install-snl4zhn4\s3fs_2740cb57895e4713abbfb8d5846fa71d\versioneer.py:421: SyntaxWarning: invalid escape sequence '\s'
+    LONG_VERSION_PY['git'] = '''
+  Traceback (most recent call last):
+    File "D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 353, in <module>
+      main()
+    File "D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 335, in main
+      json_out['return_val'] = hook(**hook_input['kwargs'])
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 118, in get_requires_for_build_wheel
+      return hook(config_settings)
+             ^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-6sziz9n_\overlay\Lib\site-packages\setuptools\build_meta.py", line 327, in get_requires_for_build_wheel
+      return self._get_build_requires(config_settings, requirements=[])
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-6sziz9n_\overlay\Lib\site-packages\setuptools\build_meta.py", line 297, in _get_build_requires
+      self.run_setup()
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-6sziz9n_\overlay\Lib\site-packages\setuptools\build_meta.py", line 497, in run_setup
+      super().run_setup(setup_script=setup_script)
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-6sziz9n_\overlay\Lib\site-packages\setuptools\build_meta.py", line 313, in run_setup
+      exec(code, locals())
+    File "<string>", line 7, in <module>
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-install-snl4zhn4\s3fs_2740cb57895e4713abbfb8d5846fa71d\versioneer.py", line 1480, in get_version
+      return get_versions()["version"]
+             ^^^^^^^^^^^^^^
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-install-snl4zhn4\s3fs_2740cb57895e4713abbfb8d5846fa71d\versioneer.py", line 1412, in get_versions
+      cfg = get_config_from_root(root)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-install-snl4zhn4\s3fs_2740cb57895e4713abbfb8d5846fa71d\versioneer.py", line 342, in get_config_from_root
+      parser = configparser.SafeConfigParser()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  AttributeError: module 'configparser' has no attribute 'SafeConfigParser'. Did you mean: 'RawConfigParser'?
+  [end of output]
+  
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+error: subprocess-exited-with-error
+
+Getting requirements to build wheel did not run successfully.
+exit code: 1
+
+See above for output.
+
+note: This error originates from a subprocess, and is likely not a problem with pip.
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: python.exe -m pip install --upgrade pip

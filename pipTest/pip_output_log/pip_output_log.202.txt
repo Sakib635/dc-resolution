@@ -1,0 +1,20 @@
+Collecting Babel==2.3.4 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.202.Distributed-Jmeter.txt (line 1))
+  Obtaining dependency information for Babel==2.3.4 from https://files.pythonhosted.org/packages/b4/ec/acd307eac2e23f9cab1c8bdbe29b3b1d43215e31c32f8aa91b3a97925b5b/Babel-2.3.4-py2.py3-none-any.whl.metadata
+  Downloading Babel-2.3.4-py2.py3-none-any.whl.metadata (1.0 kB)
+Collecting boto==2.40.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.202.Distributed-Jmeter.txt (line 2))
+  Obtaining dependency information for boto==2.40.0 from https://files.pythonhosted.org/packages/41/b4/f788bf1ed5f35f2dc29410f41a38688584d25babbfdf2528b09e00a77438/boto-2.40.0-py2.py3-none-any.whl.metadata
+  Downloading boto-2.40.0-py2.py3-none-any.whl.metadata (7.3 kB)
+Collecting cffi==1.6.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.202.Distributed-Jmeter.txt (line 3))
+  Downloading cffi-1.6.0.tar.gz (397 kB)
+     -------------------------------------- 397.0/397.0 kB 2.7 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+ERROR: Could not find a version that satisfies the requirement cloudscale-distributed-jmeter==0.1.0 (from versions: none)
+ERROR: No matching distribution found for cloudscale-distributed-jmeter==0.1.0
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: python.exe -m pip install --upgrade pip

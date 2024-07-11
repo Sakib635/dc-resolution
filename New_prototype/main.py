@@ -1,23 +1,5 @@
-import os
-import json
-import re
 import time
-import logging
-from z3 import (
-    Solver,
-    Or,
-    And,
-    Implies,
-    unsat,
-    sat,
-    String,
-    Not,
-    Optimize,
-    set_param,
-    Context,
-    Z3Exception,
-)
-
+from z3 import Context
 from create_requirements import generate_requirements_txt, read_solution_file
 from dependency import fetch_direct_dependencies, fetch_transitive_dependencies
 from read import read_json_file, read_requirements
@@ -101,7 +83,7 @@ def main():
         with open("string_solution.txt", "w") as file:
             file.write(str(solution))
                 # Generate requirements_txt
-        solution_dict = read_solution_file("D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/New_prototype/string_solution.txt") 
+        solution_dict = read_solution_file("D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/string_solution.txt") 
         start_time = time.time()        
         generate_requirements_txt(solution_dict, "solution.txt") 
         end_time = time.time()

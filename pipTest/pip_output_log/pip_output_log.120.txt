@@ -1,0 +1,76 @@
+Collecting mock==1.0.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.120.docker-py.txt (line 1))
+  Downloading mock-1.0.1.zip (861 kB)
+     -------------------------------------- 861.9/861.9 kB 3.9 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting requests==1.2.3 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.120.docker-py.txt (line 2))
+  Downloading requests-1.2.3.tar.gz (348 kB)
+     -------------------------------------- 348.9/348.9 kB 7.2 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'error'
+  error: subprocess-exited-with-error
+  
+  Getting requirements to build wheel did not run successfully.
+  exit code: 1
+  
+  [40 lines of output]
+  C:\Users\ASUS\AppData\Local\Temp\pip-install-bodedvl_\requests_7287454cd3a9428fac9bea99d545da9d\requests\packages\urllib3\connectionpool.py:335: SyntaxWarning: invalid escape sequence '\*'
+    """
+  C:\Users\ASUS\AppData\Local\Temp\pip-install-bodedvl_\requests_7287454cd3a9428fac9bea99d545da9d\requests\packages\urllib3\connectionpool.py:574: SyntaxWarning: invalid escape sequence '\*'
+    """
+  C:\Users\ASUS\AppData\Local\Temp\pip-install-bodedvl_\requests_7287454cd3a9428fac9bea99d545da9d\requests\packages\urllib3\poolmanager.py:31: SyntaxWarning: invalid escape sequence '\*'
+    """
+  Traceback (most recent call last):
+    File "D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 353, in <module>
+      main()
+    File "D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 335, in main
+      json_out['return_val'] = hook(**hook_input['kwargs'])
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 118, in get_requires_for_build_wheel
+      return hook(config_settings)
+             ^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-rmvn7ung\overlay\Lib\site-packages\setuptools\build_meta.py", line 327, in get_requires_for_build_wheel
+      return self._get_build_requires(config_settings, requirements=[])
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-rmvn7ung\overlay\Lib\site-packages\setuptools\build_meta.py", line 297, in _get_build_requires
+      self.run_setup()
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-rmvn7ung\overlay\Lib\site-packages\setuptools\build_meta.py", line 497, in run_setup
+      super().run_setup(setup_script=setup_script)
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-rmvn7ung\overlay\Lib\site-packages\setuptools\build_meta.py", line 313, in run_setup
+      exec(code, locals())
+    File "<string>", line 6, in <module>
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-install-bodedvl_\requests_7287454cd3a9428fac9bea99d545da9d\requests\__init__.py", line 58, in <module>
+      from . import utils
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-install-bodedvl_\requests_7287454cd3a9428fac9bea99d545da9d\requests\utils.py", line 23, in <module>
+      from .compat import parse_http_list as _parse_list_header
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-install-bodedvl_\requests_7287454cd3a9428fac9bea99d545da9d\requests\compat.py", line 7, in <module>
+      from .packages import charade as chardet
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-install-bodedvl_\requests_7287454cd3a9428fac9bea99d545da9d\requests\packages\__init__.py", line 3, in <module>
+      from . import urllib3
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-install-bodedvl_\requests_7287454cd3a9428fac9bea99d545da9d\requests\packages\urllib3\__init__.py", line 24, in <module>
+      from .poolmanager import PoolManager, ProxyManager, proxy_from_url
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-install-bodedvl_\requests_7287454cd3a9428fac9bea99d545da9d\requests\packages\urllib3\poolmanager.py", line 9, in <module>
+      from ._collections import RecentlyUsedContainer
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-install-bodedvl_\requests_7287454cd3a9428fac9bea99d545da9d\requests\packages\urllib3\_collections.py", line 7, in <module>
+      from collections import MutableMapping
+  ImportError: cannot import name 'MutableMapping' from 'collections' (C:\Python312\Lib\collections\__init__.py)
+  [end of output]
+  
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+error: subprocess-exited-with-error
+
+Getting requirements to build wheel did not run successfully.
+exit code: 1
+
+See above for output.
+
+note: This error originates from a subprocess, and is likely not a problem with pip.
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: python.exe -m pip install --upgrade pip

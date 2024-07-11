@@ -12,7 +12,7 @@ def read_requirements(directory):
     Returns:
         str: The content of the `requirements.txt` file as a single string.
     """
-    with open(os.path.join(directory, "r.txt"), "r") as file:
+    with open(os.path.join(directory, "r3.txt"), "r") as file:
         return file.read()
 
 

@@ -1,0 +1,4 @@
+Django>=1.11
+asgiref~=3.0
+daphne~=2.2
+
