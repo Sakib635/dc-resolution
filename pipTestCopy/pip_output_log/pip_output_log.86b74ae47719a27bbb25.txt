@@ -1,0 +1,17 @@
+Collecting app==0.0.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.86b74ae47719a27bbb25.txt (line 1))
+  Downloading app-0.0.1.zip (2.2 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting Werkzeug==1.0.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.86b74ae47719a27bbb25.txt (line 2))
+  Obtaining dependency information for Werkzeug==1.0.1 from https://files.pythonhosted.org/packages/cc/94/5f7079a0e00bd6863ef8f1da638721e9da21e5bacee597595b318f71d62e/Werkzeug-1.0.1-py2.py3-none-any.whl.metadata
+  Downloading Werkzeug-1.0.1-py2.py3-none-any.whl.metadata (4.7 kB)
+Downloading Werkzeug-1.0.1-py2.py3-none-any.whl (298 kB)
+   ---------------------------------------- 298.6/298.6 kB 1.8 MB/s eta 0:00:00
+Would install Werkzeug-1.0.1 app-0.0.1
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

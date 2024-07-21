@@ -1,0 +1,744 @@
+Filename,Error Messages
+pip_output_log.00135b0dfee0ae165ad2.txt,"ERROR: Could not find a version that satisfies the requirement PyQt4==4.11.4 (from versions: none)
+ERROR: No matching distribution found for PyQt4==4.11.4"
+pip_output_log.0115e0ce312f26ff59f4fbf4f5821ca2.txt,"ERROR: Could not find a version that satisfies the requirement RPi==0.0.1 (from versions: none)
+ERROR: No matching distribution found for RPi==0.0.1"
+pip_output_log.045c887b6ccdf0edf4648da0c40bcc12.txt,"ERROR: Could not find a version that satisfies the requirement torch==1.8.0 (from versions: 2.2.0, 2.2.1, 2.2.2, 2.3.0, 2.3.1)
+ERROR: No matching distribution found for torch==1.8.0"
+pip_output_log.056626de3fbdc7cf7b59de1d9f6279d1.txt,"ERROR: Could not find a version that satisfies the requirement opencv_python==3.4.9.31 (from versions: 3.4.0.14, 3.4.10.37, 3.4.11.39, 3.4.11.41, 3.4.11.43, 3.4.11.45, 3.4.13.47, 3.4.15.55, 3.4.16.57, 3.4.16.59, 3.4.17.61, 3.4.17.63, 3.4.18.65, 4.3.0.38, 4.4.0.40, 4.4.0.42, 4.4.0.44, 4.4.0.46, 4.5.1.48, 4.5.3.56, 4.5.4.58, 4.5.4.60, 4.5.5.62, 4.5.5.64, 4.6.0.66, 4.7.0.68, 4.7.0.72, 4.8.0.74, 4.8.0.76, 4.8.1.78, 4.9.0.80, 4.10.0.82, 4.10.0.84)
+ERROR: No matching distribution found for opencv_python==3.4.9.31"
+pip_output_log.09b1f5403c63ceab5ae34710cbe2809e.txt,"ERROR: Could not find a version that satisfies the requirement opencv_python==3.4.9.31 (from versions: 3.4.0.14, 3.4.10.37, 3.4.11.39, 3.4.11.41, 3.4.11.43, 3.4.11.45, 3.4.13.47, 3.4.15.55, 3.4.16.57, 3.4.16.59, 3.4.17.61, 3.4.17.63, 3.4.18.65, 4.3.0.38, 4.4.0.40, 4.4.0.42, 4.4.0.44, 4.4.0.46, 4.5.1.48, 4.5.3.56, 4.5.4.58, 4.5.4.60, 4.5.5.62, 4.5.5.64, 4.6.0.66, 4.7.0.68, 4.7.0.72, 4.8.0.74, 4.8.0.76, 4.8.1.78, 4.9.0.80, 4.10.0.82, 4.10.0.84)
+ERROR: No matching distribution found for opencv_python==3.4.9.31"
+pip_output_log.0aaa9e4659977a98fc9f36d6887fef37.txt,"ERROR: Could not find a version that satisfies the requirement plist==1.0.0 (from versions: none)
+ERROR: No matching distribution found for plist==1.0.0"
+pip_output_log.0cdd8d6adb8463961f50bd1845faddf8.txt,"ERROR: Could not find a version that satisfies the requirement torch==1.8.0 (from versions: 2.2.0, 2.2.1, 2.2.2, 2.3.0, 2.3.1)
+ERROR: No matching distribution found for torch==1.8.0"
+pip_output_log.0db840f27f1f0fd0747f13ab80d0ca37.txt,"ERROR: Could not find a version that satisfies the requirement opencv_python==3.4.9.31 (from versions: 3.4.0.14, 3.4.10.37, 3.4.11.39, 3.4.11.41, 3.4.11.43, 3.4.11.45, 3.4.13.47, 3.4.15.55, 3.4.16.57, 3.4.16.59, 3.4.17.61, 3.4.17.63, 3.4.18.65, 4.3.0.38, 4.4.0.40, 4.4.0.42, 4.4.0.44, 4.4.0.46, 4.5.1.48, 4.5.3.56, 4.5.4.58, 4.5.4.60, 4.5.5.62, 4.5.5.64, 4.6.0.66, 4.7.0.68, 4.7.0.72, 4.8.0.74, 4.8.0.76, 4.8.1.78, 4.9.0.80, 4.10.0.82, 4.10.0.84)
+ERROR: No matching distribution found for opencv_python==3.4.9.31"
+pip_output_log.0ee6dd444994fd67f63b.txt,"ERROR: Could not find a version that satisfies the requirement opencv_python==3.4.9.31 (from versions: 3.4.0.14, 3.4.10.37, 3.4.11.39, 3.4.11.41, 3.4.11.43, 3.4.11.45, 3.4.13.47, 3.4.15.55, 3.4.16.57, 3.4.16.59, 3.4.17.61, 3.4.17.63, 3.4.18.65, 4.3.0.38, 4.4.0.40, 4.4.0.42, 4.4.0.44, 4.4.0.46, 4.5.1.48, 4.5.3.56, 4.5.4.58, 4.5.4.60, 4.5.5.62, 4.5.5.64, 4.6.0.66, 4.7.0.68, 4.7.0.72, 4.8.0.74, 4.8.0.76, 4.8.1.78, 4.9.0.80, 4.10.0.82, 4.10.0.84)
+ERROR: No matching distribution found for opencv_python==3.4.9.31"
+pip_output_log.0efcacfb43827ba3a6bac3356315c419.txt,"ERROR: Could not find a version that satisfies the requirement opencv_python==3.4.9.31 (from versions: 3.4.0.14, 3.4.10.37, 3.4.11.39, 3.4.11.41, 3.4.11.43, 3.4.11.45, 3.4.13.47, 3.4.15.55, 3.4.16.57, 3.4.16.59, 3.4.17.61, 3.4.17.63, 3.4.18.65, 4.3.0.38, 4.4.0.40, 4.4.0.42, 4.4.0.44, 4.4.0.46, 4.5.1.48, 4.5.3.56, 4.5.4.58, 4.5.4.60, 4.5.5.62, 4.5.5.64, 4.6.0.66, 4.7.0.68, 4.7.0.72, 4.8.0.74, 4.8.0.76, 4.8.1.78, 4.9.0.80, 4.10.0.82, 4.10.0.84)
+ERROR: No matching distribution found for opencv_python==3.4.9.31"
+pip_output_log.0f5f65ddbfa278713f58.txt,"ERROR: Could not find a version that satisfies the requirement Bio==0.3.0 (from versions: 1.0.2, 1.2.0, 1.3.2, 1.3.3, 1.3.4, 1.3.5, 1.3.6, 1.3.7, 1.3.8, 1.3.9, 1.4.0, 1.5.0, 1.5.1, 1.5.2, 1.5.3, 1.5.4, 1.5.5, 1.5.6, 1.5.7, 1.5.8, 1.5.9, 1.6.0, 1.6.1, 1.6.2, 1.7.1)
+ERROR: No matching distribution found for Bio==0.3.0"
+pip_output_log.1025736.txt,"ERROR: Could not find a version that satisfies the requirement ndb==1.0.12 (from versions: 1.0.13b1)
+ERROR: No matching distribution found for ndb==1.0.12"
+pip_output_log.10438748.txt,"ERROR: Could not find a version that satisfies the requirement model==0.6.0 (from versions: none)
+ERROR: No matching distribution found for model==0.6.0"
+pip_output_log.1055161.txt,"ERROR: Could not find a version that satisfies the requirement PyQt4==4.11.4 (from versions: none)
+ERROR: No matching distribution found for PyQt4==4.11.4"
+pip_output_log.1059647.txt,"ERROR: Could not find a version that satisfies the requirement ndb==1.0.12 (from versions: 1.0.13b1)
+ERROR: No matching distribution found for ndb==1.0.12"
+pip_output_log.106c49a3ae6d420937aa.txt,"ERROR: Could not find a version that satisfies the requirement PyQt4==4.11.4 (from versions: none)
+ERROR: No matching distribution found for PyQt4==4.11.4"
+pip_output_log.1082570.txt,"ERROR: Could not find a version that satisfies the requirement webdriver==0.7 (from versions: none)
+ERROR: No matching distribution found for webdriver==0.7"
+pip_output_log.1104507.txt,"ERROR: Could not find a version that satisfies the requirement Bio==0.3.0 (from versions: 1.0.2, 1.2.0, 1.3.2, 1.3.3, 1.3.4, 1.3.5, 1.3.6, 1.3.7, 1.3.8, 1.3.9, 1.4.0, 1.5.0, 1.5.1, 1.5.2, 1.5.3, 1.5.4, 1.5.5, 1.5.6, 1.5.7, 1.5.8, 1.5.9, 1.6.0, 1.6.1, 1.6.2, 1.7.1)
+ERROR: No matching distribution found for Bio==0.3.0"
+pip_output_log.11129975.txt,"ERROR: Could not find a version that satisfies the requirement PyQt4==4.11.4 (from versions: none)
+ERROR: No matching distribution found for PyQt4==4.11.4"
+pip_output_log.1118585.txt,"ERROR: Could not find a version that satisfies the requirement PyQt4==4.11.4 (from versions: none)
+ERROR: No matching distribution found for PyQt4==4.11.4"
+pip_output_log.111c8ee32505a11ad7a6c629f277c2a4.txt,"ERROR: Ignored the following versions that require a different python version: 2.82.1 Requires-Python >=3.7, <3.8
+ERROR: Could not find a version that satisfies the requirement bpy==2.82.1 (from versions: none)
+ERROR: No matching distribution found for bpy==2.82.1"
+pip_output_log.1124bb02a9fd4abce3d86caf2f950cb2.txt,"ERROR: Could not find a version that satisfies the requirement tensorflow==2.4.0 (from versions: 2.16.0rc0, 2.16.1, 2.16.2, 2.17.0rc0, 2.17.0rc1, 2.17.0)
+ERROR: No matching distribution found for tensorflow==2.4.0"
+pip_output_log.1134410.txt,"ERROR: Ignored the following versions that require a different python version: 2.82.1 Requires-Python >=3.7, <3.8
+ERROR: Could not find a version that satisfies the requirement bpy==2.82.1 (from versions: none)
+ERROR: No matching distribution found for bpy==2.82.1"
+pip_output_log.1200485.txt,"ERROR: Could not find a version that satisfies the requirement ndb==1.0.12 (from versions: 1.0.13b1)
+ERROR: No matching distribution found for ndb==1.0.12"
+pip_output_log.1202066.txt,"ERROR: Could not find a version that satisfies the requirement web==0.6.0 (from versions: none)
+ERROR: No matching distribution found for web==0.6.0"
+pip_output_log.1210791.txt,"ERROR: Could not find a version that satisfies the requirement PyQt4==4.11.4 (from versions: none)
+ERROR: No matching distribution found for PyQt4==4.11.4"
+pip_output_log.1229770.txt,"ERROR: Could not find a version that satisfies the requirement jiffy==0.1 (from versions: none)
+ERROR: No matching distribution found for jiffy==0.1"
+pip_output_log.122f258ba6eaa23dd9c5.txt,"ERROR: Ignored the following versions that require a different python version: 2.82.1 Requires-Python >=3.7, <3.8
+ERROR: Could not find a version that satisfies the requirement bpy==2.82.1 (from versions: none)
+ERROR: No matching distribution found for bpy==2.82.1"
+pip_output_log.1248728.txt,"ERROR: Could not find a version that satisfies the requirement apps==0.0.0.0.dev20200918 (from versions: none)
+ERROR: No matching distribution found for apps==0.0.0.0.dev20200918"
+pip_output_log.1290744.txt,"ERROR: Could not find a version that satisfies the requirement mapnik==0.1 (from versions: none)
+ERROR: No matching distribution found for mapnik==0.1"
+pip_output_log.1315148.txt,"ERROR: Could not find a version that satisfies the requirement PyV8==0.9 (from versions: 0.5)
+ERROR: No matching distribution found for PyV8==0.9"
+pip_output_log.1337131.txt,"ERROR: Could not find a version that satisfies the requirement PyQt4==4.11.4 (from versions: none)
+ERROR: No matching distribution found for PyQt4==4.11.4"
+pip_output_log.1357185.txt,"ERROR: Ignored the following versions that require a different python version: 2.82.1 Requires-Python >=3.7, <3.8
+ERROR: Could not find a version that satisfies the requirement bpy==2.82.1 (from versions: none)
+ERROR: No matching distribution found for bpy==2.82.1"
+pip_output_log.1381489.txt,"ERROR: Could not find a version that satisfies the requirement PyQt4==4.11.4 (from versions: none)
+ERROR: No matching distribution found for PyQt4==4.11.4"
+pip_output_log.13f02f45a41ad90f454f.txt,"ERROR: Could not find a version that satisfies the requirement console==0.9905 (from versions: 0.98, 0.9906, 0.9907)
+ERROR: No matching distribution found for console==0.9905"
+pip_output_log.1417f55cb896a44e68a6.txt,"Installing build dependencies: finished with status 'error'
+error: subprocess-exited-with-error
+ERROR: Could not find a version that satisfies the requirement kivy_deps.sdl2_dev~=0.3.1 (from versions: 0.7.0)
+ERROR: No matching distribution found for kivy_deps.sdl2_dev~=0.3.1
+note: This error originates from a subprocess, and is likely not a problem with pip.
+error: subprocess-exited-with-error
+note: This error originates from a subprocess, and is likely not a problem with pip."
+pip_output_log.14f34c2b8153d9b4f336df8535b3416a.txt,"ERROR: Could not find a version that satisfies the requirement tensorflow==2.4.0 (from versions: 2.16.0rc0, 2.16.1, 2.16.2, 2.17.0rc0, 2.17.0rc1, 2.17.0)
+ERROR: No matching distribution found for tensorflow==2.4.0"
+pip_output_log.1516095.txt,"ERROR: Could not find a version that satisfies the requirement mice==0.0.1a0 (from versions: 0.1.0, 0.1.1, 0.1.2, 0.1.3, 0.1.4, 0.1.5, 0.1.6, 0.1.7, 0.1.8, 0.1.9, 0.1.10, 0.1.11, 0.1.12, 0.1.13, 0.1.14, 0.1.15, 0.1.16, 0.1.17, 0.1.18, 0.1.19, 0.1.20, 0.1.21, 0.1.22, 0.1.23, 0.1.24, 0.1.25, 0.1.26, 0.1.27, 0.1.28, 0.1.29, 0.1.30, 0.1.31)
+ERROR: No matching distribution found for mice==0.0.1a0"
+pip_output_log.1572547.txt,"ERROR: Could not find a version that satisfies the requirement ndb==1.0.12 (from versions: 1.0.13b1)
+ERROR: No matching distribution found for ndb==1.0.12"
+pip_output_log.1650115.txt,"ERROR: Could not find a version that satisfies the requirement pygtk==2.24.2 (from versions: 2.24.0)
+ERROR: No matching distribution found for pygtk==2.24.2"
+pip_output_log.1701845.txt,"ERROR: Could not find a version that satisfies the requirement clips==1.1.0 (from versions: none)
+ERROR: No matching distribution found for clips==1.1.0"
+pip_output_log.1722150.txt,"ERROR: Could not find a version that satisfies the requirement PyQt4==4.11.4 (from versions: none)
+ERROR: No matching distribution found for PyQt4==4.11.4"
+pip_output_log.1808234.txt,"ERROR: Could not find a version that satisfies the requirement win32gui==221.6 (from versions: 221.3, 221.4, 221.5)
+ERROR: No matching distribution found for win32gui==221.6"
+pip_output_log.1820074.txt,"ERROR: Could not find a version that satisfies the requirement pygtk==2.24.2 (from versions: 2.24.0)
+ERROR: No matching distribution found for pygtk==2.24.2"
+pip_output_log.1820829.txt,"ERROR: Could not find a version that satisfies the requirement web==0.6.0 (from versions: none)
+ERROR: No matching distribution found for web==0.6.0"
+pip_output_log.19154831c2049a69e8d53dea8cf3e744.txt,"ERROR: Could not find a version that satisfies the requirement torch==1.7.1 (from versions: 2.2.0, 2.2.1, 2.2.2, 2.3.0, 2.3.1)
+ERROR: No matching distribution found for torch==1.7.1"
+pip_output_log.1919511.txt,"ERROR: Could not find a version that satisfies the requirement Bio==0.3.0 (from versions: 1.0.2, 1.2.0, 1.3.2, 1.3.3, 1.3.4, 1.3.5, 1.3.6, 1.3.7, 1.3.8, 1.3.9, 1.4.0, 1.5.0, 1.5.1, 1.5.2, 1.5.3, 1.5.4, 1.5.5, 1.5.6, 1.5.7, 1.5.8, 1.5.9, 1.6.0, 1.6.1, 1.6.2, 1.7.1)
+ERROR: No matching distribution found for Bio==0.3.0"
+pip_output_log.19317d3e4b9a58f2355e7643040d483a.txt,"ERROR: Could not find a version that satisfies the requirement apt==0.7.8 (from versions: none)
+ERROR: No matching distribution found for apt==0.7.8"
+pip_output_log.1951709.txt,"ERROR: Could not find a version that satisfies the requirement PyQt4==4.11.4 (from versions: none)
+ERROR: No matching distribution found for PyQt4==4.11.4"
+pip_output_log.1d5b3ad08201b7df48c7f25a169d0021.txt,"ERROR: Could not find a version that satisfies the requirement tensorflow==2.4.0 (from versions: 2.16.0rc0, 2.16.1, 2.16.2, 2.17.0rc0, 2.17.0rc1, 2.17.0)
+ERROR: No matching distribution found for tensorflow==2.4.0"
+pip_output_log.1e7c18c6f6eda87f1cb4995b0e6a22a5.txt,"ERROR: Could not find a version that satisfies the requirement torch==1.7.1 (from versions: 2.2.0, 2.2.1, 2.2.2, 2.3.0, 2.3.1)
+ERROR: No matching distribution found for torch==1.7.1"
+pip_output_log.20a36f89546854cc434ecee70522cb8d.txt,"ERROR: Could not find a version that satisfies the requirement console==0.9905 (from versions: 0.98, 0.9906, 0.9907)
+ERROR: No matching distribution found for console==0.9905"
+pip_output_log.2184906.txt,"ERROR: Could not find a version that satisfies the requirement pygtk==2.24.2 (from versions: 2.24.0)
+ERROR: No matching distribution found for pygtk==2.24.2"
+pip_output_log.2232681.txt,"ERROR: Could not find a version that satisfies the requirement PyQt4==4.11.4 (from versions: none)
+ERROR: No matching distribution found for PyQt4==4.11.4"
+pip_output_log.22935c16da4eda92762f.txt,"ERROR: Could not find a version that satisfies the requirement PyQt4==4.11.4 (from versions: none)
+ERROR: No matching distribution found for PyQt4==4.11.4"
+pip_output_log.2477361.txt,"ERROR: Could not find a version that satisfies the requirement PyQt4==4.11.4 (from versions: none)
+ERROR: No matching distribution found for PyQt4==4.11.4"
+pip_output_log.2571471.txt,"ERROR: Could not find a version that satisfies the requirement PyQt4==4.11.4 (from versions: none)
+ERROR: No matching distribution found for PyQt4==4.11.4"
+pip_output_log.2590850.txt,"ERROR: Ignored the following versions that require a different python version: 2.82.1 Requires-Python >=3.7, <3.8
+ERROR: Could not find a version that satisfies the requirement bpy==2.82.1 (from versions: none)
+ERROR: No matching distribution found for bpy==2.82.1"
+pip_output_log.2660685.txt,"ERROR: Could not find a version that satisfies the requirement Bio==0.3.0 (from versions: 1.0.2, 1.2.0, 1.3.2, 1.3.3, 1.3.4, 1.3.5, 1.3.6, 1.3.7, 1.3.8, 1.3.9, 1.4.0, 1.5.0, 1.5.1, 1.5.2, 1.5.3, 1.5.4, 1.5.5, 1.5.6, 1.5.7, 1.5.8, 1.5.9, 1.6.0, 1.6.1, 1.6.2, 1.7.1)
+ERROR: No matching distribution found for Bio==0.3.0"
+pip_output_log.2708979.txt,"ERROR: Could not find a version that satisfies the requirement PyQt4==4.11.4 (from versions: none)
+ERROR: No matching distribution found for PyQt4==4.11.4"
+pip_output_log.2773137.txt,"ERROR: Could not find a version that satisfies the requirement ROOT==0.0.1 (from versions: none)
+ERROR: No matching distribution found for ROOT==0.0.1"
+pip_output_log.283860.txt,"ERROR: Could not find a version that satisfies the requirement osgeo==0.0.0 (from versions: 0.0.1)
+ERROR: No matching distribution found for osgeo==0.0.0"
+pip_output_log.2838603.txt,"ERROR: Could not find a version that satisfies the requirement osgeo==0.0.0 (from versions: 0.0.1)
+ERROR: No matching distribution found for osgeo==0.0.0"
+pip_output_log.2838927.txt,"ERROR: Could not find a version that satisfies the requirement awesome==0.11 (from versions: none)
+ERROR: No matching distribution found for awesome==0.11"
+pip_output_log.2973355.txt,"ERROR: Could not find a version that satisfies the requirement pisa==3.0.33 (from versions: none)
+ERROR: No matching distribution found for pisa==3.0.33"
+pip_output_log.2977d9f26866b05583b0c40d88a315bf.txt,"ERROR: Could not find a version that satisfies the requirement torch==1.7.1 (from versions: 2.2.0, 2.2.1, 2.2.2, 2.3.0, 2.3.1)
+ERROR: No matching distribution found for torch==1.7.1"
+pip_output_log.2a5d283b0d279ea96c26.txt,"ERROR: Ignored the following versions that require a different python version: 3.1.1.post1 Requires-Python >=2.6, <3; 3.2.0 Requires-Python >=2.6, <3; 3.3.0 Requires-Python >=2.6, <3; 3.4.0 Requires-Python >=2.6, <3
+ERROR: Could not find a version that satisfies the requirement futures==3.3.0 (from versions: 0.2.python3, 0.1, 0.2, 1.0, 2.0, 2.1, 2.1.1, 2.1.2, 2.1.3, 2.1.4, 2.1.5, 2.1.6, 2.2.0, 3.0.0, 3.0.1, 3.0.2, 3.0.3, 3.0.4, 3.0.5, 3.1.0, 3.1.1)
+ERROR: No matching distribution found for futures==3.3.0"
+pip_output_log.2b8e2e05cf05a630b132.txt,"ERROR: Could not find a version that satisfies the requirement tensorflow==2.4.0 (from versions: 2.16.0rc0, 2.16.1, 2.16.2, 2.17.0rc0, 2.17.0rc1, 2.17.0)
+ERROR: No matching distribution found for tensorflow==2.4.0"
+pip_output_log.2db1522dbfc5fe58b52c.txt,"ERROR: Could not find a version that satisfies the requirement py2neo==2020.1.1 (from versions: 2021.2.4)
+ERROR: No matching distribution found for py2neo==2020.1.1"
+pip_output_log.2e466ff4e6b3425aba3c.txt,"ERROR: Could not find a version that satisfies the requirement console==0.9905 (from versions: 0.98, 0.9906, 0.9907)
+ERROR: No matching distribution found for console==0.9905"
+pip_output_log.2eec49ca1e4f58c5310d72918d991ef6.txt,"ERROR: Could not find a version that satisfies the requirement tensorflow==2.4.0 (from versions: 2.16.0rc0, 2.16.1, 2.16.2, 2.17.0rc0, 2.17.0rc1, 2.17.0)
+ERROR: No matching distribution found for tensorflow==2.4.0"
+pip_output_log.2f8370ee83ab074f5b5e.txt,"Installing build dependencies: finished with status 'error'
+error: subprocess-exited-with-error
+ERROR: Could not find a version that satisfies the requirement kivy_deps.sdl2_dev~=0.3.1 (from versions: 0.7.0)
+ERROR: No matching distribution found for kivy_deps.sdl2_dev~=0.3.1
+note: This error originates from a subprocess, and is likely not a problem with pip.
+error: subprocess-exited-with-error
+note: This error originates from a subprocess, and is likely not a problem with pip."
+pip_output_log.3012306.txt,"ERROR: Ignored the following versions that require a different python version: 2.82.1 Requires-Python >=3.7, <3.8
+ERROR: Could not find a version that satisfies the requirement bpy==2.82.1 (from versions: none)
+ERROR: No matching distribution found for bpy==2.82.1"
+pip_output_log.3015625.txt,"ERROR: Could not find a version that satisfies the requirement Bio==0.3.0 (from versions: 1.0.2, 1.2.0, 1.3.2, 1.3.3, 1.3.4, 1.3.5, 1.3.6, 1.3.7, 1.3.8, 1.3.9, 1.4.0, 1.5.0, 1.5.1, 1.5.2, 1.5.3, 1.5.4, 1.5.5, 1.5.6, 1.5.7, 1.5.8, 1.5.9, 1.6.0, 1.6.1, 1.6.2, 1.7.1)
+ERROR: No matching distribution found for Bio==0.3.0"
+pip_output_log.3037448.txt,"ERROR: Ignored the following versions that require a different python version: 2.82.1 Requires-Python >=3.7, <3.8
+ERROR: Could not find a version that satisfies the requirement bpy==2.82.1 (from versions: none)
+ERROR: No matching distribution found for bpy==2.82.1"
+pip_output_log.3079065.txt,"ERROR: Could not find a version that satisfies the requirement barrel==0.1.3 (from versions: 0.1.0, 0.2.0, 0.3.0)
+ERROR: No matching distribution found for barrel==0.1.3"
+pip_output_log.3081369.txt,"ERROR: Could not find a version that satisfies the requirement pygtk==2.24.2 (from versions: 2.24.0)
+ERROR: No matching distribution found for pygtk==2.24.2"
+pip_output_log.3166d6123bd26c066c462328bebcf0c0.txt,"ERROR: Could not find a version that satisfies the requirement pyHook==1.5.1 (from versions: none)
+ERROR: No matching distribution found for pyHook==1.5.1"
+pip_output_log.31eee50b9aaebf387b380f70054575c5.txt,"ERROR: Could not find a version that satisfies the requirement tensorflow==2.4.0 (from versions: 2.16.0rc0, 2.16.1, 2.16.2, 2.17.0rc0, 2.17.0rc1, 2.17.0)
+ERROR: No matching distribution found for tensorflow==2.4.0"
+pip_output_log.3219308.txt,"Installing build dependencies: finished with status 'error'
+error: subprocess-exited-with-error
+ERROR: Could not find a version that satisfies the requirement kivy_deps.sdl2_dev~=0.3.1 (from versions: 0.7.0)
+ERROR: No matching distribution found for kivy_deps.sdl2_dev~=0.3.1
+note: This error originates from a subprocess, and is likely not a problem with pip.
+error: subprocess-exited-with-error
+note: This error originates from a subprocess, and is likely not a problem with pip."
+pip_output_log.3227267.txt,"ERROR: Could not find a version that satisfies the requirement web==0.6.0 (from versions: none)
+ERROR: No matching distribution found for web==0.6.0"
+pip_output_log.3298867.txt,"ERROR: Could not find a version that satisfies the requirement barrel==0.1.3 (from versions: 0.1.0, 0.2.0, 0.3.0)
+ERROR: No matching distribution found for barrel==0.1.3"
+pip_output_log.3334a3cc57b31ae3a5c4.txt,"ERROR: Could not find a version that satisfies the requirement project==20 (from versions: none)
+ERROR: No matching distribution found for project==20"
+pip_output_log.3427750.txt,"ERROR: Could not find a version that satisfies the requirement PyQt4==4.11.4 (from versions: none)
+ERROR: No matching distribution found for PyQt4==4.11.4"
+pip_output_log.349423.txt,"ERROR: Could not find a version that satisfies the requirement android==0.0.1 (from versions: none)
+ERROR: No matching distribution found for android==0.0.1"
+pip_output_log.3582544.txt,"Installing build dependencies: finished with status 'error'
+error: subprocess-exited-with-error
+ERROR: Could not find a version that satisfies the requirement kivy_deps.sdl2_dev~=0.3.1 (from versions: 0.7.0)
+ERROR: No matching distribution found for kivy_deps.sdl2_dev~=0.3.1
+note: This error originates from a subprocess, and is likely not a problem with pip.
+error: subprocess-exited-with-error
+note: This error originates from a subprocess, and is likely not a problem with pip."
+pip_output_log.3725741.txt,"ERROR: Could not find a version that satisfies the requirement Bio==0.3.0 (from versions: 1.0.2, 1.2.0, 1.3.2, 1.3.3, 1.3.4, 1.3.5, 1.3.6, 1.3.7, 1.3.8, 1.3.9, 1.4.0, 1.5.0, 1.5.1, 1.5.2, 1.5.3, 1.5.4, 1.5.5, 1.5.6, 1.5.7, 1.5.8, 1.5.9, 1.6.0, 1.6.1, 1.6.2, 1.7.1)
+ERROR: No matching distribution found for Bio==0.3.0"
+pip_output_log.3728656.txt,"ERROR: Could not find a version that satisfies the requirement pygtk==2.24.2 (from versions: 2.24.0)
+ERROR: No matching distribution found for pygtk==2.24.2"
+pip_output_log.37931.txt,"ERROR: Could not find a version that satisfies the requirement pygtk==2.24.2 (from versions: 2.24.0)
+ERROR: No matching distribution found for pygtk==2.24.2"
+pip_output_log.3805436.txt,"ERROR: Could not find a version that satisfies the requirement elementtree==1.2.6-20050316 (from versions: none)
+ERROR: No matching distribution found for elementtree==1.2.6-20050316"
+pip_output_log.3822f77eb07e8e8efb2e.txt,"ERROR: Could not find a version that satisfies the requirement pygtk==2.24.2 (from versions: 2.24.0)
+ERROR: No matching distribution found for pygtk==2.24.2"
+pip_output_log.3823483.txt,"ERROR: Could not find a version that satisfies the requirement console==0.9905 (from versions: 0.98, 0.9906, 0.9907)
+ERROR: No matching distribution found for console==0.9905"
+pip_output_log.3839812.txt,"ERROR: Ignored the following versions that require a different python version: 2.82.1 Requires-Python >=3.7, <3.8
+ERROR: Could not find a version that satisfies the requirement bpy==2.82.1 (from versions: none)
+ERROR: No matching distribution found for bpy==2.82.1"
+pip_output_log.3943d55ca7eedf716ed6.txt,"ERROR: Ignored the following versions that require a different python version: 3.1.1.post1 Requires-Python >=2.6, <3; 3.2.0 Requires-Python >=2.6, <3; 3.3.0 Requires-Python >=2.6, <3; 3.4.0 Requires-Python >=2.6, <3
+ERROR: Could not find a version that satisfies the requirement futures==3.3.0 (from versions: 0.2.python3, 0.1, 0.2, 1.0, 2.0, 2.1, 2.1.1, 2.1.2, 2.1.3, 2.1.4, 2.1.5, 2.1.6, 2.2.0, 3.0.0, 3.0.1, 3.0.2, 3.0.3, 3.0.4, 3.0.5, 3.1.0, 3.1.1)
+ERROR: No matching distribution found for futures==3.3.0"
+pip_output_log.3947bdc0f7b0dbcd51fa1ee53974fe66.txt,"ERROR: Could not find a version that satisfies the requirement Models==0.9.7 (from versions: 0.0.3, 0.0.4, 0.0.5, 0.1.0, 0.1.1, 0.2.0, 0.3.0, 0.4.0, 0.7.0, 0.8.0, 0.9.0, 0.9.1, 0.9.2, 0.9.3)
+ERROR: No matching distribution found for Models==0.9.7"
+pip_output_log.3978565.txt,"ERROR: Could not find a version that satisfies the requirement PyQt4==4.11.4 (from versions: none)
+ERROR: No matching distribution found for PyQt4==4.11.4"
+pip_output_log.398429347c96e98aba88.txt,"ERROR: Ignored the following versions that require a different python version: 3.1.1.post1 Requires-Python >=2.6, <3; 3.2.0 Requires-Python >=2.6, <3; 3.3.0 Requires-Python >=2.6, <3; 3.4.0 Requires-Python >=2.6, <3
+ERROR: Could not find a version that satisfies the requirement futures==3.3.0 (from versions: 0.2.python3, 0.1, 0.2, 1.0, 2.0, 2.1, 2.1.1, 2.1.2, 2.1.3, 2.1.4, 2.1.5, 2.1.6, 2.2.0, 3.0.0, 3.0.1, 3.0.2, 3.0.3, 3.0.4, 3.0.5, 3.1.0, 3.1.1)
+ERROR: No matching distribution found for futures==3.3.0"
+pip_output_log.3f3b547ff68effb03e20c470af22c696.txt,"ERROR: Could not find a version that satisfies the requirement tensorflow==2.4.0 (from versions: 2.16.0rc0, 2.16.1, 2.16.2, 2.17.0rc0, 2.17.0rc1, 2.17.0)
+ERROR: No matching distribution found for tensorflow==2.4.0"
+pip_output_log.3fb443494f111eeb96e39cce1873070d.txt,"ERROR: Could not find a version that satisfies the requirement console==0.9905 (from versions: 0.98, 0.9906, 0.9907)
+ERROR: No matching distribution found for console==0.9905"
+pip_output_log.4034526.txt,"ERROR: Could not find a version that satisfies the requirement console==0.9905 (from versions: 0.98, 0.9906, 0.9907)
+ERROR: No matching distribution found for console==0.9905"
+pip_output_log.4036200.txt,"ERROR: Could not find a version that satisfies the requirement console==0.9905 (from versions: 0.98, 0.9906, 0.9907)
+ERROR: No matching distribution found for console==0.9905"
+pip_output_log.4043334.txt,"ERROR: Could not find a version that satisfies the requirement console==0.9905 (from versions: 0.98, 0.9906, 0.9907)
+ERROR: No matching distribution found for console==0.9905"
+pip_output_log.4051357.txt,"ERROR: Could not find a version that satisfies the requirement console==0.9905 (from versions: 0.98, 0.9906, 0.9907)
+ERROR: No matching distribution found for console==0.9905"
+pip_output_log.4076735.txt,"ERROR: Could not find a version that satisfies the requirement console==0.9905 (from versions: 0.98, 0.9906, 0.9907)
+ERROR: No matching distribution found for console==0.9905"
+pip_output_log.4174069.txt,"ERROR: Could not find a version that satisfies the requirement model==0.6.0 (from versions: none)
+ERROR: No matching distribution found for model==0.6.0"
+pip_output_log.421c427db75c8c5fa1d1.txt,"ERROR: Ignored the following versions that require a different python version: 3.1.1.post1 Requires-Python >=2.6, <3; 3.2.0 Requires-Python >=2.6, <3; 3.3.0 Requires-Python >=2.6, <3; 3.4.0 Requires-Python >=2.6, <3
+ERROR: Could not find a version that satisfies the requirement futures==3.3.0 (from versions: 0.2.python3, 0.1, 0.2, 1.0, 2.0, 2.1, 2.1.1, 2.1.2, 2.1.3, 2.1.4, 2.1.5, 2.1.6, 2.2.0, 3.0.0, 3.0.1, 3.0.2, 3.0.3, 3.0.4, 3.0.5, 3.1.0, 3.1.1)
+ERROR: No matching distribution found for futures==3.3.0"
+pip_output_log.422bb33419df91b253d8728fe794f8b4.txt,"ERROR: Could not find a version that satisfies the requirement tensorflow==2.4.0 (from versions: 2.16.0rc0, 2.16.1, 2.16.2, 2.17.0rc0, 2.17.0rc1, 2.17.0)
+ERROR: No matching distribution found for tensorflow==2.4.0"
+pip_output_log.4345418.txt,"ERROR: Could not find a version that satisfies the requirement PyQt4==4.11.4 (from versions: none)
+ERROR: No matching distribution found for PyQt4==4.11.4"
+pip_output_log.4349575.txt,"ERROR: Could not find a version that satisfies the requirement PyQt4==4.11.4 (from versions: none)
+ERROR: No matching distribution found for PyQt4==4.11.4"
+pip_output_log.4413863.txt,"ERROR: Could not find a version that satisfies the requirement canvas==0.2 (from versions: 0.1.4, 0.1.5, 0.1.6, 0.1.7, 0.1.8, 0.1.10, 0.1.12b0, 0.1.12)
+ERROR: No matching distribution found for canvas==0.2"
+pip_output_log.4471462.txt,"ERROR: Could not find a version that satisfies the requirement DNS==0.0.1 (from versions: none)
+ERROR: No matching distribution found for DNS==0.0.1"
+pip_output_log.4474608.txt,"ERROR: Could not find a version that satisfies the requirement pygtk==2.24.2 (from versions: 2.24.0)
+ERROR: No matching distribution found for pygtk==2.24.2"
+pip_output_log.4497f8a4f675170180ab.txt,"ERROR: Could not find a version that satisfies the requirement project==20 (from versions: none)
+ERROR: No matching distribution found for project==20"
+pip_output_log.4555911.txt,"ERROR: Could not find a version that satisfies the requirement console==0.9905 (from versions: 0.98, 0.9906, 0.9907)
+ERROR: No matching distribution found for console==0.9905"
+pip_output_log.4586359.txt,"ERROR: Could not find a version that satisfies the requirement core==1.0.1 (from versions: none)
+ERROR: No matching distribution found for core==1.0.1"
+pip_output_log.4594879.txt,"ERROR: Ignored the following versions that require a different python version: 3.1.1.post1 Requires-Python >=2.6, <3; 3.2.0 Requires-Python >=2.6, <3; 3.3.0 Requires-Python >=2.6, <3; 3.4.0 Requires-Python >=2.6, <3
+ERROR: Could not find a version that satisfies the requirement futures==3.3.0 (from versions: 0.2.python3, 0.1, 0.2, 1.0, 2.0, 2.1, 2.1.1, 2.1.2, 2.1.3, 2.1.4, 2.1.5, 2.1.6, 2.2.0, 3.0.0, 3.0.1, 3.0.2, 3.0.3, 3.0.4, 3.0.5, 3.1.0, 3.1.1)
+ERROR: No matching distribution found for futures==3.3.0"
+pip_output_log.4598017.txt,"ERROR: Could not find a version that satisfies the requirement elementtree==1.2.6-20050316 (from versions: none)
+ERROR: No matching distribution found for elementtree==1.2.6-20050316"
+pip_output_log.45c1c820a8fa67d8e17e3079d6aa2a65.txt,"ERROR: Could not find a version that satisfies the requirement torch==1.7.1 (from versions: 2.2.0, 2.2.1, 2.2.2, 2.3.0, 2.3.1)
+ERROR: No matching distribution found for torch==1.7.1"
+pip_output_log.4636851.txt,"ERROR: Ignored the following versions that require a different python version: 2.82.1 Requires-Python >=3.7, <3.8
+ERROR: Could not find a version that satisfies the requirement bpy==2.82.1 (from versions: none)
+ERROR: No matching distribution found for bpy==2.82.1"
+pip_output_log.477969.txt,"ERROR: Could not find a version that satisfies the requirement Bio==0.3.0 (from versions: 1.0.2, 1.2.0, 1.3.2, 1.3.3, 1.3.4, 1.3.5, 1.3.6, 1.3.7, 1.3.8, 1.3.9, 1.4.0, 1.5.0, 1.5.1, 1.5.2, 1.5.3, 1.5.4, 1.5.5, 1.5.6, 1.5.7, 1.5.8, 1.5.9, 1.6.0, 1.6.1, 1.6.2, 1.7.1)
+ERROR: No matching distribution found for Bio==0.3.0"
+pip_output_log.4792fc97f8a4094ac90d.txt,"ERROR: Could not find a version that satisfies the requirement project==20 (from versions: none)
+ERROR: No matching distribution found for project==20"
+pip_output_log.48136d7a17387e7cf6c3.txt,"ERROR: Ignored the following versions that require a different python version: 2.82.1 Requires-Python >=3.7, <3.8
+ERROR: Could not find a version that satisfies the requirement bpy==2.82.1 (from versions: none)
+ERROR: No matching distribution found for bpy==2.82.1"
+pip_output_log.486793ad61db4c1dec9d.txt,"ERROR: Could not find a version that satisfies the requirement PyQt4==4.11.4 (from versions: none)
+ERROR: No matching distribution found for PyQt4==4.11.4"
+pip_output_log.4959534.txt,"Installing build dependencies: finished with status 'error'
+error: subprocess-exited-with-error
+ERROR: Could not find a version that satisfies the requirement kivy_deps.sdl2_dev~=0.3.1 (from versions: 0.7.0)
+ERROR: No matching distribution found for kivy_deps.sdl2_dev~=0.3.1
+note: This error originates from a subprocess, and is likely not a problem with pip.
+error: subprocess-exited-with-error
+note: This error originates from a subprocess, and is likely not a problem with pip."
+pip_output_log.4a07818b8a21dd5c49013b9ed496cb70.txt,"ERROR: Ignored the following versions that require a different python version: 2.82.1 Requires-Python >=3.7, <3.8
+ERROR: Could not find a version that satisfies the requirement bpy==2.82.1 (from versions: none)
+ERROR: No matching distribution found for bpy==2.82.1"
+pip_output_log.4b3c1a78b0104e52b2a1.txt,"ERROR: Could not find a version that satisfies the requirement android==0.0.1 (from versions: none)
+ERROR: No matching distribution found for android==0.0.1"
+pip_output_log.4c59bb823a2c4cc886ae51deae9b23d5.txt,"ERROR: Could not find a version that satisfies the requirement tensorflow==2.4.0 (from versions: 2.16.0rc0, 2.16.1, 2.16.2, 2.17.0rc0, 2.17.0rc1, 2.17.0)
+ERROR: No matching distribution found for tensorflow==2.4.0"
+pip_output_log.4deac45790fa339b537a.txt,"ERROR: Could not find a version that satisfies the requirement console==0.9905 (from versions: 0.98, 0.9906, 0.9907)
+ERROR: No matching distribution found for console==0.9905"
+pip_output_log.5055971.txt,"ERROR: Could not find a version that satisfies the requirement web==0.6.0 (from versions: none)
+ERROR: No matching distribution found for web==0.6.0"
+pip_output_log.5090763.txt,"ERROR: Could not find a version that satisfies the requirement console==0.9905 (from versions: 0.98, 0.9906, 0.9907)
+ERROR: No matching distribution found for console==0.9905"
+pip_output_log.518b0c9564e500b4b50f.txt,"ERROR: Could not find a version that satisfies the requirement tensorflow==2.4.0 (from versions: 2.16.0rc0, 2.16.1, 2.16.2, 2.17.0rc0, 2.17.0rc1, 2.17.0)
+ERROR: No matching distribution found for tensorflow==2.4.0"
+pip_output_log.51edd66425998e5fca37.txt,"ERROR: Could not find a version that satisfies the requirement console==0.9905 (from versions: 0.98, 0.9906, 0.9907)
+ERROR: No matching distribution found for console==0.9905"
+pip_output_log.5201689.txt,"ERROR: Could not find a version that satisfies the requirement osgeo==0.0.0 (from versions: 0.0.1)
+ERROR: No matching distribution found for osgeo==0.0.0"
+pip_output_log.5209228.txt,"ERROR: Ignored the following versions that require a different python version: 2.82.1 Requires-Python >=3.7, <3.8
+ERROR: Could not find a version that satisfies the requirement bpy==2.82.1 (from versions: none)
+ERROR: No matching distribution found for bpy==2.82.1"
+pip_output_log.5241369.txt,"ERROR: Could not find a version that satisfies the requirement PyQt4==4.11.4 (from versions: none)
+ERROR: No matching distribution found for PyQt4==4.11.4"
+pip_output_log.5263bc6284c4dbe79951.txt,"ERROR: Could not find a version that satisfies the requirement tensorflow==2.4.0 (from versions: 2.16.0rc0, 2.16.1, 2.16.2, 2.17.0rc0, 2.17.0rc1, 2.17.0)
+ERROR: No matching distribution found for tensorflow==2.4.0"
+pip_output_log.5326230.txt,"ERROR: Could not find a version that satisfies the requirement pykd==0.3.4.15 (from versions: none)
+ERROR: No matching distribution found for pykd==0.3.4.15"
+pip_output_log.53aad9bb83b233b523270c30d36e4c81.txt,"ERROR: Could not find a version that satisfies the requirement tensorflow==2.4.0 (from versions: 2.16.0rc0, 2.16.1, 2.16.2, 2.17.0rc0, 2.17.0rc1, 2.17.0)
+ERROR: No matching distribution found for tensorflow==2.4.0"
+pip_output_log.5437131.txt,"ERROR: Could not find a version that satisfies the requirement strategy==0.0.0.0.dev20200918 (from versions: none)
+ERROR: No matching distribution found for strategy==0.0.0.0.dev20200918"
+pip_output_log.5476453.txt,"ERROR: Could not find a version that satisfies the requirement guardian==0.0.1 (from versions: 0.2.0, 0.2.1, 0.2.2)
+ERROR: No matching distribution found for guardian==0.0.1"
+pip_output_log.5519057.txt,"ERROR: Could not find a version that satisfies the requirement canvas==0.2 (from versions: 0.1.4, 0.1.5, 0.1.6, 0.1.7, 0.1.8, 0.1.10, 0.1.12b0, 0.1.12)
+ERROR: No matching distribution found for canvas==0.2"
+pip_output_log.5553364.txt,"ERROR: Could not find a version that satisfies the requirement simplegui==0.1.1 (from versions: none)
+ERROR: No matching distribution found for simplegui==0.1.1"
+pip_output_log.5598271.txt,"ERROR: Could not find a version that satisfies the requirement simplegui==0.1.1 (from versions: none)
+ERROR: No matching distribution found for simplegui==0.1.1"
+pip_output_log.561d5eec7fed9ebf48751d124a77b087.txt,"ERROR: Could not find a version that satisfies the requirement tensorflow==2.4.0 (from versions: 2.16.0rc0, 2.16.1, 2.16.2, 2.17.0rc0, 2.17.0rc1, 2.17.0)
+ERROR: No matching distribution found for tensorflow==2.4.0"
+pip_output_log.5650237.txt,"ERROR: Could not find a version that satisfies the requirement pygtk==2.24.2 (from versions: 2.24.0)
+ERROR: No matching distribution found for pygtk==2.24.2"
+pip_output_log.5669126.txt,"ERROR: Ignored the following versions that require a different python version: 3.0 Requires-Python ~=3.9.0; 3.0.1 Requires-Python ~=3.9.0; 3.0.2 Requires-Python ~=3.9.0; 3.0.3 Requires-Python ~=3.9.0; 3.0rc2 Requires-Python ~=3.9.0; 3.1 Requires-Python ~=3.9.0; 3.1.1 Requires-Python ~=3.9.0; 3.2 Requires-Python <3.11,>=3.9.0; 3.2.1 Requires-Python <3.11,>=3.9.0; 3.2.2 Requires-Python <3.11,>=3.9.0; 3.2.3 Requires-Python <3.11,>=3.9.0; 3.2.4 Requires-Python <3.11,>=3.9.0; 3.2.5 Requires-Python <3.11,>=3.9.0; 3.2.6 Requires-Python <3.12,>=3.9.0; 3.2.7 Requires-Python <3.12,>=3.9.0; 3.2.8 Requires-Python <3.12,>=3.9.0; 3.2.9 Requires-Python <3.12,>=3.9.0; 3.3 Requires-Python <3.13,>=3.12.2; 3.3.1 Requires-Python <3.13,>=3.12.2; 3.3.2 Requires-Python <3.13,>=3.12.2; 3.3.3 Requires-Python <3.13,>=3.12.2
+ERROR: Could not find a version that satisfies the requirement indico==2.3.2 (from versions: 1.2.1rc5, 1.2.1rc7, 1.2.1rc9, 1.2.1rc10, 1.2.1rc11, 1.2.1, 1.2.2rc1, 1.2.2, 3.0rc1)
+ERROR: No matching distribution found for indico==2.3.2"
+pip_output_log.5675359.txt,"ERROR: Could not find a version that satisfies the requirement pygtk==2.24.2 (from versions: 2.24.0)
+ERROR: No matching distribution found for pygtk==2.24.2"
+pip_output_log.5682306.txt,"ERROR: Ignored the following versions that require a different python version: 3.1.1.post1 Requires-Python >=2.6, <3; 3.2.0 Requires-Python >=2.6, <3; 3.3.0 Requires-Python >=2.6, <3; 3.4.0 Requires-Python >=2.6, <3
+ERROR: Could not find a version that satisfies the requirement futures==3.3.0 (from versions: 0.2.python3, 0.1, 0.2, 1.0, 2.0, 2.1, 2.1.1, 2.1.2, 2.1.3, 2.1.4, 2.1.5, 2.1.6, 2.2.0, 3.0.0, 3.0.1, 3.0.2, 3.0.3, 3.0.4, 3.0.5, 3.1.0, 3.1.1)
+ERROR: No matching distribution found for futures==3.3.0"
+pip_output_log.5690132.txt,"ERROR: Could not find a version that satisfies the requirement simplegui==0.1.1 (from versions: none)
+ERROR: No matching distribution found for simplegui==0.1.1"
+pip_output_log.5691375.txt,"ERROR: Could not find a version that satisfies the requirement console==0.9905 (from versions: 0.98, 0.9906, 0.9907)
+ERROR: No matching distribution found for console==0.9905"
+pip_output_log.5696520.txt,"ERROR: Could not find a version that satisfies the requirement simplegui==0.1.1 (from versions: none)
+ERROR: No matching distribution found for simplegui==0.1.1"
+pip_output_log.5712436.txt,"ERROR: Ignored the following versions that require a different python version: 3.1.1.post1 Requires-Python >=2.6, <3; 3.2.0 Requires-Python >=2.6, <3; 3.3.0 Requires-Python >=2.6, <3; 3.4.0 Requires-Python >=2.6, <3
+ERROR: Could not find a version that satisfies the requirement futures==3.3.0 (from versions: 0.2.python3, 0.1, 0.2, 1.0, 2.0, 2.1, 2.1.1, 2.1.2, 2.1.3, 2.1.4, 2.1.5, 2.1.6, 2.2.0, 3.0.0, 3.0.1, 3.0.2, 3.0.3, 3.0.4, 3.0.5, 3.1.0, 3.1.1)
+ERROR: No matching distribution found for futures==3.3.0"
+pip_output_log.5778557.txt,"ERROR: Could not find a version that satisfies the requirement PyQt4==4.11.4 (from versions: none)
+ERROR: No matching distribution found for PyQt4==4.11.4"
+pip_output_log.5787626.txt,"ERROR: Could not find a version that satisfies the requirement simplegui==0.1.1 (from versions: none)
+ERROR: No matching distribution found for simplegui==0.1.1"
+pip_output_log.57901e91e5c5a8bac3eb0cbbdd3aba81.txt,"ERROR: Could not find a version that satisfies the requirement torch==1.7.1 (from versions: 2.2.0, 2.2.1, 2.2.2, 2.3.0, 2.3.1)
+ERROR: No matching distribution found for torch==1.7.1"
+pip_output_log.5793291.txt,"ERROR: Could not find a version that satisfies the requirement PyQt4==4.11.4 (from versions: none)
+ERROR: No matching distribution found for PyQt4==4.11.4"
+pip_output_log.5807738.txt,"ERROR: Could not find a version that satisfies the requirement vim==0.0.1 (from versions: none)
+ERROR: No matching distribution found for vim==0.0.1"
+pip_output_log.5807746.txt,"ERROR: Could not find a version that satisfies the requirement ycm==0.1.71 (from versions: none)
+ERROR: No matching distribution found for ycm==0.1.71"
+pip_output_log.5849024.txt,"ERROR: Could not find a version that satisfies the requirement pyPEG==1.5 (from versions: none)
+ERROR: No matching distribution found for pyPEG==1.5"
+pip_output_log.5862530.txt,"ERROR: Could not find a version that satisfies the requirement pygtk==2.24.2 (from versions: 2.24.0)
+ERROR: No matching distribution found for pygtk==2.24.2"
+pip_output_log.5872584.txt,"ERROR: Could not find a version that satisfies the requirement web==0.6.0 (from versions: none)
+ERROR: No matching distribution found for web==0.6.0"
+pip_output_log.5984815.txt,"ERROR: Could not find a version that satisfies the requirement PyQt4==4.11.4 (from versions: none)
+ERROR: No matching distribution found for PyQt4==4.11.4"
+pip_output_log.5a073b72c94de357d453.txt,"ERROR: Could not find a version that satisfies the requirement console==0.9905 (from versions: 0.98, 0.9906, 0.9907)
+ERROR: No matching distribution found for console==0.9905"
+pip_output_log.5a4c39e4c02502a8451d.txt,"ERROR: Could not find a version that satisfies the requirement Bio==0.3.0 (from versions: 1.0.2, 1.2.0, 1.3.2, 1.3.3, 1.3.4, 1.3.5, 1.3.6, 1.3.7, 1.3.8, 1.3.9, 1.4.0, 1.5.0, 1.5.1, 1.5.2, 1.5.3, 1.5.4, 1.5.5, 1.5.6, 1.5.7, 1.5.8, 1.5.9, 1.6.0, 1.6.1, 1.6.2, 1.7.1)
+ERROR: No matching distribution found for Bio==0.3.0"
+pip_output_log.5b4c5ffdcdb5a13e0267.txt,"ERROR: Could not find a version that satisfies the requirement slate==0.5.2 (from versions: 0.2.3, 0.3)
+ERROR: No matching distribution found for slate==0.5.2"
+pip_output_log.5b62847bf934785119ffb16be636e073.txt,"ERROR: Could not find a version that satisfies the requirement console==0.9905 (from versions: 0.98, 0.9906, 0.9907)
+ERROR: No matching distribution found for console==0.9905"
+pip_output_log.5c973ec1b5ab2e387646.txt,"ERROR: Ignored the following versions that require a different python version: 2.82.1 Requires-Python >=3.7, <3.8
+ERROR: Could not find a version that satisfies the requirement bpy==2.82.1 (from versions: none)
+ERROR: No matching distribution found for bpy==2.82.1"
+pip_output_log.5e96a65ee11698a26403.txt,"ERROR: Could not find a version that satisfies the requirement canvas==0.2 (from versions: 0.1.4, 0.1.5, 0.1.6, 0.1.7, 0.1.8, 0.1.10, 0.1.12b0, 0.1.12)
+ERROR: No matching distribution found for canvas==0.2"
+pip_output_log.5e9a7c0d46cfdfe00104.txt,"ERROR: Could not find a version that satisfies the requirement console==0.9905 (from versions: 0.98, 0.9906, 0.9907)
+ERROR: No matching distribution found for console==0.9905"
+pip_output_log.6027183.txt,"ERROR: Could not find a version that satisfies the requirement visa==2.21.0 (from versions: 1.0.0)
+ERROR: No matching distribution found for visa==2.21.0"
+pip_output_log.6055795.txt,"ERROR: Could not find a version that satisfies the requirement city==0.1 (from versions: none)
+ERROR: No matching distribution found for city==0.1"
+pip_output_log.6113246.txt,"ERROR: Could not find a version that satisfies the requirement console==0.9905 (from versions: 0.98, 0.9906, 0.9907)
+ERROR: No matching distribution found for console==0.9905"
+pip_output_log.6118172.txt,"ERROR: Could not find a version that satisfies the requirement android==0.0.1 (from versions: none)
+ERROR: No matching distribution found for android==0.0.1"
+pip_output_log.6146161.txt,"ERROR: Could not find a version that satisfies the requirement PyQt4==4.11.4 (from versions: none)
+ERROR: No matching distribution found for PyQt4==4.11.4"
+pip_output_log.6175388.txt,"ERROR: Could not find a version that satisfies the requirement android==0.0.1 (from versions: none)
+ERROR: No matching distribution found for android==0.0.1"
+pip_output_log.619473.txt,"ERROR: Could not find a version that satisfies the requirement ROOT==0.0.1 (from versions: none)
+ERROR: No matching distribution found for ROOT==0.0.1"
+pip_output_log.6194738.txt,"ERROR: Could not find a version that satisfies the requirement ROOT==0.0.1 (from versions: none)
+ERROR: No matching distribution found for ROOT==0.0.1"
+pip_output_log.61f9226f7ea498abce36187ddaf51ed5.txt,"ERROR: Could not find a version that satisfies the requirement tensorflow==2.4.0 (from versions: 2.16.0rc0, 2.16.1, 2.16.2, 2.17.0rc0, 2.17.0rc1, 2.17.0)
+ERROR: No matching distribution found for tensorflow==2.4.0"
+pip_output_log.638aca3fc4314290af59110d0602f86e.txt,"ERROR: Ignored the following versions that require a different python version: 3.1.1.post1 Requires-Python >=2.6, <3; 3.2.0 Requires-Python >=2.6, <3; 3.3.0 Requires-Python >=2.6, <3; 3.4.0 Requires-Python >=2.6, <3
+ERROR: Could not find a version that satisfies the requirement futures==3.3.0 (from versions: 0.2.python3, 0.1, 0.2, 1.0, 2.0, 2.1, 2.1.1, 2.1.2, 2.1.3, 2.1.4, 2.1.5, 2.1.6, 2.2.0, 3.0.0, 3.0.1, 3.0.2, 3.0.3, 3.0.4, 3.0.5, 3.1.0, 3.1.1)
+ERROR: No matching distribution found for futures==3.3.0"
+pip_output_log.6453947.txt,"ERROR: Ignored the following versions that require a different python version: 2.82.1 Requires-Python >=3.7, <3.8
+ERROR: Could not find a version that satisfies the requirement bpy==2.82.1 (from versions: none)
+ERROR: No matching distribution found for bpy==2.82.1"
+pip_output_log.6557760.txt,"ERROR: Could not find a version that satisfies the requirement guardian==0.0.1 (from versions: 0.2.0, 0.2.1, 0.2.2)
+ERROR: No matching distribution found for guardian==0.0.1"
+pip_output_log.6576933.txt,"ERROR: Could not find a version that satisfies the requirement text==1.0.0 (from versions: none)
+ERROR: No matching distribution found for text==1.0.0"
+pip_output_log.6869344.txt,"ERROR: Ignored the following versions that require a different python version: 3.1.1.post1 Requires-Python >=2.6, <3; 3.2.0 Requires-Python >=2.6, <3; 3.3.0 Requires-Python >=2.6, <3; 3.4.0 Requires-Python >=2.6, <3
+ERROR: Could not find a version that satisfies the requirement futures==3.3.0 (from versions: 0.2.python3, 0.1, 0.2, 1.0, 2.0, 2.1, 2.1.1, 2.1.2, 2.1.3, 2.1.4, 2.1.5, 2.1.6, 2.2.0, 3.0.0, 3.0.1, 3.0.2, 3.0.3, 3.0.4, 3.0.5, 3.1.0, 3.1.1)
+ERROR: No matching distribution found for futures==3.3.0"
+pip_output_log.69da10ec6f22c6d7b92deefdb4a4f475.txt,"ERROR: Could not find a version that satisfies the requirement shiboken2==5.15.2 (from versions: none)
+ERROR: No matching distribution found for shiboken2==5.15.2"
+pip_output_log.69f4acd1fc094c66ba73.txt,"ERROR: Could not find a version that satisfies the requirement cron==0.0.1 (from versions: none)
+ERROR: No matching distribution found for cron==0.0.1"
+pip_output_log.6b2944d74ec9dd229938.txt,"ERROR: Ignored the following versions that require a different python version: 2.82.1 Requires-Python >=3.7, <3.8
+ERROR: Could not find a version that satisfies the requirement bpy==2.82.1 (from versions: none)
+ERROR: No matching distribution found for bpy==2.82.1"
+pip_output_log.6b9bae1310f2ee6b47ba3663bdcb1ded.txt,"ERROR: Could not find a version that satisfies the requirement pygtk==2.24.2 (from versions: 2.24.0)
+ERROR: No matching distribution found for pygtk==2.24.2"
+pip_output_log.6ca93b8309f05055c6a3.txt,"ERROR: Could not find a version that satisfies the requirement tensorflow==2.4.0 (from versions: 2.16.0rc0, 2.16.1, 2.16.2, 2.17.0rc0, 2.17.0rc1, 2.17.0)
+ERROR: No matching distribution found for tensorflow==2.4.0"
+pip_output_log.6e41e8512c17eae5da50aebef3378a4c.txt,"ERROR: Could not find a version that satisfies the requirement torch==1.7.1 (from versions: 2.2.0, 2.2.1, 2.2.2, 2.3.0, 2.3.1)
+ERROR: No matching distribution found for torch==1.7.1"
+pip_output_log.7282822.txt,"Installing build dependencies: finished with status 'error'
+error: subprocess-exited-with-error
+ERROR: Could not find a version that satisfies the requirement kivy_deps.sdl2_dev~=0.3.1 (from versions: 0.7.0)
+ERROR: No matching distribution found for kivy_deps.sdl2_dev~=0.3.1
+note: This error originates from a subprocess, and is likely not a problem with pip.
+error: subprocess-exited-with-error
+note: This error originates from a subprocess, and is likely not a problem with pip."
+pip_output_log.72e709ba8a3a7c6affa1.txt,"ERROR: Could not find a version that satisfies the requirement silk==0.1 (from versions: none)
+ERROR: No matching distribution found for silk==0.1"
+pip_output_log.7466823.txt,"ERROR: Could not find a version that satisfies the requirement gdb==0.0.1 (from versions: none)
+ERROR: No matching distribution found for gdb==0.0.1"
+pip_output_log.7495576.txt,"ERROR: Could not find a version that satisfies the requirement console==0.9905 (from versions: 0.98, 0.9906, 0.9907)
+ERROR: No matching distribution found for console==0.9905"
+pip_output_log.7622246.txt,"ERROR: Could not find a version that satisfies the requirement console==0.9905 (from versions: 0.98, 0.9906, 0.9907)
+ERROR: No matching distribution found for console==0.9905"
+pip_output_log.7698491.txt,"ERROR: Could not find a version that satisfies the requirement console==0.9905 (from versions: 0.98, 0.9906, 0.9907)
+ERROR: No matching distribution found for console==0.9905"
+pip_output_log.7752095.txt,"ERROR: Could not find a version that satisfies the requirement console==0.9905 (from versions: 0.98, 0.9906, 0.9907)
+ERROR: No matching distribution found for console==0.9905"
+pip_output_log.7820246.txt,"ERROR: Could not find a version that satisfies the requirement Bio==0.3.0 (from versions: 1.0.2, 1.2.0, 1.3.2, 1.3.3, 1.3.4, 1.3.5, 1.3.6, 1.3.7, 1.3.8, 1.3.9, 1.4.0, 1.5.0, 1.5.1, 1.5.2, 1.5.3, 1.5.4, 1.5.5, 1.5.6, 1.5.7, 1.5.8, 1.5.9, 1.6.0, 1.6.1, 1.6.2, 1.7.1)
+ERROR: No matching distribution found for Bio==0.3.0"
+pip_output_log.7870550.txt,"ERROR: Could not find a version that satisfies the requirement console==0.9905 (from versions: 0.98, 0.9906, 0.9907)
+ERROR: No matching distribution found for console==0.9905"
+pip_output_log.792634.txt,"ERROR: Could not find a version that satisfies the requirement psyco==1.6 (from versions: none)
+ERROR: No matching distribution found for psyco==1.6"
+pip_output_log.79405fa0f930e41544b584c4d7864611.txt,"Installing build dependencies: finished with status 'error'
+error: subprocess-exited-with-error
+ERROR: Could not find a version that satisfies the requirement kivy_deps.sdl2_dev~=0.3.1 (from versions: 0.7.0)
+ERROR: No matching distribution found for kivy_deps.sdl2_dev~=0.3.1
+note: This error originates from a subprocess, and is likely not a problem with pip.
+error: subprocess-exited-with-error
+note: This error originates from a subprocess, and is likely not a problem with pip."
+pip_output_log.7955963.txt,"ERROR: Could not find a version that satisfies the requirement console==0.9905 (from versions: 0.98, 0.9906, 0.9907)
+ERROR: No matching distribution found for console==0.9905"
+pip_output_log.7956216.txt,"ERROR: Could not find a version that satisfies the requirement console==0.9905 (from versions: 0.98, 0.9906, 0.9907)
+ERROR: No matching distribution found for console==0.9905"
+pip_output_log.7977492.txt,"ERROR: Could not find a version that satisfies the requirement console==0.9905 (from versions: 0.98, 0.9906, 0.9907)
+ERROR: No matching distribution found for console==0.9905"
+pip_output_log.7977513.txt,"ERROR: Could not find a version that satisfies the requirement console==0.9905 (from versions: 0.98, 0.9906, 0.9907)
+ERROR: No matching distribution found for console==0.9905"
+pip_output_log.7b96bba85ed81aba864a.txt,"ERROR: Ignored the following versions that require a different python version: 2.82.1 Requires-Python >=3.7, <3.8
+ERROR: Could not find a version that satisfies the requirement bpy==2.82.1 (from versions: none)
+ERROR: No matching distribution found for bpy==2.82.1"
+pip_output_log.7c24802dd9c5e15870b4b56e22135c96.txt,"ERROR: Could not find a version that satisfies the requirement tensorflow==2.4.0 (from versions: 2.16.0rc0, 2.16.1, 2.16.2, 2.17.0rc0, 2.17.0rc1, 2.17.0)
+ERROR: No matching distribution found for tensorflow==2.4.0"
+pip_output_log.809993.txt,"ERROR: Could not find a version that satisfies the requirement sandbox==0.3.5 (from versions: none)
+ERROR: No matching distribution found for sandbox==0.3.5"
+pip_output_log.8112114.txt,"ERROR: Ignored the following versions that require a different python version: 2.82.1 Requires-Python >=3.7, <3.8
+ERROR: Could not find a version that satisfies the requirement bpy==2.82.1 (from versions: none)
+ERROR: No matching distribution found for bpy==2.82.1"
+pip_output_log.8169809.txt,"ERROR: Could not find a version that satisfies the requirement console==0.9905 (from versions: 0.98, 0.9906, 0.9907)
+ERROR: No matching distribution found for console==0.9905"
+pip_output_log.821473a1596f1429024cb1eadb471927.txt,"ERROR: Could not find a version that satisfies the requirement osgeo==0.0.0 (from versions: 0.0.1)
+ERROR: No matching distribution found for osgeo==0.0.0"
+pip_output_log.824628.txt,"ERROR: Could not find a version that satisfies the requirement hotspot==0.0.2 (from versions: 0.0.2.linux-x86_64)
+ERROR: No matching distribution found for hotspot==0.0.2"
+pip_output_log.825970.txt,"ERROR: Could not find a version that satisfies the requirement animals==0.1 (from versions: none)
+ERROR: No matching distribution found for animals==0.1"
+pip_output_log.826218.txt,"ERROR: Could not find a version that satisfies the requirement wphp==0.1dev-r5497 (from versions: none)
+ERROR: No matching distribution found for wphp==0.1dev-r5497"
+pip_output_log.8263132.txt,"ERROR: Could not find a version that satisfies the requirement vtk==9.0.1 (from versions: 9.3.0rc2, 9.3.0, 9.3.1)
+ERROR: No matching distribution found for vtk==9.0.1"
+pip_output_log.82f7b21509a69a0d70e18f2e4ddf5ed9.txt,"ERROR: Ignored the following versions that require a different python version: 3.1.1.post1 Requires-Python >=2.6, <3; 3.2.0 Requires-Python >=2.6, <3; 3.3.0 Requires-Python >=2.6, <3; 3.4.0 Requires-Python >=2.6, <3
+ERROR: Could not find a version that satisfies the requirement futures==3.3.0 (from versions: 0.2.python3, 0.1, 0.2, 1.0, 2.0, 2.1, 2.1.1, 2.1.2, 2.1.3, 2.1.4, 2.1.5, 2.1.6, 2.2.0, 3.0.0, 3.0.1, 3.0.2, 3.0.3, 3.0.4, 3.0.5, 3.1.0, 3.1.1)
+ERROR: No matching distribution found for futures==3.3.0"
+pip_output_log.8458501.txt,"ERROR: Could not find a version that satisfies the requirement obelisk==0.0 (from versions: none)
+ERROR: No matching distribution found for obelisk==0.0"
+pip_output_log.855680.txt,"ERROR: Could not find a version that satisfies the requirement sampy==1.11.1 (from versions: 1.2.1)
+ERROR: No matching distribution found for sampy==1.11.1"
+pip_output_log.8663d3bbfd586bffecf6a0094cd116f2.txt,"ERROR: Could not find a version that satisfies the requirement tensorflow==2.4.0 (from versions: 2.16.0rc0, 2.16.1, 2.16.2, 2.17.0rc0, 2.17.0rc1, 2.17.0)
+ERROR: No matching distribution found for tensorflow==2.4.0"
+pip_output_log.881cd3e0f8836121226a04efb9e2ae18.txt,"ERROR: Could not find a version that satisfies the requirement torch==1.7.1 (from versions: 2.2.0, 2.2.1, 2.2.2, 2.3.0, 2.3.1)
+ERROR: No matching distribution found for torch==1.7.1"
+pip_output_log.8831412.txt,"Installing build dependencies: finished with status 'error'
+error: subprocess-exited-with-error
+ERROR: Could not find a version that satisfies the requirement kivy_deps.sdl2_dev~=0.3.1 (from versions: 0.7.0)
+ERROR: No matching distribution found for kivy_deps.sdl2_dev~=0.3.1
+note: This error originates from a subprocess, and is likely not a problem with pip.
+error: subprocess-exited-with-error
+note: This error originates from a subprocess, and is likely not a problem with pip."
+pip_output_log.8851078.txt,"Installing build dependencies: finished with status 'error'
+error: subprocess-exited-with-error
+ERROR: Could not find a version that satisfies the requirement kivy_deps.sdl2_dev~=0.3.1 (from versions: 0.7.0)
+ERROR: No matching distribution found for kivy_deps.sdl2_dev~=0.3.1
+note: This error originates from a subprocess, and is likely not a problem with pip.
+error: subprocess-exited-with-error
+note: This error originates from a subprocess, and is likely not a problem with pip."
+pip_output_log.893580.txt,"ERROR: Could not find a version that satisfies the requirement Bio==0.3.0 (from versions: 1.0.2, 1.2.0, 1.3.2, 1.3.3, 1.3.4, 1.3.5, 1.3.6, 1.3.7, 1.3.8, 1.3.9, 1.4.0, 1.5.0, 1.5.1, 1.5.2, 1.5.3, 1.5.4, 1.5.5, 1.5.6, 1.5.7, 1.5.8, 1.5.9, 1.6.0, 1.6.1, 1.6.2, 1.7.1)
+ERROR: No matching distribution found for Bio==0.3.0"
+pip_output_log.8982669.txt,"ERROR: Could not find a version that satisfies the requirement console==0.9905 (from versions: 0.98, 0.9906, 0.9907)
+ERROR: No matching distribution found for console==0.9905"
+pip_output_log.8b1502a49d8b20a6ae70.txt,"ERROR: Could not find a version that satisfies the requirement apt==0.7.8 (from versions: none)
+ERROR: No matching distribution found for apt==0.7.8"
+pip_output_log.8be20f6256f9fd474c05.txt,"ERROR: Could not find a version that satisfies the requirement kol==0.0.1 (from versions: none)
+ERROR: No matching distribution found for kol==0.0.1"
+pip_output_log.8e4b396a1c8a1f3f80d0.txt,"ERROR: Could not find a version that satisfies the requirement console==0.9905 (from versions: 0.98, 0.9906, 0.9907)
+ERROR: No matching distribution found for console==0.9905"
+pip_output_log.8f07d0bfadffd40fcf40cd49cb77382d.txt,"ERROR: Could not find a version that satisfies the requirement pgoapi==1.1.6 (from versions: none)
+ERROR: No matching distribution found for pgoapi==1.1.6"
+pip_output_log.8f6667310a94f0c18bda10a1d5ff578c.txt,"ERROR: Could not find a version that satisfies the requirement tensorflow==2.4.0 (from versions: 2.16.0rc0, 2.16.1, 2.16.2, 2.17.0rc0, 2.17.0rc1, 2.17.0)
+ERROR: No matching distribution found for tensorflow==2.4.0"
+pip_output_log.9000222.txt,"ERROR: Could not find a version that satisfies the requirement PyQt4==4.11.4 (from versions: none)
+ERROR: No matching distribution found for PyQt4==4.11.4"
+pip_output_log.9110299.txt,"ERROR: Could not find a version that satisfies the requirement PyQt4==4.11.4 (from versions: none)
+ERROR: No matching distribution found for PyQt4==4.11.4"
+pip_output_log.918d4ad7c931bc14b475008c00aa09f1.txt,"ERROR: Could not find a version that satisfies the requirement torch==1.7.1 (from versions: 2.2.0, 2.2.1, 2.2.2, 2.3.0, 2.3.1)
+ERROR: No matching distribution found for torch==1.7.1"
+pip_output_log.9316552.txt,"Installing build dependencies: finished with status 'error'
+error: subprocess-exited-with-error
+ERROR: Could not find a version that satisfies the requirement kivy_deps.sdl2_dev~=0.3.1 (from versions: 0.7.0)
+ERROR: No matching distribution found for kivy_deps.sdl2_dev~=0.3.1
+note: This error originates from a subprocess, and is likely not a problem with pip.
+error: subprocess-exited-with-error
+note: This error originates from a subprocess, and is likely not a problem with pip."
+pip_output_log.9358479.txt,"ERROR: Could not find a version that satisfies the requirement tests==0.007 (from versions: none)
+ERROR: No matching distribution found for tests==0.007"
+pip_output_log.93e0ba46f0fa6faf660d.txt,"ERROR: Could not find a version that satisfies the requirement mesos==0.19.0 (from versions: none)
+ERROR: No matching distribution found for mesos==0.19.0"
+pip_output_log.9655195.txt,"Installing build dependencies: finished with status 'error'
+error: subprocess-exited-with-error
+ERROR: Could not find a version that satisfies the requirement kivy_deps.sdl2_dev~=0.3.1 (from versions: 0.7.0)
+ERROR: No matching distribution found for kivy_deps.sdl2_dev~=0.3.1
+note: This error originates from a subprocess, and is likely not a problem with pip.
+error: subprocess-exited-with-error
+note: This error originates from a subprocess, and is likely not a problem with pip."
+pip_output_log.97256.txt,"ERROR: Could not find a version that satisfies the requirement pygtk==2.24.2 (from versions: 2.24.0)
+ERROR: No matching distribution found for pygtk==2.24.2"
+pip_output_log.9901745.txt,"ERROR: Could not find a version that satisfies the requirement osgeo==0.0.0 (from versions: 0.0.1)
+ERROR: No matching distribution found for osgeo==0.0.0"
+pip_output_log.9951701907ed328218dd.txt,"ERROR: Could not find a version that satisfies the requirement console==0.9905 (from versions: 0.98, 0.9906, 0.9907)
+ERROR: No matching distribution found for console==0.9905"
+pip_output_log.9952389.txt,"ERROR: Could not find a version that satisfies the requirement web==0.6.0 (from versions: none)
+ERROR: No matching distribution found for web==0.6.0"
+pip_output_log.9956ec93a07ca4e9ba5bc415b014bcca.txt,"ERROR: Could not find a version that satisfies the requirement tensorflow==2.4.0 (from versions: 2.16.0rc0, 2.16.1, 2.16.2, 2.17.0rc0, 2.17.0rc1, 2.17.0)
+ERROR: No matching distribution found for tensorflow==2.4.0"
+pip_output_log.9985307.txt,"ERROR: Could not find a version that satisfies the requirement ROOT==0.0.1 (from versions: none)
+ERROR: No matching distribution found for ROOT==0.0.1"
+pip_output_log.9ad6a265aac887fa26c1.txt,"ERROR: Could not find a version that satisfies the requirement electrum==0 (from versions: none)
+ERROR: No matching distribution found for electrum==0"
+pip_output_log.9f6118ff84867e89f3348707c7a1271f.txt,"ERROR: Could not find a version that satisfies the requirement torch==1.7.1 (from versions: 2.2.0, 2.2.1, 2.2.2, 2.3.0, 2.3.1)
+ERROR: No matching distribution found for torch==1.7.1"
+pip_output_log.9fd4304148b398983b3c.txt,"ERROR: Could not find a version that satisfies the requirement pygtk==2.24.2 (from versions: 2.24.0)
+ERROR: No matching distribution found for pygtk==2.24.2"
+pip_output_log.a1178bf10729a27184b1.txt,"ERROR: Could not find a version that satisfies the requirement collectd==1.0.2 (from versions: 1.0)
+ERROR: No matching distribution found for collectd==1.0.2"
+pip_output_log.a2b9c6ecdb24ca8fd6f4f41a9c0eb32e.txt,"ERROR: Ignored the following versions that require a different python version: 2.82.1 Requires-Python >=3.7, <3.8
+ERROR: Could not find a version that satisfies the requirement bpy==2.82.1 (from versions: none)
+ERROR: No matching distribution found for bpy==2.82.1"
+pip_output_log.a430d460966d64edc6cad71c502d7005.txt,"ERROR: Could not find a version that satisfies the requirement graph_tool==2.11 (from versions: none)
+ERROR: No matching distribution found for graph_tool==2.11"
+pip_output_log.a48b50e46f01dc7ac96d.txt,"ERROR: Could not find a version that satisfies the requirement console==0.9905 (from versions: 0.98, 0.9906, 0.9907)
+ERROR: No matching distribution found for console==0.9905"
+pip_output_log.a48feaecfdb9e0609c6a02590fd1f91b.txt,"ERROR: Could not find a version that satisfies the requirement tensorflow==2.4.0 (from versions: 2.16.0rc0, 2.16.1, 2.16.2, 2.17.0rc0, 2.17.0rc1, 2.17.0)
+ERROR: No matching distribution found for tensorflow==2.4.0"
+pip_output_log.a5808fe356b8da031837.txt,"ERROR: Could not find a version that satisfies the requirement tensorflow==2.4.0 (from versions: 2.16.0rc0, 2.16.1, 2.16.2, 2.17.0rc0, 2.17.0rc1, 2.17.0)
+ERROR: No matching distribution found for tensorflow==2.4.0"
+pip_output_log.a5fb23f096d7b0c3880e1622938d0901.txt,"ERROR: Could not find a version that satisfies the requirement torch==1.7.1 (from versions: 2.2.0, 2.2.1, 2.2.2, 2.3.0, 2.3.1)
+ERROR: No matching distribution found for torch==1.7.1"
+pip_output_log.a62b5cf5262fc7179dee.txt,"ERROR: Could not find a version that satisfies the requirement pygtk==2.24.2 (from versions: 2.24.0)
+ERROR: No matching distribution found for pygtk==2.24.2"
+pip_output_log.a8121604385ce6da251d20d018f9a6d6.txt,"ERROR: Could not find a version that satisfies the requirement tensorflow==2.4.0 (from versions: 2.16.0rc0, 2.16.1, 2.16.2, 2.17.0rc0, 2.17.0rc1, 2.17.0)
+ERROR: No matching distribution found for tensorflow==2.4.0"
+pip_output_log.a86b412988cbf5216aa5c48b1cf439c4.txt,"ERROR: Could not find a version that satisfies the requirement console==0.9905 (from versions: 0.98, 0.9906, 0.9907)
+ERROR: No matching distribution found for console==0.9905"
+pip_output_log.aa64ddf6109414291030.txt,"ERROR: Could not find a version that satisfies the requirement Bio==0.3.0 (from versions: 1.0.2, 1.2.0, 1.3.2, 1.3.3, 1.3.4, 1.3.5, 1.3.6, 1.3.7, 1.3.8, 1.3.9, 1.4.0, 1.5.0, 1.5.1, 1.5.2, 1.5.3, 1.5.4, 1.5.5, 1.5.6, 1.5.7, 1.5.8, 1.5.9, 1.6.0, 1.6.1, 1.6.2, 1.7.1)
+ERROR: No matching distribution found for Bio==0.3.0"
+pip_output_log.acbd669af86ecb8f988325084ba7a749.txt,"ERROR: Could not find a version that satisfies the requirement torch==1.7.1 (from versions: 2.2.0, 2.2.1, 2.2.2, 2.3.0, 2.3.1)
+ERROR: No matching distribution found for torch==1.7.1"
+pip_output_log.af5bc4fae39b16f8d505.txt,"ERROR: Ignored the following versions that require a different python version: 2.82.1 Requires-Python >=3.7, <3.8
+ERROR: Could not find a version that satisfies the requirement bpy==2.82.1 (from versions: none)
+ERROR: No matching distribution found for bpy==2.82.1"
+pip_output_log.b0eae211db963fe56c0c55773e6a16c0.txt,"ERROR: Could not find a version that satisfies the requirement push_notifications==0.1 (from versions: none)
+ERROR: No matching distribution found for push_notifications==0.1"
+pip_output_log.b27cdbff68870418bdb8cefa86a2d558.txt,"ERROR: Could not find a version that satisfies the requirement torch==1.7.1 (from versions: 2.2.0, 2.2.1, 2.2.2, 2.3.0, 2.3.1)
+ERROR: No matching distribution found for torch==1.7.1"
+pip_output_log.b46119196c75d6ef20ff.txt,"ERROR: Ignored the following versions that require a different python version: 2.82.1 Requires-Python >=3.7, <3.8
+ERROR: Could not find a version that satisfies the requirement bpy==2.82.1 (from versions: none)
+ERROR: No matching distribution found for bpy==2.82.1"
+pip_output_log.b470324dc5c81cef8ae24fd1d3fd4e59.txt,"ERROR: Could not find a version that satisfies the requirement tensorflow==2.4.0 (from versions: 2.16.0rc0, 2.16.1, 2.16.2, 2.17.0rc0, 2.17.0rc1, 2.17.0)
+ERROR: No matching distribution found for tensorflow==2.4.0"
+pip_output_log.b4afaf9648ec986928a9.txt,"ERROR: Could not find a version that satisfies the requirement pythonscript==0.1 (from versions: none)
+ERROR: No matching distribution found for pythonscript==0.1"
+pip_output_log.b5b2c4be45437992df58a7dd13dbafa7.txt,"ERROR: Could not find a version that satisfies the requirement tensorflow==2.4.0 (from versions: 2.16.0rc0, 2.16.1, 2.16.2, 2.17.0rc0, 2.17.0rc1, 2.17.0)
+ERROR: No matching distribution found for tensorflow==2.4.0"
+pip_output_log.b71ed0e977e6d345bcb8.txt,"Installing build dependencies: finished with status 'error'
+error: subprocess-exited-with-error
+ERROR: Could not find a version that satisfies the requirement kivy_deps.sdl2_dev~=0.3.1 (from versions: 0.7.0)
+ERROR: No matching distribution found for kivy_deps.sdl2_dev~=0.3.1
+note: This error originates from a subprocess, and is likely not a problem with pip.
+error: subprocess-exited-with-error
+note: This error originates from a subprocess, and is likely not a problem with pip."
+pip_output_log.b9df49cfc1540bc8b896.txt,"ERROR: Could not find a version that satisfies the requirement pgp==0.0.1 (from versions: none)
+ERROR: No matching distribution found for pgp==0.0.1"
+pip_output_log.bb61c15139bff338cb17.txt,"ERROR: Ignored the following versions that require a different python version: 2.82.1 Requires-Python >=3.7, <3.8
+ERROR: Could not find a version that satisfies the requirement bpy==2.82.1 (from versions: none)
+ERROR: No matching distribution found for bpy==2.82.1"
+pip_output_log.c063bddb9b8d17a037695d748db4f592.txt,"ERROR: Could not find a version that satisfies the requirement tensorflow==2.4.0 (from versions: 2.16.0rc0, 2.16.1, 2.16.2, 2.17.0rc0, 2.17.0rc1, 2.17.0)
+ERROR: No matching distribution found for tensorflow==2.4.0"
+pip_output_log.c0fdb29ddf0d338bcbd021b68f5bea51.txt,"ERROR: Ignored the following versions that require a different python version: 2.82.1 Requires-Python >=3.7, <3.8
+ERROR: Could not find a version that satisfies the requirement bpy==2.82.1 (from versions: none)
+ERROR: No matching distribution found for bpy==2.82.1"
+pip_output_log.c28329f12711a914c7a8cbe6eeb947c0.txt,"ERROR: Could not find a version that satisfies the requirement console==0.9905 (from versions: 0.98, 0.9906, 0.9907)
+ERROR: No matching distribution found for console==0.9905"
+pip_output_log.c3a540563e0774489ceafb3156b318a2.txt,"ERROR: Ignored the following versions that require a different python version: 3.1.1.post1 Requires-Python >=2.6, <3; 3.2.0 Requires-Python >=2.6, <3; 3.3.0 Requires-Python >=2.6, <3; 3.4.0 Requires-Python >=2.6, <3
+ERROR: Could not find a version that satisfies the requirement futures==3.3.0 (from versions: 0.2.python3, 0.1, 0.2, 1.0, 2.0, 2.1, 2.1.1, 2.1.2, 2.1.3, 2.1.4, 2.1.5, 2.1.6, 2.2.0, 3.0.0, 3.0.1, 3.0.2, 3.0.3, 3.0.4, 3.0.5, 3.1.0, 3.1.1)
+ERROR: No matching distribution found for futures==3.3.0"
+pip_output_log.c6b3e4d47d933b057aab32c9c29c4221.txt,"ERROR: Could not find a version that satisfies the requirement tensorflow==2.4.0 (from versions: 2.16.0rc0, 2.16.1, 2.16.2, 2.17.0rc0, 2.17.0rc1, 2.17.0)
+ERROR: No matching distribution found for tensorflow==2.4.0"
+pip_output_log.c7ec9a30052127c7a1ad169eeb83f159.txt,"ERROR: Could not find a version that satisfies the requirement tensorflow==2.4.0 (from versions: 2.16.0rc0, 2.16.1, 2.16.2, 2.17.0rc0, 2.17.0rc1, 2.17.0)
+ERROR: No matching distribution found for tensorflow==2.4.0"
+pip_output_log.c87011a445135417c114960bbc187618.txt,"ERROR: Could not find a version that satisfies the requirement distkeras==0.1.1 (from versions: none)
+ERROR: No matching distribution found for distkeras==0.1.1"
+pip_output_log.c87cc706625b8a54e604fb1024106556.txt,"ERROR: Could not find a version that satisfies the requirement torch==1.7.1 (from versions: 2.2.0, 2.2.1, 2.2.2, 2.3.0, 2.3.1)
+ERROR: No matching distribution found for torch==1.7.1"
+pip_output_log.caaf6087162f1c6361571ee489da260f.txt,"ERROR: Could not find a version that satisfies the requirement torch==1.7.1 (from versions: 2.2.0, 2.2.1, 2.2.2, 2.3.0, 2.3.1)
+ERROR: No matching distribution found for torch==1.7.1"
+pip_output_log.cc704ba2a96e4a319e9e.txt,"ERROR: Could not find a version that satisfies the requirement console==0.9905 (from versions: 0.98, 0.9906, 0.9907)
+ERROR: No matching distribution found for console==0.9905"
+pip_output_log.cd045c3663f0fe2cd0e92d88a8ae2274.txt,"ERROR: Ignored the following versions that require a different python version: 2.82.1 Requires-Python >=3.7, <3.8
+ERROR: Could not find a version that satisfies the requirement bpy==2.82.1 (from versions: none)
+ERROR: No matching distribution found for bpy==2.82.1"
+pip_output_log.cd72af254e50e01ae763.txt,"ERROR: Could not find a version that satisfies the requirement console==0.9905 (from versions: 0.98, 0.9906, 0.9907)
+ERROR: No matching distribution found for console==0.9905"
+pip_output_log.cf2b4e56fe28835c3ceb.txt,"ERROR: Ignored the following versions that require a different python version: 3.1.1.post1 Requires-Python >=2.6, <3; 3.2.0 Requires-Python >=2.6, <3; 3.3.0 Requires-Python >=2.6, <3; 3.4.0 Requires-Python >=2.6, <3
+ERROR: Could not find a version that satisfies the requirement futures==3.3.0 (from versions: 0.2.python3, 0.1, 0.2, 1.0, 2.0, 2.1, 2.1.1, 2.1.2, 2.1.3, 2.1.4, 2.1.5, 2.1.6, 2.2.0, 3.0.0, 3.0.1, 3.0.2, 3.0.3, 3.0.4, 3.0.5, 3.1.0, 3.1.1)
+ERROR: No matching distribution found for futures==3.3.0"
+pip_output_log.d11c77c5565482e965d1919291044470.txt,"ERROR: Could not find a version that satisfies the requirement tensorflow==2.4.0 (from versions: 2.16.0rc0, 2.16.1, 2.16.2, 2.17.0rc0, 2.17.0rc1, 2.17.0)
+ERROR: No matching distribution found for tensorflow==2.4.0"
+pip_output_log.d592394c0cedd32513f8fbb87ca05938.txt,"ERROR: Could not find a version that satisfies the requirement tensorflow==2.4.0 (from versions: 2.16.0rc0, 2.16.1, 2.16.2, 2.17.0rc0, 2.17.0rc1, 2.17.0)
+ERROR: No matching distribution found for tensorflow==2.4.0"
+pip_output_log.d5da6f4b29a844a5865a.txt,"ERROR: Could not find a version that satisfies the requirement console==0.9905 (from versions: 0.98, 0.9906, 0.9907)
+ERROR: No matching distribution found for console==0.9905"
+pip_output_log.d6eb474543c32eb33504.txt,"Installing build dependencies: finished with status 'error'
+error: subprocess-exited-with-error
+ERROR: Could not find a version that satisfies the requirement kivy_deps.sdl2_dev~=0.3.1 (from versions: 0.7.0)
+ERROR: No matching distribution found for kivy_deps.sdl2_dev~=0.3.1
+note: This error originates from a subprocess, and is likely not a problem with pip.
+error: subprocess-exited-with-error
+note: This error originates from a subprocess, and is likely not a problem with pip."
+pip_output_log.da6c11fad0fc1966aa057e62bacccb2d.txt,"ERROR: Could not find a version that satisfies the requirement pinder==1.0.1 (from watson) (from versions: none)
+ERROR: No matching distribution found for pinder==1.0.1"
+pip_output_log.db7b6db7035dd48e5902.txt,"ERROR: Ignored the following versions that require a different python version: 3.1.1.post1 Requires-Python >=2.6, <3; 3.2.0 Requires-Python >=2.6, <3; 3.3.0 Requires-Python >=2.6, <3; 3.4.0 Requires-Python >=2.6, <3
+ERROR: Could not find a version that satisfies the requirement futures==3.3.0 (from versions: 0.2.python3, 0.1, 0.2, 1.0, 2.0, 2.1, 2.1.1, 2.1.2, 2.1.3, 2.1.4, 2.1.5, 2.1.6, 2.2.0, 3.0.0, 3.0.1, 3.0.2, 3.0.3, 3.0.4, 3.0.5, 3.1.0, 3.1.1)
+ERROR: No matching distribution found for futures==3.3.0"
+pip_output_log.dd1538665994b48972a62966b4369354.txt,"ERROR: Could not find a version that satisfies the requirement console==0.9905 (from versions: 0.98, 0.9906, 0.9907)
+ERROR: No matching distribution found for console==0.9905"
+pip_output_log.de22705b5f7ef778806b.txt,"ERROR: Ignored the following versions that require a different python version: 3.1.1.post1 Requires-Python >=2.6, <3; 3.2.0 Requires-Python >=2.6, <3; 3.3.0 Requires-Python >=2.6, <3; 3.4.0 Requires-Python >=2.6, <3
+ERROR: Could not find a version that satisfies the requirement futures==3.3.0 (from versions: 0.2.python3, 0.1, 0.2, 1.0, 2.0, 2.1, 2.1.1, 2.1.2, 2.1.3, 2.1.4, 2.1.5, 2.1.6, 2.2.0, 3.0.0, 3.0.1, 3.0.2, 3.0.3, 3.0.4, 3.0.5, 3.1.0, 3.1.1)
+ERROR: No matching distribution found for futures==3.3.0"
+pip_output_log.de261e66949009f44ad2.txt,"Installing build dependencies: finished with status 'error'
+error: subprocess-exited-with-error
+ERROR: Could not find a version that satisfies the requirement kivy_deps.sdl2_dev~=0.3.1 (from versions: 0.7.0)
+ERROR: No matching distribution found for kivy_deps.sdl2_dev~=0.3.1
+note: This error originates from a subprocess, and is likely not a problem with pip.
+error: subprocess-exited-with-error
+note: This error originates from a subprocess, and is likely not a problem with pip."
+pip_output_log.dedc857cdc0e680dfb1be99762990c9c.txt,"ERROR: Could not find a version that satisfies the requirement tensorflow==2.4.0 (from versions: 2.16.0rc0, 2.16.1, 2.16.2, 2.17.0rc0, 2.17.0rc1, 2.17.0)
+ERROR: No matching distribution found for tensorflow==2.4.0"
+pip_output_log.e196107b5e0afc834652bd3153030c42.txt,"ERROR: Could not find a version that satisfies the requirement tensorflow==2.4.0 (from versions: 2.16.0rc0, 2.16.1, 2.16.2, 2.17.0rc0, 2.17.0rc1, 2.17.0)
+ERROR: No matching distribution found for tensorflow==2.4.0"
+pip_output_log.e37887e81cee51ab2dc70d16780ae942.txt,"ERROR: Could not find a version that satisfies the requirement sunrise==1.0 (from versions: none)
+ERROR: No matching distribution found for sunrise==1.0"
+pip_output_log.e37a85fb0258b045c005ca3db9cbc7f6.txt,"ERROR: Could not find a version that satisfies the requirement tensorflow==2.4.0 (from versions: 2.16.0rc0, 2.16.1, 2.16.2, 2.17.0rc0, 2.17.0rc1, 2.17.0)
+ERROR: No matching distribution found for tensorflow==2.4.0"
+pip_output_log.e6e53cbe679d3ec77e25.txt,"ERROR: Could not find a version that satisfies the requirement pandocattributes==0.1.1 (from versions: none)
+ERROR: No matching distribution found for pandocattributes==0.1.1"
+pip_output_log.e9625de0711f29cd0a4b57502648dd86.txt,"ERROR: Could not find a version that satisfies the requirement tensorflow==2.4.0 (from versions: 2.16.0rc0, 2.16.1, 2.16.2, 2.17.0rc0, 2.17.0rc1, 2.17.0)
+ERROR: No matching distribution found for tensorflow==2.4.0"
+pip_output_log.ea1b1bae0a75c4aae593df7eca72d9ca.txt,"ERROR: Could not find a version that satisfies the requirement tensorflow==2.4.0 (from versions: 2.16.0rc0, 2.16.1, 2.16.2, 2.17.0rc0, 2.17.0rc1, 2.17.0)
+ERROR: No matching distribution found for tensorflow==2.4.0"
+pip_output_log.ec169727def8eb09b44fff84f93f1496.txt,"ERROR: Could not find a version that satisfies the requirement gremlin==0.6 (from versions: none)
+ERROR: No matching distribution found for gremlin==0.6"
+pip_output_log.ede5b6b793f02bd966a6a7502c0a7fbf.txt,"ERROR: Could not find a version that satisfies the requirement mastodon==0.0.1 (from versions: none)
+ERROR: No matching distribution found for mastodon==0.0.1"
+pip_output_log.ee05163d448353af4c260c544db4d6b2.txt,"ERROR: Could not find a version that satisfies the requirement torch==1.7.1 (from versions: 2.2.0, 2.2.1, 2.2.2, 2.3.0, 2.3.1)
+ERROR: No matching distribution found for torch==1.7.1"
+pip_output_log.efce2e1a817a01441f08.txt,"ERROR: Ignored the following versions that require a different python version: 3.1.1.post1 Requires-Python >=2.6, <3; 3.2.0 Requires-Python >=2.6, <3; 3.3.0 Requires-Python >=2.6, <3; 3.4.0 Requires-Python >=2.6, <3
+ERROR: Could not find a version that satisfies the requirement futures==3.3.0 (from versions: 0.2.python3, 0.1, 0.2, 1.0, 2.0, 2.1, 2.1.1, 2.1.2, 2.1.3, 2.1.4, 2.1.5, 2.1.6, 2.2.0, 3.0.0, 3.0.1, 3.0.2, 3.0.3, 3.0.4, 3.0.5, 3.1.0, 3.1.1)
+ERROR: No matching distribution found for futures==3.3.0"
+pip_output_log.f11258583ffcc4728eb71adc0f38e832.txt,"ERROR: Could not find a version that satisfies the requirement torch==1.7.1 (from versions: 2.2.0, 2.2.1, 2.2.2, 2.3.0, 2.3.1)
+ERROR: No matching distribution found for torch==1.7.1"
+pip_output_log.f1c94490e636a4ed54b4.txt,"Installing build dependencies: finished with status 'error'
+error: subprocess-exited-with-error
+ERROR: Could not find a version that satisfies the requirement kivy_deps.sdl2_dev~=0.3.1 (from versions: 0.7.0)
+ERROR: No matching distribution found for kivy_deps.sdl2_dev~=0.3.1
+note: This error originates from a subprocess, and is likely not a problem with pip.
+error: subprocess-exited-with-error
+note: This error originates from a subprocess, and is likely not a problem with pip."
+pip_output_log.f2608cbe54403edb0b13.txt,"ERROR: Ignored the following versions that require a different python version: 3.1.1.post1 Requires-Python >=2.6, <3; 3.2.0 Requires-Python >=2.6, <3; 3.3.0 Requires-Python >=2.6, <3; 3.4.0 Requires-Python >=2.6, <3
+ERROR: Could not find a version that satisfies the requirement futures==3.3.0 (from versions: 0.2.python3, 0.1, 0.2, 1.0, 2.0, 2.1, 2.1.1, 2.1.2, 2.1.3, 2.1.4, 2.1.5, 2.1.6, 2.2.0, 3.0.0, 3.0.1, 3.0.2, 3.0.3, 3.0.4, 3.0.5, 3.1.0, 3.1.1)
+ERROR: No matching distribution found for futures==3.3.0"
+pip_output_log.f66cb485a3f3353402a5.txt,"ERROR: Could not find a version that satisfies the requirement pcap==1.1 (from versions: none)
+ERROR: No matching distribution found for pcap==1.1"
+pip_output_log.f676b9bd2e6930dda95c.txt,"ERROR: Could not find a version that satisfies the requirement Bio==0.3.0 (from versions: 1.0.2, 1.2.0, 1.3.2, 1.3.3, 1.3.4, 1.3.5, 1.3.6, 1.3.7, 1.3.8, 1.3.9, 1.4.0, 1.5.0, 1.5.1, 1.5.2, 1.5.3, 1.5.4, 1.5.5, 1.5.6, 1.5.7, 1.5.8, 1.5.9, 1.6.0, 1.6.1, 1.6.2, 1.7.1)
+ERROR: No matching distribution found for Bio==0.3.0"
+pip_output_log.f93a377244be9bfcb96d3547b9bc424d.txt,"ERROR: Could not find a version that satisfies the requirement torch==1.7.1 (from versions: 2.2.0, 2.2.1, 2.2.2, 2.3.0, 2.3.1)
+ERROR: No matching distribution found for torch==1.7.1"
+pip_output_log.fa5755c7f7fa49b47961.txt,"ERROR: Could not find a version that satisfies the requirement tensorflow==2.4.0 (from versions: 2.16.0rc0, 2.16.1, 2.16.2, 2.17.0rc0, 2.17.0rc1, 2.17.0)
+ERROR: No matching distribution found for tensorflow==2.4.0"
+pip_output_log.fb9d710bd20579771b40.txt,"ERROR: Ignored the following versions that require a different python version: 2.82.1 Requires-Python >=3.7, <3.8
+ERROR: Could not find a version that satisfies the requirement bpy==2.82.1 (from versions: none)
+ERROR: No matching distribution found for bpy==2.82.1"
+pip_output_log.fbadce83877a36622720.txt,"ERROR: Ignored the following versions that require a different python version: 2.82.1 Requires-Python >=3.7, <3.8
+ERROR: Could not find a version that satisfies the requirement bpy==2.82.1 (from versions: none)
+ERROR: No matching distribution found for bpy==2.82.1"
+pip_output_log.fc3589eeabaee9ac5c05.txt,"Installing build dependencies: finished with status 'error'
+error: subprocess-exited-with-error
+ERROR: Could not find a version that satisfies the requirement kivy_deps.sdl2_dev~=0.3.1 (from versions: 0.7.0)
+ERROR: No matching distribution found for kivy_deps.sdl2_dev~=0.3.1
+note: This error originates from a subprocess, and is likely not a problem with pip.
+error: subprocess-exited-with-error
+note: This error originates from a subprocess, and is likely not a problem with pip."
+pip_output_log.fd65891daf183d99d91cb83b89e2a4c7.txt,"ERROR: Ignored the following versions that require a different python version: 2.82.1 Requires-Python >=3.7, <3.8
+ERROR: Could not find a version that satisfies the requirement bpy==2.82.1 (from versions: none)
+ERROR: No matching distribution found for bpy==2.82.1"

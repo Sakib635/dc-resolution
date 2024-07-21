@@ -1,0 +1,6 @@
+dnspython-1.16.0
+eventlet-0.30.0
+greenlet-3.0.3
+ordereddict-1.1
+ruamel.ordereddict-0.4.15
+six-1.16.0

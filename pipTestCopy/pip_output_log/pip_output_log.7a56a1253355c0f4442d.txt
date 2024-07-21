@@ -1,0 +1,28 @@
+Collecting IMDbPY==2020.9.25 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.7a56a1253355c0f4442d.txt (line 1))
+  Obtaining dependency information for IMDbPY==2020.9.25 from https://files.pythonhosted.org/packages/c2/01/f5ac9a00185d02af0da7866e02f36de674c531f4d16a82f6ea942446471a/IMDbPY-2020.9.25-py3-none-any.whl.metadata
+  Downloading IMDbPY-2020.9.25-py3-none-any.whl.metadata (2.7 kB)
+Collecting SQLAlchemy (from IMDbPY==2020.9.25->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.7a56a1253355c0f4442d.txt (line 1))
+  Obtaining dependency information for SQLAlchemy from https://files.pythonhosted.org/packages/d0/ff/5746886a796799d45285573c8a6564b4b84c730142ab974d7a3f7bacee6c/SQLAlchemy-2.0.31-cp312-cp312-win_amd64.whl.metadata
+  Downloading SQLAlchemy-2.0.31-cp312-cp312-win_amd64.whl.metadata (9.9 kB)
+Collecting lxml (from IMDbPY==2020.9.25->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.7a56a1253355c0f4442d.txt (line 1))
+  Obtaining dependency information for lxml from https://files.pythonhosted.org/packages/58/16/99b03974974537c8c786fb98183d7c213ceb16e71205174a29ae869ca988/lxml-5.2.2-cp312-cp312-win_amd64.whl.metadata
+  Downloading lxml-5.2.2-cp312-cp312-win_amd64.whl.metadata (3.5 kB)
+Collecting typing-extensions>=4.6.0 (from SQLAlchemy->IMDbPY==2020.9.25->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.7a56a1253355c0f4442d.txt (line 1))
+  Obtaining dependency information for typing-extensions>=4.6.0 from https://files.pythonhosted.org/packages/26/9f/ad63fc0248c5379346306f8668cda6e2e2e9c95e01216d2b8ffd9ff037d0/typing_extensions-4.12.2-py3-none-any.whl.metadata
+  Downloading typing_extensions-4.12.2-py3-none-any.whl.metadata (3.0 kB)
+Collecting greenlet!=0.4.17 (from SQLAlchemy->IMDbPY==2020.9.25->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.7a56a1253355c0f4442d.txt (line 1))
+  Obtaining dependency information for greenlet!=0.4.17 from https://files.pythonhosted.org/packages/53/80/3d94d5999b4179d91bcc93745d1b0815b073d61be79dd546b840d17adb18/greenlet-3.0.3-cp312-cp312-win_amd64.whl.metadata
+  Downloading greenlet-3.0.3-cp312-cp312-win_amd64.whl.metadata (3.9 kB)
+Downloading IMDbPY-2020.9.25-py3-none-any.whl (304 kB)
+   ---------------------------------------- 305.0/305.0 kB 3.1 MB/s eta 0:00:00
+Downloading lxml-5.2.2-cp312-cp312-win_amd64.whl (3.8 MB)
+   ---------------------------------------- 3.8/3.8 MB 12.8 MB/s eta 0:00:00
+Downloading SQLAlchemy-2.0.31-cp312-cp312-win_amd64.whl (2.1 MB)
+   ---------------------------------------- 2.1/2.1 MB 16.6 MB/s eta 0:00:00
+Downloading greenlet-3.0.3-cp312-cp312-win_amd64.whl (293 kB)
+   ---------------------------------------- 293.6/293.6 kB 9.1 MB/s eta 0:00:00
+Downloading typing_extensions-4.12.2-py3-none-any.whl (37 kB)
+Would install IMDbPY-2020.9.25 SQLAlchemy-2.0.31 greenlet-3.0.3 lxml-5.2.2 typing_extensions-4.12.2
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

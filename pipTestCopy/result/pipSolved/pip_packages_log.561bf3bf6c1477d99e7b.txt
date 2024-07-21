@@ -1,0 +1,6 @@
+cassandra-driver-3.24.0
+click-8.1.7
+colorama-0.4.6
+geomet-0.2.1.post1
+six-1.16.0
+tornado-6.1

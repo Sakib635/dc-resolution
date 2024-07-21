@@ -1,0 +1,4 @@
+brod-0.4.3
+setuptools-71.0.0
+zc.thread-1.0.0
+zc.zk-0.5.2

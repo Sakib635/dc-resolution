@@ -1,0 +1,5 @@
+machine-0.0.1
+pycom-0.6.0
+pycrypto-2.6.1
+pyzmq-26.0.3
+six-1.16.0

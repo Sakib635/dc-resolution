@@ -1,0 +1,50 @@
+Collecting beautifulsoup4==4.9.3 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1f66e4d58074d64c8268.txt (line 1))
+  Obtaining dependency information for beautifulsoup4==4.9.3 from https://files.pythonhosted.org/packages/d1/41/e6495bd7d3781cee623ce23ea6ac73282a373088fcd0ddc809a047b18eae/beautifulsoup4-4.9.3-py3-none-any.whl.metadata
+  Downloading beautifulsoup4-4.9.3-py3-none-any.whl.metadata (4.2 kB)
+Collecting img2pdf==0.4.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1f66e4d58074d64c8268.txt (line 2))
+  Downloading img2pdf-0.4.0.tar.gz (107 kB)
+     ------------------------------------ 107.0/107.0 kB 774.3 kB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting soupsieve>1.2 (from beautifulsoup4==4.9.3->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1f66e4d58074d64c8268.txt (line 1))
+  Obtaining dependency information for soupsieve>1.2 from https://files.pythonhosted.org/packages/4c/f3/038b302fdfbe3be7da016777069f26ceefe11a681055ea1f7817546508e3/soupsieve-2.5-py3-none-any.whl.metadata
+  Downloading soupsieve-2.5-py3-none-any.whl.metadata (4.7 kB)
+Collecting Pillow (from img2pdf==0.4.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1f66e4d58074d64c8268.txt (line 2))
+  Obtaining dependency information for Pillow from https://files.pythonhosted.org/packages/74/0a/d4ce3c44bca8635bd29a2eab5aa181b654a734a29b263ca8efe013beea98/pillow-10.4.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading pillow-10.4.0-cp312-cp312-win_amd64.whl.metadata (9.3 kB)
+Collecting pikepdf (from img2pdf==0.4.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1f66e4d58074d64c8268.txt (line 2))
+  Obtaining dependency information for pikepdf from https://files.pythonhosted.org/packages/70/f6/9e1aeb6940d26cb3c4a4269f94ac12b7a5979a62add9fa0fd7b6f95ab7c9/pikepdf-9.0.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading pikepdf-9.0.0-cp312-cp312-win_amd64.whl.metadata (8.6 kB)
+Collecting Deprecated (from pikepdf->img2pdf==0.4.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1f66e4d58074d64c8268.txt (line 2))
+  Obtaining dependency information for Deprecated from https://files.pythonhosted.org/packages/20/8d/778b7d51b981a96554f29136cd59ca7880bf58094338085bcf2a979a0e6a/Deprecated-1.2.14-py2.py3-none-any.whl.metadata
+  Downloading Deprecated-1.2.14-py2.py3-none-any.whl.metadata (5.4 kB)
+Collecting lxml>=4.8 (from pikepdf->img2pdf==0.4.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1f66e4d58074d64c8268.txt (line 2))
+  Obtaining dependency information for lxml>=4.8 from https://files.pythonhosted.org/packages/58/16/99b03974974537c8c786fb98183d7c213ceb16e71205174a29ae869ca988/lxml-5.2.2-cp312-cp312-win_amd64.whl.metadata
+  Downloading lxml-5.2.2-cp312-cp312-win_amd64.whl.metadata (3.5 kB)
+Collecting packaging (from pikepdf->img2pdf==0.4.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1f66e4d58074d64c8268.txt (line 2))
+  Obtaining dependency information for packaging from https://files.pythonhosted.org/packages/08/aa/cc0199a5f0ad350994d660967a8efb233fe0416e4639146c089643407ce6/packaging-24.1-py3-none-any.whl.metadata
+  Downloading packaging-24.1-py3-none-any.whl.metadata (3.2 kB)
+Collecting wrapt<2,>=1.10 (from Deprecated->pikepdf->img2pdf==0.4.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1f66e4d58074d64c8268.txt (line 2))
+  Obtaining dependency information for wrapt<2,>=1.10 from https://files.pythonhosted.org/packages/5c/cc/8297f9658506b224aa4bd71906447dea6bb0ba629861a758c28f67428b91/wrapt-1.16.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading wrapt-1.16.0-cp312-cp312-win_amd64.whl.metadata (6.8 kB)
+Downloading beautifulsoup4-4.9.3-py3-none-any.whl (115 kB)
+   ---------------------------------------- 115.8/115.8 kB 3.3 MB/s eta 0:00:00
+Downloading soupsieve-2.5-py3-none-any.whl (36 kB)
+Downloading pikepdf-9.0.0-cp312-cp312-win_amd64.whl (3.5 MB)
+   ---------------------------------------- 3.5/3.5 MB 4.2 MB/s eta 0:00:00
+Downloading pillow-10.4.0-cp312-cp312-win_amd64.whl (2.6 MB)
+   ---------------------------------------- 2.6/2.6 MB 16.3 MB/s eta 0:00:00
+Downloading lxml-5.2.2-cp312-cp312-win_amd64.whl (3.8 MB)
+   ---------------------------------------- 3.8/3.8 MB 18.8 MB/s eta 0:00:00
+Downloading Deprecated-1.2.14-py2.py3-none-any.whl (9.6 kB)
+Downloading packaging-24.1-py3-none-any.whl (53 kB)
+   ---------------------------------------- 54.0/54.0 kB 2.7 MB/s eta 0:00:00
+Downloading wrapt-1.16.0-cp312-cp312-win_amd64.whl (37 kB)
+Would install Deprecated-1.2.14 beautifulsoup4-4.9.3 img2pdf-0.4.0 lxml-5.2.2 packaging-24.1 pikepdf-9.0.0 pillow-10.4.0 soupsieve-2.5 wrapt-1.16.0
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

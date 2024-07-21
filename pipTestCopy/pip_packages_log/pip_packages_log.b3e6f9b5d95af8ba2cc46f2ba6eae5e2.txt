@@ -1,0 +1,13 @@
+Django-3.1.5
+asgiref-3.8.1
+atomicwrites-1.4.1
+attrs-23.2.0
+colorama-0.4.6
+iniconfig-2.0.0
+packaging-24.1
+pluggy-0.13.1
+py-1.11.0
+pytest-6.2.1
+pytz-2024.1
+sqlparse-0.5.1
+toml-0.10.2

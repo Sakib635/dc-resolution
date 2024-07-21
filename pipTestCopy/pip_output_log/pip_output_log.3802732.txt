@@ -1,0 +1,14 @@
+Collecting Unidecode==1.1.2 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3802732.txt (line 1))
+  Obtaining dependency information for Unidecode==1.1.2 from https://files.pythonhosted.org/packages/74/65/91eab655041e9e92f948cb7302e54962035762ce7b518272ed9d6b269e93/Unidecode-1.1.2-py2.py3-none-any.whl.metadata
+  Downloading Unidecode-1.1.2-py2.py3-none-any.whl.metadata (12 kB)
+Collecting xlrd==2.0.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3802732.txt (line 2))
+  Obtaining dependency information for xlrd==2.0.1 from https://files.pythonhosted.org/packages/a6/0c/c2a72d51fe56e08a08acc85d13013558a2d793028ae7385448a6ccdfae64/xlrd-2.0.1-py2.py3-none-any.whl.metadata
+  Downloading xlrd-2.0.1-py2.py3-none-any.whl.metadata (3.4 kB)
+Downloading Unidecode-1.1.2-py2.py3-none-any.whl (239 kB)
+   ---------------------------------------- 239.7/239.7 kB 1.6 MB/s eta 0:00:00
+Downloading xlrd-2.0.1-py2.py3-none-any.whl (96 kB)
+   ---------------------------------------- 96.5/96.5 kB 5.4 MB/s eta 0:00:00
+Would install Unidecode-1.1.2 xlrd-2.0.1
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

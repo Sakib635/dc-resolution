@@ -1,0 +1,6 @@
+EasyProcess-1.1
+Pillow-8.1.0
+PyVirtualDisplay-2.0
+boto-2.49.0
+selenium-3.141.0
+urllib3-2.2.2

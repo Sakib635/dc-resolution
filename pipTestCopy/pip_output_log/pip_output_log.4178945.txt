@@ -1,0 +1,8 @@
+Collecting pinboard==2.1.8 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4178945.txt (line 1))
+  Obtaining dependency information for pinboard==2.1.8 from https://files.pythonhosted.org/packages/10/69/90e9fd6b3f1fec662b06e6c4ac8d074d7f03d44b4e1dfb3c0222d42b6fad/pinboard-2.1.8-py2.py3-none-any.whl.metadata
+  Downloading pinboard-2.1.8-py2.py3-none-any.whl.metadata (16 kB)
+Downloading pinboard-2.1.8-py2.py3-none-any.whl (14 kB)
+Would install pinboard-2.1.8
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

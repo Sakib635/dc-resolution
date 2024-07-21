@@ -1,0 +1,76 @@
+Collecting Foundation==0.1.0a0.dev1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.5aec669ea8a8c920c0960fa05895687f.txt (line 1))
+  Downloading foundation-0.1.0a0.dev1.tar.gz (50 kB)
+     -------------------------------------- 50.8/50.8 kB 324.4 kB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting Django<1.11,>=1.10 (from Foundation==0.1.0a0.dev1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.5aec669ea8a8c920c0960fa05895687f.txt (line 1))
+  Obtaining dependency information for Django<1.11,>=1.10 from https://files.pythonhosted.org/packages/bb/9f/2c20639ac635a83123ddffd91ba15001cb0d04e74fbb08f31fb57e490dab/Django-1.10.8-py2.py3-none-any.whl.metadata
+  Downloading Django-1.10.8-py2.py3-none-any.whl.metadata (1.3 kB)
+Collecting django-sekizai>=0.10 (from Foundation==0.1.0a0.dev1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.5aec669ea8a8c920c0960fa05895687f.txt (line 1))
+  Obtaining dependency information for django-sekizai>=0.10 from https://files.pythonhosted.org/packages/c9/4f/8d1df68be504d7664cdeae7279134e77cf15babe2a5911b50f3e31d493f2/django_sekizai-4.1.0-py3-none-any.whl.metadata
+  Downloading django_sekizai-4.1.0-py3-none-any.whl.metadata (4.6 kB)
+INFO: pip is looking at multiple versions of django-sekizai to determine which version is compatible with other requirements. This could take a while.
+  Obtaining dependency information for django-sekizai>=0.10 from https://files.pythonhosted.org/packages/92/4e/a6ea39a7b8ce9ef3aa533d4c95995dc53756d4ebde834f22d107b47f1e8d/django_sekizai-4.0.0-py3-none-any.whl.metadata
+  Downloading django_sekizai-4.0.0-py3-none-any.whl.metadata (4.6 kB)
+  Obtaining dependency information for django-sekizai>=0.10 from https://files.pythonhosted.org/packages/27/a5/250605754c06fffc3a910ecba5b20482d59593c2f52dde02409fc3e153a7/django_sekizai-3.0.1-py3-none-any.whl.metadata
+  Downloading django_sekizai-3.0.1-py3-none-any.whl.metadata (4.6 kB)
+  Obtaining dependency information for django-sekizai>=0.10 from https://files.pythonhosted.org/packages/ab/2f/1df54860a975c7217355888d1e4dfa1d0df9d9d8c75975c37b35f1330e36/django_sekizai-3.0.0-py3-none-any.whl.metadata
+  Downloading django_sekizai-3.0.0-py3-none-any.whl.metadata (4.6 kB)
+  Obtaining dependency information for django-sekizai>=0.10 from https://files.pythonhosted.org/packages/98/0e/5a73580f2974a45f3b92a5c87d419560420f567a94ebcd5239d3e6aace42/django_sekizai-2.0.0-py3-none-any.whl.metadata
+  Downloading django_sekizai-2.0.0-py3-none-any.whl.metadata (3.7 kB)
+  Downloading django-sekizai-1.1.0.tar.gz (7.0 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+  Downloading django-sekizai-1.0.0.tar.gz (18 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+  Obtaining dependency information for django-sekizai>=0.10 from https://files.pythonhosted.org/packages/0e/e9/b86b44a824546cfbb3481386764a0a5351de75947901107ee64a5a100254/django_sekizai-0.10.0-py2.py3-none-any.whl.metadata
+  Downloading django_sekizai-0.10.0-py2.py3-none-any.whl.metadata (793 bytes)
+Collecting django-classy-tags>=0.3.1 (from django-sekizai>=0.10->Foundation==0.1.0a0.dev1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.5aec669ea8a8c920c0960fa05895687f.txt (line 1))
+  Obtaining dependency information for django-classy-tags>=0.3.1 from https://files.pythonhosted.org/packages/6d/10/13afc12b7d9657ed67f8d49c1cf0585a4331b197ed98ea654e9ed8034e79/django_classy_tags-4.1.0-py3-none-any.whl.metadata
+  Downloading django_classy_tags-4.1.0-py3-none-any.whl.metadata (5.3 kB)
+INFO: pip is looking at multiple versions of django-classy-tags to determine which version is compatible with other requirements. This could take a while.
+  Obtaining dependency information for django-classy-tags>=0.3.1 from https://files.pythonhosted.org/packages/62/e5/23ee1273ed5464baa0655137bcd4a5fec45eaa6a6e9007f83d667374fb09/django_classy_tags-4.0.0-py3-none-any.whl.metadata
+  Downloading django_classy_tags-4.0.0-py3-none-any.whl.metadata (5.2 kB)
+  Obtaining dependency information for django-classy-tags>=0.3.1 from https://files.pythonhosted.org/packages/8e/d3/3e1a59e73849dc3493ae0457f4e344a880bdacb53265a60546918f498242/django_classy_tags-3.0.1-py3-none-any.whl.metadata
+  Downloading django_classy_tags-3.0.1-py3-none-any.whl.metadata (5.3 kB)
+  Obtaining dependency information for django-classy-tags>=0.3.1 from https://files.pythonhosted.org/packages/9a/75/235ce37cc70ec3730a99138eb1eacac4fda78edb6a4fe7b8c8fec67c871e/django_classy_tags-3.0.0-py3-none-any.whl.metadata
+  Downloading django_classy_tags-3.0.0-py3-none-any.whl.metadata (5.2 kB)
+  Obtaining dependency information for django-classy-tags>=0.3.1 from https://files.pythonhosted.org/packages/73/1f/54ad3f137a678a2e65ff9d6c80c57b287fffa48aa4442caad90a96f68cbe/django_classy_tags-2.0.0-py3-none-any.whl.metadata
+  Downloading django_classy_tags-2.0.0-py3-none-any.whl.metadata (4.5 kB)
+  Downloading django-classy-tags-1.0.0.tar.gz (13 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+  Downloading django-classy-tags-0.9.0.tar.gz (17 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+  Obtaining dependency information for django-classy-tags>=0.3.1 from https://files.pythonhosted.org/packages/97/7d/3d13d3303bd6118a910c72709d6892ffabe7e2df5e3353f722409348a032/django_classy_tags-0.8.0-py2.py3-none-any.whl.metadata
+  Downloading django_classy_tags-0.8.0-py2.py3-none-any.whl.metadata (981 bytes)
+Downloading Django-1.10.8-py2.py3-none-any.whl (6.8 MB)
+   ---------------------------------------- 6.8/6.8 MB 9.5 MB/s eta 0:00:00
+Downloading django_sekizai-0.10.0-py2.py3-none-any.whl (19 kB)
+Downloading django_classy_tags-0.8.0-py2.py3-none-any.whl (22 kB)
+Would install Django-1.10.8 django-classy-tags-0.8.0 django-sekizai-0.10.0 foundation-0.1.0a0.dev1
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

@@ -1,0 +1,27 @@
+Collecting python_keyczar==0.716 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3a094e0218bc91f0e2d4.txt (line 1))
+  Downloading python-keyczar-0.716.tar.gz (242 kB)
+     -------------------------------------- 242.1/242.1 kB 1.9 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting pycrypto>2.0 (from python_keyczar==0.716->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3a094e0218bc91f0e2d4.txt (line 1))
+  Downloading pycrypto-2.6.1.tar.gz (446 kB)
+     -------------------------------------- 446.2/446.2 kB 9.3 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting pyasn1 (from python_keyczar==0.716->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3a094e0218bc91f0e2d4.txt (line 1))
+  Obtaining dependency information for pyasn1 from https://files.pythonhosted.org/packages/23/7e/5f50d07d5e70a2addbccd90ac2950f81d1edd0783630651d9268d7f1db49/pyasn1-0.6.0-py2.py3-none-any.whl.metadata
+  Downloading pyasn1-0.6.0-py2.py3-none-any.whl.metadata (8.3 kB)
+Downloading pyasn1-0.6.0-py2.py3-none-any.whl (85 kB)
+   ---------------------------------------- 85.3/85.3 kB 4.7 MB/s eta 0:00:00
+Would install pyasn1-0.6.0 pycrypto-2.6.1 python-keyczar-0.716
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

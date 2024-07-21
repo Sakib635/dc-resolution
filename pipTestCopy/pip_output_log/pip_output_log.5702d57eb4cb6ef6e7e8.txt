@@ -1,0 +1,16 @@
+Collecting qrcode==6.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.5702d57eb4cb6ef6e7e8.txt (line 1))
+  Obtaining dependency information for qrcode==6.1 from https://files.pythonhosted.org/packages/42/87/4a3a77e59ab7493d64da1f69bf1c2e899a4cf81e51b2baa855e8cc8115be/qrcode-6.1-py2.py3-none-any.whl.metadata
+  Downloading qrcode-6.1-py2.py3-none-any.whl.metadata (11 kB)
+Collecting six (from qrcode==6.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.5702d57eb4cb6ef6e7e8.txt (line 1))
+  Obtaining dependency information for six from https://files.pythonhosted.org/packages/d9/5a/e7c31adbe875f2abbb91bd84cf2dc52d792b5a01506781dbcf25c91daf11/six-1.16.0-py2.py3-none-any.whl.metadata
+  Downloading six-1.16.0-py2.py3-none-any.whl.metadata (1.8 kB)
+Collecting colorama (from qrcode==6.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.5702d57eb4cb6ef6e7e8.txt (line 1))
+  Obtaining dependency information for colorama from https://files.pythonhosted.org/packages/d1/d6/3965ed04c63042e047cb6a3e6ed1a63a35087b6a609aa3a15ed8ac56c221/colorama-0.4.6-py2.py3-none-any.whl.metadata
+  Downloading colorama-0.4.6-py2.py3-none-any.whl.metadata (17 kB)
+Downloading qrcode-6.1-py2.py3-none-any.whl (31 kB)
+Downloading colorama-0.4.6-py2.py3-none-any.whl (25 kB)
+Downloading six-1.16.0-py2.py3-none-any.whl (11 kB)
+Would install colorama-0.4.6 qrcode-6.1 six-1.16.0
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

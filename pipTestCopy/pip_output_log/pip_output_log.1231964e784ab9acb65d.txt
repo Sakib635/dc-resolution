@@ -1,0 +1,337 @@
+Collecting plac==1.3.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1231964e784ab9acb65d.txt (line 1))
+  Obtaining dependency information for plac==1.3.1 from https://files.pythonhosted.org/packages/27/81/955aea21824ae7b1f82c018c573e0c4be7dff9995b510588cec6b1ccd203/plac-1.3.1-py2.py3-none-any.whl.metadata
+  Downloading plac-1.3.1-py2.py3-none-any.whl.metadata (5.7 kB)
+Collecting spacy==2.3.5 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1231964e784ab9acb65d.txt (line 2))
+  Downloading spacy-2.3.5.tar.gz (5.8 MB)
+     ---------------------------------------- 5.8/5.8 MB 8.8 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'error'
+  error: subprocess-exited-with-error
+  
+  pip subprocess to install build dependencies did not run successfully.
+  exit code: 1
+  
+  [309 lines of output]
+  Collecting setuptools
+    Obtaining dependency information for setuptools from https://files.pythonhosted.org/packages/ef/15/88e46eb9387e905704b69849618e699dc2f54407d8953cc4ec4b8b46528d/setuptools-70.3.0-py3-none-any.whl.metadata
+    Downloading setuptools-70.3.0-py3-none-any.whl.metadata (5.8 kB)
+  Collecting cython>=0.25
+    Obtaining dependency information for cython>=0.25 from https://files.pythonhosted.org/packages/2f/59/6669edfd1fad83ee18d698b897f25871b5296e258f74964a003d50d003fe/Cython-3.0.10-cp312-cp312-win_amd64.whl.metadata
+    Downloading Cython-3.0.10-cp312-cp312-win_amd64.whl.metadata (3.2 kB)
+  Collecting cymem<2.1.0,>=2.0.2
+    Obtaining dependency information for cymem<2.1.0,>=2.0.2 from https://files.pythonhosted.org/packages/35/e0/34b11adc80502f0760ce2892dfdfcd8a7f450acd3147156c98620cb4071d/cymem-2.0.8-cp312-cp312-win_amd64.whl.metadata
+    Downloading cymem-2.0.8-cp312-cp312-win_amd64.whl.metadata (8.6 kB)
+  Collecting preshed<3.1.0,>=3.0.2
+    Obtaining dependency information for preshed<3.1.0,>=3.0.2 from https://files.pythonhosted.org/packages/db/e4/d074efb7e8a8873d346d2fb8dd43e19b1eae0697351c0d79cff947cba46e/preshed-3.0.9-cp312-cp312-win_amd64.whl.metadata
+    Downloading preshed-3.0.9-cp312-cp312-win_amd64.whl.metadata (2.2 kB)
+  Collecting murmurhash<1.1.0,>=0.28.0
+    Obtaining dependency information for murmurhash<1.1.0,>=0.28.0 from https://files.pythonhosted.org/packages/3b/56/8630be974aeb05868f2058db0ce6f19d85c27adb9b8f733cf69c856afdaa/murmurhash-1.0.10-cp312-cp312-win_amd64.whl.metadata
+    Downloading murmurhash-1.0.10-cp312-cp312-win_amd64.whl.metadata (2.0 kB)
+  Collecting thinc<7.5.0,>=7.4.1
+    Downloading thinc-7.4.6.tar.gz (1.3 MB)
+       ---------------------------------------- 1.3/1.3 MB 6.3 MB/s eta 0:00:00
+    Installing build dependencies: started
+    Installing build dependencies: finished with status 'done'
+    Getting requirements to build wheel: started
+    Getting requirements to build wheel: finished with status 'error'
+    error: subprocess-exited-with-error
+  
+    Getting requirements to build wheel did not run successfully.
+    exit code: 1
+  
+    [267 lines of output]
+  
+    Error compiling Cython file:
+    ------------------------------------------------------------
+    ...
+        len_t* widths
+        int i
+        int nr_layer
+        int batch_size
+  
+        __init__(len_t* widths, int nr_layer, int batch_size) nogil:
+        ^
+    ------------------------------------------------------------
+  
+    thinc\structs.pxd:140:4: function definition in pxd file must be declared 'cdef inline'
+  
+    Error compiling Cython file:
+    ------------------------------------------------------------
+    ...
+            this._nr_feat = <len_t*>calloc(batch_size, sizeof(len_t))
+            this._is_valid = <int*>calloc(batch_size * widths[nr_layer-1], sizeof(int))
+            this._costs = <weight_t*>calloc(batch_size * widths[nr_layer-1], sizeof(weight_t))
+            this.signatures = <uint64_t*>calloc(batch_size, sizeof(uint64_t))
+  
+        __dealloc__() nogil:
+        ^
+    ------------------------------------------------------------
+  
+    thinc\structs.pxd:157:4: function definition in pxd file must be declared 'cdef inline'
+  
+    Error compiling Cython file:
+    ------------------------------------------------------------
+    ...
+            free(this._nr_feat)
+            free(this._is_valid)
+            free(this._costs)
+            free(this.signatures)
+  
+        void reset() nogil:
+        ^
+    ------------------------------------------------------------
+  
+    thinc\structs.pxd:172:4: function definition in pxd file must be declared 'cdef inline'
+  
+    Error compiling Cython file:
+    ------------------------------------------------------------
+    ...
+            for i in range(this.i):
+                free(this._feats[i])
+                this._feats[i] = NULL
+            this.i = 0
+  
+        int nr_in() nogil:
+        ^
+    ------------------------------------------------------------
+  
+    thinc\structs.pxd:189:4: function definition in pxd file must be declared 'cdef inline'
+  
+    Error compiling Cython file:
+    ------------------------------------------------------------
+    ...
+            this.i = 0
+  
+        int nr_in() nogil:
+            return this.widths[0]
+  
+        int nr_out() nogil:
+        ^
+    ------------------------------------------------------------
+  
+    thinc\structs.pxd:192:4: function definition in pxd file must be declared 'cdef inline'
+  
+    Error compiling Cython file:
+    ------------------------------------------------------------
+    ...
+            return this.widths[0]
+  
+        int nr_out() nogil:
+            return this.widths[this.nr_layer - 1]
+  
+        int push_back(const FeatureC* feats, int nr_feat,
+        ^
+    ------------------------------------------------------------
+  
+    thinc\structs.pxd:195:4: function definition in pxd file must be declared 'cdef inline'
+  
+    Error compiling Cython file:
+    ------------------------------------------------------------
+    ...
+                for i in range(this.nr_out()):
+                    this.is_valid(this.i)[i] = 1
+            this.i += 1
+            return this.i >= this.batch_size
+  
+        FeatureC* features(int i) nogil:
+        ^
+    ------------------------------------------------------------
+  
+    thinc\structs.pxd:226:4: function definition in pxd file must be declared 'cdef inline'
+  
+    Error compiling Cython file:
+    ------------------------------------------------------------
+    ...
+            return this.i >= this.batch_size
+  
+        FeatureC* features(int i) nogil:
+            return this._feats[i]
+  
+        int nr_feat(int i) nogil:
+        ^
+    ------------------------------------------------------------
+  
+    thinc\structs.pxd:229:4: function definition in pxd file must be declared 'cdef inline'
+  
+    Error compiling Cython file:
+    ------------------------------------------------------------
+    ...
+            return this._feats[i]
+  
+        int nr_feat(int i) nogil:
+            return this._nr_feat[i]
+  
+        weight_t* fwd(int i, int j) nogil:
+        ^
+    ------------------------------------------------------------
+  
+    thinc\structs.pxd:232:4: function definition in pxd file must be declared 'cdef inline'
+  
+    Error compiling Cython file:
+    ------------------------------------------------------------
+    ...
+            return this._nr_feat[i]
+  
+        weight_t* fwd(int i, int j) nogil:
+            return this._fwd[i] + (j * this.widths[i])
+  
+        weight_t* bwd(int i, int j) nogil:
+        ^
+    ------------------------------------------------------------
+  
+    thinc\structs.pxd:235:4: function definition in pxd file must be declared 'cdef inline'
+  
+    Error compiling Cython file:
+    ------------------------------------------------------------
+    ...
+            return this._fwd[i] + (j * this.widths[i])
+  
+        weight_t* bwd(int i, int j) nogil:
+            return this._bwd[i] + (j * this.widths[i])
+  
+        weight_t* scores(int i) nogil:
+        ^
+    ------------------------------------------------------------
+  
+    thinc\structs.pxd:238:4: function definition in pxd file must be declared 'cdef inline'
+  
+    Error compiling Cython file:
+    ------------------------------------------------------------
+    ...
+            return this._bwd[i] + (j * this.widths[i])
+  
+        weight_t* scores(int i) nogil:
+            return this.fwd(this.nr_layer-1, i)
+  
+        weight_t* losses(int i) nogil:
+        ^
+    ------------------------------------------------------------
+  
+    thinc\structs.pxd:241:4: function definition in pxd file must be declared 'cdef inline'
+  
+    Error compiling Cython file:
+    ------------------------------------------------------------
+    ...
+            return this.fwd(this.nr_layer-1, i)
+  
+        weight_t* losses(int i) nogil:
+            return this.bwd(this.nr_layer-1, i)
+  
+        weight_t* costs(int i) nogil:
+        ^
+    ------------------------------------------------------------
+  
+    thinc\structs.pxd:244:4: function definition in pxd file must be declared 'cdef inline'
+  
+    Error compiling Cython file:
+    ------------------------------------------------------------
+    ...
+            return this.bwd(this.nr_layer-1, i)
+  
+        weight_t* costs(int i) nogil:
+            return this._costs + (i * this.nr_out())
+  
+        int* is_valid(int i) nogil:
+        ^
+    ------------------------------------------------------------
+  
+    thinc\structs.pxd:247:4: function definition in pxd file must be declared 'cdef inline'
+  
+    Error compiling Cython file:
+    ------------------------------------------------------------
+    ...
+            return this._costs + (i * this.nr_out())
+  
+        int* is_valid(int i) nogil:
+            return this._is_valid + (i * this.nr_out())
+  
+        int guess(int i) nogil:
+        ^
+    ------------------------------------------------------------
+  
+    thinc\structs.pxd:250:4: function definition in pxd file must be declared 'cdef inline'
+  
+    Error compiling Cython file:
+    ------------------------------------------------------------
+    ...
+            return this._is_valid + (i * this.nr_out())
+  
+        int guess(int i) nogil:
+            return VecVec.arg_max_if_true(this.scores(i), this.is_valid(i), this.nr_out())
+  
+        int best(int i) nogil:
+        ^
+    ------------------------------------------------------------
+  
+    thinc\structs.pxd:253:4: function definition in pxd file must be declared 'cdef inline'
+    warning: thinc\linalg.pxd:14:0: The 'IF' statement is deprecated and will be removed in a future Cython version. Consider using runtime conditions or C macros instead. See https://github.com/cython/cython/issues/4310
+    warning: thinc\linalg.pxd:90:8: The 'IF' statement is deprecated and will be removed in a future Cython version. Consider using runtime conditions or C macros instead. See https://github.com/cython/cython/issues/4310
+    warning: thinc\linalg.pxd:174:8: The 'IF' statement is deprecated and will be removed in a future Cython version. Consider using runtime conditions or C macros instead. See https://github.com/cython/cython/issues/4310
+    Compiling thinc/linalg.pyx because it changed.
+    Compiling thinc/structs.pyx because it changed.
+    Compiling thinc/typedefs.pyx because it changed.
+    Compiling thinc/linear/avgtron.pyx because it changed.
+    Compiling thinc/linear/features.pyx because it changed.
+    Compiling thinc/linear/serialize.pyx because it changed.
+    Compiling thinc/linear/sparse.pyx because it changed.
+    Compiling thinc/linear/linear.pyx because it changed.
+    Compiling thinc/neural/optimizers.pyx because it changed.
+    Compiling thinc/neural/ops.pyx because it changed.
+    Compiling thinc/neural/_aligned_alloc.pyx because it changed.
+    Compiling thinc/extra/eg.pyx because it changed.
+    Compiling thinc/extra/mb.pyx because it changed.
+    Compiling thinc/extra/search.pyx because it changed.
+    Compiling thinc/extra/cache.pyx because it changed.
+    [ 1/15] Cythonizing thinc/extra/cache.pyx
+    [ 2/15] Cythonizing thinc/extra/eg.pyx
+    Traceback (most recent call last):
+      File "D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 353, in <module>
+        main()
+      File "D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 335, in main
+        json_out['return_val'] = hook(**hook_input['kwargs'])
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 118, in get_requires_for_build_wheel
+        return hook(config_settings)
+               ^^^^^^^^^^^^^^^^^^^^^
+      File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-8bl8wu38\overlay\Lib\site-packages\setuptools\build_meta.py", line 327, in get_requires_for_build_wheel
+        return self._get_build_requires(config_settings, requirements=[])
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-8bl8wu38\overlay\Lib\site-packages\setuptools\build_meta.py", line 297, in _get_build_requires
+        self.run_setup()
+      File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-8bl8wu38\overlay\Lib\site-packages\setuptools\build_meta.py", line 313, in run_setup
+        exec(code, locals())
+      File "<string>", line 258, in <module>
+      File "<string>", line 195, in setup_package
+      File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-8bl8wu38\overlay\Lib\site-packages\Cython\Build\Dependencies.py", line 1154, in cythonize
+        cythonize_one(*args)
+      File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-8bl8wu38\overlay\Lib\site-packages\Cython\Build\Dependencies.py", line 1321, in cythonize_one
+        raise CompileError(None, pyx_file)
+    Cython.Compiler.Errors.CompileError: thinc/extra/eg.pyx
+    [end of output]
+  
+    note: This error originates from a subprocess, and is likely not a problem with pip.
+  error: subprocess-exited-with-error
+  
+  Getting requirements to build wheel did not run successfully.
+  exit code: 1
+  
+  See above for output.
+  
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+  
+  [notice] A new release of pip is available: 23.2.1 -> 24.1.2
+  [notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip
+  [end of output]
+  
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+error: subprocess-exited-with-error
+
+pip subprocess to install build dependencies did not run successfully.
+exit code: 1
+
+See above for output.
+
+note: This error originates from a subprocess, and is likely not a problem with pip.
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

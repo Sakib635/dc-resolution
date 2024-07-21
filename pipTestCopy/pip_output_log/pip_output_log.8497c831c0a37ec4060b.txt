@@ -1,0 +1,13 @@
+Collecting websocket_client==0.57.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8497c831c0a37ec4060b.txt (line 1))
+  Obtaining dependency information for websocket_client==0.57.0 from https://files.pythonhosted.org/packages/4c/5f/f61b420143ed1c8dc69f9eaec5ff1ac36109d52c80de49d66e0c36c3dfdf/websocket_client-0.57.0-py2.py3-none-any.whl.metadata
+  Downloading websocket_client-0.57.0-py2.py3-none-any.whl.metadata (7.5 kB)
+Collecting six (from websocket_client==0.57.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8497c831c0a37ec4060b.txt (line 1))
+  Obtaining dependency information for six from https://files.pythonhosted.org/packages/d9/5a/e7c31adbe875f2abbb91bd84cf2dc52d792b5a01506781dbcf25c91daf11/six-1.16.0-py2.py3-none-any.whl.metadata
+  Downloading six-1.16.0-py2.py3-none-any.whl.metadata (1.8 kB)
+Downloading websocket_client-0.57.0-py2.py3-none-any.whl (200 kB)
+   ---------------------------------------- 200.9/200.9 kB 1.5 MB/s eta 0:00:00
+Downloading six-1.16.0-py2.py3-none-any.whl (11 kB)
+Would install six-1.16.0 websocket-client-0.57.0
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

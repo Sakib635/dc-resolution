@@ -1,0 +1,10 @@
+PyJWT-1.7.1
+certifi-2024.7.4
+charset-normalizer-3.3.2
+idna-3.7
+pytz-2024.1
+requests-2.32.3
+six-1.16.0
+twilio-6.51.0
+urllib3-2.2.2
+webapp2-2.5.2

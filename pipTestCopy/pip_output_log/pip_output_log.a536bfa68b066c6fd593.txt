@@ -1,0 +1,9 @@
+Collecting AddressBook==1.0.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.a536bfa68b066c6fd593.txt (line 1))
+  Obtaining dependency information for AddressBook==1.0.1 from https://files.pythonhosted.org/packages/03/9e/ec02fc76ae98d79bd642497703c9d909e8a5cd5a2d030e0c6f29d1f834c2/addressbook-1.0.1-py3-none-any.whl.metadata
+  Downloading addressbook-1.0.1-py3-none-any.whl.metadata (2.5 kB)
+Downloading addressbook-1.0.1-py3-none-any.whl (77 kB)
+   ---------------------------------------- 77.4/77.4 kB 171.9 kB/s eta 0:00:00
+Would install addressbook-1.0.1
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

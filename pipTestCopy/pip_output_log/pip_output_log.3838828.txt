@@ -1,0 +1,18 @@
+Collecting pytz==2020.5 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3838828.txt (line 1))
+  Obtaining dependency information for pytz==2020.5 from https://files.pythonhosted.org/packages/89/06/2c2d3034b4d6bf22f2a4ae546d16925898658a33b4400cfb7e2c1e2871a3/pytz-2020.5-py2.py3-none-any.whl.metadata
+  Downloading pytz-2020.5-py2.py3-none-any.whl.metadata (21 kB)
+Collecting python_dateutil==2.8.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3838828.txt (line 2))
+  Obtaining dependency information for python_dateutil==2.8.1 from https://files.pythonhosted.org/packages/d4/70/d60450c3dd48ef87586924207ae8907090de0b306af2bce5d134d78615cb/python_dateutil-2.8.1-py2.py3-none-any.whl.metadata
+  Downloading python_dateutil-2.8.1-py2.py3-none-any.whl.metadata (8.0 kB)
+Collecting six>=1.5 (from python_dateutil==2.8.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3838828.txt (line 2))
+  Obtaining dependency information for six>=1.5 from https://files.pythonhosted.org/packages/d9/5a/e7c31adbe875f2abbb91bd84cf2dc52d792b5a01506781dbcf25c91daf11/six-1.16.0-py2.py3-none-any.whl.metadata
+  Downloading six-1.16.0-py2.py3-none-any.whl.metadata (1.8 kB)
+Downloading pytz-2020.5-py2.py3-none-any.whl (510 kB)
+   ---------------------------------------- 510.8/510.8 kB 4.6 MB/s eta 0:00:00
+Downloading python_dateutil-2.8.1-py2.py3-none-any.whl (227 kB)
+   --------------------------------------- 227.2/227.2 kB 14.5 MB/s eta 0:00:00
+Downloading six-1.16.0-py2.py3-none-any.whl (11 kB)
+Would install python-dateutil-2.8.1 pytz-2020.5 six-1.16.0
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

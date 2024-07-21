@@ -1,0 +1,4 @@
+feedparser-6.0.2
+protobuf-3.14.0
+sgmllib3k-1.0.0
+six-1.16.0

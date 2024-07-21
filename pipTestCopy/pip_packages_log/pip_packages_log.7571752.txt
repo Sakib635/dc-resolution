@@ -1,0 +1,7 @@
+Django-3.1.5
+asgiref-3.8.1
+django-contrib-comments-2.2.0
+geonode-avatar-5.0.7
+pillow-10.4.0
+pytz-2024.1
+sqlparse-0.5.1

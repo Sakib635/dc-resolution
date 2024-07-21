@@ -1,0 +1,17 @@
+Collecting beautifulsoup4==4.9.3 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2872d7f994d192188970408980267e6e.txt (line 1))
+  Obtaining dependency information for beautifulsoup4==4.9.3 from https://files.pythonhosted.org/packages/d1/41/e6495bd7d3781cee623ce23ea6ac73282a373088fcd0ddc809a047b18eae/beautifulsoup4-4.9.3-py3-none-any.whl.metadata
+  Downloading beautifulsoup4-4.9.3-py3-none-any.whl.metadata (4.2 kB)
+Collecting colorama==0.4.4 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2872d7f994d192188970408980267e6e.txt (line 2))
+  Obtaining dependency information for colorama==0.4.4 from https://files.pythonhosted.org/packages/44/98/5b86278fbbf250d239ae0ecb724f8572af1c91f4a11edf4d36a206189440/colorama-0.4.4-py2.py3-none-any.whl.metadata
+  Downloading colorama-0.4.4-py2.py3-none-any.whl.metadata (14 kB)
+Collecting soupsieve>1.2 (from beautifulsoup4==4.9.3->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2872d7f994d192188970408980267e6e.txt (line 1))
+  Obtaining dependency information for soupsieve>1.2 from https://files.pythonhosted.org/packages/4c/f3/038b302fdfbe3be7da016777069f26ceefe11a681055ea1f7817546508e3/soupsieve-2.5-py3-none-any.whl.metadata
+  Downloading soupsieve-2.5-py3-none-any.whl.metadata (4.7 kB)
+Downloading beautifulsoup4-4.9.3-py3-none-any.whl (115 kB)
+   ---------------------------------------- 115.8/115.8 kB 1.7 MB/s eta 0:00:00
+Downloading colorama-0.4.4-py2.py3-none-any.whl (16 kB)
+Downloading soupsieve-2.5-py3-none-any.whl (36 kB)
+Would install beautifulsoup4-4.9.3 colorama-0.4.4 soupsieve-2.5
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

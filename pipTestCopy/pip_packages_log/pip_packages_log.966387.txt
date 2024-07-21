@@ -1,0 +1,15 @@
+Django-3.1.5
+asgiref-3.8.1
+certifi-2024.7.4
+charset-normalizer-3.3.2
+future-1.0.0
+generic-1.0.0
+idna-3.7
+oauthlib-3.2.2
+python-cjson-1.2.2
+python-twitter-3.5
+pytz-2024.1
+requests-2.32.3
+requests-oauthlib-2.0.0
+sqlparse-0.5.1
+urllib3-2.2.2

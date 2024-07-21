@@ -1,0 +1,8 @@
+Collecting PasteScript==3.2.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.826218.txt (line 1))
+  Obtaining dependency information for PasteScript==3.2.0 from https://files.pythonhosted.org/packages/43/cb/90e367daf2685587665158092b4a78a26ba45b653cc9ca90175bc43b94ad/PasteScript-3.2.0-py2.py3-none-any.whl.metadata
+  Downloading PasteScript-3.2.0-py2.py3-none-any.whl.metadata (2.3 kB)
+ERROR: Could not find a version that satisfies the requirement wphp==0.1dev-r5497 (from versions: none)
+ERROR: No matching distribution found for wphp==0.1dev-r5497
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

@@ -1,0 +1,6 @@
+Django-3.1.5
+asgiref-3.8.1
+easy-thumbnails-2.7.1
+pillow-10.4.0
+pytz-2024.1
+sqlparse-0.5.1

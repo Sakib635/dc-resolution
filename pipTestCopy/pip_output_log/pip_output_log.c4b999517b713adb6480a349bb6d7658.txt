@@ -1,0 +1,42 @@
+Collecting oauth2client==4.1.3 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.c4b999517b713adb6480a349bb6d7658.txt (line 1))
+  Obtaining dependency information for oauth2client==4.1.3 from https://files.pythonhosted.org/packages/95/a9/4f25a14d23f0786b64875b91784607c2277eff25d48f915e39ff0cff505a/oauth2client-4.1.3-py2.py3-none-any.whl.metadata
+  Downloading oauth2client-4.1.3-py2.py3-none-any.whl.metadata (1.2 kB)
+Collecting protobuf==3.14.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.c4b999517b713adb6480a349bb6d7658.txt (line 2))
+  Obtaining dependency information for protobuf==3.14.0 from https://files.pythonhosted.org/packages/81/d4/a8a31a326ee60e295e5d7477d93d8f6ceee98246c1a7381afc817a91d893/protobuf-3.14.0-py2.py3-none-any.whl.metadata
+  Downloading protobuf-3.14.0-py2.py3-none-any.whl.metadata (858 bytes)
+Collecting httplib2>=0.9.1 (from oauth2client==4.1.3->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.c4b999517b713adb6480a349bb6d7658.txt (line 1))
+  Obtaining dependency information for httplib2>=0.9.1 from https://files.pythonhosted.org/packages/a8/6c/d2fbdaaa5959339d53ba38e94c123e4e84b8fbc4b84beb0e70d7c1608486/httplib2-0.22.0-py3-none-any.whl.metadata
+  Downloading httplib2-0.22.0-py3-none-any.whl.metadata (2.6 kB)
+Collecting pyasn1>=0.1.7 (from oauth2client==4.1.3->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.c4b999517b713adb6480a349bb6d7658.txt (line 1))
+  Obtaining dependency information for pyasn1>=0.1.7 from https://files.pythonhosted.org/packages/23/7e/5f50d07d5e70a2addbccd90ac2950f81d1edd0783630651d9268d7f1db49/pyasn1-0.6.0-py2.py3-none-any.whl.metadata
+  Downloading pyasn1-0.6.0-py2.py3-none-any.whl.metadata (8.3 kB)
+Collecting pyasn1-modules>=0.0.5 (from oauth2client==4.1.3->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.c4b999517b713adb6480a349bb6d7658.txt (line 1))
+  Obtaining dependency information for pyasn1-modules>=0.0.5 from https://files.pythonhosted.org/packages/13/68/8906226b15ef38e71dc926c321d2fe99de8048e9098b5dfd38343011c886/pyasn1_modules-0.4.0-py3-none-any.whl.metadata
+  Downloading pyasn1_modules-0.4.0-py3-none-any.whl.metadata (3.4 kB)
+Collecting rsa>=3.1.4 (from oauth2client==4.1.3->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.c4b999517b713adb6480a349bb6d7658.txt (line 1))
+  Obtaining dependency information for rsa>=3.1.4 from https://files.pythonhosted.org/packages/49/97/fa78e3d2f65c02c8e1268b9aba606569fe97f6c8f7c2d74394553347c145/rsa-4.9-py3-none-any.whl.metadata
+  Downloading rsa-4.9-py3-none-any.whl.metadata (4.2 kB)
+Collecting six>=1.6.1 (from oauth2client==4.1.3->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.c4b999517b713adb6480a349bb6d7658.txt (line 1))
+  Obtaining dependency information for six>=1.6.1 from https://files.pythonhosted.org/packages/d9/5a/e7c31adbe875f2abbb91bd84cf2dc52d792b5a01506781dbcf25c91daf11/six-1.16.0-py2.py3-none-any.whl.metadata
+  Downloading six-1.16.0-py2.py3-none-any.whl.metadata (1.8 kB)
+Collecting pyparsing!=3.0.0,!=3.0.1,!=3.0.2,!=3.0.3,<4,>=2.4.2 (from httplib2>=0.9.1->oauth2client==4.1.3->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.c4b999517b713adb6480a349bb6d7658.txt (line 1))
+  Obtaining dependency information for pyparsing!=3.0.0,!=3.0.1,!=3.0.2,!=3.0.3,<4,>=2.4.2 from https://files.pythonhosted.org/packages/9d/ea/6d76df31432a0e6fdf81681a895f009a4bb47b3c39036db3e1b528191d52/pyparsing-3.1.2-py3-none-any.whl.metadata
+  Downloading pyparsing-3.1.2-py3-none-any.whl.metadata (5.1 kB)
+Downloading oauth2client-4.1.3-py2.py3-none-any.whl (98 kB)
+   ---------------------------------------- 98.2/98.2 kB 807.0 kB/s eta 0:00:00
+Downloading protobuf-3.14.0-py2.py3-none-any.whl (173 kB)
+   ---------------------------------------- 173.5/173.5 kB 1.2 MB/s eta 0:00:00
+Downloading httplib2-0.22.0-py3-none-any.whl (96 kB)
+   ---------------------------------------- 96.9/96.9 kB 5.4 MB/s eta 0:00:00
+Downloading pyasn1-0.6.0-py2.py3-none-any.whl (85 kB)
+   ---------------------------------------- 85.3/85.3 kB 4.7 MB/s eta 0:00:00
+Downloading pyasn1_modules-0.4.0-py3-none-any.whl (181 kB)
+   --------------------------------------- 181.2/181.2 kB 10.7 MB/s eta 0:00:00
+Downloading rsa-4.9-py3-none-any.whl (34 kB)
+Downloading six-1.16.0-py2.py3-none-any.whl (11 kB)
+Downloading pyparsing-3.1.2-py3-none-any.whl (103 kB)
+   ---------------------------------------- 103.2/103.2 kB 5.8 MB/s eta 0:00:00
+Would install httplib2-0.22.0 oauth2client-4.1.3 protobuf-3.14.0 pyasn1-0.6.0 pyasn1_modules-0.4.0 pyparsing-3.1.2 rsa-4.9 six-1.16.0
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

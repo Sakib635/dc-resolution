@@ -1,0 +1,42 @@
+Collecting urlgrabber==4.1.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.5237007.txt (line 1))
+  Downloading urlgrabber-4.1.0.tar.gz (85 kB)
+     -------------------------------------- 85.7/85.7 kB 603.9 kB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting zapp==0.0.7 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.5237007.txt (line 2))
+  Obtaining dependency information for zapp==0.0.7 from https://files.pythonhosted.org/packages/9c/b9/5f235fd20143892b03c5a292b2f2d9b25149e345460401dde340123fed6a/zapp-0.0.7-py3-none-any.whl.metadata
+  Downloading zapp-0.0.7-py3-none-any.whl.metadata (2.8 kB)
+Collecting pycurl (from urlgrabber==4.1.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.5237007.txt (line 1))
+  Obtaining dependency information for pycurl from https://files.pythonhosted.org/packages/0e/e1/7df02d4f600b9d452fd5c33b00a1886c2757c985dc8ffccd4ba8a7d9a9d5/pycurl-7.45.3-cp312-cp312-win_amd64.whl.metadata
+  Downloading pycurl-7.45.3-cp312-cp312-win_amd64.whl.metadata (4.4 kB)
+Collecting six (from urlgrabber==4.1.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.5237007.txt (line 1))
+  Obtaining dependency information for six from https://files.pythonhosted.org/packages/d9/5a/e7c31adbe875f2abbb91bd84cf2dc52d792b5a01506781dbcf25c91daf11/six-1.16.0-py2.py3-none-any.whl.metadata
+  Downloading six-1.16.0-py2.py3-none-any.whl.metadata (1.8 kB)
+Collecting setuptools (from urlgrabber==4.1.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.5237007.txt (line 1))
+  Obtaining dependency information for setuptools from https://files.pythonhosted.org/packages/01/82/a2c6c0a1612c89bdb21dc4d9196ba9e7dcbc2e285afda93ebdf663ba2ada/setuptools-71.0.0-py3-none-any.whl.metadata
+  Using cached setuptools-71.0.0-py3-none-any.whl.metadata (6.5 kB)
+Collecting importlib-metadata (from zapp==0.0.7->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.5237007.txt (line 2))
+  Obtaining dependency information for importlib-metadata from https://files.pythonhosted.org/packages/dc/ef/38766b2edb096260d9b1b6ad35adaa0bce3b0567abb452b21eb074af88c4/importlib_metadata-8.0.0-py3-none-any.whl.metadata
+  Downloading importlib_metadata-8.0.0-py3-none-any.whl.metadata (4.6 kB)
+Collecting wheel (from zapp==0.0.7->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.5237007.txt (line 2))
+  Obtaining dependency information for wheel from https://files.pythonhosted.org/packages/7d/cd/d7460c9a869b16c3dd4e1e403cce337df165368c71d6af229a74699622ce/wheel-0.43.0-py3-none-any.whl.metadata
+  Using cached wheel-0.43.0-py3-none-any.whl.metadata (2.2 kB)
+Collecting zipp>=0.5 (from importlib-metadata->zapp==0.0.7->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.5237007.txt (line 2))
+  Obtaining dependency information for zipp>=0.5 from https://files.pythonhosted.org/packages/20/38/f5c473fe9b90c8debdd29ea68d5add0289f1936d6f923b6b9cc0b931194c/zipp-3.19.2-py3-none-any.whl.metadata
+  Downloading zipp-3.19.2-py3-none-any.whl.metadata (3.6 kB)
+Downloading zapp-0.0.7-py3-none-any.whl (9.2 kB)
+Downloading importlib_metadata-8.0.0-py3-none-any.whl (24 kB)
+Downloading pycurl-7.45.3-cp312-cp312-win_amd64.whl (472 kB)
+   ---------------------------------------- 473.0/473.0 kB 5.9 MB/s eta 0:00:00
+Using cached setuptools-71.0.0-py3-none-any.whl (908 kB)
+Downloading six-1.16.0-py2.py3-none-any.whl (11 kB)
+Using cached wheel-0.43.0-py3-none-any.whl (65 kB)
+Downloading zipp-3.19.2-py3-none-any.whl (9.0 kB)
+Would install importlib_metadata-8.0.0 pycurl-7.45.3 setuptools-71.0.0 six-1.16.0 urlgrabber-4.1.0 wheel-0.43.0 zapp-0.0.7 zipp-3.19.2
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

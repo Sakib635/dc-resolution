@@ -1,0 +1,9 @@
+Collecting youtube_dl==2021.1.8 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2e0cbef7d50e8e7ef2d2.txt (line 1))
+  Obtaining dependency information for youtube_dl==2021.1.8 from https://files.pythonhosted.org/packages/88/0f/5cdb31cdbcaca0af24958ecbddde00717c219ba775edbc1cbfec30a6f834/youtube_dl-2021.1.8-py2.py3-none-any.whl.metadata
+  Downloading youtube_dl-2021.1.8-py2.py3-none-any.whl.metadata (1.5 kB)
+Downloading youtube_dl-2021.1.8-py2.py3-none-any.whl (1.9 MB)
+   ---------------------------------------- 1.9/1.9 MB 2.9 MB/s eta 0:00:00
+Would install youtube-dl-2021.1.8
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

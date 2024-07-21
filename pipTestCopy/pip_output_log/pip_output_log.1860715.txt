@@ -1,0 +1,8 @@
+Collecting reddit==0.0.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1860715.txt (line 1))
+  Obtaining dependency information for reddit==0.0.1 from https://files.pythonhosted.org/packages/56/65/14091fc5fd835312005e58fade103406a6f5098e72e3efd9efda148cc995/reddit-0.0.1-py3-none-any.whl.metadata
+  Downloading reddit-0.0.1-py3-none-any.whl.metadata (591 bytes)
+Downloading reddit-0.0.1-py3-none-any.whl (13 kB)
+Would install reddit-0.0.1
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

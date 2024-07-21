@@ -1,0 +1,9 @@
+Collecting ansible==2.10.5 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.7c18bf7ac5fd4d26cbce.txt (line 1))
+  Downloading ansible-2.10.5.tar.gz (29.1 MB)
+     --------------------------------------- 29.1/29.1 MB 13.6 MB/s eta 0:00:00
+ERROR: Could not install packages due to an OSError: [Errno 2] No such file or directory: 'C:\\Users\\ASUS\\AppData\\Local\\Temp\\pip-install-wzsocdpc\\ansible_4be32bba1aa3427bbdb3cebf175d6a13\\ansible_collections/amazon/aws/tests/unit/modules/placebo_recordings/aws_direct_connect_connection/associations_are_not_updated/directconnect.DescribeConnections_1.json'
+HINT: This error might have occurred since this system does not have Windows Long Path support enabled. You can find information on how to enable this at https://pip.pypa.io/warnings/enable-long-paths
+
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

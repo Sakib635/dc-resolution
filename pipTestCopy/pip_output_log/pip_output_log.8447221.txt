@@ -1,0 +1,108 @@
+Collecting csvkit==1.0.5 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8447221.txt (line 1))
+  Downloading csvkit-1.0.5.tar.gz (3.8 MB)
+     ---------------------------------------- 3.8/3.8 MB 12.1 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting agate>=1.6.1 (from csvkit==1.0.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8447221.txt (line 1))
+  Obtaining dependency information for agate>=1.6.1 from https://files.pythonhosted.org/packages/6a/15/9d01ae75ddab10a2aa3a353c8d284c82222f7b4ee5b05cc66e3ba7f13fab/agate-1.11.0-py2.py3-none-any.whl.metadata
+  Downloading agate-1.11.0-py2.py3-none-any.whl.metadata (3.2 kB)
+Collecting agate-excel>=0.2.2 (from csvkit==1.0.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8447221.txt (line 1))
+  Obtaining dependency information for agate-excel>=0.2.2 from https://files.pythonhosted.org/packages/d6/6f/5d71389b715654dc636180af8b33923926f73c4cf89450813c9380cbb3cf/agate_excel-0.4.1-py2.py3-none-any.whl.metadata
+  Downloading agate_excel-0.4.1-py2.py3-none-any.whl.metadata (2.7 kB)
+Collecting agate-dbf>=0.2.0 (from csvkit==1.0.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8447221.txt (line 1))
+  Obtaining dependency information for agate-dbf>=0.2.0 from https://files.pythonhosted.org/packages/d9/99/cd4729cb51d6c7de8ad00eab375021cb34b8ca132350efe401488af10483/agate_dbf-0.2.3-py2.py3-none-any.whl.metadata
+  Downloading agate_dbf-0.2.3-py2.py3-none-any.whl.metadata (2.5 kB)
+Collecting agate-sql>=0.5.3 (from csvkit==1.0.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8447221.txt (line 1))
+  Obtaining dependency information for agate-sql>=0.5.3 from https://files.pythonhosted.org/packages/42/41/ce4192b0ee21d5120d20de58751ce56fae7bebe4c56966dc64c41534d4e4/agate_sql-0.7.2-py2.py3-none-any.whl.metadata
+  Downloading agate_sql-0.7.2-py2.py3-none-any.whl.metadata (2.6 kB)
+Collecting six>=1.6.1 (from csvkit==1.0.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8447221.txt (line 1))
+  Obtaining dependency information for six>=1.6.1 from https://files.pythonhosted.org/packages/d9/5a/e7c31adbe875f2abbb91bd84cf2dc52d792b5a01506781dbcf25c91daf11/six-1.16.0-py2.py3-none-any.whl.metadata
+  Downloading six-1.16.0-py2.py3-none-any.whl.metadata (1.8 kB)
+Collecting Babel>=2.0 (from agate>=1.6.1->csvkit==1.0.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8447221.txt (line 1))
+  Obtaining dependency information for Babel>=2.0 from https://files.pythonhosted.org/packages/27/45/377f7e32a5c93d94cd56542349b34efab5ca3f9e2fd5a68c5e93169aa32d/Babel-2.15.0-py3-none-any.whl.metadata
+  Downloading Babel-2.15.0-py3-none-any.whl.metadata (1.5 kB)
+Collecting isodate>=0.5.4 (from agate>=1.6.1->csvkit==1.0.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8447221.txt (line 1))
+  Obtaining dependency information for isodate>=0.5.4 from https://files.pythonhosted.org/packages/b6/85/7882d311924cbcfc70b1890780763e36ff0b140c7e51c110fc59a532f087/isodate-0.6.1-py2.py3-none-any.whl.metadata
+  Downloading isodate-0.6.1-py2.py3-none-any.whl.metadata (9.6 kB)
+Collecting leather>=0.3.2 (from agate>=1.6.1->csvkit==1.0.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8447221.txt (line 1))
+  Obtaining dependency information for leather>=0.3.2 from https://files.pythonhosted.org/packages/a1/30/9ec597c962c5249ebd5c580386e4b5f2884cd943af42634291ee3b406415/leather-0.4.0-py2.py3-none-any.whl.metadata
+  Downloading leather-0.4.0-py2.py3-none-any.whl.metadata (2.8 kB)
+Collecting parsedatetime!=2.5,>=2.1 (from agate>=1.6.1->csvkit==1.0.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8447221.txt (line 1))
+  Obtaining dependency information for parsedatetime!=2.5,>=2.1 from https://files.pythonhosted.org/packages/9d/a4/3dd804926a42537bf69fb3ebb9fd72a50ba84f807d95df5ae016606c976c/parsedatetime-2.6-py3-none-any.whl.metadata
+  Downloading parsedatetime-2.6-py3-none-any.whl.metadata (4.7 kB)
+Collecting python-slugify>=1.2.1 (from agate>=1.6.1->csvkit==1.0.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8447221.txt (line 1))
+  Obtaining dependency information for python-slugify>=1.2.1 from https://files.pythonhosted.org/packages/a4/62/02da182e544a51a5c3ccf4b03ab79df279f9c60c5e82d5e8bec7ca26ac11/python_slugify-8.0.4-py2.py3-none-any.whl.metadata
+  Downloading python_slugify-8.0.4-py2.py3-none-any.whl.metadata (8.5 kB)
+Collecting pytimeparse>=1.1.5 (from agate>=1.6.1->csvkit==1.0.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8447221.txt (line 1))
+  Obtaining dependency information for pytimeparse>=1.1.5 from https://files.pythonhosted.org/packages/1b/b4/afd75551a3b910abd1d922dbd45e49e5deeb4d47dc50209ce489ba9844dd/pytimeparse-1.1.8-py2.py3-none-any.whl.metadata
+  Downloading pytimeparse-1.1.8-py2.py3-none-any.whl.metadata (3.4 kB)
+Collecting tzdata>=2023.3 (from agate>=1.6.1->csvkit==1.0.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8447221.txt (line 1))
+  Obtaining dependency information for tzdata>=2023.3 from https://files.pythonhosted.org/packages/65/58/f9c9e6be752e9fcb8b6a0ee9fb87e6e7a1f6bcab2cdc73f02bb7ba91ada0/tzdata-2024.1-py2.py3-none-any.whl.metadata
+  Downloading tzdata-2024.1-py2.py3-none-any.whl.metadata (1.4 kB)
+Collecting dbfread>=2.0.5 (from agate-dbf>=0.2.0->csvkit==1.0.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8447221.txt (line 1))
+  Obtaining dependency information for dbfread>=2.0.5 from https://files.pythonhosted.org/packages/4c/94/51349e43503e30ed7b4ecfe68a8809cdb58f722c0feb79d18b1f1e36fe74/dbfread-2.0.7-py2.py3-none-any.whl.metadata
+  Downloading dbfread-2.0.7-py2.py3-none-any.whl.metadata (3.3 kB)
+Collecting olefile (from agate-excel>=0.2.2->csvkit==1.0.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8447221.txt (line 1))
+  Obtaining dependency information for olefile from https://files.pythonhosted.org/packages/17/d3/b64c356a907242d719fc668b71befd73324e47ab46c8ebbbede252c154b2/olefile-0.47-py2.py3-none-any.whl.metadata
+  Downloading olefile-0.47-py2.py3-none-any.whl.metadata (9.7 kB)
+Collecting openpyxl>=2.3.0 (from agate-excel>=0.2.2->csvkit==1.0.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8447221.txt (line 1))
+  Obtaining dependency information for openpyxl>=2.3.0 from https://files.pythonhosted.org/packages/c0/da/977ded879c29cbd04de313843e76868e6e13408a94ed6b987245dc7c8506/openpyxl-3.1.5-py2.py3-none-any.whl.metadata
+  Downloading openpyxl-3.1.5-py2.py3-none-any.whl.metadata (2.5 kB)
+Collecting xlrd>=0.9.4 (from agate-excel>=0.2.2->csvkit==1.0.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8447221.txt (line 1))
+  Obtaining dependency information for xlrd>=0.9.4 from https://files.pythonhosted.org/packages/a6/0c/c2a72d51fe56e08a08acc85d13013558a2d793028ae7385448a6ccdfae64/xlrd-2.0.1-py2.py3-none-any.whl.metadata
+  Downloading xlrd-2.0.1-py2.py3-none-any.whl.metadata (3.4 kB)
+Collecting sqlalchemy>=1.4 (from agate-sql>=0.5.3->csvkit==1.0.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8447221.txt (line 1))
+  Obtaining dependency information for sqlalchemy>=1.4 from https://files.pythonhosted.org/packages/d0/ff/5746886a796799d45285573c8a6564b4b84c730142ab974d7a3f7bacee6c/SQLAlchemy-2.0.31-cp312-cp312-win_amd64.whl.metadata
+  Downloading SQLAlchemy-2.0.31-cp312-cp312-win_amd64.whl.metadata (9.9 kB)
+Collecting et-xmlfile (from openpyxl>=2.3.0->agate-excel>=0.2.2->csvkit==1.0.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8447221.txt (line 1))
+  Obtaining dependency information for et-xmlfile from https://files.pythonhosted.org/packages/96/c2/3dd434b0108730014f1b96fd286040dc3bcb70066346f7e01ec2ac95865f/et_xmlfile-1.1.0-py3-none-any.whl.metadata
+  Downloading et_xmlfile-1.1.0-py3-none-any.whl.metadata (1.8 kB)
+Collecting text-unidecode>=1.3 (from python-slugify>=1.2.1->agate>=1.6.1->csvkit==1.0.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8447221.txt (line 1))
+  Obtaining dependency information for text-unidecode>=1.3 from https://files.pythonhosted.org/packages/a6/a5/c0b6468d3824fe3fde30dbb5e1f687b291608f9473681bbf7dabbf5a87d7/text_unidecode-1.3-py2.py3-none-any.whl.metadata
+  Downloading text_unidecode-1.3-py2.py3-none-any.whl.metadata (2.4 kB)
+Collecting typing-extensions>=4.6.0 (from sqlalchemy>=1.4->agate-sql>=0.5.3->csvkit==1.0.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8447221.txt (line 1))
+  Obtaining dependency information for typing-extensions>=4.6.0 from https://files.pythonhosted.org/packages/26/9f/ad63fc0248c5379346306f8668cda6e2e2e9c95e01216d2b8ffd9ff037d0/typing_extensions-4.12.2-py3-none-any.whl.metadata
+  Downloading typing_extensions-4.12.2-py3-none-any.whl.metadata (3.0 kB)
+Collecting greenlet!=0.4.17 (from sqlalchemy>=1.4->agate-sql>=0.5.3->csvkit==1.0.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8447221.txt (line 1))
+  Obtaining dependency information for greenlet!=0.4.17 from https://files.pythonhosted.org/packages/53/80/3d94d5999b4179d91bcc93745d1b0815b073d61be79dd546b840d17adb18/greenlet-3.0.3-cp312-cp312-win_amd64.whl.metadata
+  Downloading greenlet-3.0.3-cp312-cp312-win_amd64.whl.metadata (3.9 kB)
+Downloading agate-1.11.0-py2.py3-none-any.whl (95 kB)
+   ---------------------------------------- 95.8/95.8 kB 5.3 MB/s eta 0:00:00
+Downloading agate_dbf-0.2.3-py2.py3-none-any.whl (3.6 kB)
+Downloading agate_excel-0.4.1-py2.py3-none-any.whl (7.1 kB)
+Downloading agate_sql-0.7.2-py2.py3-none-any.whl (7.3 kB)
+Downloading six-1.16.0-py2.py3-none-any.whl (11 kB)
+Downloading Babel-2.15.0-py3-none-any.whl (9.6 MB)
+   ---------------------------------------- 9.6/9.6 MB 19.9 MB/s eta 0:00:00
+Downloading dbfread-2.0.7-py2.py3-none-any.whl (20 kB)
+Downloading isodate-0.6.1-py2.py3-none-any.whl (41 kB)
+   ---------------------------------------- 41.7/41.7 kB 2.0 MB/s eta 0:00:00
+Downloading leather-0.4.0-py2.py3-none-any.whl (30 kB)
+Downloading openpyxl-3.1.5-py2.py3-none-any.whl (250 kB)
+   --------------------------------------- 250.9/250.9 kB 15.0 MB/s eta 0:00:00
+Downloading parsedatetime-2.6-py3-none-any.whl (42 kB)
+   ---------------------------------------- 42.5/42.5 kB 2.0 MB/s eta 0:00:00
+Downloading python_slugify-8.0.4-py2.py3-none-any.whl (10 kB)
+Downloading pytimeparse-1.1.8-py2.py3-none-any.whl (10.0 kB)
+Downloading SQLAlchemy-2.0.31-cp312-cp312-win_amd64.whl (2.1 MB)
+   ---------------------------------------- 2.1/2.1 MB 33.4 MB/s eta 0:00:00
+Downloading tzdata-2024.1-py2.py3-none-any.whl (345 kB)
+   --------------------------------------- 345.4/345.4 kB 20.9 MB/s eta 0:00:00
+Downloading xlrd-2.0.1-py2.py3-none-any.whl (96 kB)
+   ---------------------------------------- 96.5/96.5 kB ? eta 0:00:00
+Downloading olefile-0.47-py2.py3-none-any.whl (114 kB)
+   ---------------------------------------- 114.6/114.6 kB 6.5 MB/s eta 0:00:00
+Downloading greenlet-3.0.3-cp312-cp312-win_amd64.whl (293 kB)
+   ---------------------------------------- 293.6/293.6 kB 8.9 MB/s eta 0:00:00
+Downloading text_unidecode-1.3-py2.py3-none-any.whl (78 kB)
+   ---------------------------------------- 78.2/78.2 kB 4.2 MB/s eta 0:00:00
+Downloading typing_extensions-4.12.2-py3-none-any.whl (37 kB)
+Downloading et_xmlfile-1.1.0-py3-none-any.whl (4.7 kB)
+Would install Babel-2.15.0 SQLAlchemy-2.0.31 agate-1.11.0 agate-dbf-0.2.3 agate-excel-0.4.1 agate-sql-0.7.2 csvkit-1.0.5 dbfread-2.0.7 et-xmlfile-1.1.0 greenlet-3.0.3 isodate-0.6.1 leather-0.4.0 olefile-0.47 openpyxl-3.1.5 parsedatetime-2.6 python-slugify-8.0.4 pytimeparse-1.1.8 six-1.16.0 text-unidecode-1.3 typing_extensions-4.12.2 tzdata-2024.1 xlrd-2.0.1
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

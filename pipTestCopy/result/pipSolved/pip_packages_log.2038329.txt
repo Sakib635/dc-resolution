@@ -1,0 +1,4 @@
+bigfloat-0.4.0
+mpmath-1.3.0
+six-1.16.0
+sympy-1.5.1

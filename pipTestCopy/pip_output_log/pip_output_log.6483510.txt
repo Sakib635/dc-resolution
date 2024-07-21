@@ -1,0 +1,163 @@
+Collecting mitmproxy==6.0.2 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.6483510.txt (line 1))
+  Obtaining dependency information for mitmproxy==6.0.2 from https://files.pythonhosted.org/packages/be/d8/583511356097d06f685505e3bf2c2807cda156b6efd4c6505c629e1f50b0/mitmproxy-6.0.2-py3-none-any.whl.metadata
+  Downloading mitmproxy-6.0.2-py3-none-any.whl.metadata (9.9 kB)
+Collecting pysnap==1.0.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.6483510.txt (line 2))
+  Obtaining dependency information for pysnap==1.0.1 from https://files.pythonhosted.org/packages/fd/86/e4fc59abad1d1d8f108b2f91529e6436c0fa96e29bba6e7d5d0710241afb/pysnap-1.0.1-py2.py3-none-any.whl.metadata
+  Downloading pysnap-1.0.1-py2.py3-none-any.whl.metadata (6.1 kB)
+Collecting asgiref<3.4,>=3.2.10 (from mitmproxy==6.0.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.6483510.txt (line 1))
+  Obtaining dependency information for asgiref<3.4,>=3.2.10 from https://files.pythonhosted.org/packages/17/8b/05e225d11154b8f5358e6a6d277679c9741ec0339d1e451c9cef687a9170/asgiref-3.3.4-py3-none-any.whl.metadata
+  Downloading asgiref-3.3.4-py3-none-any.whl.metadata (9.1 kB)
+Collecting blinker<1.5,>=1.4 (from mitmproxy==6.0.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.6483510.txt (line 1))
+  Downloading blinker-1.4.tar.gz (111 kB)
+     -------------------------------------- 111.5/111.5 kB 2.2 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting Brotli<1.1,>=1.0 (from mitmproxy==6.0.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.6483510.txt (line 1))
+  Downloading Brotli-1.0.9.zip (510 kB)
+     -------------------------------------- 510.2/510.2 kB 6.4 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting certifi>=2019.9.11 (from mitmproxy==6.0.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.6483510.txt (line 1))
+  Obtaining dependency information for certifi>=2019.9.11 from https://files.pythonhosted.org/packages/1c/d5/c84e1a17bf61d4df64ca866a1c9a913874b4e9bdc131ec689a0ad013fb36/certifi-2024.7.4-py3-none-any.whl.metadata
+  Downloading certifi-2024.7.4-py3-none-any.whl.metadata (2.2 kB)
+Collecting click<8,>=7.0 (from mitmproxy==6.0.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.6483510.txt (line 1))
+  Obtaining dependency information for click<8,>=7.0 from https://files.pythonhosted.org/packages/d2/3d/fa76db83bf75c4f8d338c2fd15c8d33fdd7ad23a9b5e57eb6c5de26b430e/click-7.1.2-py2.py3-none-any.whl.metadata
+  Downloading click-7.1.2-py2.py3-none-any.whl.metadata (2.9 kB)
+Collecting cryptography<3.4,>=3.3 (from mitmproxy==6.0.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.6483510.txt (line 1))
+  Obtaining dependency information for cryptography<3.4,>=3.3 from https://files.pythonhosted.org/packages/49/f1/6f03c4bdb33de207fe97fe771b0c671dfe30b55842f7d193205a1303d9e5/cryptography-3.3.2-cp36-abi3-win_amd64.whl.metadata
+  Downloading cryptography-3.3.2-cp36-abi3-win_amd64.whl.metadata (5.1 kB)
+Collecting flask<1.2,>=1.1.1 (from mitmproxy==6.0.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.6483510.txt (line 1))
+  Obtaining dependency information for flask<1.2,>=1.1.1 from https://files.pythonhosted.org/packages/e8/6d/994208daa354f68fd89a34a8bafbeaab26fda84e7af1e35bdaed02b667e6/Flask-1.1.4-py2.py3-none-any.whl.metadata
+  Downloading Flask-1.1.4-py2.py3-none-any.whl.metadata (4.6 kB)
+Collecting h2<5,>=4.0 (from mitmproxy==6.0.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.6483510.txt (line 1))
+  Obtaining dependency information for h2<5,>=4.0 from https://files.pythonhosted.org/packages/2a/e5/db6d438da759efbb488c4f3fbdab7764492ff3c3f953132efa6b9f0e9e53/h2-4.1.0-py3-none-any.whl.metadata
+  Downloading h2-4.1.0-py3-none-any.whl.metadata (3.6 kB)
+Collecting hyperframe<7,>=6.0 (from mitmproxy==6.0.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.6483510.txt (line 1))
+  Obtaining dependency information for hyperframe<7,>=6.0 from https://files.pythonhosted.org/packages/d7/de/85a784bcc4a3779d1753a7ec2dee5de90e18c7bcf402e71b51fcf150b129/hyperframe-6.0.1-py3-none-any.whl.metadata
+  Downloading hyperframe-6.0.1-py3-none-any.whl.metadata (2.7 kB)
+Collecting kaitaistruct<0.10,>=0.7 (from mitmproxy==6.0.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.6483510.txt (line 1))
+  Downloading kaitaistruct-0.9.tar.gz (5.5 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting ldap3<2.9,>=2.8 (from mitmproxy==6.0.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.6483510.txt (line 1))
+  Obtaining dependency information for ldap3<2.9,>=2.8 from https://files.pythonhosted.org/packages/01/e7/5f51c1f0261483b999da07b93d67a8dc073eee246b2b3508da521b6af0b0/ldap3-2.8.1-py2.py3-none-any.whl.metadata
+  Downloading ldap3-2.8.1-py2.py3-none-any.whl.metadata (5.3 kB)
+Collecting msgpack<1.1.0,>=1.0.0 (from mitmproxy==6.0.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.6483510.txt (line 1))
+  Obtaining dependency information for msgpack<1.1.0,>=1.0.0 from https://files.pythonhosted.org/packages/72/5c/5facaa9b5d1b3ead831697daacf37d485af312bbe483ac6ecf43a3dd777f/msgpack-1.0.8-cp312-cp312-win_amd64.whl.metadata
+  Downloading msgpack-1.0.8-cp312-cp312-win_amd64.whl.metadata (9.4 kB)
+Collecting passlib<1.8,>=1.6.5 (from mitmproxy==6.0.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.6483510.txt (line 1))
+  Obtaining dependency information for passlib<1.8,>=1.6.5 from https://files.pythonhosted.org/packages/3b/a4/ab6b7589382ca3df236e03faa71deac88cae040af60c071a78d254a62172/passlib-1.7.4-py2.py3-none-any.whl.metadata
+  Downloading passlib-1.7.4-py2.py3-none-any.whl.metadata (1.7 kB)
+Collecting protobuf<3.15,>=3.14 (from mitmproxy==6.0.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.6483510.txt (line 1))
+  Obtaining dependency information for protobuf<3.15,>=3.14 from https://files.pythonhosted.org/packages/81/d4/a8a31a326ee60e295e5d7477d93d8f6ceee98246c1a7381afc817a91d893/protobuf-3.14.0-py2.py3-none-any.whl.metadata
+  Downloading protobuf-3.14.0-py2.py3-none-any.whl.metadata (858 bytes)
+Collecting pyasn1<0.5,>=0.3.1 (from mitmproxy==6.0.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.6483510.txt (line 1))
+  Obtaining dependency information for pyasn1<0.5,>=0.3.1 from https://files.pythonhosted.org/packages/62/1e/a94a8d635fa3ce4cfc7f506003548d0a2447ae76fd5ca53932970fe3053f/pyasn1-0.4.8-py2.py3-none-any.whl.metadata
+  Downloading pyasn1-0.4.8-py2.py3-none-any.whl.metadata (1.5 kB)
+Collecting pyOpenSSL<20.1,>=20.0 (from mitmproxy==6.0.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.6483510.txt (line 1))
+  Obtaining dependency information for pyOpenSSL<20.1,>=20.0 from https://files.pythonhosted.org/packages/b2/5e/06351ede29fd4899782ad335c2e02f1f862a887c20a3541f17c3fa1a3525/pyOpenSSL-20.0.1-py2.py3-none-any.whl.metadata
+  Downloading pyOpenSSL-20.0.1-py2.py3-none-any.whl.metadata (6.7 kB)
+Collecting pyparsing<2.5,>=2.4.2 (from mitmproxy==6.0.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.6483510.txt (line 1))
+  Obtaining dependency information for pyparsing<2.5,>=2.4.2 from https://files.pythonhosted.org/packages/8a/bb/488841f56197b13700afd5658fc279a2025a39e22449b7cf29864669b15d/pyparsing-2.4.7-py2.py3-none-any.whl.metadata
+  Downloading pyparsing-2.4.7-py2.py3-none-any.whl.metadata (3.6 kB)
+Collecting pyperclip<1.9,>=1.6.0 (from mitmproxy==6.0.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.6483510.txt (line 1))
+  Downloading pyperclip-1.8.2.tar.gz (20 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting ruamel.yaml<0.17,>=0.16 (from mitmproxy==6.0.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.6483510.txt (line 1))
+  Obtaining dependency information for ruamel.yaml<0.17,>=0.16 from https://files.pythonhosted.org/packages/ed/c3/4c823dac2949a6baf36a4987d04c50d30184147393ba6f4bfb4c67d15a13/ruamel.yaml-0.16.13-py2.py3-none-any.whl.metadata
+  Downloading ruamel.yaml-0.16.13-py2.py3-none-any.whl.metadata (36 kB)
+Collecting sortedcontainers<2.4,>=2.3 (from mitmproxy==6.0.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.6483510.txt (line 1))
+  Obtaining dependency information for sortedcontainers<2.4,>=2.3 from https://files.pythonhosted.org/packages/20/4d/a7046ae1a1a4cc4e9bbed194c387086f06b25038be596543d026946330c9/sortedcontainers-2.3.0-py2.py3-none-any.whl.metadata
+  Downloading sortedcontainers-2.3.0-py2.py3-none-any.whl.metadata (10 kB)
+Collecting tornado<7,>=4.3 (from mitmproxy==6.0.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.6483510.txt (line 1))
+  Obtaining dependency information for tornado<7,>=4.3 from https://files.pythonhosted.org/packages/d9/2f/3f2f05e84a7aff787a96d5fb06821323feb370fe0baed4db6ea7b1088f32/tornado-6.4.1-cp38-abi3-win_amd64.whl.metadata
+  Downloading tornado-6.4.1-cp38-abi3-win_amd64.whl.metadata (2.6 kB)
+Collecting urwid<2.2,>=2.1.1 (from mitmproxy==6.0.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.6483510.txt (line 1))
+  Downloading urwid-2.1.2.tar.gz (634 kB)
+     -------------------------------------- 634.6/634.6 kB 9.9 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting wsproto<1.1,>=1.0 (from mitmproxy==6.0.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.6483510.txt (line 1))
+  Obtaining dependency information for wsproto<1.1,>=1.0 from https://files.pythonhosted.org/packages/ea/25/0934b1d00f404d75335b144d4396e01998f25db8953bf54b4d6fe65b80ab/wsproto-1.0.0-py3-none-any.whl.metadata
+  Downloading wsproto-1.0.0-py3-none-any.whl.metadata (5.8 kB)
+Collecting publicsuffix2<3,>=2.20190812 (from mitmproxy==6.0.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.6483510.txt (line 1))
+  Obtaining dependency information for publicsuffix2<3,>=2.20190812 from https://files.pythonhosted.org/packages/9d/16/053c2945c5e3aebeefb4ccd5c5e7639e38bc30ad1bdc7ce86c6d01707726/publicsuffix2-2.20191221-py2.py3-none-any.whl.metadata
+  Downloading publicsuffix2-2.20191221-py2.py3-none-any.whl.metadata (13 kB)
+Collecting zstandard<0.15,>=0.11 (from mitmproxy==6.0.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.6483510.txt (line 1))
+  Downloading zstandard-0.14.1.tar.gz (676 kB)
+     ------------------------------------- 676.8/676.8 kB 10.6 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'error'
+  error: subprocess-exited-with-error
+  
+  Getting requirements to build wheel did not run successfully.
+  exit code: 1
+  
+  [30 lines of output]
+  Traceback (most recent call last):
+    File "D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 353, in <module>
+      main()
+    File "D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 335, in main
+      json_out['return_val'] = hook(**hook_input['kwargs'])
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 118, in get_requires_for_build_wheel
+      return hook(config_settings)
+             ^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-vcalfr5j\overlay\Lib\site-packages\setuptools\build_meta.py", line 327, in get_requires_for_build_wheel
+      return self._get_build_requires(config_settings, requirements=[])
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-vcalfr5j\overlay\Lib\site-packages\setuptools\build_meta.py", line 297, in _get_build_requires
+      self.run_setup()
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-vcalfr5j\overlay\Lib\site-packages\setuptools\build_meta.py", line 497, in run_setup
+      super().run_setup(setup_script=setup_script)
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-vcalfr5j\overlay\Lib\site-packages\setuptools\build_meta.py", line 313, in run_setup
+      exec(code, locals())
+    File "<string>", line 63, in <module>
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-install-rp_6cxb1\zstandard_e6ae280dad894031aca0422edc6f305a\setup_zstd.py", line 164, in get_c_extension
+      compiler.initialize()
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-vcalfr5j\overlay\Lib\site-packages\setuptools\_distutils\_msvccompiler.py", line 253, in initialize
+      vc_env = _get_vc_env(plat_spec)
+               ^^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-vcalfr5j\overlay\Lib\site-packages\setuptools\msvc.py", line 233, in msvc14_get_vc_env
+      return _msvc14_get_vc_env(plat_spec)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-vcalfr5j\overlay\Lib\site-packages\setuptools\msvc.py", line 190, in _msvc14_get_vc_env
+      raise distutils.errors.DistutilsPlatformError("Unable to find vcvarsall.bat")
+  distutils.errors.DistutilsPlatformError: Microsoft Visual C++ 14.0 or greater is required. Get it with "Microsoft C++ Build Tools": https://visualstudio.microsoft.com/visual-cpp-build-tools/
+  [end of output]
+  
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+error: subprocess-exited-with-error
+
+Getting requirements to build wheel did not run successfully.
+exit code: 1
+
+See above for output.
+
+note: This error originates from a subprocess, and is likely not a problem with pip.
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

@@ -1,0 +1,4 @@
+colorz-1.0.3
+numpy-2.0.0
+pillow-10.4.0
+scipy-1.14.0

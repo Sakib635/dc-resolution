@@ -1,0 +1,80 @@
+Collecting requests==2.25.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.5145500.txt (line 1))
+  Obtaining dependency information for requests==2.25.1 from https://files.pythonhosted.org/packages/29/c1/24814557f1d22c56d50280771a17307e6bf87b70727d975fd6b2ce6b014a/requests-2.25.1-py2.py3-none-any.whl.metadata
+  Downloading requests-2.25.1-py2.py3-none-any.whl.metadata (4.2 kB)
+Collecting Flask==1.1.2 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.5145500.txt (line 2))
+  Obtaining dependency information for Flask==1.1.2 from https://files.pythonhosted.org/packages/f2/28/2a03252dfb9ebf377f40fba6a7841b47083260bf8bd8e737b0c6952df83f/Flask-1.1.2-py2.py3-none-any.whl.metadata
+  Downloading Flask-1.1.2-py2.py3-none-any.whl.metadata (4.6 kB)
+Collecting Pillow==8.1.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.5145500.txt (line 3))
+  Downloading Pillow-8.1.0.tar.gz (44.9 MB)
+     ---------------------------------------- 44.9/44.9 MB 7.4 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting pymongo==3.11.2 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.5145500.txt (line 4))
+  Downloading pymongo-3.11.2.tar.gz (770 kB)
+     ------------------------------------- 770.6/770.6 kB 12.1 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting chardet<5,>=3.0.2 (from requests==2.25.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.5145500.txt (line 1))
+  Obtaining dependency information for chardet<5,>=3.0.2 from https://files.pythonhosted.org/packages/19/c7/fa589626997dd07bd87d9269342ccb74b1720384a4d739a1872bd84fbe68/chardet-4.0.0-py2.py3-none-any.whl.metadata
+  Downloading chardet-4.0.0-py2.py3-none-any.whl.metadata (3.5 kB)
+Collecting idna<3,>=2.5 (from requests==2.25.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.5145500.txt (line 1))
+  Obtaining dependency information for idna<3,>=2.5 from https://files.pythonhosted.org/packages/a2/38/928ddce2273eaa564f6f50de919327bf3a00f091b5baba8dfa9460f3a8a8/idna-2.10-py2.py3-none-any.whl.metadata
+  Downloading idna-2.10-py2.py3-none-any.whl.metadata (9.1 kB)
+Collecting urllib3<1.27,>=1.21.1 (from requests==2.25.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.5145500.txt (line 1))
+  Obtaining dependency information for urllib3<1.27,>=1.21.1 from https://files.pythonhosted.org/packages/ae/6a/99eaaeae8becaa17a29aeb334a18e5d582d873b6f084c11f02581b8d7f7f/urllib3-1.26.19-py2.py3-none-any.whl.metadata
+  Downloading urllib3-1.26.19-py2.py3-none-any.whl.metadata (49 kB)
+     ---------------------------------------- 49.3/49.3 kB 2.6 MB/s eta 0:00:00
+Collecting certifi>=2017.4.17 (from requests==2.25.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.5145500.txt (line 1))
+  Obtaining dependency information for certifi>=2017.4.17 from https://files.pythonhosted.org/packages/1c/d5/c84e1a17bf61d4df64ca866a1c9a913874b4e9bdc131ec689a0ad013fb36/certifi-2024.7.4-py3-none-any.whl.metadata
+  Downloading certifi-2024.7.4-py3-none-any.whl.metadata (2.2 kB)
+Collecting Werkzeug>=0.15 (from Flask==1.1.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.5145500.txt (line 2))
+  Obtaining dependency information for Werkzeug>=0.15 from https://files.pythonhosted.org/packages/9d/6e/e792999e816d19d7fcbfa94c730936750036d65656a76a5a688b57a656c4/werkzeug-3.0.3-py3-none-any.whl.metadata
+  Downloading werkzeug-3.0.3-py3-none-any.whl.metadata (3.7 kB)
+Collecting Jinja2>=2.10.1 (from Flask==1.1.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.5145500.txt (line 2))
+  Obtaining dependency information for Jinja2>=2.10.1 from https://files.pythonhosted.org/packages/31/80/3a54838c3fb461f6fec263ebf3a3a41771bd05190238de3486aae8540c36/jinja2-3.1.4-py3-none-any.whl.metadata
+  Downloading jinja2-3.1.4-py3-none-any.whl.metadata (2.6 kB)
+Collecting itsdangerous>=0.24 (from Flask==1.1.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.5145500.txt (line 2))
+  Obtaining dependency information for itsdangerous>=0.24 from https://files.pythonhosted.org/packages/04/96/92447566d16df59b2a776c0fb82dbc4d9e07cd95062562af01e408583fc4/itsdangerous-2.2.0-py3-none-any.whl.metadata
+  Downloading itsdangerous-2.2.0-py3-none-any.whl.metadata (1.9 kB)
+Collecting click>=5.1 (from Flask==1.1.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.5145500.txt (line 2))
+  Obtaining dependency information for click>=5.1 from https://files.pythonhosted.org/packages/00/2e/d53fa4befbf2cfa713304affc7ca780ce4fc1fd8710527771b58311a3229/click-8.1.7-py3-none-any.whl.metadata
+  Downloading click-8.1.7-py3-none-any.whl.metadata (3.0 kB)
+Collecting colorama (from click>=5.1->Flask==1.1.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.5145500.txt (line 2))
+  Obtaining dependency information for colorama from https://files.pythonhosted.org/packages/d1/d6/3965ed04c63042e047cb6a3e6ed1a63a35087b6a609aa3a15ed8ac56c221/colorama-0.4.6-py2.py3-none-any.whl.metadata
+  Downloading colorama-0.4.6-py2.py3-none-any.whl.metadata (17 kB)
+Collecting MarkupSafe>=2.0 (from Jinja2>=2.10.1->Flask==1.1.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.5145500.txt (line 2))
+  Obtaining dependency information for MarkupSafe>=2.0 from https://files.pythonhosted.org/packages/3f/14/c3554d512d5f9100a95e737502f4a2323a1959f6d0d01e0d0997b35f7b10/MarkupSafe-2.1.5-cp312-cp312-win_amd64.whl.metadata
+  Downloading MarkupSafe-2.1.5-cp312-cp312-win_amd64.whl.metadata (3.1 kB)
+Downloading requests-2.25.1-py2.py3-none-any.whl (61 kB)
+   ---------------------------------------- 61.2/61.2 kB 3.4 MB/s eta 0:00:00
+Downloading Flask-1.1.2-py2.py3-none-any.whl (94 kB)
+   ---------------------------------------- 94.6/94.6 kB ? eta 0:00:00
+Downloading certifi-2024.7.4-py3-none-any.whl (162 kB)
+   --------------------------------------- 163.0/163.0 kB 10.2 MB/s eta 0:00:00
+Downloading chardet-4.0.0-py2.py3-none-any.whl (178 kB)
+   --------------------------------------- 178.7/178.7 kB 11.2 MB/s eta 0:00:00
+Downloading click-8.1.7-py3-none-any.whl (97 kB)
+   ---------------------------------------- 97.9/97.9 kB 5.5 MB/s eta 0:00:00
+Downloading idna-2.10-py2.py3-none-any.whl (58 kB)
+   ---------------------------------------- 58.8/58.8 kB 3.2 MB/s eta 0:00:00
+Downloading itsdangerous-2.2.0-py3-none-any.whl (16 kB)
+Downloading jinja2-3.1.4-py3-none-any.whl (133 kB)
+   ---------------------------------------- 133.3/133.3 kB 8.2 MB/s eta 0:00:00
+Downloading urllib3-1.26.19-py2.py3-none-any.whl (143 kB)
+   ---------------------------------------- 143.9/143.9 kB 8.9 MB/s eta 0:00:00
+Downloading werkzeug-3.0.3-py3-none-any.whl (227 kB)
+   --------------------------------------- 227.3/227.3 kB 14.5 MB/s eta 0:00:00
+Downloading MarkupSafe-2.1.5-cp312-cp312-win_amd64.whl (17 kB)
+Downloading colorama-0.4.6-py2.py3-none-any.whl (25 kB)
+Would install Flask-1.1.2 Jinja2-3.1.4 MarkupSafe-2.1.5 Pillow-8.1.0 Werkzeug-3.0.3 certifi-2024.7.4 chardet-4.0.0 click-8.1.7 colorama-0.4.6 idna-2.10 itsdangerous-2.2.0 pymongo-3.11.2 requests-2.25.1 urllib3-1.26.19
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

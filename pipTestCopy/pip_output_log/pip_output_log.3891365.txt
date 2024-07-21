@@ -1,0 +1,98 @@
+Collecting cartodb==0.8.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3891365.txt (line 1))
+  Downloading cartodb-0.8.1.tar.gz (2.9 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting secret==0.8 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3891365.txt (line 2))
+  Downloading secret-0.8.tar.gz (8.5 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting oauth2 (from cartodb==0.8.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3891365.txt (line 1))
+  Obtaining dependency information for oauth2 from https://files.pythonhosted.org/packages/a0/6f/86db603912ecd04109af952c38bc08928886cf0e34c723481fa7db98b4b5/oauth2-1.9.0.post1-py2.py3-none-any.whl.metadata
+  Downloading oauth2-1.9.0.post1-py2.py3-none-any.whl.metadata (846 bytes)
+Collecting boto3>=1.2.3 (from secret==0.8->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3891365.txt (line 2))
+  Obtaining dependency information for boto3>=1.2.3 from https://files.pythonhosted.org/packages/9a/b0/a4301290ea6cdbb0cda7048ae11b0e560eacca7d2c2e64e6b3d5a9fb3fde/boto3-1.34.144-py3-none-any.whl.metadata
+  Downloading boto3-1.34.144-py3-none-any.whl.metadata (6.6 kB)
+Collecting pycryptodome>=3.1 (from secret==0.8->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3891365.txt (line 2))
+  Obtaining dependency information for pycryptodome>=3.1 from https://files.pythonhosted.org/packages/1f/90/d131c0eb643290230dfa4108b7c2d135122d88b714ad241d77beb4782a76/pycryptodome-3.20.0-cp35-abi3-win_amd64.whl.metadata
+  Downloading pycryptodome-3.20.0-cp35-abi3-win_amd64.whl.metadata (3.4 kB)
+Collecting tabulate>=0.7.5 (from secret==0.8->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3891365.txt (line 2))
+  Obtaining dependency information for tabulate>=0.7.5 from https://files.pythonhosted.org/packages/40/44/4a5f08c96eb108af5cb50b41f76142f0afa346dfa99d5296fe7202a11854/tabulate-0.9.0-py3-none-any.whl.metadata
+  Downloading tabulate-0.9.0-py3-none-any.whl.metadata (34 kB)
+Collecting pytest>=2.8.5 (from secret==0.8->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3891365.txt (line 2))
+  Obtaining dependency information for pytest>=2.8.5 from https://files.pythonhosted.org/packages/4e/e7/81ebdd666d3bff6670d27349b5053605d83d55548e6bd5711f3b0ae7dd23/pytest-8.2.2-py3-none-any.whl.metadata
+  Downloading pytest-8.2.2-py3-none-any.whl.metadata (7.6 kB)
+Collecting six (from secret==0.8->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3891365.txt (line 2))
+  Obtaining dependency information for six from https://files.pythonhosted.org/packages/d9/5a/e7c31adbe875f2abbb91bd84cf2dc52d792b5a01506781dbcf25c91daf11/six-1.16.0-py2.py3-none-any.whl.metadata
+  Downloading six-1.16.0-py2.py3-none-any.whl.metadata (1.8 kB)
+Collecting botocore<1.35.0,>=1.34.144 (from boto3>=1.2.3->secret==0.8->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3891365.txt (line 2))
+  Obtaining dependency information for botocore<1.35.0,>=1.34.144 from https://files.pythonhosted.org/packages/24/4b/956a80d406dfffba1f8f7fbaba7dd73d418ed8a7b95faa1ade7cf17663a5/botocore-1.34.144-py3-none-any.whl.metadata
+  Downloading botocore-1.34.144-py3-none-any.whl.metadata (5.7 kB)
+Collecting jmespath<2.0.0,>=0.7.1 (from boto3>=1.2.3->secret==0.8->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3891365.txt (line 2))
+  Obtaining dependency information for jmespath<2.0.0,>=0.7.1 from https://files.pythonhosted.org/packages/31/b4/b9b800c45527aadd64d5b442f9b932b00648617eb5d63d2c7a6587b7cafc/jmespath-1.0.1-py3-none-any.whl.metadata
+  Downloading jmespath-1.0.1-py3-none-any.whl.metadata (7.6 kB)
+Collecting s3transfer<0.11.0,>=0.10.0 (from boto3>=1.2.3->secret==0.8->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3891365.txt (line 2))
+  Obtaining dependency information for s3transfer<0.11.0,>=0.10.0 from https://files.pythonhosted.org/packages/3c/4a/b221409913760d26cf4498b7b1741d510c82d3ad38381984a3ddc135ec66/s3transfer-0.10.2-py3-none-any.whl.metadata
+  Downloading s3transfer-0.10.2-py3-none-any.whl.metadata (1.7 kB)
+Collecting iniconfig (from pytest>=2.8.5->secret==0.8->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3891365.txt (line 2))
+  Obtaining dependency information for iniconfig from https://files.pythonhosted.org/packages/ef/a6/62565a6e1cf69e10f5727360368e451d4b7f58beeac6173dc9db836a5b46/iniconfig-2.0.0-py3-none-any.whl.metadata
+  Downloading iniconfig-2.0.0-py3-none-any.whl.metadata (2.6 kB)
+Collecting packaging (from pytest>=2.8.5->secret==0.8->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3891365.txt (line 2))
+  Obtaining dependency information for packaging from https://files.pythonhosted.org/packages/08/aa/cc0199a5f0ad350994d660967a8efb233fe0416e4639146c089643407ce6/packaging-24.1-py3-none-any.whl.metadata
+  Downloading packaging-24.1-py3-none-any.whl.metadata (3.2 kB)
+Collecting pluggy<2.0,>=1.5 (from pytest>=2.8.5->secret==0.8->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3891365.txt (line 2))
+  Obtaining dependency information for pluggy<2.0,>=1.5 from https://files.pythonhosted.org/packages/88/5f/e351af9a41f866ac3f1fac4ca0613908d9a41741cfcf2228f4ad853b697d/pluggy-1.5.0-py3-none-any.whl.metadata
+  Downloading pluggy-1.5.0-py3-none-any.whl.metadata (4.8 kB)
+Collecting colorama (from pytest>=2.8.5->secret==0.8->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3891365.txt (line 2))
+  Obtaining dependency information for colorama from https://files.pythonhosted.org/packages/d1/d6/3965ed04c63042e047cb6a3e6ed1a63a35087b6a609aa3a15ed8ac56c221/colorama-0.4.6-py2.py3-none-any.whl.metadata
+  Downloading colorama-0.4.6-py2.py3-none-any.whl.metadata (17 kB)
+Collecting httplib2 (from oauth2->cartodb==0.8.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3891365.txt (line 1))
+  Obtaining dependency information for httplib2 from https://files.pythonhosted.org/packages/a8/6c/d2fbdaaa5959339d53ba38e94c123e4e84b8fbc4b84beb0e70d7c1608486/httplib2-0.22.0-py3-none-any.whl.metadata
+  Downloading httplib2-0.22.0-py3-none-any.whl.metadata (2.6 kB)
+Collecting python-dateutil<3.0.0,>=2.1 (from botocore<1.35.0,>=1.34.144->boto3>=1.2.3->secret==0.8->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3891365.txt (line 2))
+  Obtaining dependency information for python-dateutil<3.0.0,>=2.1 from https://files.pythonhosted.org/packages/ec/57/56b9bcc3c9c6a792fcbaf139543cee77261f3651ca9da0c93f5c1221264b/python_dateutil-2.9.0.post0-py2.py3-none-any.whl.metadata
+  Downloading python_dateutil-2.9.0.post0-py2.py3-none-any.whl.metadata (8.4 kB)
+Collecting urllib3!=2.2.0,<3,>=1.25.4 (from botocore<1.35.0,>=1.34.144->boto3>=1.2.3->secret==0.8->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3891365.txt (line 2))
+  Obtaining dependency information for urllib3!=2.2.0,<3,>=1.25.4 from https://files.pythonhosted.org/packages/ca/1c/89ffc63a9605b583d5df2be791a27bc1a42b7c32bab68d3c8f2f73a98cd4/urllib3-2.2.2-py3-none-any.whl.metadata
+  Downloading urllib3-2.2.2-py3-none-any.whl.metadata (6.4 kB)
+Collecting pyparsing!=3.0.0,!=3.0.1,!=3.0.2,!=3.0.3,<4,>=2.4.2 (from httplib2->oauth2->cartodb==0.8.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3891365.txt (line 1))
+  Obtaining dependency information for pyparsing!=3.0.0,!=3.0.1,!=3.0.2,!=3.0.3,<4,>=2.4.2 from https://files.pythonhosted.org/packages/9d/ea/6d76df31432a0e6fdf81681a895f009a4bb47b3c39036db3e1b528191d52/pyparsing-3.1.2-py3-none-any.whl.metadata
+  Downloading pyparsing-3.1.2-py3-none-any.whl.metadata (5.1 kB)
+Downloading boto3-1.34.144-py3-none-any.whl (139 kB)
+   -------------------------------------- 139.2/139.2 kB 914.4 kB/s eta 0:00:00
+Downloading pycryptodome-3.20.0-cp35-abi3-win_amd64.whl (1.8 MB)
+   ---------------------------------------- 1.8/1.8 MB 2.0 MB/s eta 0:00:00
+Downloading pytest-8.2.2-py3-none-any.whl (339 kB)
+   ---------------------------------------- 339.9/339.9 kB 4.2 MB/s eta 0:00:00
+Downloading tabulate-0.9.0-py3-none-any.whl (35 kB)
+Downloading oauth2-1.9.0.post1-py2.py3-none-any.whl (25 kB)
+Downloading six-1.16.0-py2.py3-none-any.whl (11 kB)
+Downloading botocore-1.34.144-py3-none-any.whl (12.4 MB)
+   ---------------------------------------- 12.4/12.4 MB 5.0 MB/s eta 0:00:00
+Downloading jmespath-1.0.1-py3-none-any.whl (20 kB)
+Downloading pluggy-1.5.0-py3-none-any.whl (20 kB)
+Downloading s3transfer-0.10.2-py3-none-any.whl (82 kB)
+   ---------------------------------------- 82.7/82.7 kB 4.5 MB/s eta 0:00:00
+Downloading colorama-0.4.6-py2.py3-none-any.whl (25 kB)
+Downloading httplib2-0.22.0-py3-none-any.whl (96 kB)
+   ---------------------------------------- 96.9/96.9 kB ? eta 0:00:00
+Downloading iniconfig-2.0.0-py3-none-any.whl (5.9 kB)
+Downloading packaging-24.1-py3-none-any.whl (53 kB)
+   ---------------------------------------- 54.0/54.0 kB 2.9 MB/s eta 0:00:00
+Downloading pyparsing-3.1.2-py3-none-any.whl (103 kB)
+   ---------------------------------------- 103.2/103.2 kB 5.8 MB/s eta 0:00:00
+Downloading python_dateutil-2.9.0.post0-py2.py3-none-any.whl (229 kB)
+   --------------------------------------- 229.9/229.9 kB 13.7 MB/s eta 0:00:00
+Downloading urllib3-2.2.2-py3-none-any.whl (121 kB)
+   ---------------------------------------- 121.4/121.4 kB 7.0 MB/s eta 0:00:00
+Would install boto3-1.34.144 botocore-1.34.144 cartodb-0.8.1 colorama-0.4.6 httplib2-0.22.0 iniconfig-2.0.0 jmespath-1.0.1 oauth2-1.9.0.post1 packaging-24.1 pluggy-1.5.0 pycryptodome-3.20.0 pyparsing-3.1.2 pytest-8.2.2 python-dateutil-2.9.0.post0 s3transfer-0.10.2 secret-0.8 six-1.16.0 tabulate-0.9.0 urllib3-2.2.2
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

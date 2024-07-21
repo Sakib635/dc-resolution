@@ -1,4 +1,0 @@
-ERROR: Invalid requirement: "acme=={0}'.format(version)" (from line 1 of D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.41.certbot.txt)
-
-[notice] A new release of pip is available: 23.2.1 -> 24.1.2
-[notice] To update, run: python.exe -m pip install --upgrade pip

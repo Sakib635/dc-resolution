@@ -1,0 +1,9 @@
+Collecting capstone==4.0.2 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.bb160e63686f517c93a937f46714dd03.txt (line 1))
+  Obtaining dependency information for capstone==4.0.2 from https://files.pythonhosted.org/packages/6a/71/d409f50f7cf7235513f3e636bb1aeb53d729106c1c77495c48fc09c41a54/capstone-4.0.2-py2.py3-none-win_amd64.whl.metadata
+  Downloading capstone-4.0.2-py2.py3-none-win_amd64.whl.metadata (525 bytes)
+Downloading capstone-4.0.2-py2.py3-none-win_amd64.whl (896 kB)
+   ---------------------------------------- 896.4/896.4 kB 4.7 MB/s eta 0:00:00
+Would install capstone-4.0.2
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

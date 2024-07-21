@@ -1,0 +1,53 @@
+Collecting httpie==2.3.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2192812.txt (line 1))
+  Obtaining dependency information for httpie==2.3.0 from https://files.pythonhosted.org/packages/11/4c/34594fe314b179e08e58cdfa8a0d7cbbcf8971ddb49810e512bdec8457ef/httpie-2.3.0-py3-none-any.whl.metadata
+  Downloading httpie-2.3.0-py3-none-any.whl.metadata (61 kB)
+     -------------------------------------- 61.5/61.5 kB 410.3 kB/s eta 0:00:00
+Collecting Pygments==2.7.4 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2192812.txt (line 2))
+  Obtaining dependency information for Pygments==2.7.4 from https://files.pythonhosted.org/packages/17/e3/c7ea888bd6e9849c60b1f378637850265177ed01297137f544a7ecf7d7ba/Pygments-2.7.4-py3-none-any.whl.metadata
+  Downloading Pygments-2.7.4-py3-none-any.whl.metadata (1.9 kB)
+Collecting requests[socks]>=2.22.0 (from httpie==2.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2192812.txt (line 1))
+  Obtaining dependency information for requests[socks]>=2.22.0 from https://files.pythonhosted.org/packages/f9/9b/335f9764261e915ed497fcdeb11df5dfd6f7bf257d4a6a2a686d80da4d54/requests-2.32.3-py3-none-any.whl.metadata
+  Downloading requests-2.32.3-py3-none-any.whl.metadata (4.6 kB)
+Collecting requests-toolbelt>=0.9.1 (from httpie==2.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2192812.txt (line 1))
+  Obtaining dependency information for requests-toolbelt>=0.9.1 from https://files.pythonhosted.org/packages/3f/51/d4db610ef29373b879047326cbf6fa98b6c1969d6f6dc423279de2b1be2c/requests_toolbelt-1.0.0-py2.py3-none-any.whl.metadata
+  Downloading requests_toolbelt-1.0.0-py2.py3-none-any.whl.metadata (14 kB)
+Collecting colorama>=0.2.4 (from httpie==2.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2192812.txt (line 1))
+  Obtaining dependency information for colorama>=0.2.4 from https://files.pythonhosted.org/packages/d1/d6/3965ed04c63042e047cb6a3e6ed1a63a35087b6a609aa3a15ed8ac56c221/colorama-0.4.6-py2.py3-none-any.whl.metadata
+  Downloading colorama-0.4.6-py2.py3-none-any.whl.metadata (17 kB)
+Collecting charset-normalizer<4,>=2 (from requests[socks]>=2.22.0->httpie==2.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2192812.txt (line 1))
+  Obtaining dependency information for charset-normalizer<4,>=2 from https://files.pythonhosted.org/packages/b6/7c/8debebb4f90174074b827c63242c23851bdf00a532489fba57fef3416e40/charset_normalizer-3.3.2-cp312-cp312-win_amd64.whl.metadata
+  Downloading charset_normalizer-3.3.2-cp312-cp312-win_amd64.whl.metadata (34 kB)
+Collecting idna<4,>=2.5 (from requests[socks]>=2.22.0->httpie==2.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2192812.txt (line 1))
+  Obtaining dependency information for idna<4,>=2.5 from https://files.pythonhosted.org/packages/e5/3e/741d8c82801c347547f8a2a06aa57dbb1992be9e948df2ea0eda2c8b79e8/idna-3.7-py3-none-any.whl.metadata
+  Downloading idna-3.7-py3-none-any.whl.metadata (9.9 kB)
+Collecting urllib3<3,>=1.21.1 (from requests[socks]>=2.22.0->httpie==2.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2192812.txt (line 1))
+  Obtaining dependency information for urllib3<3,>=1.21.1 from https://files.pythonhosted.org/packages/ca/1c/89ffc63a9605b583d5df2be791a27bc1a42b7c32bab68d3c8f2f73a98cd4/urllib3-2.2.2-py3-none-any.whl.metadata
+  Downloading urllib3-2.2.2-py3-none-any.whl.metadata (6.4 kB)
+Collecting certifi>=2017.4.17 (from requests[socks]>=2.22.0->httpie==2.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2192812.txt (line 1))
+  Obtaining dependency information for certifi>=2017.4.17 from https://files.pythonhosted.org/packages/1c/d5/c84e1a17bf61d4df64ca866a1c9a913874b4e9bdc131ec689a0ad013fb36/certifi-2024.7.4-py3-none-any.whl.metadata
+  Downloading certifi-2024.7.4-py3-none-any.whl.metadata (2.2 kB)
+Collecting PySocks!=1.5.7,>=1.5.6 (from requests[socks]>=2.22.0->httpie==2.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2192812.txt (line 1))
+  Obtaining dependency information for PySocks!=1.5.7,>=1.5.6 from https://files.pythonhosted.org/packages/8d/59/b4572118e098ac8e46e399a1dd0f2d85403ce8bbaad9ec79373ed6badaf9/PySocks-1.7.1-py3-none-any.whl.metadata
+  Downloading PySocks-1.7.1-py3-none-any.whl.metadata (13 kB)
+Downloading httpie-2.3.0-py3-none-any.whl (74 kB)
+   ---------------------------------------- 74.8/74.8 kB 2.1 MB/s eta 0:00:00
+Downloading Pygments-2.7.4-py3-none-any.whl (950 kB)
+   --------------------------------------- 950.1/950.1 kB 12.0 MB/s eta 0:00:00
+Downloading colorama-0.4.6-py2.py3-none-any.whl (25 kB)
+Downloading requests_toolbelt-1.0.0-py2.py3-none-any.whl (54 kB)
+   ---------------------------------------- 54.5/54.5 kB 2.8 MB/s eta 0:00:00
+Downloading certifi-2024.7.4-py3-none-any.whl (162 kB)
+   ---------------------------------------- 163.0/163.0 kB ? eta 0:00:00
+Downloading charset_normalizer-3.3.2-cp312-cp312-win_amd64.whl (100 kB)
+   ---------------------------------------- 100.4/100.4 kB 5.6 MB/s eta 0:00:00
+Downloading idna-3.7-py3-none-any.whl (66 kB)
+   ---------------------------------------- 66.8/66.8 kB ? eta 0:00:00
+Downloading PySocks-1.7.1-py3-none-any.whl (16 kB)
+Downloading requests-2.32.3-py3-none-any.whl (64 kB)
+   ---------------------------------------- 64.9/64.9 kB ? eta 0:00:00
+Downloading urllib3-2.2.2-py3-none-any.whl (121 kB)
+   ---------------------------------------- 121.4/121.4 kB 7.4 MB/s eta 0:00:00
+Would install PySocks-1.7.1 Pygments-2.7.4 certifi-2024.7.4 charset-normalizer-3.3.2 colorama-0.4.6 httpie-2.3.0 idna-3.7 requests-2.32.3 requests-toolbelt-1.0.0 urllib3-2.2.2
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

@@ -1,0 +1,50 @@
+Collecting tweepy==3.10.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1112928.txt (line 1))
+  Obtaining dependency information for tweepy==3.10.0 from https://files.pythonhosted.org/packages/67/c3/6bed87f3b1e5ed2f34bd58bf7978e308c86e255193916be76e5a5ce5dfca/tweepy-3.10.0-py2.py3-none-any.whl.metadata
+  Downloading tweepy-3.10.0-py2.py3-none-any.whl.metadata (2.8 kB)
+Collecting requests[socks]>=2.11.1 (from tweepy==3.10.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1112928.txt (line 1))
+  Obtaining dependency information for requests[socks]>=2.11.1 from https://files.pythonhosted.org/packages/f9/9b/335f9764261e915ed497fcdeb11df5dfd6f7bf257d4a6a2a686d80da4d54/requests-2.32.3-py3-none-any.whl.metadata
+  Downloading requests-2.32.3-py3-none-any.whl.metadata (4.6 kB)
+Collecting requests-oauthlib>=0.7.0 (from tweepy==3.10.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1112928.txt (line 1))
+  Obtaining dependency information for requests-oauthlib>=0.7.0 from https://files.pythonhosted.org/packages/3b/5d/63d4ae3b9daea098d5d6f5da83984853c1bbacd5dc826764b249fe119d24/requests_oauthlib-2.0.0-py2.py3-none-any.whl.metadata
+  Downloading requests_oauthlib-2.0.0-py2.py3-none-any.whl.metadata (11 kB)
+Collecting six>=1.10.0 (from tweepy==3.10.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1112928.txt (line 1))
+  Obtaining dependency information for six>=1.10.0 from https://files.pythonhosted.org/packages/d9/5a/e7c31adbe875f2abbb91bd84cf2dc52d792b5a01506781dbcf25c91daf11/six-1.16.0-py2.py3-none-any.whl.metadata
+  Downloading six-1.16.0-py2.py3-none-any.whl.metadata (1.8 kB)
+Collecting oauthlib>=3.0.0 (from requests-oauthlib>=0.7.0->tweepy==3.10.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1112928.txt (line 1))
+  Obtaining dependency information for oauthlib>=3.0.0 from https://files.pythonhosted.org/packages/7e/80/cab10959dc1faead58dc8384a781dfbf93cb4d33d50988f7a69f1b7c9bbe/oauthlib-3.2.2-py3-none-any.whl.metadata
+  Downloading oauthlib-3.2.2-py3-none-any.whl.metadata (7.5 kB)
+Collecting charset-normalizer<4,>=2 (from requests[socks]>=2.11.1->tweepy==3.10.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1112928.txt (line 1))
+  Obtaining dependency information for charset-normalizer<4,>=2 from https://files.pythonhosted.org/packages/b6/7c/8debebb4f90174074b827c63242c23851bdf00a532489fba57fef3416e40/charset_normalizer-3.3.2-cp312-cp312-win_amd64.whl.metadata
+  Downloading charset_normalizer-3.3.2-cp312-cp312-win_amd64.whl.metadata (34 kB)
+Collecting idna<4,>=2.5 (from requests[socks]>=2.11.1->tweepy==3.10.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1112928.txt (line 1))
+  Obtaining dependency information for idna<4,>=2.5 from https://files.pythonhosted.org/packages/e5/3e/741d8c82801c347547f8a2a06aa57dbb1992be9e948df2ea0eda2c8b79e8/idna-3.7-py3-none-any.whl.metadata
+  Downloading idna-3.7-py3-none-any.whl.metadata (9.9 kB)
+Collecting urllib3<3,>=1.21.1 (from requests[socks]>=2.11.1->tweepy==3.10.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1112928.txt (line 1))
+  Obtaining dependency information for urllib3<3,>=1.21.1 from https://files.pythonhosted.org/packages/ca/1c/89ffc63a9605b583d5df2be791a27bc1a42b7c32bab68d3c8f2f73a98cd4/urllib3-2.2.2-py3-none-any.whl.metadata
+  Downloading urllib3-2.2.2-py3-none-any.whl.metadata (6.4 kB)
+Collecting certifi>=2017.4.17 (from requests[socks]>=2.11.1->tweepy==3.10.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1112928.txt (line 1))
+  Obtaining dependency information for certifi>=2017.4.17 from https://files.pythonhosted.org/packages/1c/d5/c84e1a17bf61d4df64ca866a1c9a913874b4e9bdc131ec689a0ad013fb36/certifi-2024.7.4-py3-none-any.whl.metadata
+  Downloading certifi-2024.7.4-py3-none-any.whl.metadata (2.2 kB)
+Collecting PySocks!=1.5.7,>=1.5.6 (from requests[socks]>=2.11.1->tweepy==3.10.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1112928.txt (line 1))
+  Obtaining dependency information for PySocks!=1.5.7,>=1.5.6 from https://files.pythonhosted.org/packages/8d/59/b4572118e098ac8e46e399a1dd0f2d85403ce8bbaad9ec79373ed6badaf9/PySocks-1.7.1-py3-none-any.whl.metadata
+  Downloading PySocks-1.7.1-py3-none-any.whl.metadata (13 kB)
+Downloading tweepy-3.10.0-py2.py3-none-any.whl (30 kB)
+Downloading requests_oauthlib-2.0.0-py2.py3-none-any.whl (24 kB)
+Downloading six-1.16.0-py2.py3-none-any.whl (11 kB)
+Downloading certifi-2024.7.4-py3-none-any.whl (162 kB)
+   -------------------------------------- 163.0/163.0 kB 489.5 kB/s eta 0:00:00
+Downloading charset_normalizer-3.3.2-cp312-cp312-win_amd64.whl (100 kB)
+   ---------------------------------------- 100.4/100.4 kB 2.9 MB/s eta 0:00:00
+Downloading idna-3.7-py3-none-any.whl (66 kB)
+   ---------------------------------------- 66.8/66.8 kB 3.5 MB/s eta 0:00:00
+Downloading oauthlib-3.2.2-py3-none-any.whl (151 kB)
+   ---------------------------------------- 151.7/151.7 kB 4.6 MB/s eta 0:00:00
+Downloading PySocks-1.7.1-py3-none-any.whl (16 kB)
+Downloading requests-2.32.3-py3-none-any.whl (64 kB)
+   ---------------------------------------- 64.9/64.9 kB 3.4 MB/s eta 0:00:00
+Downloading urllib3-2.2.2-py3-none-any.whl (121 kB)
+   ---------------------------------------- 121.4/121.4 kB 3.6 MB/s eta 0:00:00
+Would install PySocks-1.7.1 certifi-2024.7.4 charset-normalizer-3.3.2 idna-3.7 oauthlib-3.2.2 requests-2.32.3 requests-oauthlib-2.0.0 six-1.16.0 tweepy-3.10.0 urllib3-2.2.2
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

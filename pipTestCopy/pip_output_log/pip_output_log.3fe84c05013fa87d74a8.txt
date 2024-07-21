@@ -1,0 +1,9 @@
+Collecting easygui==0.98.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3fe84c05013fa87d74a8.txt (line 1))
+  Obtaining dependency information for easygui==0.98.1 from https://files.pythonhosted.org/packages/89/b5/fd22bb3eb36085aeb7781670bbc59cf8b641b1774f77578ec06368865aa3/easygui-0.98.1-py2.py3-none-any.whl.metadata
+  Downloading easygui-0.98.1-py2.py3-none-any.whl.metadata (4.1 kB)
+Downloading easygui-0.98.1-py2.py3-none-any.whl (90 kB)
+   ---------------------------------------- 90.5/90.5 kB 736.6 kB/s eta 0:00:00
+Would install easygui-0.98.1
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

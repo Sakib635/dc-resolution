@@ -1,0 +1,14 @@
+Collecting nltk==3.5 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.5b4c5ffdcdb5a13e0267.txt (line 1))
+  Downloading nltk-3.5.zip (1.4 MB)
+     ---------------------------------------- 1.4/1.4 MB 6.5 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+ERROR: Could not find a version that satisfies the requirement slate==0.5.2 (from versions: 0.2.3, 0.3)
+ERROR: No matching distribution found for slate==0.5.2
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

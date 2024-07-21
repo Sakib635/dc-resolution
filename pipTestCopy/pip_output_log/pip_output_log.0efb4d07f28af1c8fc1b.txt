@@ -1,0 +1,112 @@
+Collecting clipboard==0.0.4 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.0efb4d07f28af1c8fc1b.txt (line 1))
+  Downloading clipboard-0.0.4.tar.gz (1.7 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting console==0.9906 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.0efb4d07f28af1c8fc1b.txt (line 2))
+  Obtaining dependency information for console==0.9906 from https://files.pythonhosted.org/packages/c5/29/64eda6c87ec0267f8de75d8bc88ed63a049b6b1f27a496ceeec0080aa5ce/console-0.9906-py2.py3-none-any.whl.metadata
+  Downloading console-0.9906-py2.py3-none-any.whl.metadata (17 kB)
+Collecting markdown2pdf==0.1.4 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.0efb4d07f28af1c8fc1b.txt (line 3))
+  Downloading Markdown2PDF-0.1.4.tar.gz (2.6 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting python_editor==1.0.4 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.0efb4d07f28af1c8fc1b.txt (line 4))
+  Obtaining dependency information for python_editor==1.0.4 from https://files.pythonhosted.org/packages/c6/d3/201fc3abe391bbae6606e6f1d598c15d367033332bd54352b12f35513717/python_editor-1.0.4-py3-none-any.whl.metadata
+  Downloading python_editor-1.0.4-py3-none-any.whl.metadata (2.2 kB)
+Collecting pyperclip>=1.3 (from clipboard==0.0.4->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.0efb4d07f28af1c8fc1b.txt (line 1))
+  Downloading pyperclip-1.9.0.tar.gz (20 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting ezenv>=0.92 (from console==0.9906->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.0efb4d07f28af1c8fc1b.txt (line 2))
+  Obtaining dependency information for ezenv>=0.92 from https://files.pythonhosted.org/packages/bc/6e/253ac7fee0cfd7db2ea5a51577dabaaeefcf3a71b9a8ac2fe060c84e5f84/ezenv-0.92-py2.py3-none-any.whl.metadata
+  Downloading ezenv-0.92-py2.py3-none-any.whl.metadata (13 kB)
+Collecting weasyprint (from markdown2pdf==0.1.4->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.0efb4d07f28af1c8fc1b.txt (line 3))
+  Obtaining dependency information for weasyprint from https://files.pythonhosted.org/packages/1c/d1/10f4225bec3450e7c0aa5813697ce76eb2dfa1f3c5e530510253b6b276b2/weasyprint-62.3-py3-none-any.whl.metadata
+  Downloading weasyprint-62.3-py3-none-any.whl.metadata (3.7 kB)
+Collecting markdown2 (from markdown2pdf==0.1.4->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.0efb4d07f28af1c8fc1b.txt (line 3))
+  Obtaining dependency information for markdown2 from https://files.pythonhosted.org/packages/70/8d/ee7f29f0c65f39ea0bb39eaa24c3563e95f8f434ec8c593441854d6df115/markdown2-2.5.0-py2.py3-none-any.whl.metadata
+  Downloading markdown2-2.5.0-py2.py3-none-any.whl.metadata (2.2 kB)
+Collecting pydyf>=0.10.0 (from weasyprint->markdown2pdf==0.1.4->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.0efb4d07f28af1c8fc1b.txt (line 3))
+  Obtaining dependency information for pydyf>=0.10.0 from https://files.pythonhosted.org/packages/c9/ac/d5db977deaf28c6ecbc61bbca269eb3e8f0b3a1f55c8549e5333e606e005/pydyf-0.11.0-py3-none-any.whl.metadata
+  Downloading pydyf-0.11.0-py3-none-any.whl.metadata (2.5 kB)
+Collecting cffi>=0.6 (from weasyprint->markdown2pdf==0.1.4->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.0efb4d07f28af1c8fc1b.txt (line 3))
+  Obtaining dependency information for cffi>=0.6 from https://files.pythonhosted.org/packages/e9/63/e285470a4880a4f36edabe4810057bd4b562c6ddcc165eacf9c3c7210b40/cffi-1.16.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading cffi-1.16.0-cp312-cp312-win_amd64.whl.metadata (1.5 kB)
+Collecting html5lib>=1.1 (from weasyprint->markdown2pdf==0.1.4->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.0efb4d07f28af1c8fc1b.txt (line 3))
+  Obtaining dependency information for html5lib>=1.1 from https://files.pythonhosted.org/packages/6c/dd/a834df6482147d48e225a49515aabc28974ad5a4ca3215c18a882565b028/html5lib-1.1-py2.py3-none-any.whl.metadata
+  Downloading html5lib-1.1-py2.py3-none-any.whl.metadata (16 kB)
+Collecting tinycss2>=1.3.0 (from weasyprint->markdown2pdf==0.1.4->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.0efb4d07f28af1c8fc1b.txt (line 3))
+  Obtaining dependency information for tinycss2>=1.3.0 from https://files.pythonhosted.org/packages/2c/4d/0db5b8a613d2a59bbc29bc5bb44a2f8070eb9ceab11c50d477502a8a0092/tinycss2-1.3.0-py3-none-any.whl.metadata
+  Downloading tinycss2-1.3.0-py3-none-any.whl.metadata (3.0 kB)
+Collecting cssselect2>=0.1 (from weasyprint->markdown2pdf==0.1.4->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.0efb4d07f28af1c8fc1b.txt (line 3))
+  Obtaining dependency information for cssselect2>=0.1 from https://files.pythonhosted.org/packages/9d/3a/e39436efe51894243ff145a37c4f9a030839b97779ebcc4f13b3ba21c54e/cssselect2-0.7.0-py3-none-any.whl.metadata
+  Downloading cssselect2-0.7.0-py3-none-any.whl.metadata (2.9 kB)
+Collecting Pyphen>=0.9.1 (from weasyprint->markdown2pdf==0.1.4->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.0efb4d07f28af1c8fc1b.txt (line 3))
+  Obtaining dependency information for Pyphen>=0.9.1 from https://files.pythonhosted.org/packages/a1/5d/a545d71eba7e031ffd4c670b18b7c7c8b128d0fd0ca79914bd40ab98a456/pyphen-0.15.0-py3-none-any.whl.metadata
+  Downloading pyphen-0.15.0-py3-none-any.whl.metadata (3.3 kB)
+Collecting Pillow>=9.1.0 (from weasyprint->markdown2pdf==0.1.4->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.0efb4d07f28af1c8fc1b.txt (line 3))
+  Obtaining dependency information for Pillow>=9.1.0 from https://files.pythonhosted.org/packages/74/0a/d4ce3c44bca8635bd29a2eab5aa181b654a734a29b263ca8efe013beea98/pillow-10.4.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading pillow-10.4.0-cp312-cp312-win_amd64.whl.metadata (9.3 kB)
+Collecting fonttools[woff]>=4.0.0 (from weasyprint->markdown2pdf==0.1.4->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.0efb4d07f28af1c8fc1b.txt (line 3))
+  Obtaining dependency information for fonttools[woff]>=4.0.0 from https://files.pythonhosted.org/packages/6d/9a/b695930e1b4e6929cc60e294489421632a05c105ac8c56ee63ef56a47872/fonttools-4.53.1-cp312-cp312-win_amd64.whl.metadata
+  Downloading fonttools-4.53.1-cp312-cp312-win_amd64.whl.metadata (165 kB)
+     -------------------------------------- 165.9/165.9 kB 2.0 MB/s eta 0:00:00
+Collecting pycparser (from cffi>=0.6->weasyprint->markdown2pdf==0.1.4->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.0efb4d07f28af1c8fc1b.txt (line 3))
+  Obtaining dependency information for pycparser from https://files.pythonhosted.org/packages/13/a3/a812df4e2dd5696d1f351d58b8fe16a405b234ad2886a0dab9183fb78109/pycparser-2.22-py3-none-any.whl.metadata
+  Downloading pycparser-2.22-py3-none-any.whl.metadata (943 bytes)
+Collecting webencodings (from cssselect2>=0.1->weasyprint->markdown2pdf==0.1.4->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.0efb4d07f28af1c8fc1b.txt (line 3))
+  Obtaining dependency information for webencodings from https://files.pythonhosted.org/packages/f4/24/2a3e3df732393fed8b3ebf2ec078f05546de641fe1b667ee316ec1dcf3b7/webencodings-0.5.1-py2.py3-none-any.whl.metadata
+  Downloading webencodings-0.5.1-py2.py3-none-any.whl.metadata (2.1 kB)
+Collecting zopfli>=0.1.4 (from fonttools[woff]>=4.0.0->weasyprint->markdown2pdf==0.1.4->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.0efb4d07f28af1c8fc1b.txt (line 3))
+  Obtaining dependency information for zopfli>=0.1.4 from https://files.pythonhosted.org/packages/dc/9d/633f072f4c5d5289fcb8bb1494283e40a90ab578b4911d47b8d45910b020/zopfli-0.2.3-cp312-cp312-win_amd64.whl.metadata
+  Downloading zopfli-0.2.3-cp312-cp312-win_amd64.whl.metadata (3.0 kB)
+Collecting brotli>=1.0.1 (from fonttools[woff]>=4.0.0->weasyprint->markdown2pdf==0.1.4->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.0efb4d07f28af1c8fc1b.txt (line 3))
+  Obtaining dependency information for brotli>=1.0.1 from https://files.pythonhosted.org/packages/3d/d5/942051b45a9e883b5b6e98c041698b1eb2012d25e5948c58d6bf85b1bb43/Brotli-1.1.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading Brotli-1.1.0-cp312-cp312-win_amd64.whl.metadata (5.6 kB)
+Collecting six>=1.9 (from html5lib>=1.1->weasyprint->markdown2pdf==0.1.4->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.0efb4d07f28af1c8fc1b.txt (line 3))
+  Obtaining dependency information for six>=1.9 from https://files.pythonhosted.org/packages/d9/5a/e7c31adbe875f2abbb91bd84cf2dc52d792b5a01506781dbcf25c91daf11/six-1.16.0-py2.py3-none-any.whl.metadata
+  Downloading six-1.16.0-py2.py3-none-any.whl.metadata (1.8 kB)
+Downloading console-0.9906-py2.py3-none-any.whl (93 kB)
+   ---------------------------------------- 93.5/93.5 kB 5.2 MB/s eta 0:00:00
+Downloading python_editor-1.0.4-py3-none-any.whl (4.9 kB)
+Downloading ezenv-0.92-py2.py3-none-any.whl (10 kB)
+Downloading markdown2-2.5.0-py2.py3-none-any.whl (47 kB)
+   ---------------------------------------- 47.2/47.2 kB ? eta 0:00:00
+Downloading weasyprint-62.3-py3-none-any.whl (289 kB)
+   ---------------------------------------- 289.3/289.3 kB 9.0 MB/s eta 0:00:00
+Downloading cffi-1.16.0-cp312-cp312-win_amd64.whl (181 kB)
+   --------------------------------------- 182.0/182.0 kB 10.7 MB/s eta 0:00:00
+Downloading cssselect2-0.7.0-py3-none-any.whl (15 kB)
+Downloading html5lib-1.1-py2.py3-none-any.whl (112 kB)
+   -------------------------------------- 112.2/112.2 kB 283.9 kB/s eta 0:00:00
+Downloading pillow-10.4.0-cp312-cp312-win_amd64.whl (2.6 MB)
+   ---------------------------------------- 2.6/2.6 MB 6.0 MB/s eta 0:00:00
+Downloading pydyf-0.11.0-py3-none-any.whl (8.1 kB)
+Downloading pyphen-0.15.0-py3-none-any.whl (2.1 MB)
+   ---------------------------------------- 2.1/2.1 MB 8.3 MB/s eta 0:00:00
+Downloading tinycss2-1.3.0-py3-none-any.whl (22 kB)
+Downloading Brotli-1.1.0-cp312-cp312-win_amd64.whl (357 kB)
+   --------------------------------------- 357.3/357.3 kB 10.8 MB/s eta 0:00:00
+Downloading six-1.16.0-py2.py3-none-any.whl (11 kB)
+Downloading webencodings-0.5.1-py2.py3-none-any.whl (11 kB)
+Downloading zopfli-0.2.3-cp312-cp312-win_amd64.whl (97 kB)
+   ---------------------------------------- 97.8/97.8 kB 5.5 MB/s eta 0:00:00
+Downloading fonttools-4.53.1-cp312-cp312-win_amd64.whl (2.2 MB)
+   ---------------------------------------- 2.2/2.2 MB 8.7 MB/s eta 0:00:00
+Downloading pycparser-2.22-py3-none-any.whl (117 kB)
+   ---------------------------------------- 117.6/117.6 kB 6.7 MB/s eta 0:00:00
+Would install Brotli-1.1.0 Markdown2PDF-0.1.4 cffi-1.16.0 clipboard-0.0.4 console-0.9906 cssselect2-0.7.0 ezenv-0.92 fonttools-4.53.1 html5lib-1.1 markdown2-2.5.0 pillow-10.4.0 pycparser-2.22 pydyf-0.11.0 pyperclip-1.9.0 pyphen-0.15.0 python-editor-1.0.4 six-1.16.0 tinycss2-1.3.0 weasyprint-62.3 webencodings-0.5.1 zopfli-0.2.3
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

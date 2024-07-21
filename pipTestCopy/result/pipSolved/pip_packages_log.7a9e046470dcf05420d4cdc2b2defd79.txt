@@ -1,0 +1,5 @@
+bottlenose-1.1.8
+lxml-5.2.2
+python-amazon-simple-product-api-2.2.11
+python-dateutil-2.9.0.post0
+six-1.16.0

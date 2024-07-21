@@ -1,0 +1,9 @@
+Collecting dnspython==2.1.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1748a6676120a0aacea2.txt (line 1))
+  Obtaining dependency information for dnspython==2.1.0 from https://files.pythonhosted.org/packages/f5/2d/ae9e172b4e5e72fa4b3cfc2517f38b602cc9ba31355f9669c502b4e9c458/dnspython-2.1.0-py3-none-any.whl.metadata
+  Downloading dnspython-2.1.0-py3-none-any.whl.metadata (1.9 kB)
+Downloading dnspython-2.1.0-py3-none-any.whl (241 kB)
+   -------------------------------------- 242.0/242.0 kB 228.1 kB/s eta 0:00:00
+Would install dnspython-2.1.0
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

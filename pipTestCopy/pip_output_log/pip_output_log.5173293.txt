@@ -1,0 +1,14 @@
+Collecting phply==1.2.5 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.5173293.txt (line 1))
+  Obtaining dependency information for phply==1.2.5 from https://files.pythonhosted.org/packages/22/3e/b894a343fc4459d4dbdaa084621979d8c589bfdb18483acff553af9da4b4/phply-1.2.5-py2.py3-none-any.whl.metadata
+  Downloading phply-1.2.5-py2.py3-none-any.whl.metadata (669 bytes)
+Collecting ply (from phply==1.2.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.5173293.txt (line 1))
+  Obtaining dependency information for ply from https://files.pythonhosted.org/packages/a3/58/35da89ee790598a0700ea49b2a66594140f44dec458c07e8e3d4979137fc/ply-3.11-py2.py3-none-any.whl.metadata
+  Downloading ply-3.11-py2.py3-none-any.whl.metadata (844 bytes)
+Downloading phply-1.2.5-py2.py3-none-any.whl (74 kB)
+   ---------------------------------------- 74.2/74.2 kB 587.0 kB/s eta 0:00:00
+Downloading ply-3.11-py2.py3-none-any.whl (49 kB)
+   ---------------------------------------- 49.6/49.6 kB 2.6 MB/s eta 0:00:00
+Would install phply-1.2.5 ply-3.11
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

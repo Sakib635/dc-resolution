@@ -1,0 +1,4 @@
+machine-0.0.1
+network-0.1
+onewire-0.2
+pycrypto-2.6.1

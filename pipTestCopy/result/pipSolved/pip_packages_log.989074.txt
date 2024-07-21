@@ -1,0 +1,3 @@
+inkex-1.0.1
+lxml-5.2.2
+simplestyle-1.1.1

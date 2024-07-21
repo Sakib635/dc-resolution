@@ -1,0 +1,8 @@
+Collecting Jinja2==2.11.2 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1820829.txt (line 1))
+  Obtaining dependency information for Jinja2==2.11.2 from https://files.pythonhosted.org/packages/30/9e/f663a2aa66a09d838042ae1a2c5659828bb9b41ea3a6efa20a20fd92b121/Jinja2-2.11.2-py2.py3-none-any.whl.metadata
+  Downloading Jinja2-2.11.2-py2.py3-none-any.whl.metadata (3.5 kB)
+ERROR: Could not find a version that satisfies the requirement web==0.6.0 (from versions: none)
+ERROR: No matching distribution found for web==0.6.0
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

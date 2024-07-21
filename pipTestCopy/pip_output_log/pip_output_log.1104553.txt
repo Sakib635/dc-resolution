@@ -1,0 +1,13 @@
+Collecting networkx==2.5 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1104553.txt (line 1))
+  Obtaining dependency information for networkx==2.5 from https://files.pythonhosted.org/packages/9b/cd/dc52755d30ba41c60243235460961fc28022e5b6731f16c268667625baea/networkx-2.5-py3-none-any.whl.metadata
+  Downloading networkx-2.5-py3-none-any.whl.metadata (4.9 kB)
+Collecting decorator>=4.3.0 (from networkx==2.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1104553.txt (line 1))
+  Obtaining dependency information for decorator>=4.3.0 from https://files.pythonhosted.org/packages/d5/50/83c593b07763e1161326b3b8c6686f0f4b0f24d5526546bee538c89837d6/decorator-5.1.1-py3-none-any.whl.metadata
+  Downloading decorator-5.1.1-py3-none-any.whl.metadata (4.0 kB)
+Downloading networkx-2.5-py3-none-any.whl (1.6 MB)
+   ---------------------------------------- 1.6/1.6 MB 7.3 MB/s eta 0:00:00
+Downloading decorator-5.1.1-py3-none-any.whl (9.1 kB)
+Would install decorator-5.1.1 networkx-2.5
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

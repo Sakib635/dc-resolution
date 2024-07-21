@@ -1,0 +1,9 @@
+Collecting bottle==0.12.19 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.9705471.txt (line 1))
+  Obtaining dependency information for bottle==0.12.19 from https://files.pythonhosted.org/packages/bf/44/aeafdd6ca05a8e1c3f91eeeb272a202d5cb1b3b23730a5ca686a81c48d24/bottle-0.12.19-py3-none-any.whl.metadata
+  Downloading bottle-0.12.19-py3-none-any.whl.metadata (1.8 kB)
+Downloading bottle-0.12.19-py3-none-any.whl (89 kB)
+   ---------------------------------------- 89.6/89.6 kB 853.0 kB/s eta 0:00:00
+Would install bottle-0.12.19
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

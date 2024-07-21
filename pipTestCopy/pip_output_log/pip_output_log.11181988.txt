@@ -1,0 +1,52 @@
+Collecting lib==3.0.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.11181988.txt (line 1))
+  Downloading lib-3.0.0.tar.gz (2.6 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting luigi==3.0.2 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.11181988.txt (line 2))
+  Downloading luigi-3.0.2.tar.gz (1.2 MB)
+     ---------------------------------------- 1.2/1.2 MB 5.5 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting python-dateutil<3,>=2.7.5 (from luigi==3.0.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.11181988.txt (line 2))
+  Obtaining dependency information for python-dateutil<3,>=2.7.5 from https://files.pythonhosted.org/packages/ec/57/56b9bcc3c9c6a792fcbaf139543cee77261f3651ca9da0c93f5c1221264b/python_dateutil-2.9.0.post0-py2.py3-none-any.whl.metadata
+  Downloading python_dateutil-2.9.0.post0-py2.py3-none-any.whl.metadata (8.4 kB)
+Collecting python-daemon (from luigi==3.0.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.11181988.txt (line 2))
+  Obtaining dependency information for python-daemon from https://files.pythonhosted.org/packages/83/7f/feffd97af851e2a837b5ca9bfbe570002c45397734724e4abfd4c62fdd0d/python_daemon-3.0.1-py3-none-any.whl.metadata
+  Downloading python_daemon-3.0.1-py3-none-any.whl.metadata (2.2 kB)
+Collecting tornado<7,>=5.0 (from luigi==3.0.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.11181988.txt (line 2))
+  Obtaining dependency information for tornado<7,>=5.0 from https://files.pythonhosted.org/packages/d9/2f/3f2f05e84a7aff787a96d5fb06821323feb370fe0baed4db6ea7b1088f32/tornado-6.4.1-cp38-abi3-win_amd64.whl.metadata
+  Downloading tornado-6.4.1-cp38-abi3-win_amd64.whl.metadata (2.6 kB)
+Collecting six>=1.5 (from python-dateutil<3,>=2.7.5->luigi==3.0.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.11181988.txt (line 2))
+  Obtaining dependency information for six>=1.5 from https://files.pythonhosted.org/packages/d9/5a/e7c31adbe875f2abbb91bd84cf2dc52d792b5a01506781dbcf25c91daf11/six-1.16.0-py2.py3-none-any.whl.metadata
+  Downloading six-1.16.0-py2.py3-none-any.whl.metadata (1.8 kB)
+Collecting docutils (from python-daemon->luigi==3.0.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.11181988.txt (line 2))
+  Obtaining dependency information for docutils from https://files.pythonhosted.org/packages/8f/d7/9322c609343d929e75e7e5e6255e614fcc67572cfd083959cdef3b7aad79/docutils-0.21.2-py3-none-any.whl.metadata
+  Downloading docutils-0.21.2-py3-none-any.whl.metadata (2.8 kB)
+Collecting lockfile>=0.10 (from python-daemon->luigi==3.0.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.11181988.txt (line 2))
+  Obtaining dependency information for lockfile>=0.10 from https://files.pythonhosted.org/packages/c8/22/9460e311f340cb62d26a38c419b1381b8593b0bb6b5d1f056938b086d362/lockfile-0.12.2-py2.py3-none-any.whl.metadata
+  Downloading lockfile-0.12.2-py2.py3-none-any.whl.metadata (2.4 kB)
+Collecting setuptools>=62.4.0 (from python-daemon->luigi==3.0.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.11181988.txt (line 2))
+  Obtaining dependency information for setuptools>=62.4.0 from https://files.pythonhosted.org/packages/ef/15/88e46eb9387e905704b69849618e699dc2f54407d8953cc4ec4b8b46528d/setuptools-70.3.0-py3-none-any.whl.metadata
+  Using cached setuptools-70.3.0-py3-none-any.whl.metadata (5.8 kB)
+Downloading python_dateutil-2.9.0.post0-py2.py3-none-any.whl (229 kB)
+   --------------------------------------- 229.9/229.9 kB 14.6 MB/s eta 0:00:00
+Downloading tornado-6.4.1-cp38-abi3-win_amd64.whl (438 kB)
+   --------------------------------------- 438.5/438.5 kB 13.8 MB/s eta 0:00:00
+Downloading python_daemon-3.0.1-py3-none-any.whl (31 kB)
+Downloading lockfile-0.12.2-py2.py3-none-any.whl (13 kB)
+Using cached setuptools-70.3.0-py3-none-any.whl (931 kB)
+Downloading six-1.16.0-py2.py3-none-any.whl (11 kB)
+Downloading docutils-0.21.2-py3-none-any.whl (587 kB)
+   --------------------------------------- 587.4/587.4 kB 18.6 MB/s eta 0:00:00
+Would install docutils-0.21.2 lib-3.0.0 lockfile-0.12.2 luigi-3.0.2 python-daemon-3.0.1 python-dateutil-2.9.0.post0 setuptools-70.3.0 six-1.16.0 tornado-6.4.1
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

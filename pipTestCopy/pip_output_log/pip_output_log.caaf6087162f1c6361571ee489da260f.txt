@@ -1,0 +1,8 @@
+Collecting graphviz==0.16 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.caaf6087162f1c6361571ee489da260f.txt (line 1))
+  Obtaining dependency information for graphviz==0.16 from https://files.pythonhosted.org/packages/86/86/89ba50ba65928001d3161f23bfa03945ed18ea13a1d1d44a772ff1fa4e7a/graphviz-0.16-py2.py3-none-any.whl.metadata
+  Downloading graphviz-0.16-py2.py3-none-any.whl.metadata (7.1 kB)
+ERROR: Could not find a version that satisfies the requirement torch==1.7.1 (from versions: 2.2.0, 2.2.1, 2.2.2, 2.3.0, 2.3.1)
+ERROR: No matching distribution found for torch==1.7.1
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

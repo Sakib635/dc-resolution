@@ -1,0 +1,8 @@
+Collecting ProxyTypes==0.10.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.946582.txt (line 1))
+  Obtaining dependency information for ProxyTypes==0.10.0 from https://files.pythonhosted.org/packages/1e/d7/e682be643717d9400470f374cf53e1586a834913a79d96ea54d2323c711c/ProxyTypes-0.10.0-py3-none-any.whl.metadata
+  Downloading ProxyTypes-0.10.0-py3-none-any.whl.metadata (8.0 kB)
+Downloading ProxyTypes-0.10.0-py3-none-any.whl (9.7 kB)
+Would install ProxyTypes-0.10.0
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

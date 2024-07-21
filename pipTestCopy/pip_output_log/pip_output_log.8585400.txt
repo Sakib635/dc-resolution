@@ -1,0 +1,96 @@
+Collecting clipboard==0.0.4 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8585400.txt (line 1))
+  Downloading clipboard-0.0.4.tar.gz (1.7 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting Image==1.5.33 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8585400.txt (line 2))
+  Downloading image-1.5.33.tar.gz (15 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting photos==0.0.5 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8585400.txt (line 3))
+  Obtaining dependency information for photos==0.0.5 from https://files.pythonhosted.org/packages/bc/5e/f658715f5db9fffef84e09987a2530ffc57e2064c99cbf6cd23f374cfa3f/photos-0.0.5-py3-none-any.whl.metadata
+  Downloading photos-0.0.5-py3-none-any.whl.metadata (600 bytes)
+Collecting pyperclip>=1.3 (from clipboard==0.0.4->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8585400.txt (line 1))
+  Downloading pyperclip-1.9.0.tar.gz (20 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting pillow (from Image==1.5.33->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8585400.txt (line 2))
+  Obtaining dependency information for pillow from https://files.pythonhosted.org/packages/74/0a/d4ce3c44bca8635bd29a2eab5aa181b654a734a29b263ca8efe013beea98/pillow-10.4.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading pillow-10.4.0-cp312-cp312-win_amd64.whl.metadata (9.3 kB)
+Collecting django (from Image==1.5.33->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8585400.txt (line 2))
+  Obtaining dependency information for django from https://files.pythonhosted.org/packages/b7/fc/bff93df9b0bc23d66411cc54e7cd10195b81d61d25591317038d9823e99e/Django-5.0.7-py3-none-any.whl.metadata
+  Downloading Django-5.0.7-py3-none-any.whl.metadata (4.1 kB)
+Collecting six (from Image==1.5.33->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8585400.txt (line 2))
+  Obtaining dependency information for six from https://files.pythonhosted.org/packages/d9/5a/e7c31adbe875f2abbb91bd84cf2dc52d792b5a01506781dbcf25c91daf11/six-1.16.0-py2.py3-none-any.whl.metadata
+  Downloading six-1.16.0-py2.py3-none-any.whl.metadata (1.8 kB)
+Collecting click>=7.0 (from photos==0.0.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8585400.txt (line 3))
+  Obtaining dependency information for click>=7.0 from https://files.pythonhosted.org/packages/00/2e/d53fa4befbf2cfa713304affc7ca780ce4fc1fd8710527771b58311a3229/click-8.1.7-py3-none-any.whl.metadata
+  Downloading click-8.1.7-py3-none-any.whl.metadata (3.0 kB)
+Collecting colorama>=0.4.0 (from photos==0.0.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8585400.txt (line 3))
+  Obtaining dependency information for colorama>=0.4.0 from https://files.pythonhosted.org/packages/d1/d6/3965ed04c63042e047cb6a3e6ed1a63a35087b6a609aa3a15ed8ac56c221/colorama-0.4.6-py2.py3-none-any.whl.metadata
+  Downloading colorama-0.4.6-py2.py3-none-any.whl.metadata (17 kB)
+Collecting ExifRead (from photos==0.0.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8585400.txt (line 3))
+  Obtaining dependency information for ExifRead from https://files.pythonhosted.org/packages/db/d6/189b0016ae8995ad94cd6e2573baf0c289ff862996821d4e42eb6a0206e3/ExifRead-3.0.0-py3-none-any.whl.metadata
+  Downloading ExifRead-3.0.0-py3-none-any.whl.metadata (6.4 kB)
+Collecting filesystemlib (from photos==0.0.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8585400.txt (line 3))
+  Obtaining dependency information for filesystemlib from https://files.pythonhosted.org/packages/23/d7/4039dac4ac0fa45c35469f8e20d5f281e40ab40ca1c7ad863e68705300d3/filesystemlib-0.1.0-py3-none-any.whl.metadata
+  Downloading filesystemlib-0.1.0-py3-none-any.whl.metadata (532 bytes)
+Collecting pyheif (from photos==0.0.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8585400.txt (line 3))
+  Downloading pyheif-0.7.1.tar.gz (22 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Installing backend dependencies: started
+  Installing backend dependencies: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting asgiref<4,>=3.7.0 (from django->Image==1.5.33->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8585400.txt (line 2))
+  Obtaining dependency information for asgiref<4,>=3.7.0 from https://files.pythonhosted.org/packages/39/e3/893e8757be2612e6c266d9bb58ad2e3651524b5b40cf56761e985a28b13e/asgiref-3.8.1-py3-none-any.whl.metadata
+  Downloading asgiref-3.8.1-py3-none-any.whl.metadata (9.3 kB)
+Collecting sqlparse>=0.3.1 (from django->Image==1.5.33->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8585400.txt (line 2))
+  Obtaining dependency information for sqlparse>=0.3.1 from https://files.pythonhosted.org/packages/5d/a5/b2860373aa8de1e626b2bdfdd6df4355f0565b47e51f7d0c54fe70faf8fe/sqlparse-0.5.1-py3-none-any.whl.metadata
+  Downloading sqlparse-0.5.1-py3-none-any.whl.metadata (3.9 kB)
+Collecting tzdata (from django->Image==1.5.33->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8585400.txt (line 2))
+  Obtaining dependency information for tzdata from https://files.pythonhosted.org/packages/65/58/f9c9e6be752e9fcb8b6a0ee9fb87e6e7a1f6bcab2cdc73f02bb7ba91ada0/tzdata-2024.1-py2.py3-none-any.whl.metadata
+  Downloading tzdata-2024.1-py2.py3-none-any.whl.metadata (1.4 kB)
+Collecting cffi>=1.0.0 (from pyheif->photos==0.0.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8585400.txt (line 3))
+  Obtaining dependency information for cffi>=1.0.0 from https://files.pythonhosted.org/packages/e9/63/e285470a4880a4f36edabe4810057bd4b562c6ddcc165eacf9c3c7210b40/cffi-1.16.0-cp312-cp312-win_amd64.whl.metadata
+  Using cached cffi-1.16.0-cp312-cp312-win_amd64.whl.metadata (1.5 kB)
+Collecting pycparser (from cffi>=1.0.0->pyheif->photos==0.0.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8585400.txt (line 3))
+  Obtaining dependency information for pycparser from https://files.pythonhosted.org/packages/13/a3/a812df4e2dd5696d1f351d58b8fe16a405b234ad2886a0dab9183fb78109/pycparser-2.22-py3-none-any.whl.metadata
+  Using cached pycparser-2.22-py3-none-any.whl.metadata (943 bytes)
+Downloading photos-0.0.5-py3-none-any.whl (6.5 kB)
+Downloading click-8.1.7-py3-none-any.whl (97 kB)
+   ---------------------------------------- 97.9/97.9 kB 2.7 MB/s eta 0:00:00
+Downloading colorama-0.4.6-py2.py3-none-any.whl (25 kB)
+Downloading Django-5.0.7-py3-none-any.whl (8.2 MB)
+   ---------------------------------------- 8.2/8.2 MB 14.9 MB/s eta 0:00:00
+Downloading ExifRead-3.0.0-py3-none-any.whl (40 kB)
+   ---------------------------------------- 40.4/40.4 kB ? eta 0:00:00
+Downloading filesystemlib-0.1.0-py3-none-any.whl (6.5 kB)
+Downloading pillow-10.4.0-cp312-cp312-win_amd64.whl (2.6 MB)
+   ---------------------------------------- 2.6/2.6 MB 32.6 MB/s eta 0:00:00
+Downloading six-1.16.0-py2.py3-none-any.whl (11 kB)
+Downloading asgiref-3.8.1-py3-none-any.whl (23 kB)
+Using cached cffi-1.16.0-cp312-cp312-win_amd64.whl (181 kB)
+Downloading sqlparse-0.5.1-py3-none-any.whl (44 kB)
+   ---------------------------------------- 44.2/44.2 kB 2.3 MB/s eta 0:00:00
+Downloading tzdata-2024.1-py2.py3-none-any.whl (345 kB)
+   --------------------------------------- 345.4/345.4 kB 22.3 MB/s eta 0:00:00
+Using cached pycparser-2.22-py3-none-any.whl (117 kB)
+Would install Django-5.0.7 ExifRead-3.0.0 asgiref-3.8.1 cffi-1.16.0 click-8.1.7 clipboard-0.0.4 colorama-0.4.6 filesystemlib-0.1.0 image-1.5.33 photos-0.0.5 pillow-10.4.0 pycparser-2.22 pyheif-0.7.1 pyperclip-1.9.0 six-1.16.0 sqlparse-0.5.1 tzdata-2024.1
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

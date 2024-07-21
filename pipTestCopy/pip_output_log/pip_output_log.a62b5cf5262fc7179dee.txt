@@ -1,0 +1,8 @@
+Collecting requests==2.25.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.a62b5cf5262fc7179dee.txt (line 1))
+  Obtaining dependency information for requests==2.25.1 from https://files.pythonhosted.org/packages/29/c1/24814557f1d22c56d50280771a17307e6bf87b70727d975fd6b2ce6b014a/requests-2.25.1-py2.py3-none-any.whl.metadata
+  Downloading requests-2.25.1-py2.py3-none-any.whl.metadata (4.2 kB)
+ERROR: Could not find a version that satisfies the requirement pygtk==2.24.2 (from versions: 2.24.0)
+ERROR: No matching distribution found for pygtk==2.24.2
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

@@ -1,0 +1,18 @@
+Collecting GitPython==3.1.12 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.7002279.txt (line 1))
+  Obtaining dependency information for GitPython==3.1.12 from https://files.pythonhosted.org/packages/d7/cb/ec98155c501b68dcb11314c7992cd3df6dce193fd763084338a117967d53/GitPython-3.1.12-py3-none-any.whl.metadata
+  Downloading GitPython-3.1.12-py3-none-any.whl.metadata (1.1 kB)
+Collecting gitdb<5,>=4.0.1 (from GitPython==3.1.12->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.7002279.txt (line 1))
+  Obtaining dependency information for gitdb<5,>=4.0.1 from https://files.pythonhosted.org/packages/fd/5b/8f0c4a5bb9fd491c277c21eff7ccae71b47d43c4446c9d0c6cff2fe8c2c4/gitdb-4.0.11-py3-none-any.whl.metadata
+  Downloading gitdb-4.0.11-py3-none-any.whl.metadata (1.2 kB)
+Collecting smmap<6,>=3.0.1 (from gitdb<5,>=4.0.1->GitPython==3.1.12->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.7002279.txt (line 1))
+  Obtaining dependency information for smmap<6,>=3.0.1 from https://files.pythonhosted.org/packages/a7/a5/10f97f73544edcdef54409f1d839f6049a0d79df68adbc1ceb24d1aaca42/smmap-5.0.1-py3-none-any.whl.metadata
+  Downloading smmap-5.0.1-py3-none-any.whl.metadata (4.3 kB)
+Downloading GitPython-3.1.12-py3-none-any.whl (159 kB)
+   ---------------------------------------- 159.5/159.5 kB 1.2 MB/s eta 0:00:00
+Downloading gitdb-4.0.11-py3-none-any.whl (62 kB)
+   ---------------------------------------- 62.7/62.7 kB ? eta 0:00:00
+Downloading smmap-5.0.1-py3-none-any.whl (24 kB)
+Would install GitPython-3.1.12 gitdb-4.0.11 smmap-5.0.1
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

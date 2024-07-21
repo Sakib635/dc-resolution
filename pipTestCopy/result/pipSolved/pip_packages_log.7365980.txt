@@ -1,0 +1,15 @@
+Django-5.0.7
+ExifRead-3.0.0
+asgiref-3.8.1
+cffi-1.16.0
+click-8.1.7
+colorama-0.4.6
+filesystemlib-0.1.0
+image-1.5.33
+photos-0.0.5
+pillow-10.4.0
+pycparser-2.22
+pyheif-0.7.1
+six-1.16.0
+sqlparse-0.5.1
+tzdata-2024.1

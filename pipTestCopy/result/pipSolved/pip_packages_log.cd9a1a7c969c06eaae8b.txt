@@ -1,0 +1,9 @@
+Django-3.1.5
+asgiref-3.8.1
+certifi-2024.7.4
+django-haystack-3.0
+elasticsearch-7.10.1
+pytz-2024.1
+six-1.15.0
+sqlparse-0.5.1
+urllib3-1.26.19

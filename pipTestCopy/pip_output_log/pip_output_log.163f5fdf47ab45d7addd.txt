@@ -1,0 +1,130 @@
+Collecting python_novaclient==17.2.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.163f5fdf47ab45d7addd.txt (line 1))
+  Obtaining dependency information for python_novaclient==17.2.1 from https://files.pythonhosted.org/packages/17/4d/fc0d5be0afcbcc45383d2101b5787b16451dea8193d445ba1e10c34a9b3b/python_novaclient-17.2.1-py3-none-any.whl.metadata
+  Downloading python_novaclient-17.2.1-py3-none-any.whl.metadata (3.0 kB)
+Collecting PrettyTable<0.8,>=0.7.2 (from python_novaclient==17.2.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.163f5fdf47ab45d7addd.txt (line 1))
+  Downloading prettytable-0.7.2.zip (28 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting iso8601>=0.1.11 (from python_novaclient==17.2.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.163f5fdf47ab45d7addd.txt (line 1))
+  Obtaining dependency information for iso8601>=0.1.11 from https://files.pythonhosted.org/packages/6c/0c/f37b6a241f0759b7653ffa7213889d89ad49a2b76eb2ddf3b57b2738c347/iso8601-2.1.0-py3-none-any.whl.metadata
+  Downloading iso8601-2.1.0-py3-none-any.whl.metadata (3.7 kB)
+Collecting keystoneauth1>=3.5.0 (from python_novaclient==17.2.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.163f5fdf47ab45d7addd.txt (line 1))
+  Obtaining dependency information for keystoneauth1>=3.5.0 from https://files.pythonhosted.org/packages/a7/8d/e09d36233fde82e192530a99c136a86c417d61e162a8bc0c1327c4f683da/keystoneauth1-5.7.0-py3-none-any.whl.metadata
+  Downloading keystoneauth1-5.7.0-py3-none-any.whl.metadata (4.1 kB)
+Collecting oslo.i18n>=3.15.3 (from python_novaclient==17.2.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.163f5fdf47ab45d7addd.txt (line 1))
+  Obtaining dependency information for oslo.i18n>=3.15.3 from https://files.pythonhosted.org/packages/e2/60/662cfd4906746f40f88ba930d1af7990f8da1027baea49702880ce946db2/oslo.i18n-6.3.0-py3-none-any.whl.metadata
+  Downloading oslo.i18n-6.3.0-py3-none-any.whl.metadata (2.1 kB)
+Collecting oslo.serialization!=2.19.1,>=2.18.0 (from python_novaclient==17.2.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.163f5fdf47ab45d7addd.txt (line 1))
+  Obtaining dependency information for oslo.serialization!=2.19.1,>=2.18.0 from https://files.pythonhosted.org/packages/70/5f/80eb88d4590cc23cd68e05730ee9be51fc1fc83121b8227e0ff5d29bce65/oslo.serialization-5.4.0-py3-none-any.whl.metadata
+  Downloading oslo.serialization-5.4.0-py3-none-any.whl.metadata (2.3 kB)
+Collecting oslo.utils>=3.33.0 (from python_novaclient==17.2.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.163f5fdf47ab45d7addd.txt (line 1))
+  Obtaining dependency information for oslo.utils>=3.33.0 from https://files.pythonhosted.org/packages/29/41/e60a7270500777a28ede12f492bfd078bb139146ea175bddf5abc429dd1c/oslo.utils-7.2.0-py3-none-any.whl.metadata
+  Downloading oslo.utils-7.2.0-py3-none-any.whl.metadata (2.3 kB)
+Collecting pbr!=2.1.0,>=2.0.0 (from python_novaclient==17.2.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.163f5fdf47ab45d7addd.txt (line 1))
+  Obtaining dependency information for pbr!=2.1.0,>=2.0.0 from https://files.pythonhosted.org/packages/64/dd/171c9fb653591cf265bcc89c436eec75c9bde3dec921cc236fa71e5698df/pbr-6.0.0-py2.py3-none-any.whl.metadata
+  Downloading pbr-6.0.0-py2.py3-none-any.whl.metadata (1.3 kB)
+Collecting simplejson>=3.5.1 (from python_novaclient==17.2.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.163f5fdf47ab45d7addd.txt (line 1))
+  Obtaining dependency information for simplejson>=3.5.1 from https://files.pythonhosted.org/packages/e5/9f/9d53645ba325899e374633c818390d67378540ed346750b53c32e7ada34b/simplejson-3.19.2-cp312-cp312-win_amd64.whl.metadata
+  Downloading simplejson-3.19.2-cp312-cp312-win_amd64.whl.metadata (3.2 kB)
+Collecting stevedore>=2.0.1 (from python_novaclient==17.2.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.163f5fdf47ab45d7addd.txt (line 1))
+  Obtaining dependency information for stevedore>=2.0.1 from https://files.pythonhosted.org/packages/eb/f1/c7c6205c367c764ee173537f7eaf070bba4dd0fa11bf081813c2f75285a3/stevedore-5.2.0-py3-none-any.whl.metadata
+  Downloading stevedore-5.2.0-py3-none-any.whl.metadata (2.3 kB)
+Collecting os-service-types>=1.2.0 (from keystoneauth1>=3.5.0->python_novaclient==17.2.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.163f5fdf47ab45d7addd.txt (line 1))
+  Obtaining dependency information for os-service-types>=1.2.0 from https://files.pythonhosted.org/packages/10/2d/318b2b631f68e0fc221ba8f45d163bf810cdb795cf242fe85ad3e5d45639/os_service_types-1.7.0-py2.py3-none-any.whl.metadata
+  Downloading os_service_types-1.7.0-py2.py3-none-any.whl.metadata (1.7 kB)
+Collecting requests>=2.14.2 (from keystoneauth1>=3.5.0->python_novaclient==17.2.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.163f5fdf47ab45d7addd.txt (line 1))
+  Obtaining dependency information for requests>=2.14.2 from https://files.pythonhosted.org/packages/f9/9b/335f9764261e915ed497fcdeb11df5dfd6f7bf257d4a6a2a686d80da4d54/requests-2.32.3-py3-none-any.whl.metadata
+  Downloading requests-2.32.3-py3-none-any.whl.metadata (4.6 kB)
+Collecting msgpack>=0.5.2 (from oslo.serialization!=2.19.1,>=2.18.0->python_novaclient==17.2.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.163f5fdf47ab45d7addd.txt (line 1))
+  Obtaining dependency information for msgpack>=0.5.2 from https://files.pythonhosted.org/packages/72/5c/5facaa9b5d1b3ead831697daacf37d485af312bbe483ac6ecf43a3dd777f/msgpack-1.0.8-cp312-cp312-win_amd64.whl.metadata
+  Downloading msgpack-1.0.8-cp312-cp312-win_amd64.whl.metadata (9.4 kB)
+Collecting tzdata>=2022.4 (from oslo.serialization!=2.19.1,>=2.18.0->python_novaclient==17.2.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.163f5fdf47ab45d7addd.txt (line 1))
+  Obtaining dependency information for tzdata>=2022.4 from https://files.pythonhosted.org/packages/65/58/f9c9e6be752e9fcb8b6a0ee9fb87e6e7a1f6bcab2cdc73f02bb7ba91ada0/tzdata-2024.1-py2.py3-none-any.whl.metadata
+  Downloading tzdata-2024.1-py2.py3-none-any.whl.metadata (1.4 kB)
+Collecting PyYAML>=3.13 (from oslo.utils>=3.33.0->python_novaclient==17.2.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.163f5fdf47ab45d7addd.txt (line 1))
+  Obtaining dependency information for PyYAML>=3.13 from https://files.pythonhosted.org/packages/2b/9f/fbade56564ad486809c27b322d0f7e6a89c01f6b4fe208402e90d4443a99/PyYAML-6.0.1-cp312-cp312-win_amd64.whl.metadata
+  Downloading PyYAML-6.0.1-cp312-cp312-win_amd64.whl.metadata (2.1 kB)
+Collecting debtcollector>=1.2.0 (from oslo.utils>=3.33.0->python_novaclient==17.2.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.163f5fdf47ab45d7addd.txt (line 1))
+  Obtaining dependency information for debtcollector>=1.2.0 from https://files.pythonhosted.org/packages/9c/ca/863ed8fa66d6f986de6ad7feccc5df96e37400845b1eeb29889a70feea99/debtcollector-3.0.0-py3-none-any.whl.metadata
+  Downloading debtcollector-3.0.0-py3-none-any.whl.metadata (2.3 kB)
+Collecting netaddr>=0.10.0 (from oslo.utils>=3.33.0->python_novaclient==17.2.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.163f5fdf47ab45d7addd.txt (line 1))
+  Obtaining dependency information for netaddr>=0.10.0 from https://files.pythonhosted.org/packages/12/cc/f4fe2c7ce68b92cbf5b2d379ca366e1edae38cccaad00f69f529b460c3ef/netaddr-1.3.0-py3-none-any.whl.metadata
+  Downloading netaddr-1.3.0-py3-none-any.whl.metadata (5.0 kB)
+Collecting netifaces>=0.10.4 (from oslo.utils>=3.33.0->python_novaclient==17.2.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.163f5fdf47ab45d7addd.txt (line 1))
+  Downloading netifaces-0.11.0.tar.gz (30 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting packaging>=20.4 (from oslo.utils>=3.33.0->python_novaclient==17.2.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.163f5fdf47ab45d7addd.txt (line 1))
+  Obtaining dependency information for packaging>=20.4 from https://files.pythonhosted.org/packages/08/aa/cc0199a5f0ad350994d660967a8efb233fe0416e4639146c089643407ce6/packaging-24.1-py3-none-any.whl.metadata
+  Downloading packaging-24.1-py3-none-any.whl.metadata (3.2 kB)
+Collecting pyparsing>=2.1.0 (from oslo.utils>=3.33.0->python_novaclient==17.2.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.163f5fdf47ab45d7addd.txt (line 1))
+  Obtaining dependency information for pyparsing>=2.1.0 from https://files.pythonhosted.org/packages/9d/ea/6d76df31432a0e6fdf81681a895f009a4bb47b3c39036db3e1b528191d52/pyparsing-3.1.2-py3-none-any.whl.metadata
+  Downloading pyparsing-3.1.2-py3-none-any.whl.metadata (5.1 kB)
+Collecting wrapt>=1.7.0 (from debtcollector>=1.2.0->oslo.utils>=3.33.0->python_novaclient==17.2.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.163f5fdf47ab45d7addd.txt (line 1))
+  Obtaining dependency information for wrapt>=1.7.0 from https://files.pythonhosted.org/packages/5c/cc/8297f9658506b224aa4bd71906447dea6bb0ba629861a758c28f67428b91/wrapt-1.16.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading wrapt-1.16.0-cp312-cp312-win_amd64.whl.metadata (6.8 kB)
+Collecting charset-normalizer<4,>=2 (from requests>=2.14.2->keystoneauth1>=3.5.0->python_novaclient==17.2.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.163f5fdf47ab45d7addd.txt (line 1))
+  Obtaining dependency information for charset-normalizer<4,>=2 from https://files.pythonhosted.org/packages/b6/7c/8debebb4f90174074b827c63242c23851bdf00a532489fba57fef3416e40/charset_normalizer-3.3.2-cp312-cp312-win_amd64.whl.metadata
+  Downloading charset_normalizer-3.3.2-cp312-cp312-win_amd64.whl.metadata (34 kB)
+Collecting idna<4,>=2.5 (from requests>=2.14.2->keystoneauth1>=3.5.0->python_novaclient==17.2.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.163f5fdf47ab45d7addd.txt (line 1))
+  Obtaining dependency information for idna<4,>=2.5 from https://files.pythonhosted.org/packages/e5/3e/741d8c82801c347547f8a2a06aa57dbb1992be9e948df2ea0eda2c8b79e8/idna-3.7-py3-none-any.whl.metadata
+  Downloading idna-3.7-py3-none-any.whl.metadata (9.9 kB)
+Collecting urllib3<3,>=1.21.1 (from requests>=2.14.2->keystoneauth1>=3.5.0->python_novaclient==17.2.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.163f5fdf47ab45d7addd.txt (line 1))
+  Obtaining dependency information for urllib3<3,>=1.21.1 from https://files.pythonhosted.org/packages/ca/1c/89ffc63a9605b583d5df2be791a27bc1a42b7c32bab68d3c8f2f73a98cd4/urllib3-2.2.2-py3-none-any.whl.metadata
+  Downloading urllib3-2.2.2-py3-none-any.whl.metadata (6.4 kB)
+Collecting certifi>=2017.4.17 (from requests>=2.14.2->keystoneauth1>=3.5.0->python_novaclient==17.2.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.163f5fdf47ab45d7addd.txt (line 1))
+  Obtaining dependency information for certifi>=2017.4.17 from https://files.pythonhosted.org/packages/1c/d5/c84e1a17bf61d4df64ca866a1c9a913874b4e9bdc131ec689a0ad013fb36/certifi-2024.7.4-py3-none-any.whl.metadata
+  Downloading certifi-2024.7.4-py3-none-any.whl.metadata (2.2 kB)
+Downloading python_novaclient-17.2.1-py3-none-any.whl (319 kB)
+   ---------------------------------------- 319.9/319.9 kB 2.5 MB/s eta 0:00:00
+Downloading iso8601-2.1.0-py3-none-any.whl (7.5 kB)
+Downloading keystoneauth1-5.7.0-py3-none-any.whl (324 kB)
+   ---------------------------------------- 324.3/324.3 kB 2.2 MB/s eta 0:00:00
+Downloading oslo.i18n-6.3.0-py3-none-any.whl (46 kB)
+   ---------------------------------------- 46.9/46.9 kB 292.9 kB/s eta 0:00:00
+Downloading oslo.serialization-5.4.0-py3-none-any.whl (26 kB)
+Downloading oslo.utils-7.2.0-py3-none-any.whl (101 kB)
+   -------------------------------------- 101.4/101.4 kB 729.3 kB/s eta 0:00:00
+Downloading pbr-6.0.0-py2.py3-none-any.whl (107 kB)
+   -------------------------------------- 107.5/107.5 kB 892.3 kB/s eta 0:00:00
+Downloading simplejson-3.19.2-cp312-cp312-win_amd64.whl (75 kB)
+   ---------------------------------------- 75.4/75.4 kB 521.6 kB/s eta 0:00:00
+Downloading stevedore-5.2.0-py3-none-any.whl (49 kB)
+   ---------------------------------------- 49.7/49.7 kB 78.9 kB/s eta 0:00:00
+Downloading debtcollector-3.0.0-py3-none-any.whl (23 kB)
+Downloading msgpack-1.0.8-cp312-cp312-win_amd64.whl (75 kB)
+   ---------------------------------------- 75.3/75.3 kB 1.4 MB/s eta 0:00:00
+Downloading netaddr-1.3.0-py3-none-any.whl (2.3 MB)
+   ---------------------------------------- 2.3/2.3 MB 8.0 MB/s eta 0:00:00
+Downloading os_service_types-1.7.0-py2.py3-none-any.whl (24 kB)
+Downloading packaging-24.1-py3-none-any.whl (53 kB)
+   ---------------------------------------- 54.0/54.0 kB 401.3 kB/s eta 0:00:00
+Downloading pyparsing-3.1.2-py3-none-any.whl (103 kB)
+   -------------------------------------- 103.2/103.2 kB 744.0 kB/s eta 0:00:00
+Downloading PyYAML-6.0.1-cp312-cp312-win_amd64.whl (138 kB)
+   ---------------------------------------- 138.7/138.7 kB 8.6 MB/s eta 0:00:00
+Downloading requests-2.32.3-py3-none-any.whl (64 kB)
+   ---------------------------------------- 64.9/64.9 kB 390.6 kB/s eta 0:00:00
+Downloading tzdata-2024.1-py2.py3-none-any.whl (345 kB)
+   ---------------------------------------- 345.4/345.4 kB 2.4 MB/s eta 0:00:00
+Downloading certifi-2024.7.4-py3-none-any.whl (162 kB)
+   -------------------------------------- 163.0/163.0 kB 407.3 kB/s eta 0:00:00
+Downloading charset_normalizer-3.3.2-cp312-cp312-win_amd64.whl (100 kB)
+   --------------------------------------- 100.4/100.4 kB 65.6 kB/s eta 0:00:00
+Downloading idna-3.7-py3-none-any.whl (66 kB)
+   ---------------------------------------- 66.8/66.8 kB 180.8 kB/s eta 0:00:00
+Downloading urllib3-2.2.2-py3-none-any.whl (121 kB)
+   -------------------------------------- 121.4/121.4 kB 356.4 kB/s eta 0:00:00
+Downloading wrapt-1.16.0-cp312-cp312-win_amd64.whl (37 kB)
+Would install PyYAML-6.0.1 certifi-2024.7.4 charset-normalizer-3.3.2 debtcollector-3.0.0 idna-3.7 iso8601-2.1.0 keystoneauth1-5.7.0 msgpack-1.0.8 netaddr-1.3.0 netifaces-0.11.0 os-service-types-1.7.0 oslo.i18n-6.3.0 oslo.serialization-5.4.0 oslo.utils-7.2.0 packaging-24.1 pbr-6.0.0 prettytable-0.7.2 pyparsing-3.1.2 python-novaclient-17.2.1 requests-2.32.3 simplejson-3.19.2 stevedore-5.2.0 tzdata-2024.1 urllib3-2.2.2 wrapt-1.16.0
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

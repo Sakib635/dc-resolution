@@ -1,0 +1,26 @@
+Collecting bottle==0.12.19 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2888380.txt (line 1))
+  Obtaining dependency information for bottle==0.12.19 from https://files.pythonhosted.org/packages/bf/44/aeafdd6ca05a8e1c3f91eeeb272a202d5cb1b3b23730a5ca686a81c48d24/bottle-0.12.19-py3-none-any.whl.metadata
+  Downloading bottle-0.12.19-py3-none-any.whl.metadata (1.8 kB)
+Collecting wsgiproxy==0.2.2 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2888380.txt (line 2))
+  Downloading WSGIProxy-0.2.2.tar.gz (10 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting Paste (from wsgiproxy==0.2.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2888380.txt (line 2))
+  Obtaining dependency information for Paste from https://files.pythonhosted.org/packages/2e/14/032895c25726a859bf48b8ed68944c3efc7a3decd920533ed929f12f08a1/Paste-3.10.1-py3-none-any.whl.metadata
+  Downloading Paste-3.10.1-py3-none-any.whl.metadata (5.3 kB)
+Collecting setuptools (from Paste->wsgiproxy==0.2.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2888380.txt (line 2))
+  Obtaining dependency information for setuptools from https://files.pythonhosted.org/packages/01/82/a2c6c0a1612c89bdb21dc4d9196ba9e7dcbc2e285afda93ebdf663ba2ada/setuptools-71.0.0-py3-none-any.whl.metadata
+  Using cached setuptools-71.0.0-py3-none-any.whl.metadata (6.5 kB)
+Downloading bottle-0.12.19-py3-none-any.whl (89 kB)
+   ---------------------------------------- 89.6/89.6 kB 634.6 kB/s eta 0:00:00
+Downloading Paste-3.10.1-py3-none-any.whl (289 kB)
+   ---------------------------------------- 289.3/289.3 kB 5.9 MB/s eta 0:00:00
+Using cached setuptools-71.0.0-py3-none-any.whl (908 kB)
+Would install Paste-3.10.1 WSGIProxy-0.2.2 bottle-0.12.19 setuptools-71.0.0
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

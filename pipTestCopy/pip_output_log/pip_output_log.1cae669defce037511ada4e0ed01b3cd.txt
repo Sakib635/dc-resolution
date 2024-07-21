@@ -1,0 +1,23 @@
+Collecting mapproxy==1.13.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1cae669defce037511ada4e0ed01b3cd.txt (line 1))
+  Obtaining dependency information for mapproxy==1.13.0 from https://files.pythonhosted.org/packages/31/f4/62b7894432cb34e54a3e6da527824268d9a73b06cde45ef6b0034a711e70/MapProxy-1.13.0-py2.py3-none-any.whl.metadata
+  Downloading MapProxy-1.13.0-py2.py3-none-any.whl.metadata (5.1 kB)
+Collecting Pillow==8.1.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1cae669defce037511ada4e0ed01b3cd.txt (line 2))
+  Downloading Pillow-8.1.0.tar.gz (44.9 MB)
+     ---------------------------------------- 44.9/44.9 MB 9.5 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting PyYAML>=3.0 (from mapproxy==1.13.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1cae669defce037511ada4e0ed01b3cd.txt (line 1))
+  Obtaining dependency information for PyYAML>=3.0 from https://files.pythonhosted.org/packages/2b/9f/fbade56564ad486809c27b322d0f7e6a89c01f6b4fe208402e90d4443a99/PyYAML-6.0.1-cp312-cp312-win_amd64.whl.metadata
+  Downloading PyYAML-6.0.1-cp312-cp312-win_amd64.whl.metadata (2.1 kB)
+Downloading MapProxy-1.13.0-py2.py3-none-any.whl (1.4 MB)
+   ---------------------------------------- 1.4/1.4 MB 5.9 MB/s eta 0:00:00
+Downloading PyYAML-6.0.1-cp312-cp312-win_amd64.whl (138 kB)
+   ---------------------------------------- 138.7/138.7 kB ? eta 0:00:00
+Would install MapProxy-1.13.0 Pillow-8.1.0 PyYAML-6.0.1
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

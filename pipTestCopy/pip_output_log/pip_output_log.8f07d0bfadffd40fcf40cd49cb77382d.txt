@@ -1,0 +1,11 @@
+Collecting requests==2.25.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8f07d0bfadffd40fcf40cd49cb77382d.txt (line 1))
+  Obtaining dependency information for requests==2.25.1 from https://files.pythonhosted.org/packages/29/c1/24814557f1d22c56d50280771a17307e6bf87b70727d975fd6b2ce6b014a/requests-2.25.1-py2.py3-none-any.whl.metadata
+  Downloading requests-2.25.1-py2.py3-none-any.whl.metadata (4.2 kB)
+Collecting cfscrape==2.1.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8f07d0bfadffd40fcf40cd49cb77382d.txt (line 2))
+  Obtaining dependency information for cfscrape==2.1.1 from https://files.pythonhosted.org/packages/74/6b/410751a88b7c868f147c721446b83148329d2936707df2433a4fed1d78da/cfscrape-2.1.1-py3-none-any.whl.metadata
+  Downloading cfscrape-2.1.1-py3-none-any.whl.metadata (11 kB)
+ERROR: Could not find a version that satisfies the requirement pgoapi==1.1.6 (from versions: none)
+ERROR: No matching distribution found for pgoapi==1.1.6
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

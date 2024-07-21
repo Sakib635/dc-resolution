@@ -1,0 +1,9 @@
+PyYAML-5.3.1
+certifi-2024.7.4
+chardet-4.0.0
+idna-2.10
+prettytable-2.0.0
+requests-2.25.1
+setuptools-71.0.1
+urllib3-1.26.19
+wcwidth-0.2.13

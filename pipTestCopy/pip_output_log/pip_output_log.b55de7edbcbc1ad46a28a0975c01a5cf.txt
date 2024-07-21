@@ -1,0 +1,17 @@
+Collecting openpyxl==3.0.6 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.b55de7edbcbc1ad46a28a0975c01a5cf.txt (line 1))
+  Obtaining dependency information for openpyxl==3.0.6 from https://files.pythonhosted.org/packages/d4/c5/1a5f82b3020bfb27f21b302f96c8ae6a34475070015d1b1e0b197a97e2af/openpyxl-3.0.6-py2.py3-none-any.whl.metadata
+  Downloading openpyxl-3.0.6-py2.py3-none-any.whl.metadata (2.4 kB)
+Collecting jdcal (from openpyxl==3.0.6->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.b55de7edbcbc1ad46a28a0975c01a5cf.txt (line 1))
+  Obtaining dependency information for jdcal from https://files.pythonhosted.org/packages/f0/da/572cbc0bc582390480bbd7c4e93d14dc46079778ed915b505dc494b37c57/jdcal-1.4.1-py2.py3-none-any.whl.metadata
+  Downloading jdcal-1.4.1-py2.py3-none-any.whl.metadata (5.0 kB)
+Collecting et-xmlfile (from openpyxl==3.0.6->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.b55de7edbcbc1ad46a28a0975c01a5cf.txt (line 1))
+  Obtaining dependency information for et-xmlfile from https://files.pythonhosted.org/packages/96/c2/3dd434b0108730014f1b96fd286040dc3bcb70066346f7e01ec2ac95865f/et_xmlfile-1.1.0-py3-none-any.whl.metadata
+  Downloading et_xmlfile-1.1.0-py3-none-any.whl.metadata (1.8 kB)
+Downloading openpyxl-3.0.6-py2.py3-none-any.whl (242 kB)
+   ---------------------------------------- 243.0/243.0 kB 1.9 MB/s eta 0:00:00
+Downloading et_xmlfile-1.1.0-py3-none-any.whl (4.7 kB)
+Downloading jdcal-1.4.1-py2.py3-none-any.whl (9.5 kB)
+Would install et-xmlfile-1.1.0 jdcal-1.4.1 openpyxl-3.0.6
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

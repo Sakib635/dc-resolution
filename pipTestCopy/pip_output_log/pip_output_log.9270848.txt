@@ -1,0 +1,9 @@
+Collecting sh==1.14.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.9270848.txt (line 1))
+  Obtaining dependency information for sh==1.14.1 from https://files.pythonhosted.org/packages/50/38/f7dcc62943d0870f02df9e2fa527b7f0cd86b233a80d6e503a08f3ef5ddc/sh-1.14.1-py2.py3-none-any.whl.metadata
+  Downloading sh-1.14.1-py2.py3-none-any.whl.metadata (4.1 kB)
+Downloading sh-1.14.1-py2.py3-none-any.whl (40 kB)
+   ---------------------------------------- 40.3/40.3 kB 385.9 kB/s eta 0:00:00
+Would install sh-1.14.1
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

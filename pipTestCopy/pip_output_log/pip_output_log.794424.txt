@@ -1,0 +1,26 @@
+Collecting django_tastypie==0.14.3 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.794424.txt (line 1))
+  Downloading django-tastypie-0.14.3.tar.gz (148 kB)
+     ------------------------------------ 148.9/148.9 kB 990.4 kB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting python-mimeparse!=1.5,>=0.1.4 (from django_tastypie==0.14.3->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.794424.txt (line 1))
+  Obtaining dependency information for python-mimeparse!=1.5,>=0.1.4 from https://files.pythonhosted.org/packages/26/2e/03bce213a9bf02a2750dcb04e761785e9c763fc11071edc4b447eacbb842/python_mimeparse-1.6.0-py2.py3-none-any.whl.metadata
+  Downloading python_mimeparse-1.6.0-py2.py3-none-any.whl.metadata (2.5 kB)
+Collecting python-dateutil!=2.0,>=1.5 (from django_tastypie==0.14.3->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.794424.txt (line 1))
+  Obtaining dependency information for python-dateutil!=2.0,>=1.5 from https://files.pythonhosted.org/packages/ec/57/56b9bcc3c9c6a792fcbaf139543cee77261f3651ca9da0c93f5c1221264b/python_dateutil-2.9.0.post0-py2.py3-none-any.whl.metadata
+  Downloading python_dateutil-2.9.0.post0-py2.py3-none-any.whl.metadata (8.4 kB)
+Collecting six>=1.5 (from python-dateutil!=2.0,>=1.5->django_tastypie==0.14.3->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.794424.txt (line 1))
+  Obtaining dependency information for six>=1.5 from https://files.pythonhosted.org/packages/d9/5a/e7c31adbe875f2abbb91bd84cf2dc52d792b5a01506781dbcf25c91daf11/six-1.16.0-py2.py3-none-any.whl.metadata
+  Downloading six-1.16.0-py2.py3-none-any.whl.metadata (1.8 kB)
+Downloading python_dateutil-2.9.0.post0-py2.py3-none-any.whl (229 kB)
+   ---------------------------------------- 229.9/229.9 kB 7.1 MB/s eta 0:00:00
+Downloading python_mimeparse-1.6.0-py2.py3-none-any.whl (6.1 kB)
+Downloading six-1.16.0-py2.py3-none-any.whl (11 kB)
+Would install django-tastypie-0.14.3 python-dateutil-2.9.0.post0 python-mimeparse-1.6.0 six-1.16.0
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

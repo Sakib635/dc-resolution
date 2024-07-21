@@ -1,0 +1,30 @@
+Collecting scikit_learn==0.24.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4199895.txt (line 1))
+  Downloading scikit-learn-0.24.0.tar.gz (7.4 MB)
+     ---------------------------------------- 7.4/7.4 MB 11.5 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting numpy>=1.13.3 (from scikit_learn==0.24.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4199895.txt (line 1))
+  Obtaining dependency information for numpy>=1.13.3 from https://files.pythonhosted.org/packages/ad/9c/4a93b8e395b755c53628573d75d7b21985d9a0f416e978d637084ccc8ec3/numpy-2.0.0-cp312-cp312-win_amd64.whl.metadata
+  Using cached numpy-2.0.0-cp312-cp312-win_amd64.whl.metadata (60 kB)
+Collecting scipy>=0.19.1 (from scikit_learn==0.24.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4199895.txt (line 1))
+  Obtaining dependency information for scipy>=0.19.1 from https://files.pythonhosted.org/packages/3f/72/305686527c68f33f1dd3ebdd28f53340d372b2f9e44dccaf6f92e17739d3/scipy-1.14.0-cp312-cp312-win_amd64.whl.metadata
+  Using cached scipy-1.14.0-cp312-cp312-win_amd64.whl.metadata (60 kB)
+Collecting joblib>=0.11 (from scikit_learn==0.24.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4199895.txt (line 1))
+  Obtaining dependency information for joblib>=0.11 from https://files.pythonhosted.org/packages/91/29/df4b9b42f2be0b623cbd5e2140cafcaa2bef0759a00b7b70104dcfe2fb51/joblib-1.4.2-py3-none-any.whl.metadata
+  Downloading joblib-1.4.2-py3-none-any.whl.metadata (5.4 kB)
+Collecting threadpoolctl>=2.0.0 (from scikit_learn==0.24.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4199895.txt (line 1))
+  Obtaining dependency information for threadpoolctl>=2.0.0 from https://files.pythonhosted.org/packages/4b/2c/ffbf7a134b9ab11a67b0cf0726453cedd9c5043a4fe7a35d1cefa9a1bcfb/threadpoolctl-3.5.0-py3-none-any.whl.metadata
+  Downloading threadpoolctl-3.5.0-py3-none-any.whl.metadata (13 kB)
+Downloading joblib-1.4.2-py3-none-any.whl (301 kB)
+   --------------------------------------- 301.8/301.8 kB 18.2 MB/s eta 0:00:00
+Using cached numpy-2.0.0-cp312-cp312-win_amd64.whl (16.2 MB)
+Using cached scipy-1.14.0-cp312-cp312-win_amd64.whl (44.5 MB)
+Downloading threadpoolctl-3.5.0-py3-none-any.whl (18 kB)
+Would install joblib-1.4.2 numpy-2.0.0 scikit-learn-0.24.0 scipy-1.14.0 threadpoolctl-3.5.0
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

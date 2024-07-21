@@ -1,0 +1,5 @@
+IMDbPY-2020.9.25
+SQLAlchemy-2.0.31
+greenlet-3.0.3
+lxml-5.2.2
+typing_extensions-4.12.2

@@ -1,0 +1,13 @@
+Collecting bluezero==0.6.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.0efb90d998c59d5926ca7f4e79054361.txt (line 1))
+  Obtaining dependency information for bluezero==0.6.0 from https://files.pythonhosted.org/packages/6a/30/e0d5172e685e196c6d09203dcaf49f48a9b6be3d63aa7805c40d21bc2c7b/bluezero-0.6.0-py2.py3-none-any.whl.metadata
+  Downloading bluezero-0.6.0-py2.py3-none-any.whl.metadata (5.6 kB)
+Collecting gobject==0.1.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.0efb90d998c59d5926ca7f4e79054361.txt (line 2))
+  Obtaining dependency information for gobject==0.1.0 from https://files.pythonhosted.org/packages/35/69/9148b849a9e54297e31eac6ce5fa61d8e82921cd990bbda9dfb6be7a5f84/gobject-0.1.0-py3-none-any.whl.metadata
+  Downloading gobject-0.1.0-py3-none-any.whl.metadata (775 bytes)
+Downloading bluezero-0.6.0-py2.py3-none-any.whl (41 kB)
+   ---------------------------------------- 41.1/41.1 kB 396.3 kB/s eta 0:00:00
+Downloading gobject-0.1.0-py3-none-any.whl (5.9 kB)
+Would install bluezero-0.6.0 gobject-0.1.0
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

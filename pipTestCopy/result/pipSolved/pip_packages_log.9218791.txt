@@ -1,0 +1,4 @@
+Pillow-8.1.0
+colormath-3.0.0
+networkx-3.3
+numpy-2.0.0

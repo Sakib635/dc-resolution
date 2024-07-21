@@ -1,0 +1,76 @@
+Collecting anki==2.1.38 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.46c9d4ed1ea43c3d916b.txt (line 1))
+  Obtaining dependency information for anki==2.1.38 from https://files.pythonhosted.org/packages/db/4c/f198b2f622434a9b755efd2519a3c8382f0115130163d9d2bca7bed0536b/anki-2.1.38-cp38-abi3-win_amd64.whl.metadata
+  Downloading anki-2.1.38-cp38-abi3-win_amd64.whl.metadata (365 bytes)
+Collecting beautifulsoup4==4.9.3 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.46c9d4ed1ea43c3d916b.txt (line 2))
+  Obtaining dependency information for beautifulsoup4==4.9.3 from https://files.pythonhosted.org/packages/d1/41/e6495bd7d3781cee623ce23ea6ac73282a373088fcd0ddc809a047b18eae/beautifulsoup4-4.9.3-py3-none-any.whl.metadata
+  Downloading beautifulsoup4-4.9.3-py3-none-any.whl.metadata (4.2 kB)
+Collecting Pillow==8.1.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.46c9d4ed1ea43c3d916b.txt (line 3))
+  Downloading Pillow-8.1.0.tar.gz (44.9 MB)
+     --------------------------------------- 44.9/44.9 MB 10.2 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting requests[socks] (from anki==2.1.38->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.46c9d4ed1ea43c3d916b.txt (line 1))
+  Obtaining dependency information for requests[socks] from https://files.pythonhosted.org/packages/f9/9b/335f9764261e915ed497fcdeb11df5dfd6f7bf257d4a6a2a686d80da4d54/requests-2.32.3-py3-none-any.whl.metadata
+  Downloading requests-2.32.3-py3-none-any.whl.metadata (4.6 kB)
+Collecting decorator (from anki==2.1.38->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.46c9d4ed1ea43c3d916b.txt (line 1))
+  Obtaining dependency information for decorator from https://files.pythonhosted.org/packages/d5/50/83c593b07763e1161326b3b8c6686f0f4b0f24d5526546bee538c89837d6/decorator-5.1.1-py3-none-any.whl.metadata
+  Downloading decorator-5.1.1-py3-none-any.whl.metadata (4.0 kB)
+Collecting protobuf (from anki==2.1.38->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.46c9d4ed1ea43c3d916b.txt (line 1))
+  Obtaining dependency information for protobuf from https://files.pythonhosted.org/packages/b1/04/73b8fd7f34f3a2b2b64aa31a173b8aebbdb0c55523df4c027846bb44bc1e/protobuf-5.27.2-cp310-abi3-win_amd64.whl.metadata
+  Downloading protobuf-5.27.2-cp310-abi3-win_amd64.whl.metadata (592 bytes)
+Collecting orjson (from anki==2.1.38->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.46c9d4ed1ea43c3d916b.txt (line 1))
+  Obtaining dependency information for orjson from https://files.pythonhosted.org/packages/21/3a/f004e58a43ff2741703eb23f0c56347c7a41bbbcafd45d1494be68319269/orjson-3.10.6-cp312-none-win_amd64.whl.metadata
+  Downloading orjson-3.10.6-cp312-none-win_amd64.whl.metadata (51 kB)
+     ---------------------------------------- 51.6/51.6 kB ? eta 0:00:00
+Collecting psutil (from anki==2.1.38->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.46c9d4ed1ea43c3d916b.txt (line 1))
+  Obtaining dependency information for psutil from https://files.pythonhosted.org/packages/73/44/561092313ae925f3acfaace6f9ddc4f6a9c748704317bad9c8c8f8a36a79/psutil-6.0.0-cp37-abi3-win_amd64.whl.metadata
+  Downloading psutil-6.0.0-cp37-abi3-win_amd64.whl.metadata (22 kB)
+Collecting soupsieve>1.2 (from beautifulsoup4==4.9.3->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.46c9d4ed1ea43c3d916b.txt (line 2))
+  Obtaining dependency information for soupsieve>1.2 from https://files.pythonhosted.org/packages/4c/f3/038b302fdfbe3be7da016777069f26ceefe11a681055ea1f7817546508e3/soupsieve-2.5-py3-none-any.whl.metadata
+  Downloading soupsieve-2.5-py3-none-any.whl.metadata (4.7 kB)
+Collecting charset-normalizer<4,>=2 (from requests[socks]->anki==2.1.38->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.46c9d4ed1ea43c3d916b.txt (line 1))
+  Obtaining dependency information for charset-normalizer<4,>=2 from https://files.pythonhosted.org/packages/b6/7c/8debebb4f90174074b827c63242c23851bdf00a532489fba57fef3416e40/charset_normalizer-3.3.2-cp312-cp312-win_amd64.whl.metadata
+  Downloading charset_normalizer-3.3.2-cp312-cp312-win_amd64.whl.metadata (34 kB)
+Collecting idna<4,>=2.5 (from requests[socks]->anki==2.1.38->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.46c9d4ed1ea43c3d916b.txt (line 1))
+  Obtaining dependency information for idna<4,>=2.5 from https://files.pythonhosted.org/packages/e5/3e/741d8c82801c347547f8a2a06aa57dbb1992be9e948df2ea0eda2c8b79e8/idna-3.7-py3-none-any.whl.metadata
+  Downloading idna-3.7-py3-none-any.whl.metadata (9.9 kB)
+Collecting urllib3<3,>=1.21.1 (from requests[socks]->anki==2.1.38->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.46c9d4ed1ea43c3d916b.txt (line 1))
+  Obtaining dependency information for urllib3<3,>=1.21.1 from https://files.pythonhosted.org/packages/ca/1c/89ffc63a9605b583d5df2be791a27bc1a42b7c32bab68d3c8f2f73a98cd4/urllib3-2.2.2-py3-none-any.whl.metadata
+  Downloading urllib3-2.2.2-py3-none-any.whl.metadata (6.4 kB)
+Collecting certifi>=2017.4.17 (from requests[socks]->anki==2.1.38->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.46c9d4ed1ea43c3d916b.txt (line 1))
+  Obtaining dependency information for certifi>=2017.4.17 from https://files.pythonhosted.org/packages/1c/d5/c84e1a17bf61d4df64ca866a1c9a913874b4e9bdc131ec689a0ad013fb36/certifi-2024.7.4-py3-none-any.whl.metadata
+  Downloading certifi-2024.7.4-py3-none-any.whl.metadata (2.2 kB)
+Collecting PySocks!=1.5.7,>=1.5.6 (from requests[socks]->anki==2.1.38->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.46c9d4ed1ea43c3d916b.txt (line 1))
+  Obtaining dependency information for PySocks!=1.5.7,>=1.5.6 from https://files.pythonhosted.org/packages/8d/59/b4572118e098ac8e46e399a1dd0f2d85403ce8bbaad9ec79373ed6badaf9/PySocks-1.7.1-py3-none-any.whl.metadata
+  Downloading PySocks-1.7.1-py3-none-any.whl.metadata (13 kB)
+Downloading anki-2.1.38-cp38-abi3-win_amd64.whl (5.2 MB)
+   ---------------------------------------- 5.2/5.2 MB 11.4 MB/s eta 0:00:00
+Downloading beautifulsoup4-4.9.3-py3-none-any.whl (115 kB)
+   ---------------------------------------- 115.8/115.8 kB 3.4 MB/s eta 0:00:00
+Downloading soupsieve-2.5-py3-none-any.whl (36 kB)
+Downloading decorator-5.1.1-py3-none-any.whl (9.1 kB)
+Downloading orjson-3.10.6-cp312-none-win_amd64.whl (136 kB)
+   ---------------------------------------- 136.4/136.4 kB 8.4 MB/s eta 0:00:00
+Downloading protobuf-5.27.2-cp310-abi3-win_amd64.whl (426 kB)
+   --------------------------------------- 426.9/426.9 kB 27.8 MB/s eta 0:00:00
+Downloading psutil-6.0.0-cp37-abi3-win_amd64.whl (257 kB)
+   --------------------------------------- 257.4/257.4 kB 15.4 MB/s eta 0:00:00
+Downloading certifi-2024.7.4-py3-none-any.whl (162 kB)
+   ---------------------------------------- 163.0/163.0 kB ? eta 0:00:00
+Downloading charset_normalizer-3.3.2-cp312-cp312-win_amd64.whl (100 kB)
+   ---------------------------------------- 100.4/100.4 kB 6.0 MB/s eta 0:00:00
+Downloading idna-3.7-py3-none-any.whl (66 kB)
+   ---------------------------------------- 66.8/66.8 kB ? eta 0:00:00
+Downloading PySocks-1.7.1-py3-none-any.whl (16 kB)
+Downloading urllib3-2.2.2-py3-none-any.whl (121 kB)
+   ---------------------------------------- 121.4/121.4 kB 7.0 MB/s eta 0:00:00
+Downloading requests-2.32.3-py3-none-any.whl (64 kB)
+   ---------------------------------------- 64.9/64.9 kB 3.6 MB/s eta 0:00:00
+Would install Pillow-8.1.0 PySocks-1.7.1 anki-2.1.38 beautifulsoup4-4.9.3 certifi-2024.7.4 charset-normalizer-3.3.2 decorator-5.1.1 idna-3.7 orjson-3.10.6 protobuf-5.27.2 psutil-6.0.0 requests-2.32.3 soupsieve-2.5 urllib3-2.2.2
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

@@ -1,0 +1,61 @@
+Collecting rx==3.1.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.019fd5c706e0bc94879f.txt (line 1))
+  Obtaining dependency information for rx==3.1.1 from https://files.pythonhosted.org/packages/90/6c/5f1839d9ae2a8c85d119c51acaff1f1382f68691cb0f1cb3d0c9fdd32a93/Rx-3.1.1-py3-none-any.whl.metadata
+  Downloading Rx-3.1.1-py3-none-any.whl.metadata (4.6 kB)
+Collecting Twisted==21.2.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.019fd5c706e0bc94879f.txt (line 2))
+  Obtaining dependency information for Twisted==21.2.0 from https://files.pythonhosted.org/packages/f2/16/3eb9c66a7bfb5220c7bcbaaac33d359fe8a157b028959cd210983749b2e0/Twisted-21.2.0-py3-none-any.whl.metadata
+  Downloading Twisted-21.2.0-py3-none-any.whl.metadata (12 kB)
+Collecting zope.interface>=4.4.2 (from Twisted==21.2.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.019fd5c706e0bc94879f.txt (line 2))
+  Obtaining dependency information for zope.interface>=4.4.2 from https://files.pythonhosted.org/packages/19/68/4a5bb890be19a934878b68acab8b09e93d34613cccb576026016bffb5de5/zope.interface-6.4.post2-cp312-cp312-win_amd64.whl.metadata
+  Downloading zope.interface-6.4.post2-cp312-cp312-win_amd64.whl.metadata (44 kB)
+     -------------------------------------- 44.1/44.1 kB 546.1 kB/s eta 0:00:00
+Collecting constantly>=15.1 (from Twisted==21.2.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.019fd5c706e0bc94879f.txt (line 2))
+  Obtaining dependency information for constantly>=15.1 from https://files.pythonhosted.org/packages/b8/40/c199d095151addf69efdb4b9ca3a4f20f70e20508d6222bffb9b76f58573/constantly-23.10.4-py3-none-any.whl.metadata
+  Downloading constantly-23.10.4-py3-none-any.whl.metadata (1.8 kB)
+Collecting incremental>=16.10.1 (from Twisted==21.2.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.019fd5c706e0bc94879f.txt (line 2))
+  Obtaining dependency information for incremental>=16.10.1 from https://files.pythonhosted.org/packages/77/51/8073577012492fcd15628e811db585f447c500fa407e944ab3a18ec55fb7/incremental-22.10.0-py2.py3-none-any.whl.metadata
+  Downloading incremental-22.10.0-py2.py3-none-any.whl.metadata (6.0 kB)
+Collecting Automat>=0.8.0 (from Twisted==21.2.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.019fd5c706e0bc94879f.txt (line 2))
+  Obtaining dependency information for Automat>=0.8.0 from https://files.pythonhosted.org/packages/29/90/64aabce6c1b820395452cc5472b8f11cd98320f40941795b8069aef4e0e0/Automat-22.10.0-py2.py3-none-any.whl.metadata
+  Downloading Automat-22.10.0-py2.py3-none-any.whl.metadata (1.0 kB)
+Collecting hyperlink>=17.1.1 (from Twisted==21.2.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.019fd5c706e0bc94879f.txt (line 2))
+  Obtaining dependency information for hyperlink>=17.1.1 from https://files.pythonhosted.org/packages/6e/aa/8caf6a0a3e62863cbb9dab27135660acba46903b703e224f14f447e57934/hyperlink-21.0.0-py2.py3-none-any.whl.metadata
+  Downloading hyperlink-21.0.0-py2.py3-none-any.whl.metadata (1.5 kB)
+Collecting attrs>=19.2.0 (from Twisted==21.2.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.019fd5c706e0bc94879f.txt (line 2))
+  Obtaining dependency information for attrs>=19.2.0 from https://files.pythonhosted.org/packages/e0/44/827b2a91a5816512fcaf3cc4ebc465ccd5d598c45cefa6703fcf4a79018f/attrs-23.2.0-py3-none-any.whl.metadata
+  Downloading attrs-23.2.0-py3-none-any.whl.metadata (9.5 kB)
+Collecting twisted-iocpsupport~=1.0.0 (from Twisted==21.2.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.019fd5c706e0bc94879f.txt (line 2))
+  Obtaining dependency information for twisted-iocpsupport~=1.0.0 from https://files.pythonhosted.org/packages/f3/9d/3813cd573dff68426e0ab0f9f47c7876dd9d98238e55aefa019c89c400b9/twisted_iocpsupport-1.0.4-cp312-cp312-win_amd64.whl.metadata
+  Downloading twisted_iocpsupport-1.0.4-cp312-cp312-win_amd64.whl.metadata (2.2 kB)
+Collecting six (from Automat>=0.8.0->Twisted==21.2.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.019fd5c706e0bc94879f.txt (line 2))
+  Obtaining dependency information for six from https://files.pythonhosted.org/packages/d9/5a/e7c31adbe875f2abbb91bd84cf2dc52d792b5a01506781dbcf25c91daf11/six-1.16.0-py2.py3-none-any.whl.metadata
+  Downloading six-1.16.0-py2.py3-none-any.whl.metadata (1.8 kB)
+Collecting idna>=2.5 (from hyperlink>=17.1.1->Twisted==21.2.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.019fd5c706e0bc94879f.txt (line 2))
+  Obtaining dependency information for idna>=2.5 from https://files.pythonhosted.org/packages/e5/3e/741d8c82801c347547f8a2a06aa57dbb1992be9e948df2ea0eda2c8b79e8/idna-3.7-py3-none-any.whl.metadata
+  Downloading idna-3.7-py3-none-any.whl.metadata (9.9 kB)
+Collecting setuptools (from zope.interface>=4.4.2->Twisted==21.2.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.019fd5c706e0bc94879f.txt (line 2))
+  Obtaining dependency information for setuptools from https://files.pythonhosted.org/packages/ef/15/88e46eb9387e905704b69849618e699dc2f54407d8953cc4ec4b8b46528d/setuptools-70.3.0-py3-none-any.whl.metadata
+  Downloading setuptools-70.3.0-py3-none-any.whl.metadata (5.8 kB)
+Downloading Rx-3.1.1-py3-none-any.whl (197 kB)
+   ---------------------------------------- 197.3/197.3 kB 3.0 MB/s eta 0:00:00
+Downloading Twisted-21.2.0-py3-none-any.whl (3.1 MB)
+   ---------------------------------------- 3.1/3.1 MB 17.9 MB/s eta 0:00:00
+Downloading attrs-23.2.0-py3-none-any.whl (60 kB)
+   ---------------------------------------- 60.8/60.8 kB 1.6 MB/s eta 0:00:00
+Downloading Automat-22.10.0-py2.py3-none-any.whl (26 kB)
+Downloading constantly-23.10.4-py3-none-any.whl (13 kB)
+Downloading hyperlink-21.0.0-py2.py3-none-any.whl (74 kB)
+   ---------------------------------------- 74.6/74.6 kB 4.0 MB/s eta 0:00:00
+Downloading incremental-22.10.0-py2.py3-none-any.whl (16 kB)
+Downloading twisted_iocpsupport-1.0.4-cp312-cp312-win_amd64.whl (47 kB)
+   ---------------------------------------- 47.6/47.6 kB ? eta 0:00:00
+Downloading zope.interface-6.4.post2-cp312-cp312-win_amd64.whl (206 kB)
+   --------------------------------------- 206.5/206.5 kB 12.3 MB/s eta 0:00:00
+Downloading idna-3.7-py3-none-any.whl (66 kB)
+   ---------------------------------------- 66.8/66.8 kB 3.5 MB/s eta 0:00:00
+Downloading setuptools-70.3.0-py3-none-any.whl (931 kB)
+   --------------------------------------- 931.1/931.1 kB 29.7 MB/s eta 0:00:00
+Downloading six-1.16.0-py2.py3-none-any.whl (11 kB)
+Would install Automat-22.10.0 Rx-3.1.1 Twisted-21.2.0 attrs-23.2.0 constantly-23.10.4 hyperlink-21.0.0 idna-3.7 incremental-22.10.0 setuptools-70.3.0 six-1.16.0 twisted-iocpsupport-1.0.4 zope.interface-6.4.post2
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

@@ -1,0 +1,14 @@
+Collecting pymel==1.2.0a6 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.7f79c85c8883268660bd.txt (line 1))
+  Obtaining dependency information for pymel==1.2.0a6 from https://files.pythonhosted.org/packages/58/fe/bd0c1a1f990a4fb1a9119e91d67c7fd9a6a42a44795a40d6f37d0c0458a8/pymel-1.2.0a6-py2.py3-none-any.whl.metadata
+  Downloading pymel-1.2.0a6-py2.py3-none-any.whl.metadata (12 kB)
+Collecting future>=0.18 (from pymel==1.2.0a6->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.7f79c85c8883268660bd.txt (line 1))
+  Obtaining dependency information for future>=0.18 from https://files.pythonhosted.org/packages/da/71/ae30dadffc90b9006d77af76b393cb9dfbfc9629f339fc1574a1c52e6806/future-1.0.0-py3-none-any.whl.metadata
+  Downloading future-1.0.0-py3-none-any.whl.metadata (4.0 kB)
+Downloading pymel-1.2.0a6-py2.py3-none-any.whl (10.2 MB)
+   ---------------------------------------- 10.2/10.2 MB 8.7 MB/s eta 0:00:00
+Downloading future-1.0.0-py3-none-any.whl (491 kB)
+   --------------------------------------- 491.3/491.3 kB 10.2 MB/s eta 0:00:00
+Would install future-1.0.0 pymel-1.2.0a6
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

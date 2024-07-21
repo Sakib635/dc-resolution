@@ -1,0 +1,23 @@
+Collecting python_ldap==3.3.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3446681.txt (line 1))
+  Downloading python-ldap-3.3.1.tar.gz (379 kB)
+     -------------------------------------- 379.8/379.8 kB 2.0 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting pyasn1>=0.3.7 (from python_ldap==3.3.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3446681.txt (line 1))
+  Obtaining dependency information for pyasn1>=0.3.7 from https://files.pythonhosted.org/packages/23/7e/5f50d07d5e70a2addbccd90ac2950f81d1edd0783630651d9268d7f1db49/pyasn1-0.6.0-py2.py3-none-any.whl.metadata
+  Downloading pyasn1-0.6.0-py2.py3-none-any.whl.metadata (8.3 kB)
+Collecting pyasn1-modules>=0.1.5 (from python_ldap==3.3.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3446681.txt (line 1))
+  Obtaining dependency information for pyasn1-modules>=0.1.5 from https://files.pythonhosted.org/packages/13/68/8906226b15ef38e71dc926c321d2fe99de8048e9098b5dfd38343011c886/pyasn1_modules-0.4.0-py3-none-any.whl.metadata
+  Downloading pyasn1_modules-0.4.0-py3-none-any.whl.metadata (3.4 kB)
+Downloading pyasn1-0.6.0-py2.py3-none-any.whl (85 kB)
+   ---------------------------------------- 85.3/85.3 kB 4.7 MB/s eta 0:00:00
+Downloading pyasn1_modules-0.4.0-py3-none-any.whl (181 kB)
+   --------------------------------------- 181.2/181.2 kB 11.4 MB/s eta 0:00:00
+Would install pyasn1-0.6.0 pyasn1_modules-0.4.0 python-ldap-3.3.1
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

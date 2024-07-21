@@ -1,0 +1,13 @@
+Collecting pytz==2020.5 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.7524815.txt (line 1))
+  Obtaining dependency information for pytz==2020.5 from https://files.pythonhosted.org/packages/89/06/2c2d3034b4d6bf22f2a4ae546d16925898658a33b4400cfb7e2c1e2871a3/pytz-2020.5-py2.py3-none-any.whl.metadata
+  Downloading pytz-2020.5-py2.py3-none-any.whl.metadata (21 kB)
+Collecting gps==3.19 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.7524815.txt (line 2))
+  Obtaining dependency information for gps==3.19 from https://files.pythonhosted.org/packages/99/ae/a34d9b378033ddcee142e0a40833f3981526593f7fa7bf9e9c5ec642337c/gps-3.19-py3-none-any.whl.metadata
+  Downloading gps-3.19-py3-none-any.whl.metadata (217 bytes)
+Downloading pytz-2020.5-py2.py3-none-any.whl (510 kB)
+   ---------------------------------------- 510.8/510.8 kB 4.0 MB/s eta 0:00:00
+Downloading gps-3.19-py3-none-any.whl (24 kB)
+Would install gps-3.19 pytz-2020.5
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

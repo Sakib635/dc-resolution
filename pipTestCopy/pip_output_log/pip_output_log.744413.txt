@@ -1,0 +1,10 @@
+Collecting supervisor==4.2.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.744413.txt (line 1))
+  Obtaining dependency information for supervisor==4.2.1 from https://files.pythonhosted.org/packages/08/b2/6f9f199774860e3c180dcdf9bf3191a8588f5ece417d03661d25155cfdfe/supervisor-4.2.1-py2.py3-none-any.whl.metadata
+  Downloading supervisor-4.2.1-py2.py3-none-any.whl.metadata (82 kB)
+     -------------------------------------- 82.7/82.7 kB 514.2 kB/s eta 0:00:00
+Downloading supervisor-4.2.1-py2.py3-none-any.whl (738 kB)
+   ---------------------------------------- 738.7/738.7 kB 7.8 MB/s eta 0:00:00
+Would install supervisor-4.2.1
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

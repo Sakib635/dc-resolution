@@ -1,0 +1,60 @@
+Collecting celery==5.0.5 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2213915.txt (line 1))
+  Obtaining dependency information for celery==5.0.5 from https://files.pythonhosted.org/packages/95/79/d73247b42082076bb32c828e3361cda2604ee523aa3bfe972bdfabffc6d0/celery-5.0.5-py3-none-any.whl.metadata
+  Downloading celery-5.0.5-py3-none-any.whl.metadata (19 kB)
+Collecting pytz>dev (from celery==5.0.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2213915.txt (line 1))
+  Obtaining dependency information for pytz>dev from https://files.pythonhosted.org/packages/9c/3d/a121f284241f08268b21359bd425f7d4825cffc5ac5cd0e1b3d82ffd2b10/pytz-2024.1-py2.py3-none-any.whl.metadata
+  Downloading pytz-2024.1-py2.py3-none-any.whl.metadata (22 kB)
+Collecting billiard<4.0,>=3.6.3.0 (from celery==5.0.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2213915.txt (line 1))
+  Obtaining dependency information for billiard<4.0,>=3.6.3.0 from https://files.pythonhosted.org/packages/2b/89/0c43de91d4e52eaa7bd748771d417f6ac9e51e66b2f61928c2151bf65878/billiard-3.6.4.0-py3-none-any.whl.metadata
+  Downloading billiard-3.6.4.0-py3-none-any.whl.metadata (4.5 kB)
+Collecting kombu<6.0,>=5.0.0 (from celery==5.0.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2213915.txt (line 1))
+  Obtaining dependency information for kombu<6.0,>=5.0.0 from https://files.pythonhosted.org/packages/b4/9a/1951f2261271d6994f0df5a55b3e9cdad42ed1fc3020a0dc7f6de80a4566/kombu-5.3.7-py3-none-any.whl.metadata
+  Downloading kombu-5.3.7-py3-none-any.whl.metadata (3.1 kB)
+Collecting vine<6.0,>=5.0.0 (from celery==5.0.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2213915.txt (line 1))
+  Obtaining dependency information for vine<6.0,>=5.0.0 from https://files.pythonhosted.org/packages/03/ff/7c0c86c43b3cbb927e0ccc0255cb4057ceba4799cd44ae95174ce8e8b5b2/vine-5.1.0-py3-none-any.whl.metadata
+  Downloading vine-5.1.0-py3-none-any.whl.metadata (2.7 kB)
+Collecting click<8.0,>=7.0 (from celery==5.0.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2213915.txt (line 1))
+  Obtaining dependency information for click<8.0,>=7.0 from https://files.pythonhosted.org/packages/d2/3d/fa76db83bf75c4f8d338c2fd15c8d33fdd7ad23a9b5e57eb6c5de26b430e/click-7.1.2-py2.py3-none-any.whl.metadata
+  Downloading click-7.1.2-py2.py3-none-any.whl.metadata (2.9 kB)
+Collecting click-didyoumean>=0.0.3 (from celery==5.0.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2213915.txt (line 1))
+  Obtaining dependency information for click-didyoumean>=0.0.3 from https://files.pythonhosted.org/packages/1b/5b/974430b5ffdb7a4f1941d13d83c64a0395114503cc357c6b9ae4ce5047ed/click_didyoumean-0.3.1-py3-none-any.whl.metadata
+  Downloading click_didyoumean-0.3.1-py3-none-any.whl.metadata (3.9 kB)
+Collecting click-repl>=0.1.6 (from celery==5.0.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2213915.txt (line 1))
+  Obtaining dependency information for click-repl>=0.1.6 from https://files.pythonhosted.org/packages/52/40/9d857001228658f0d59e97ebd4c346fe73e138c6de1bce61dc568a57c7f8/click_repl-0.3.0-py3-none-any.whl.metadata
+  Downloading click_repl-0.3.0-py3-none-any.whl.metadata (3.6 kB)
+Collecting click-plugins>=1.1.1 (from celery==5.0.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2213915.txt (line 1))
+  Obtaining dependency information for click-plugins>=1.1.1 from https://files.pythonhosted.org/packages/e9/da/824b92d9942f4e472702488857914bdd50f73021efea15b4cad9aca8ecef/click_plugins-1.1.1-py2.py3-none-any.whl.metadata
+  Downloading click_plugins-1.1.1-py2.py3-none-any.whl.metadata (6.4 kB)
+Collecting prompt-toolkit>=3.0.36 (from click-repl>=0.1.6->celery==5.0.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2213915.txt (line 1))
+  Obtaining dependency information for prompt-toolkit>=3.0.36 from https://files.pythonhosted.org/packages/e8/23/22750c4b768f09386d1c3cc4337953e8936f48a888fa6dddfb669b2c9088/prompt_toolkit-3.0.47-py3-none-any.whl.metadata
+  Downloading prompt_toolkit-3.0.47-py3-none-any.whl.metadata (6.4 kB)
+Collecting amqp<6.0.0,>=5.1.1 (from kombu<6.0,>=5.0.0->celery==5.0.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2213915.txt (line 1))
+  Obtaining dependency information for amqp<6.0.0,>=5.1.1 from https://files.pythonhosted.org/packages/b3/f0/8e5be5d5e0653d9e1d02b1144efa33ff7d2963dfad07049e02c0fa9b2e8d/amqp-5.2.0-py3-none-any.whl.metadata
+  Downloading amqp-5.2.0-py3-none-any.whl.metadata (8.9 kB)
+Collecting wcwidth (from prompt-toolkit>=3.0.36->click-repl>=0.1.6->celery==5.0.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2213915.txt (line 1))
+  Obtaining dependency information for wcwidth from https://files.pythonhosted.org/packages/fd/84/fd2ba7aafacbad3c4201d395674fc6348826569da3c0937e75505ead3528/wcwidth-0.2.13-py2.py3-none-any.whl.metadata
+  Downloading wcwidth-0.2.13-py2.py3-none-any.whl.metadata (14 kB)
+Downloading celery-5.0.5-py3-none-any.whl (392 kB)
+   ---------------------------------------- 392.7/392.7 kB 3.1 MB/s eta 0:00:00
+Downloading billiard-3.6.4.0-py3-none-any.whl (89 kB)
+   ---------------------------------------- 89.5/89.5 kB 5.0 MB/s eta 0:00:00
+Downloading click-7.1.2-py2.py3-none-any.whl (82 kB)
+   ---------------------------------------- 82.8/82.8 kB 4.5 MB/s eta 0:00:00
+Downloading click_didyoumean-0.3.1-py3-none-any.whl (3.6 kB)
+Downloading click_plugins-1.1.1-py2.py3-none-any.whl (7.5 kB)
+Downloading click_repl-0.3.0-py3-none-any.whl (10 kB)
+Downloading kombu-5.3.7-py3-none-any.whl (200 kB)
+   ---------------------------------------- 200.2/200.2 kB 6.1 MB/s eta 0:00:00
+Downloading pytz-2024.1-py2.py3-none-any.whl (505 kB)
+   --------------------------------------- 505.5/505.5 kB 10.5 MB/s eta 0:00:00
+Downloading vine-5.1.0-py3-none-any.whl (9.6 kB)
+Downloading amqp-5.2.0-py3-none-any.whl (50 kB)
+   ---------------------------------------- 50.9/50.9 kB 1.3 MB/s eta 0:00:00
+Downloading prompt_toolkit-3.0.47-py3-none-any.whl (386 kB)
+   --------------------------------------- 386.4/386.4 kB 12.1 MB/s eta 0:00:00
+Downloading wcwidth-0.2.13-py2.py3-none-any.whl (34 kB)
+Would install amqp-5.2.0 billiard-3.6.4.0 celery-5.0.5 click-7.1.2 click-didyoumean-0.3.1 click-plugins-1.1.1 click-repl-0.3.0 kombu-5.3.7 prompt_toolkit-3.0.47 pytz-2024.1 vine-5.1.0 wcwidth-0.2.13
+DEPRECATION: pip has selected celery==5.0.5 from https://files.pythonhosted.org/packages/95/79/d73247b42082076bb32c828e3361cda2604ee523aa3bfe972bdfabffc6d0/celery-5.0.5-py3-none-any.whl (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2213915.txt (line 1)) 5.0.5 which has non standard dependency specifier pytz>dev. In the future this version of celery==5.0.5 from https://files.pythonhosted.org/packages/95/79/d73247b42082076bb32c828e3361cda2604ee523aa3bfe972bdfabffc6d0/celery-5.0.5-py3-none-any.whl (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2213915.txt (line 1)) will be ignored as it isn't standard compliant. pip 23.3 will enforce this behaviour change. A possible replacement is set or update constraints to select another version or contact the package author to fix the version number. Discussion can be found at https://github.com/pypa/pip/issues/12063
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

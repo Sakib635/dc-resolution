@@ -1,0 +1,13 @@
+Collecting geopy==2.1.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.a67517621c2a9d4c2f14.txt (line 1))
+  Obtaining dependency information for geopy==2.1.0 from https://files.pythonhosted.org/packages/0c/67/915668d0e286caa21a1da82a85ffe3d20528ec7212777b43ccd027d94023/geopy-2.1.0-py3-none-any.whl.metadata
+  Downloading geopy-2.1.0-py3-none-any.whl.metadata (6.7 kB)
+Collecting geographiclib<2,>=1.49 (from geopy==2.1.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.a67517621c2a9d4c2f14.txt (line 1))
+  Obtaining dependency information for geographiclib<2,>=1.49 from https://files.pythonhosted.org/packages/df/60/d1d4c4944f9726228faa80fbe2206c8ddfd9757791b2de2facb8818c5d74/geographiclib-1.52-py3-none-any.whl.metadata
+  Downloading geographiclib-1.52-py3-none-any.whl.metadata (1.0 kB)
+Downloading geopy-2.1.0-py3-none-any.whl (112 kB)
+   -------------------------------------- 112.3/112.3 kB 816.3 kB/s eta 0:00:00
+Downloading geographiclib-1.52-py3-none-any.whl (38 kB)
+Would install geographiclib-1.52 geopy-2.1.0
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

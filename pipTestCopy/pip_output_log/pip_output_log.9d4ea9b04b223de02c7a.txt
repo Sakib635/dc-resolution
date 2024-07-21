@@ -1,0 +1,17 @@
+Collecting sark==7.4.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.9d4ea9b04b223de02c7a.txt (line 1))
+  Obtaining dependency information for sark==7.4.0 from https://files.pythonhosted.org/packages/2c/09/47bf3b5965030e19a5ddf5b343292822376b83694e117e7c6e577f17fce2/sark-7.4.0-py3-none-any.whl.metadata
+  Downloading sark-7.4.0-py3-none-any.whl.metadata (1.5 kB)
+Collecting networkx (from sark==7.4.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.9d4ea9b04b223de02c7a.txt (line 1))
+  Obtaining dependency information for networkx from https://files.pythonhosted.org/packages/38/e9/5f72929373e1a0e8d142a130f3f97e6ff920070f87f91c4e13e40e0fba5a/networkx-3.3-py3-none-any.whl.metadata
+  Downloading networkx-3.3-py3-none-any.whl.metadata (5.1 kB)
+Collecting wrapt (from sark==7.4.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.9d4ea9b04b223de02c7a.txt (line 1))
+  Obtaining dependency information for wrapt from https://files.pythonhosted.org/packages/5c/cc/8297f9658506b224aa4bd71906447dea6bb0ba629861a758c28f67428b91/wrapt-1.16.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading wrapt-1.16.0-cp312-cp312-win_amd64.whl.metadata (6.8 kB)
+Downloading sark-7.4.0-py3-none-any.whl (39 kB)
+Downloading networkx-3.3-py3-none-any.whl (1.7 MB)
+   ---------------------------------------- 1.7/1.7 MB 10.8 MB/s eta 0:00:00
+Downloading wrapt-1.16.0-cp312-cp312-win_amd64.whl (37 kB)
+Would install networkx-3.3 sark-7.4.0 wrapt-1.16.0
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

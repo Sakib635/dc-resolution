@@ -1,0 +1,27 @@
+Collecting pygit2==1.4.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.42472327b4be382b02eb.txt (line 1))
+  Downloading pygit2-1.4.0.tar.gz (244 kB)
+     -------------------------------------- 244.6/244.6 kB 1.4 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Installing backend dependencies: started
+  Installing backend dependencies: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting cffi>=1.4.0 (from pygit2==1.4.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.42472327b4be382b02eb.txt (line 1))
+  Obtaining dependency information for cffi>=1.4.0 from https://files.pythonhosted.org/packages/e9/63/e285470a4880a4f36edabe4810057bd4b562c6ddcc165eacf9c3c7210b40/cffi-1.16.0-cp312-cp312-win_amd64.whl.metadata
+  Using cached cffi-1.16.0-cp312-cp312-win_amd64.whl.metadata (1.5 kB)
+Collecting cached-property (from pygit2==1.4.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.42472327b4be382b02eb.txt (line 1))
+  Obtaining dependency information for cached-property from https://files.pythonhosted.org/packages/48/19/f2090f7dad41e225c7f2326e4cfe6fff49e57dedb5b53636c9551f86b069/cached_property-1.5.2-py2.py3-none-any.whl.metadata
+  Downloading cached_property-1.5.2-py2.py3-none-any.whl.metadata (11 kB)
+Collecting pycparser (from cffi>=1.4.0->pygit2==1.4.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.42472327b4be382b02eb.txt (line 1))
+  Obtaining dependency information for pycparser from https://files.pythonhosted.org/packages/13/a3/a812df4e2dd5696d1f351d58b8fe16a405b234ad2886a0dab9183fb78109/pycparser-2.22-py3-none-any.whl.metadata
+  Using cached pycparser-2.22-py3-none-any.whl.metadata (943 bytes)
+Using cached cffi-1.16.0-cp312-cp312-win_amd64.whl (181 kB)
+Downloading cached_property-1.5.2-py2.py3-none-any.whl (7.6 kB)
+Using cached pycparser-2.22-py3-none-any.whl (117 kB)
+Would install cached-property-1.5.2 cffi-1.16.0 pycparser-2.22 pygit2-1.4.0
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

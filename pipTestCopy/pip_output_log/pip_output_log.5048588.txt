@@ -1,0 +1,8 @@
+Collecting python_editor==1.0.4 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.5048588.txt (line 1))
+  Obtaining dependency information for python_editor==1.0.4 from https://files.pythonhosted.org/packages/c6/d3/201fc3abe391bbae6606e6f1d598c15d367033332bd54352b12f35513717/python_editor-1.0.4-py3-none-any.whl.metadata
+  Downloading python_editor-1.0.4-py3-none-any.whl.metadata (2.2 kB)
+Downloading python_editor-1.0.4-py3-none-any.whl (4.9 kB)
+Would install python-editor-1.0.4
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

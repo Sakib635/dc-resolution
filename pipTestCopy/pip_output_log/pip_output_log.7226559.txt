@@ -1,0 +1,35 @@
+Collecting beautifulsoup4==4.9.3 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.7226559.txt (line 1))
+  Obtaining dependency information for beautifulsoup4==4.9.3 from https://files.pythonhosted.org/packages/d1/41/e6495bd7d3781cee623ce23ea6ac73282a373088fcd0ddc809a047b18eae/beautifulsoup4-4.9.3-py3-none-any.whl.metadata
+  Downloading beautifulsoup4-4.9.3-py3-none-any.whl.metadata (4.2 kB)
+Collecting PySide==1.2.4 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.7226559.txt (line 2))
+  Downloading PySide-1.2.4.tar.gz (9.3 MB)
+     ---------------------------------------- 9.3/9.3 MB 7.3 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'error'
+  error: subprocess-exited-with-error
+  
+  Getting requirements to build wheel did not run successfully.
+  exit code: 1
+  
+  [5 lines of output]
+  <string>:1: SyntaxWarning: invalid escape sequence '\Q'
+  <string>:117: SyntaxWarning: invalid escape sequence '\d'
+  C:\Users\ASUS\AppData\Local\Temp\pip-install-_f1josmz\pyside_a50b5258e3484585a28e74184058d5b0\utils.py:501: SyntaxWarning: invalid escape sequence '\d'
+    '[\d.]+\)')
+  only these python versions are supported: [(2, 6), (2, 7), (3, 2), (3, 3), (3, 4)]
+  [end of output]
+  
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+error: subprocess-exited-with-error
+
+Getting requirements to build wheel did not run successfully.
+exit code: 1
+
+See above for output.
+
+note: This error originates from a subprocess, and is likely not a problem with pip.
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

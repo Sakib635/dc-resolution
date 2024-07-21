@@ -1,0 +1,66 @@
+Collecting AppKit==0.2.8 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8d36bc7ab765ee601403e90d1d2f303f.txt (line 1))
+  Downloading AppKit-0.2.8.tar.gz (7.6 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting mojo==0.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8d36bc7ab765ee601403e90d1d2f303f.txt (line 2))
+  Obtaining dependency information for mojo==0.1 from https://files.pythonhosted.org/packages/d7/e0/388f4f4dfa467ae33ad0d4ff2d364580ded3041dc7c24c45af092a41feb7/mojo-0.1-py3-none-any.whl.metadata
+  Downloading mojo-0.1-py3-none-any.whl.metadata (10 kB)
+Collecting flask (from AppKit==0.2.8->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8d36bc7ab765ee601403e90d1d2f303f.txt (line 1))
+  Obtaining dependency information for flask from https://files.pythonhosted.org/packages/61/80/ffe1da13ad9300f87c93af113edd0638c75138c42a0994becfacac078c06/flask-3.0.3-py3-none-any.whl.metadata
+  Downloading flask-3.0.3-py3-none-any.whl.metadata (3.2 kB)
+Collecting pygobject (from AppKit==0.2.8->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8d36bc7ab765ee601403e90d1d2f303f.txt (line 1))
+  Downloading pygobject-3.48.2.tar.gz (715 kB)
+     -------------------------------------- 715.2/715.2 kB 4.5 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Installing backend dependencies: started
+  Installing backend dependencies: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'error'
+  error: subprocess-exited-with-error
+  
+  Preparing metadata (pyproject.toml) did not run successfully.
+  exit code: 1
+  
+  [21 lines of output]
+  + meson setup C:\Users\ASUS\AppData\Local\Temp\pip-install-rtf3xfvv\pygobject_9215ec5be99248bb939c882f7ce50c04 C:\Users\ASUS\AppData\Local\Temp\pip-install-rtf3xfvv\pygobject_9215ec5be99248bb939c882f7ce50c04\.mesonpy-ahbsei7u -Dbuildtype=release -Db_ndebug=if-release -Db_vscrt=md -Dtests=false -Dwheel=true --wrap-mode=nofallback --native-file=C:\Users\ASUS\AppData\Local\Temp\pip-install-rtf3xfvv\pygobject_9215ec5be99248bb939c882f7ce50c04\.mesonpy-ahbsei7u\meson-python-native-file.ini
+  The Meson build system
+  Version: 1.5.0
+  Source dir: C:\Users\ASUS\AppData\Local\Temp\pip-install-rtf3xfvv\pygobject_9215ec5be99248bb939c882f7ce50c04
+  Build dir: C:\Users\ASUS\AppData\Local\Temp\pip-install-rtf3xfvv\pygobject_9215ec5be99248bb939c882f7ce50c04\.mesonpy-ahbsei7u
+  Build type: native build
+  Project name: pygobject
+  Project version: 3.48.2
+  WARNING: Failed to activate VS environment: Could not find C:\Program Files (x86)\Microsoft Visual Studio\Installer\vswhere.exe
+  
+  ..\meson.build:1:0: ERROR: Unknown compiler(s): [['icl'], ['cl'], ['cc'], ['gcc'], ['clang'], ['clang-cl'], ['pgcc']]
+  The following exception(s) were encountered:
+  Running `icl ""` gave "[WinError 2] The system cannot find the file specified"
+  Running `cl /?` gave "[WinError 2] The system cannot find the file specified"
+  Running `cc --version` gave "[WinError 2] The system cannot find the file specified"
+  Running `gcc --version` gave "[WinError 2] The system cannot find the file specified"
+  Running `clang --version` gave "[WinError 2] The system cannot find the file specified"
+  Running `clang-cl /?` gave "[WinError 2] The system cannot find the file specified"
+  Running `pgcc --version` gave "[WinError 2] The system cannot find the file specified"
+  
+  A full log can be found at C:\Users\ASUS\AppData\Local\Temp\pip-install-rtf3xfvv\pygobject_9215ec5be99248bb939c882f7ce50c04\.mesonpy-ahbsei7u\meson-logs\meson-log.txt
+  [end of output]
+  
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+error: metadata-generation-failed
+
+Encountered error while generating package metadata.
+
+See above for output.
+
+note: This is an issue with the package mentioned above, not pip.
+hint: See above for details.
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

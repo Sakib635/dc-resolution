@@ -1,0 +1,66 @@
+Filename,Error Messages
+pip_output_log.128.txt,ERROR: Invalid requirement: '<6.0' (from line 2 of D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.128.valinor.txt)
+pip_output_log.124.txt,ERROR: Invalid requirement: '<3' (from line 2 of D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.124.yotta.txt)
+pip_output_log.13.txt,ERROR: Invalid requirement: '<3' (from line 2 of D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.13.yotta.txt)
+pip_output_log.131.txt,"ERROR: Invalid requirement: ""acme=={0}'.format(version)"" (from line 1 of D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.131.certbot.txt)"
+pip_output_log.130.txt,"ERROR: Invalid requirement: ""acme=={0}'.format(version)"" (from line 1 of D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.130.certbot.txt)"
+pip_output_log.123.txt,"Getting requirements to build wheel: finished with status 'error'
+error: subprocess-exited-with-error
+ModuleNotFoundError: No module named 'ConfigParser'
+note: This error originates from a subprocess, and is likely not a problem with pip.
+error: subprocess-exited-with-error
+note: This error originates from a subprocess, and is likely not a problem with pip."
+pip_output_log.12.txt,ERROR: Invalid requirement: '<3.0.0' (from line 3 of D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.12.connexion.txt)
+pip_output_log.120.txt,"Getting requirements to build wheel: finished with status 'error'
+error: subprocess-exited-with-error
+ImportError: cannot import name 'MutableMapping' from 'collections' (C:\Python312\Lib\collections\__init__.py)
+note: This error originates from a subprocess, and is likely not a problem with pip.
+error: subprocess-exited-with-error
+note: This error originates from a subprocess, and is likely not a problem with pip."
+pip_output_log.113.txt,"Getting requirements to build wheel: finished with status 'error'
+error: subprocess-exited-with-error
+AttributeError: module 'collections' has no attribute 'Iterable'
+note: This error originates from a subprocess, and is likely not a problem with pip.
+error: subprocess-exited-with-error
+note: This error originates from a subprocess, and is likely not a problem with pip."
+pip_output_log.111.txt,ERROR: Invalid requirement: '<5' (from line 2 of D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.111.valinor.txt)
+pip_output_log.122.txt,"Preparing metadata (pyproject.toml): finished with status 'error'
+error: subprocess-exited-with-error
+error: Microsoft Visual C++ 14.0 or greater is required. Get it with ""Microsoft C++ Build Tools"": https://visualstudio.microsoft.com/visual-cpp-build-tools/
+note: This error originates from a subprocess, and is likely not a problem with pip.
+error: metadata-generation-failed
+Encountered error while generating package metadata."
+pip_output_log.112.txt,ERROR: Invalid requirement: '<2.10' (from line 3 of D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.112.glue.txt)
+pip_output_log.125.txt,"Getting requirements to build wheel: finished with status 'error'
+error: subprocess-exited-with-error
+AttributeError: module 'collections' has no attribute 'Iterable'
+note: This error originates from a subprocess, and is likely not a problem with pip.
+error: subprocess-exited-with-error
+note: This error originates from a subprocess, and is likely not a problem with pip."
+pip_output_log.103.txt,"ERROR: Some build dependencies for spacy<2.1,>=2.0 from https://files.pythonhosted.org/packages/67/5e/63283836960c97283ad20ae58ef62767e232fc351564a22a85df598fd794/spacy-2.0.18.tar.gz (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.103.allennlp.txt (line 6)) conflict with the backend dependencies: wheel==0.43.0 is incompatible with wheel>=0.32.0,<0.33.0."
+pip_output_log.108.txt,ERROR: Invalid requirement: '<3' (from line 2 of D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.108.yotta.txt)
+pip_output_log.100.txt,ERROR: Invalid requirement: '<3.1.0' (from line 2 of D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTest/watchman\requirements.100.requests.txt)
+pip_output_log.10.txt,"Getting requirements to build wheel: finished with status 'error'
+error: subprocess-exited-with-error
+error in fusepy setup command: use_2to3 is invalid.
+note: This error originates from a subprocess, and is likely not a problem with pip.
+error: subprocess-exited-with-error
+note: This error originates from a subprocess, and is likely not a problem with pip."
+pip_output_log.107.txt,"Getting requirements to build wheel: finished with status 'error'
+error: subprocess-exited-with-error
+error in Pillow setup command: use_2to3 is invalid.
+note: This error originates from a subprocess, and is likely not a problem with pip.
+error: subprocess-exited-with-error
+note: This error originates from a subprocess, and is likely not a problem with pip."
+pip_output_log.101.txt,"Getting requirements to build wheel: finished with status 'error'
+error: subprocess-exited-with-error
+ImportError: cannot import name 'Feature' from 'setuptools' (C:\Users\ASUS\AppData\Local\Temp\pip-build-env-iza38nof\overlay\Lib\site-packages\setuptools\__init__.py)
+note: This error originates from a subprocess, and is likely not a problem with pip.
+error: subprocess-exited-with-error
+note: This error originates from a subprocess, and is likely not a problem with pip."
+pip_output_log.140.txt,"Getting requirements to build wheel: finished with status 'error'
+error: subprocess-exited-with-error
+error in blessings setup command: use_2to3 is invalid.
+note: This error originates from a subprocess, and is likely not a problem with pip.
+error: subprocess-exited-with-error
+note: This error originates from a subprocess, and is likely not a problem with pip."

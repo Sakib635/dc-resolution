@@ -1,0 +1,18 @@
+Collecting mongoengine==0.22.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3009143.txt (line 1))
+  Obtaining dependency information for mongoengine==0.22.1 from https://files.pythonhosted.org/packages/c2/f0/dcc6bfd5b9a85d5022e0688736b14e0d12116b0ac001e0747b3765b731a7/mongoengine-0.22.1-py3-none-any.whl.metadata
+  Downloading mongoengine-0.22.1-py3-none-any.whl.metadata (6.3 kB)
+Collecting pymongo<4.0,>=3.4 (from mongoengine==0.22.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3009143.txt (line 1))
+  Downloading pymongo-3.13.0.tar.gz (804 kB)
+     -------------------------------------- 804.4/804.4 kB 3.6 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Downloading mongoengine-0.22.1-py3-none-any.whl (107 kB)
+   ---------------------------------------- 107.2/107.2 kB 6.1 MB/s eta 0:00:00
+Would install mongoengine-0.22.1 pymongo-3.13.0
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

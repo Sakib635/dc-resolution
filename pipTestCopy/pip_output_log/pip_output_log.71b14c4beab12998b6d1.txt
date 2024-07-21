@@ -1,0 +1,58 @@
+Collecting markdown2==2.3.10 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.71b14c4beab12998b6d1.txt (line 1))
+  Obtaining dependency information for markdown2==2.3.10 from https://files.pythonhosted.org/packages/a2/d2/6e6ab0d9387c332bf1de205522a8386b48e2dddf332ba6ad71b2ec371110/markdown2-2.3.10-py2.py3-none-any.whl.metadata
+  Downloading markdown2-2.3.10-py2.py3-none-any.whl.metadata (1.7 kB)
+Collecting xhtml2pdf==0.2.5 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.71b14c4beab12998b6d1.txt (line 2))
+  Downloading xhtml2pdf-0.2.5.tar.gz (100 kB)
+     ------------------------------------ 100.1/100.1 kB 719.1 kB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting html5lib>=1.0 (from xhtml2pdf==0.2.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.71b14c4beab12998b6d1.txt (line 2))
+  Obtaining dependency information for html5lib>=1.0 from https://files.pythonhosted.org/packages/6c/dd/a834df6482147d48e225a49515aabc28974ad5a4ca3215c18a882565b028/html5lib-1.1-py2.py3-none-any.whl.metadata
+  Downloading html5lib-1.1-py2.py3-none-any.whl.metadata (16 kB)
+Collecting pyPdf2 (from xhtml2pdf==0.2.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.71b14c4beab12998b6d1.txt (line 2))
+  Obtaining dependency information for pyPdf2 from https://files.pythonhosted.org/packages/8e/5e/c86a5643653825d3c913719e788e41386bee415c2b87b4f955432f2de6b2/pypdf2-3.0.1-py3-none-any.whl.metadata
+  Downloading pypdf2-3.0.1-py3-none-any.whl.metadata (6.8 kB)
+Collecting Pillow (from xhtml2pdf==0.2.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.71b14c4beab12998b6d1.txt (line 2))
+  Obtaining dependency information for Pillow from https://files.pythonhosted.org/packages/74/0a/d4ce3c44bca8635bd29a2eab5aa181b654a734a29b263ca8efe013beea98/pillow-10.4.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading pillow-10.4.0-cp312-cp312-win_amd64.whl.metadata (9.3 kB)
+Collecting reportlab>=3.3.0 (from xhtml2pdf==0.2.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.71b14c4beab12998b6d1.txt (line 2))
+  Obtaining dependency information for reportlab>=3.3.0 from https://files.pythonhosted.org/packages/08/69/1fadb986011de190d0a7c7df404e471b5ccd0d3d3df4b9bf095c29c22d21/reportlab-4.2.2-py3-none-any.whl.metadata
+  Downloading reportlab-4.2.2-py3-none-any.whl.metadata (1.4 kB)
+Collecting six (from xhtml2pdf==0.2.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.71b14c4beab12998b6d1.txt (line 2))
+  Obtaining dependency information for six from https://files.pythonhosted.org/packages/d9/5a/e7c31adbe875f2abbb91bd84cf2dc52d792b5a01506781dbcf25c91daf11/six-1.16.0-py2.py3-none-any.whl.metadata
+  Downloading six-1.16.0-py2.py3-none-any.whl.metadata (1.8 kB)
+Collecting python-bidi>=0.4.2 (from xhtml2pdf==0.2.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.71b14c4beab12998b6d1.txt (line 2))
+  Obtaining dependency information for python-bidi>=0.4.2 from https://files.pythonhosted.org/packages/33/b0/f942d146a2f457233baaafd6bdf624eba8e0f665045b4abd69d1b62d097d/python_bidi-0.4.2-py2.py3-none-any.whl.metadata
+  Downloading python_bidi-0.4.2-py2.py3-none-any.whl.metadata (4.6 kB)
+Collecting arabic-reshaper>=2.1.0 (from xhtml2pdf==0.2.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.71b14c4beab12998b6d1.txt (line 2))
+  Obtaining dependency information for arabic-reshaper>=2.1.0 from https://files.pythonhosted.org/packages/44/fb/e20b45d81d74d810b01bff408baf8af04abf1d55a1a289c8395ad0919a7c/arabic_reshaper-3.0.0-py3-none-any.whl.metadata
+  Downloading arabic_reshaper-3.0.0-py3-none-any.whl.metadata (12 kB)
+Collecting webencodings (from html5lib>=1.0->xhtml2pdf==0.2.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.71b14c4beab12998b6d1.txt (line 2))
+  Obtaining dependency information for webencodings from https://files.pythonhosted.org/packages/f4/24/2a3e3df732393fed8b3ebf2ec078f05546de641fe1b667ee316ec1dcf3b7/webencodings-0.5.1-py2.py3-none-any.whl.metadata
+  Downloading webencodings-0.5.1-py2.py3-none-any.whl.metadata (2.1 kB)
+Collecting chardet (from reportlab>=3.3.0->xhtml2pdf==0.2.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.71b14c4beab12998b6d1.txt (line 2))
+  Obtaining dependency information for chardet from https://files.pythonhosted.org/packages/38/6f/f5fbc992a329ee4e0f288c1fe0e2ad9485ed064cac731ed2fe47dcc38cbf/chardet-5.2.0-py3-none-any.whl.metadata
+  Downloading chardet-5.2.0-py3-none-any.whl.metadata (3.4 kB)
+Downloading markdown2-2.3.10-py2.py3-none-any.whl (34 kB)
+Downloading arabic_reshaper-3.0.0-py3-none-any.whl (20 kB)
+Downloading html5lib-1.1-py2.py3-none-any.whl (112 kB)
+   ---------------------------------------- 112.2/112.2 kB 3.3 MB/s eta 0:00:00
+Downloading python_bidi-0.4.2-py2.py3-none-any.whl (30 kB)
+Downloading reportlab-4.2.2-py3-none-any.whl (1.9 MB)
+   ---------------------------------------- 1.9/1.9 MB 17.6 MB/s eta 0:00:00
+Downloading pillow-10.4.0-cp312-cp312-win_amd64.whl (2.6 MB)
+   ---------------------------------------- 2.6/2.6 MB 27.1 MB/s eta 0:00:00
+Downloading six-1.16.0-py2.py3-none-any.whl (11 kB)
+Downloading pypdf2-3.0.1-py3-none-any.whl (232 kB)
+   --------------------------------------- 232.6/232.6 kB 13.9 MB/s eta 0:00:00
+Downloading chardet-5.2.0-py3-none-any.whl (199 kB)
+   --------------------------------------- 199.4/199.4 kB 11.8 MB/s eta 0:00:00
+Downloading webencodings-0.5.1-py2.py3-none-any.whl (11 kB)
+Would install PyPDF2-3.0.1 arabic-reshaper-3.0.0 chardet-5.2.0 html5lib-1.1 markdown2-2.3.10 pillow-10.4.0 python-bidi-0.4.2 reportlab-4.2.2 six-1.16.0 webencodings-0.5.1 xhtml2pdf-0.2.5
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

@@ -1,0 +1,8 @@
+Collecting ipython==7.19.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.6194738.txt (line 1))
+  Obtaining dependency information for ipython==7.19.0 from https://files.pythonhosted.org/packages/e0/c7/1c91a71b413c82cd4c49fb8b6676f6135650cd2cca2745a96bd84a56166c/ipython-7.19.0-py3-none-any.whl.metadata
+  Downloading ipython-7.19.0-py3-none-any.whl.metadata (4.2 kB)
+ERROR: Could not find a version that satisfies the requirement ROOT==0.0.1 (from versions: none)
+ERROR: No matching distribution found for ROOT==0.0.1
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

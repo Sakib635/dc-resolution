@@ -1,0 +1,23 @@
+Collecting pywinauto==0.6.8 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3721106.txt (line 1))
+  Obtaining dependency information for pywinauto==0.6.8 from https://files.pythonhosted.org/packages/ba/44/fba89cdd8330999f342f3560c779084c45b012805a53d38732edfe95f0ee/pywinauto-0.6.8-py2.py3-none-any.whl.metadata
+  Downloading pywinauto-0.6.8-py2.py3-none-any.whl.metadata (1.7 kB)
+Collecting six (from pywinauto==0.6.8->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3721106.txt (line 1))
+  Obtaining dependency information for six from https://files.pythonhosted.org/packages/d9/5a/e7c31adbe875f2abbb91bd84cf2dc52d792b5a01506781dbcf25c91daf11/six-1.16.0-py2.py3-none-any.whl.metadata
+  Downloading six-1.16.0-py2.py3-none-any.whl.metadata (1.8 kB)
+Collecting comtypes (from pywinauto==0.6.8->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3721106.txt (line 1))
+  Obtaining dependency information for comtypes from https://files.pythonhosted.org/packages/c1/c9/6a9bd7daf0f02d4a10319f80a36f3ad1b85d1fde14f69bf730599cdc7eae/comtypes-1.4.5-py3-none-any.whl.metadata
+  Downloading comtypes-1.4.5-py3-none-any.whl.metadata (6.4 kB)
+Collecting pywin32 (from pywinauto==0.6.8->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3721106.txt (line 1))
+  Obtaining dependency information for pywin32 from https://files.pythonhosted.org/packages/83/1c/25b79fc3ec99b19b0a0730cc47356f7e2959863bf9f3cd314332bddb4f68/pywin32-306-cp312-cp312-win_amd64.whl.metadata
+  Downloading pywin32-306-cp312-cp312-win_amd64.whl.metadata (6.5 kB)
+Downloading pywinauto-0.6.8-py2.py3-none-any.whl (362 kB)
+   ---------------------------------------- 362.9/362.9 kB 3.2 MB/s eta 0:00:00
+Downloading comtypes-1.4.5-py3-none-any.whl (219 kB)
+   --------------------------------------- 219.4/219.4 kB 13.1 MB/s eta 0:00:00
+Downloading pywin32-306-cp312-cp312-win_amd64.whl (9.2 MB)
+   ---------------------------------------- 9.2/9.2 MB 17.4 MB/s eta 0:00:00
+Downloading six-1.16.0-py2.py3-none-any.whl (11 kB)
+Would install comtypes-1.4.5 pywin32-306 pywinauto-0.6.8 six-1.16.0
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

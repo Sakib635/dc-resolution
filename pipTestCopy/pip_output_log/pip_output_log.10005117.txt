@@ -1,0 +1,24 @@
+Collecting word2vec==0.11.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.10005117.txt (line 1))
+  Downloading word2vec-0.11.1.tar.gz (42 kB)
+     -------------------------------------- 42.3/42.3 kB 294.3 kB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting numpy>=1.9.2 (from word2vec==0.11.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.10005117.txt (line 1))
+  Obtaining dependency information for numpy>=1.9.2 from https://files.pythonhosted.org/packages/ad/9c/4a93b8e395b755c53628573d75d7b21985d9a0f416e978d637084ccc8ec3/numpy-2.0.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading numpy-2.0.0-cp312-cp312-win_amd64.whl.metadata (60 kB)
+     ---------------------------------------- 60.9/60.9 kB 1.1 MB/s eta 0:00:00
+Collecting joblib (from word2vec==0.11.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.10005117.txt (line 1))
+  Obtaining dependency information for joblib from https://files.pythonhosted.org/packages/91/29/df4b9b42f2be0b623cbd5e2140cafcaa2bef0759a00b7b70104dcfe2fb51/joblib-1.4.2-py3-none-any.whl.metadata
+  Downloading joblib-1.4.2-py3-none-any.whl.metadata (5.4 kB)
+Downloading numpy-2.0.0-cp312-cp312-win_amd64.whl (16.2 MB)
+   ---------------------------------------- 16.2/16.2 MB 13.9 MB/s eta 0:00:00
+Downloading joblib-1.4.2-py3-none-any.whl (301 kB)
+   --------------------------------------- 301.8/301.8 kB 19.4 MB/s eta 0:00:00
+Would install joblib-1.4.2 numpy-2.0.0 word2vec-0.11.1
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

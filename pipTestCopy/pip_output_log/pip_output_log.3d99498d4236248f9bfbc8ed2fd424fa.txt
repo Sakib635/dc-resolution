@@ -1,0 +1,77 @@
+Collecting h2o==3.32.0.3 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3d99498d4236248f9bfbc8ed2fd424fa.txt (line 1))
+  Downloading h2o-3.32.0.3.tar.gz (164.6 MB)
+     -------------------------------------- 164.6/164.6 MB 1.4 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting scikit_learn==0.24.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3d99498d4236248f9bfbc8ed2fd424fa.txt (line 2))
+  Downloading scikit-learn-0.24.0.tar.gz (7.4 MB)
+     ---------------------------------------- 7.4/7.4 MB 11.5 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting requests (from h2o==3.32.0.3->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3d99498d4236248f9bfbc8ed2fd424fa.txt (line 1))
+  Obtaining dependency information for requests from https://files.pythonhosted.org/packages/f9/9b/335f9764261e915ed497fcdeb11df5dfd6f7bf257d4a6a2a686d80da4d54/requests-2.32.3-py3-none-any.whl.metadata
+  Downloading requests-2.32.3-py3-none-any.whl.metadata (4.6 kB)
+Collecting tabulate (from h2o==3.32.0.3->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3d99498d4236248f9bfbc8ed2fd424fa.txt (line 1))
+  Obtaining dependency information for tabulate from https://files.pythonhosted.org/packages/40/44/4a5f08c96eb108af5cb50b41f76142f0afa346dfa99d5296fe7202a11854/tabulate-0.9.0-py3-none-any.whl.metadata
+  Downloading tabulate-0.9.0-py3-none-any.whl.metadata (34 kB)
+Collecting future (from h2o==3.32.0.3->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3d99498d4236248f9bfbc8ed2fd424fa.txt (line 1))
+  Obtaining dependency information for future from https://files.pythonhosted.org/packages/da/71/ae30dadffc90b9006d77af76b393cb9dfbfc9629f339fc1574a1c52e6806/future-1.0.0-py3-none-any.whl.metadata
+  Downloading future-1.0.0-py3-none-any.whl.metadata (4.0 kB)
+Collecting colorama>=0.3.8 (from h2o==3.32.0.3->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3d99498d4236248f9bfbc8ed2fd424fa.txt (line 1))
+  Obtaining dependency information for colorama>=0.3.8 from https://files.pythonhosted.org/packages/d1/d6/3965ed04c63042e047cb6a3e6ed1a63a35087b6a609aa3a15ed8ac56c221/colorama-0.4.6-py2.py3-none-any.whl.metadata
+  Downloading colorama-0.4.6-py2.py3-none-any.whl.metadata (17 kB)
+Collecting numpy>=1.13.3 (from scikit_learn==0.24.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3d99498d4236248f9bfbc8ed2fd424fa.txt (line 2))
+  Obtaining dependency information for numpy>=1.13.3 from https://files.pythonhosted.org/packages/ad/9c/4a93b8e395b755c53628573d75d7b21985d9a0f416e978d637084ccc8ec3/numpy-2.0.0-cp312-cp312-win_amd64.whl.metadata
+  Using cached numpy-2.0.0-cp312-cp312-win_amd64.whl.metadata (60 kB)
+Collecting scipy>=0.19.1 (from scikit_learn==0.24.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3d99498d4236248f9bfbc8ed2fd424fa.txt (line 2))
+  Obtaining dependency information for scipy>=0.19.1 from https://files.pythonhosted.org/packages/3f/72/305686527c68f33f1dd3ebdd28f53340d372b2f9e44dccaf6f92e17739d3/scipy-1.14.0-cp312-cp312-win_amd64.whl.metadata
+  Using cached scipy-1.14.0-cp312-cp312-win_amd64.whl.metadata (60 kB)
+Collecting joblib>=0.11 (from scikit_learn==0.24.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3d99498d4236248f9bfbc8ed2fd424fa.txt (line 2))
+  Obtaining dependency information for joblib>=0.11 from https://files.pythonhosted.org/packages/91/29/df4b9b42f2be0b623cbd5e2140cafcaa2bef0759a00b7b70104dcfe2fb51/joblib-1.4.2-py3-none-any.whl.metadata
+  Downloading joblib-1.4.2-py3-none-any.whl.metadata (5.4 kB)
+Collecting threadpoolctl>=2.0.0 (from scikit_learn==0.24.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3d99498d4236248f9bfbc8ed2fd424fa.txt (line 2))
+  Obtaining dependency information for threadpoolctl>=2.0.0 from https://files.pythonhosted.org/packages/4b/2c/ffbf7a134b9ab11a67b0cf0726453cedd9c5043a4fe7a35d1cefa9a1bcfb/threadpoolctl-3.5.0-py3-none-any.whl.metadata
+  Downloading threadpoolctl-3.5.0-py3-none-any.whl.metadata (13 kB)
+Collecting charset-normalizer<4,>=2 (from requests->h2o==3.32.0.3->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3d99498d4236248f9bfbc8ed2fd424fa.txt (line 1))
+  Obtaining dependency information for charset-normalizer<4,>=2 from https://files.pythonhosted.org/packages/b6/7c/8debebb4f90174074b827c63242c23851bdf00a532489fba57fef3416e40/charset_normalizer-3.3.2-cp312-cp312-win_amd64.whl.metadata
+  Downloading charset_normalizer-3.3.2-cp312-cp312-win_amd64.whl.metadata (34 kB)
+Collecting idna<4,>=2.5 (from requests->h2o==3.32.0.3->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3d99498d4236248f9bfbc8ed2fd424fa.txt (line 1))
+  Obtaining dependency information for idna<4,>=2.5 from https://files.pythonhosted.org/packages/e5/3e/741d8c82801c347547f8a2a06aa57dbb1992be9e948df2ea0eda2c8b79e8/idna-3.7-py3-none-any.whl.metadata
+  Downloading idna-3.7-py3-none-any.whl.metadata (9.9 kB)
+Collecting urllib3<3,>=1.21.1 (from requests->h2o==3.32.0.3->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3d99498d4236248f9bfbc8ed2fd424fa.txt (line 1))
+  Obtaining dependency information for urllib3<3,>=1.21.1 from https://files.pythonhosted.org/packages/ca/1c/89ffc63a9605b583d5df2be791a27bc1a42b7c32bab68d3c8f2f73a98cd4/urllib3-2.2.2-py3-none-any.whl.metadata
+  Downloading urllib3-2.2.2-py3-none-any.whl.metadata (6.4 kB)
+Collecting certifi>=2017.4.17 (from requests->h2o==3.32.0.3->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3d99498d4236248f9bfbc8ed2fd424fa.txt (line 1))
+  Obtaining dependency information for certifi>=2017.4.17 from https://files.pythonhosted.org/packages/1c/d5/c84e1a17bf61d4df64ca866a1c9a913874b4e9bdc131ec689a0ad013fb36/certifi-2024.7.4-py3-none-any.whl.metadata
+  Downloading certifi-2024.7.4-py3-none-any.whl.metadata (2.2 kB)
+Downloading colorama-0.4.6-py2.py3-none-any.whl (25 kB)
+Downloading joblib-1.4.2-py3-none-any.whl (301 kB)
+   --------------------------------------- 301.8/301.8 kB 18.2 MB/s eta 0:00:00
+Using cached numpy-2.0.0-cp312-cp312-win_amd64.whl (16.2 MB)
+Using cached scipy-1.14.0-cp312-cp312-win_amd64.whl (44.5 MB)
+Downloading threadpoolctl-3.5.0-py3-none-any.whl (18 kB)
+Downloading future-1.0.0-py3-none-any.whl (491 kB)
+   ---------------------------------------- 491.3/491.3 kB 2.6 MB/s eta 0:00:00
+Downloading requests-2.32.3-py3-none-any.whl (64 kB)
+   ---------------------------------------- 64.9/64.9 kB 390.6 kB/s eta 0:00:00
+Downloading tabulate-0.9.0-py3-none-any.whl (35 kB)
+Downloading certifi-2024.7.4-py3-none-any.whl (162 kB)
+   ---------------------------------------- 163.0/163.0 kB ? eta 0:00:00
+Downloading charset_normalizer-3.3.2-cp312-cp312-win_amd64.whl (100 kB)
+   ---------------------------------------- 100.4/100.4 kB 5.6 MB/s eta 0:00:00
+Downloading idna-3.7-py3-none-any.whl (66 kB)
+   ---------------------------------------- 66.8/66.8 kB 3.5 MB/s eta 0:00:00
+Downloading urllib3-2.2.2-py3-none-any.whl (121 kB)
+   ---------------------------------------- 121.4/121.4 kB 7.0 MB/s eta 0:00:00
+Would install certifi-2024.7.4 charset-normalizer-3.3.2 colorama-0.4.6 future-1.0.0 h2o-3.32.0.3 idna-3.7 joblib-1.4.2 numpy-2.0.0 requests-2.32.3 scikit-learn-0.24.0 scipy-1.14.0 tabulate-0.9.0 threadpoolctl-3.5.0 urllib3-2.2.2
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

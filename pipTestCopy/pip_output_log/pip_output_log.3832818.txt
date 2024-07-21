@@ -1,0 +1,79 @@
+Collecting Django==3.1.5 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3832818.txt (line 1))
+  Obtaining dependency information for Django==3.1.5 from https://files.pythonhosted.org/packages/b2/8f/d27f35f0639103271231bc81a96ad9188e6b5bc878e140ccb0dc610ccef0/Django-3.1.5-py3-none-any.whl.metadata
+  Downloading Django-3.1.5-py3-none-any.whl.metadata (3.7 kB)
+Collecting django_cms==3.8.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3832818.txt (line 2))
+  Obtaining dependency information for django_cms==3.8.0 from https://files.pythonhosted.org/packages/91/23/9a519d97dbdc0f0347f69020e06322011aea472728819eeb7df477b1da45/django_cms-3.8.0-py2.py3-none-any.whl.metadata
+  Downloading django_cms-3.8.0-py2.py3-none-any.whl.metadata (6.4 kB)
+Collecting asgiref<4,>=3.2.10 (from Django==3.1.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3832818.txt (line 1))
+  Obtaining dependency information for asgiref<4,>=3.2.10 from https://files.pythonhosted.org/packages/39/e3/893e8757be2612e6c266d9bb58ad2e3651524b5b40cf56761e985a28b13e/asgiref-3.8.1-py3-none-any.whl.metadata
+  Downloading asgiref-3.8.1-py3-none-any.whl.metadata (9.3 kB)
+Collecting pytz (from Django==3.1.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3832818.txt (line 1))
+  Obtaining dependency information for pytz from https://files.pythonhosted.org/packages/9c/3d/a121f284241f08268b21359bd425f7d4825cffc5ac5cd0e1b3d82ffd2b10/pytz-2024.1-py2.py3-none-any.whl.metadata
+  Downloading pytz-2024.1-py2.py3-none-any.whl.metadata (22 kB)
+Collecting sqlparse>=0.2.2 (from Django==3.1.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3832818.txt (line 1))
+  Obtaining dependency information for sqlparse>=0.2.2 from https://files.pythonhosted.org/packages/5d/a5/b2860373aa8de1e626b2bdfdd6df4355f0565b47e51f7d0c54fe70faf8fe/sqlparse-0.5.1-py3-none-any.whl.metadata
+  Downloading sqlparse-0.5.1-py3-none-any.whl.metadata (3.9 kB)
+Collecting django-classy-tags>=0.7.2 (from django_cms==3.8.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3832818.txt (line 2))
+  Obtaining dependency information for django-classy-tags>=0.7.2 from https://files.pythonhosted.org/packages/6d/10/13afc12b7d9657ed67f8d49c1cf0585a4331b197ed98ea654e9ed8034e79/django_classy_tags-4.1.0-py3-none-any.whl.metadata
+  Downloading django_classy_tags-4.1.0-py3-none-any.whl.metadata (5.3 kB)
+Collecting django-formtools>=2.1 (from django_cms==3.8.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3832818.txt (line 2))
+  Obtaining dependency information for django-formtools>=2.1 from https://files.pythonhosted.org/packages/12/63/91a107e3aaaf3987bad036494dfd8cc2675f4a66d22e65ffd6711f84ba70/django_formtools-2.5.1-py3-none-any.whl.metadata
+  Downloading django_formtools-2.5.1-py3-none-any.whl.metadata (3.7 kB)
+Collecting django-treebeard>=4.3 (from django_cms==3.8.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3832818.txt (line 2))
+  Obtaining dependency information for django-treebeard>=4.3 from https://files.pythonhosted.org/packages/87/79/259966820614746cc4d81762edf97a53bf1e3b8e74797c010d310c6f4a8f/django_treebeard-4.7.1-py3-none-any.whl.metadata
+  Downloading django_treebeard-4.7.1-py3-none-any.whl.metadata (2.7 kB)
+Collecting django-sekizai>=0.7 (from django_cms==3.8.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3832818.txt (line 2))
+  Obtaining dependency information for django-sekizai>=0.7 from https://files.pythonhosted.org/packages/c9/4f/8d1df68be504d7664cdeae7279134e77cf15babe2a5911b50f3e31d493f2/django_sekizai-4.1.0-py3-none-any.whl.metadata
+  Downloading django_sekizai-4.1.0-py3-none-any.whl.metadata (4.6 kB)
+Collecting djangocms-admin-style>=1.2 (from django_cms==3.8.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3832818.txt (line 2))
+  Obtaining dependency information for djangocms-admin-style>=1.2 from https://files.pythonhosted.org/packages/a6/f2/e0ed0cf8036708f7b7a26a4586a27b5e53891cf8d965f1e4751bf4f50de3/djangocms_admin_style-3.3.1-py3-none-any.whl.metadata
+  Downloading djangocms_admin_style-3.3.1-py3-none-any.whl.metadata (10 kB)
+INFO: pip is looking at multiple versions of django-classy-tags to determine which version is compatible with other requirements. This could take a while.
+Collecting django-classy-tags>=0.7.2 (from django_cms==3.8.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3832818.txt (line 2))
+  Obtaining dependency information for django-classy-tags>=0.7.2 from https://files.pythonhosted.org/packages/62/e5/23ee1273ed5464baa0655137bcd4a5fec45eaa6a6e9007f83d667374fb09/django_classy_tags-4.0.0-py3-none-any.whl.metadata
+  Downloading django_classy_tags-4.0.0-py3-none-any.whl.metadata (5.2 kB)
+  Obtaining dependency information for django-classy-tags>=0.7.2 from https://files.pythonhosted.org/packages/8e/d3/3e1a59e73849dc3493ae0457f4e344a880bdacb53265a60546918f498242/django_classy_tags-3.0.1-py3-none-any.whl.metadata
+  Downloading django_classy_tags-3.0.1-py3-none-any.whl.metadata (5.3 kB)
+INFO: pip is looking at multiple versions of django-formtools to determine which version is compatible with other requirements. This could take a while.
+Collecting django-formtools>=2.1 (from django_cms==3.8.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3832818.txt (line 2))
+  Obtaining dependency information for django-formtools>=2.1 from https://files.pythonhosted.org/packages/a2/08/3eb9d16d7e605f5ed0a31c7df707ec8f5c6b9ca59a0d8b4b00edb1479f4d/django_formtools-2.4.1-py3-none-any.whl.metadata
+  Downloading django_formtools-2.4.1-py3-none-any.whl.metadata (3.9 kB)
+  Obtaining dependency information for django-formtools>=2.1 from https://files.pythonhosted.org/packages/d0/c3/1799c92ef57fee815aee99bb2a1ee59be05cc0b0fc59f199d689f16c6b0c/django_formtools-2.4-py3-none-any.whl.metadata
+  Downloading django_formtools-2.4-py3-none-any.whl.metadata (3.9 kB)
+INFO: pip is looking at multiple versions of django-sekizai to determine which version is compatible with other requirements. This could take a while.
+Collecting django-sekizai>=0.7 (from django_cms==3.8.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3832818.txt (line 2))
+  Obtaining dependency information for django-sekizai>=0.7 from https://files.pythonhosted.org/packages/92/4e/a6ea39a7b8ce9ef3aa533d4c95995dc53756d4ebde834f22d107b47f1e8d/django_sekizai-4.0.0-py3-none-any.whl.metadata
+  Downloading django_sekizai-4.0.0-py3-none-any.whl.metadata (4.6 kB)
+  Obtaining dependency information for django-sekizai>=0.7 from https://files.pythonhosted.org/packages/27/a5/250605754c06fffc3a910ecba5b20482d59593c2f52dde02409fc3e153a7/django_sekizai-3.0.1-py3-none-any.whl.metadata
+  Downloading django_sekizai-3.0.1-py3-none-any.whl.metadata (4.6 kB)
+INFO: pip is looking at multiple versions of django-treebeard to determine which version is compatible with other requirements. This could take a while.
+Collecting django-treebeard>=4.3 (from django_cms==3.8.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3832818.txt (line 2))
+  Obtaining dependency information for django-treebeard>=4.3 from https://files.pythonhosted.org/packages/a0/18/d5aac51c76ebe861ed144971a485b2f60aaad1b577a9fb3480495fddef3c/django_treebeard-4.7-py3-none-any.whl.metadata
+  Downloading django_treebeard-4.7-py3-none-any.whl.metadata (2.6 kB)
+  Obtaining dependency information for django-treebeard>=4.3 from https://files.pythonhosted.org/packages/73/16/f9e43cbdd193aefabad02500c9778bd2fad01c5a50f655f1fbd1307789e3/django_treebeard-4.6.1-py3-none-any.whl.metadata
+  Downloading django_treebeard-4.6.1-py3-none-any.whl.metadata (2.6 kB)
+  Obtaining dependency information for django-treebeard>=4.3 from https://files.pythonhosted.org/packages/47/a1/b711310b5302d151a9846a826de63b91b7654e0a27bfb71e370add9f07dc/django_treebeard-4.6.0-py3-none-any.whl.metadata
+  Downloading django_treebeard-4.6.0-py3-none-any.whl.metadata (2.6 kB)
+  Obtaining dependency information for django-treebeard>=4.3 from https://files.pythonhosted.org/packages/a4/a7/a0359f322d9e843514d95577ee8e64c1662bc4f7764a4d7acc9a9fd66a68/django_treebeard-4.5.1-py3-none-any.whl.metadata
+  Downloading django_treebeard-4.5.1-py3-none-any.whl.metadata (2.8 kB)
+Downloading Django-3.1.5-py3-none-any.whl (7.8 MB)
+   ---------------------------------------- 7.8/7.8 MB 10.9 MB/s eta 0:00:00
+Downloading django_cms-3.8.0-py2.py3-none-any.whl (2.7 MB)
+   ---------------------------------------- 2.7/2.7 MB 15.7 MB/s eta 0:00:00
+Downloading asgiref-3.8.1-py3-none-any.whl (23 kB)
+Downloading django_classy_tags-3.0.1-py3-none-any.whl (14 kB)
+Downloading django_formtools-2.4-py3-none-any.whl (154 kB)
+   ---------------------------------------- 154.4/154.4 kB 9.6 MB/s eta 0:00:00
+Downloading django_sekizai-3.0.1-py3-none-any.whl (8.6 kB)
+Downloading django_treebeard-4.5.1-py3-none-any.whl (103 kB)
+   ---------------------------------------- 103.8/103.8 kB 5.8 MB/s eta 0:00:00
+Downloading djangocms_admin_style-3.3.1-py3-none-any.whl (408 kB)
+   --------------------------------------- 408.8/408.8 kB 12.9 MB/s eta 0:00:00
+Downloading sqlparse-0.5.1-py3-none-any.whl (44 kB)
+   ---------------------------------------- 44.2/44.2 kB 2.1 MB/s eta 0:00:00
+Downloading pytz-2024.1-py2.py3-none-any.whl (505 kB)
+   --------------------------------------- 505.5/505.5 kB 10.5 MB/s eta 0:00:00
+Would install Django-3.1.5 asgiref-3.8.1 django-classy-tags-3.0.1 django-cms-3.8.0 django-formtools-2.4 django-sekizai-3.0.1 django-treebeard-4.5.1 djangocms-admin-style-3.3.1 pytz-2024.1 sqlparse-0.5.1
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

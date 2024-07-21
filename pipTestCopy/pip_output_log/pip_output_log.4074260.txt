@@ -1,0 +1,346 @@
+Collecting zope==5.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for zope==5.1 from https://files.pythonhosted.org/packages/7d/9c/daced877aa30d30e143bbc43d6d45e53da01dab1daa7c8d7658846ae83b7/Zope-5.1-py3-none-any.whl.metadata
+  Downloading Zope-5.1-py3-none-any.whl.metadata (15 kB)
+Collecting AccessControl>=4.2 (from zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for AccessControl>=4.2 from https://files.pythonhosted.org/packages/d0/4f/eae267724a4482756adb5ae03b3af7e4ea51ab87bad748ced9880537c591/AccessControl-7.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading AccessControl-7.0-cp312-cp312-win_amd64.whl.metadata (10 kB)
+Collecting Acquisition (from zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for Acquisition from https://files.pythonhosted.org/packages/63/08/324560b49bacda3e8aafc0251bfc44f769f8e9fb1b8e1720b825defde779/Acquisition-6.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading Acquisition-6.0-cp312-cp312-win_amd64.whl.metadata (25 kB)
+Collecting BTrees (from zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for BTrees from https://files.pythonhosted.org/packages/5f/25/1200de33a933ad29a340155c61fb63edf77ce666888d88db2af8892408cb/BTrees-6.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading BTrees-6.0-cp312-cp312-win_amd64.whl.metadata (21 kB)
+Collecting Chameleon>=3.7.0 (from zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for Chameleon>=3.7.0 from https://files.pythonhosted.org/packages/c3/93/81bdaab379a5908876a1029e73fa85e2d90fe04cbc1c2200b3179bc19a75/Chameleon-4.5.4-py3-none-any.whl.metadata
+  Downloading Chameleon-4.5.4-py3-none-any.whl.metadata (51 kB)
+     ---------------------------------------- 51.3/51.3 kB 1.3 MB/s eta 0:00:00
+Collecting DateTime (from zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for DateTime from https://files.pythonhosted.org/packages/f3/78/8e382b8cb4346119e2e04270b6eb4a01c5ee70b47a8a0244ecdb157204f7/DateTime-5.5-py3-none-any.whl.metadata
+  Downloading DateTime-5.5-py3-none-any.whl.metadata (33 kB)
+Collecting DocumentTemplate>=4.0 (from zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for DocumentTemplate>=4.0 from https://files.pythonhosted.org/packages/29/34/71e07eeac40f191d5a152f2704d2150d252c8ae0f0fb5cd75451d89c1347/DocumentTemplate-4.6-py3-none-any.whl.metadata
+  Downloading DocumentTemplate-4.6-py3-none-any.whl.metadata (7.6 kB)
+Collecting ExtensionClass (from zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for ExtensionClass from https://files.pythonhosted.org/packages/88/5e/f082b77b17b76f86591972139134a96cfeca3ae021bfc51225d2541ee6bb/ExtensionClass-5.1-cp312-cp312-win_amd64.whl.metadata
+  Downloading ExtensionClass-5.1-cp312-cp312-win_amd64.whl.metadata (6.4 kB)
+Collecting MultiMapping (from zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for MultiMapping from https://files.pythonhosted.org/packages/b0/c3/a23cd25567320bde3410bdb4ab9c0d1c4a29a3d62044e157fe413261b39f/MultiMapping-5.0-py3-none-any.whl.metadata
+  Downloading MultiMapping-5.0-py3-none-any.whl.metadata (1.8 kB)
+Collecting PasteDeploy (from zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for PasteDeploy from https://files.pythonhosted.org/packages/85/30/cdddd9a88969683a59222a6d61cd6dce923977f2e9f9ffba38e1324149cd/PasteDeploy-3.1.0-py3-none-any.whl.metadata
+  Downloading PasteDeploy-3.1.0-py3-none-any.whl.metadata (2.7 kB)
+Collecting Persistence (from zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for Persistence from https://files.pythonhosted.org/packages/ae/4c/e910371cbfe8f0fde61becf308bd61065516eeeb9b955ae5e384a338ac1a/Persistence-5.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading Persistence-5.0-cp312-cp312-win_amd64.whl.metadata (4.4 kB)
+Collecting RestrictedPython (from zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for RestrictedPython from https://files.pythonhosted.org/packages/86/98/f9559cdb2b78de54f6986cd796d5aa292c961cdf40b46f8453a2d9bf2de7/RestrictedPython-7.1-py3-none-any.whl.metadata
+  Downloading RestrictedPython-7.1-py3-none-any.whl.metadata (12 kB)
+Collecting ZConfig>=2.9.2 (from zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for ZConfig>=2.9.2 from https://files.pythonhosted.org/packages/28/08/be06689f803bf69591fd5939c0eeb5faa669a020effce0650ce36cc02796/ZConfig-4.1-py3-none-any.whl.metadata
+  Downloading ZConfig-4.1-py3-none-any.whl.metadata (17 kB)
+Collecting ZODB (from zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for ZODB from https://files.pythonhosted.org/packages/29/5d/8604d9eefc656459f487fae4ef1d70f930d9290212ca995de7efb2430a59/ZODB-6.0-py3-none-any.whl.metadata
+  Downloading ZODB-6.0-py3-none-any.whl.metadata (24 kB)
+Collecting setuptools>=36.2 (from zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for setuptools>=36.2 from https://files.pythonhosted.org/packages/01/82/a2c6c0a1612c89bdb21dc4d9196ba9e7dcbc2e285afda93ebdf663ba2ada/setuptools-71.0.0-py3-none-any.whl.metadata
+  Downloading setuptools-71.0.0-py3-none-any.whl.metadata (6.5 kB)
+Collecting transaction>=2.4 (from zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for transaction>=2.4 from https://files.pythonhosted.org/packages/fa/42/0c8b2fdf178bfa0a4d79eddafa1cf2d8ff0686d266347efbfd65edf63708/transaction-4.0-py3-none-any.whl.metadata
+  Downloading transaction-4.0-py3-none-any.whl.metadata (14 kB)
+Collecting waitress (from zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for waitress from https://files.pythonhosted.org/packages/5b/a9/485c953a1ac4cb98c28e41fd2c7184072df36bbf99734a51d44d04176878/waitress-3.0.0-py3-none-any.whl.metadata
+  Downloading waitress-3.0.0-py3-none-any.whl.metadata (4.2 kB)
+Collecting zExceptions>=3.4 (from zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for zExceptions>=3.4 from https://files.pythonhosted.org/packages/6c/4d/8158d3f93c7eac8c94e0cff3ce5472335f46c5dc2f8c572742e9996e7aa1/zExceptions-5.0-py3-none-any.whl.metadata
+  Downloading zExceptions-5.0-py3-none-any.whl.metadata (3.4 kB)
+Collecting z3c.pt (from zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for z3c.pt from https://files.pythonhosted.org/packages/ac/13/2340dcb1cf2a11120296bbb2ad445bafa4679243d89572f68f82c0916e42/z3c.pt-4.3-py3-none-any.whl.metadata
+  Downloading z3c.pt-4.3-py3-none-any.whl.metadata (47 kB)
+     ---------------------------------------- 47.6/47.6 kB ? eta 0:00:00
+Collecting zope.browser (from zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for zope.browser from https://files.pythonhosted.org/packages/11/b4/e82a492fc4d3626ae0fe4d4717b1b04f3427704c33b7a1fb336d5bb03c12/zope.browser-3.0-py3-none-any.whl.metadata
+  Downloading zope.browser-3.0-py3-none-any.whl.metadata (4.4 kB)
+Collecting zope.browsermenu (from zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for zope.browsermenu from https://files.pythonhosted.org/packages/cb/0f/7c2c754f9128a5b114c6b99c566dd1f7263b67371405cd28facdfa9f02a7/zope.browsermenu-5.0-py3-none-any.whl.metadata
+  Downloading zope.browsermenu-5.0-py3-none-any.whl.metadata (4.1 kB)
+Collecting zope.browserpage>=4.4.0.dev0 (from zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for zope.browserpage>=4.4.0.dev0 from https://files.pythonhosted.org/packages/c2/f4/882df7f21a3d92d73a21ae30a03d109894af36666ae13b69401f3cfe4b0b/zope.browserpage-5.0-py3-none-any.whl.metadata
+  Downloading zope.browserpage-5.0-py3-none-any.whl.metadata (5.4 kB)
+Collecting zope.browserresource>=3.11 (from zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for zope.browserresource>=3.11 from https://files.pythonhosted.org/packages/e7/ef/4b45d882fca365a9b67a0fc760875c082e7f917c14e384915c0fec2e7fc1/zope.browserresource-5.1-py3-none-any.whl.metadata
+  Downloading zope.browserresource-5.1-py3-none-any.whl.metadata (9.3 kB)
+Collecting zope.component (from zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for zope.component from https://files.pythonhosted.org/packages/a0/ea/18a5e07ce7f66714aa289ba21c5bc52221bffc3a77d6e4318d50e8a0a3f7/zope.component-6.0-py3-none-any.whl.metadata
+  Downloading zope.component-6.0-py3-none-any.whl.metadata (18 kB)
+Collecting zope.configuration (from zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for zope.configuration from https://files.pythonhosted.org/packages/9f/cf/b813f033145e50fac20fdeca374ab5ecd3a0f5fef0032a0ca8dc81ce8800/zope.configuration-5.0.1-py3-none-any.whl.metadata
+  Downloading zope.configuration-5.0.1-py3-none-any.whl.metadata (11 kB)
+Collecting zope.container (from zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for zope.container from https://files.pythonhosted.org/packages/7e/f0/2ab41c4b6a51bbda4807081506b9679a083e391810de31234ba64a6eba44/zope.container-6.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading zope.container-6.0-cp312-cp312-win_amd64.whl.metadata (15 kB)
+Collecting zope.contentprovider (from zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for zope.contentprovider from https://files.pythonhosted.org/packages/f6/09/2d9a44c1b0ce075ac9e2f4456d25316c7d0b8dce94c6e1fc2574d96202e1/zope.contentprovider-6.0-py3-none-any.whl.metadata
+  Downloading zope.contentprovider-6.0-py3-none-any.whl.metadata (6.0 kB)
+Collecting zope.contenttype (from zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for zope.contenttype from https://files.pythonhosted.org/packages/19/42/7b13bcca3fdf4f5970faf4b1be8904716a291e0b61451695615834a1d1dc/zope.contenttype-5.1-py3-none-any.whl.metadata
+  Downloading zope.contenttype-5.1-py3-none-any.whl.metadata (5.3 kB)
+Collecting zope.deferredimport (from zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for zope.deferredimport from https://files.pythonhosted.org/packages/69/f7/b5e232857f4d511b2628697bf2e48fca55ea4ed75b1432efd1bf024fbd12/zope.deferredimport-5.0-py3-none-any.whl.metadata
+  Downloading zope.deferredimport-5.0-py3-none-any.whl.metadata (5.1 kB)
+Collecting zope.event (from zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for zope.event from https://files.pythonhosted.org/packages/fe/42/f8dbc2b9ad59e927940325a22d6d3931d630c3644dae7e2369ef5d9ba230/zope.event-5.0-py3-none-any.whl.metadata
+  Downloading zope.event-5.0-py3-none-any.whl.metadata (4.4 kB)
+Collecting zope.exceptions (from zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for zope.exceptions from https://files.pythonhosted.org/packages/8d/13/a5afe5d179f650d3d08b54e4036a4ebe83e0e7d64af27007d6fab9baf57c/zope.exceptions-5.1-py3-none-any.whl.metadata
+  Downloading zope.exceptions-5.1-py3-none-any.whl.metadata (8.6 kB)
+Collecting zope.globalrequest (from zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for zope.globalrequest from https://files.pythonhosted.org/packages/fa/68/6b21fd5c6f0f84d3e99e2c782159328ea4a4ee26eacd58e39ce9d2ff177c/zope.globalrequest-2.0-py3-none-any.whl.metadata
+  Downloading zope.globalrequest-2.0-py3-none-any.whl.metadata (3.3 kB)
+Collecting zope.i18n[zcml] (from zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for zope.i18n[zcml] from https://files.pythonhosted.org/packages/97/9a/38ede849d657685a1677cf4e7de3dcda21e55dd88e79c4adb634e1f1e940/zope.i18n-5.1-py3-none-any.whl.metadata
+  Downloading zope.i18n-5.1-py3-none-any.whl.metadata (13 kB)
+Collecting zope.i18nmessageid (from zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for zope.i18nmessageid from https://files.pythonhosted.org/packages/3a/9b/16dbd64a4f83ca40054f9d94322e2c76583c809814c23e2df9488459257f/zope.i18nmessageid-6.1.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading zope.i18nmessageid-6.1.0-cp312-cp312-win_amd64.whl.metadata (9.0 kB)
+Collecting zope.interface>=3.8 (from zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for zope.interface>=3.8 from https://files.pythonhosted.org/packages/19/68/4a5bb890be19a934878b68acab8b09e93d34613cccb576026016bffb5de5/zope.interface-6.4.post2-cp312-cp312-win_amd64.whl.metadata
+  Downloading zope.interface-6.4.post2-cp312-cp312-win_amd64.whl.metadata (44 kB)
+     ---------------------------------------- 44.1/44.1 kB 1.1 MB/s eta 0:00:00
+Collecting zope.lifecycleevent (from zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for zope.lifecycleevent from https://files.pythonhosted.org/packages/56/a3/f39def1937fbc94d080be0c1f064f101637140420d1935834f7f06185e11/zope.lifecycleevent-5.0-py3-none-any.whl.metadata
+  Downloading zope.lifecycleevent-5.0-py3-none-any.whl.metadata (6.0 kB)
+Collecting zope.location (from zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for zope.location from https://files.pythonhosted.org/packages/e2/7c/e444a20656d06eb993a0c1901063250399177d1d3632dda729542813681c/zope.location-5.0-py3-none-any.whl.metadata
+  Downloading zope.location-5.0-py3-none-any.whl.metadata (9.7 kB)
+Collecting zope.pagetemplate>=4.0.2 (from zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for zope.pagetemplate>=4.0.2 from https://files.pythonhosted.org/packages/a3/fb/b2e7ef002bb38c88e2ea8247415554c8f6f3661fcdeee0fbbe4eeeebea4c/zope.pagetemplate-5.1-py3-none-any.whl.metadata
+  Downloading zope.pagetemplate-5.1-py3-none-any.whl.metadata (9.6 kB)
+Collecting zope.processlifetime (from zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for zope.processlifetime from https://files.pythonhosted.org/packages/6c/5b/f5f4e8363b308b463667d42fe7ff3a01dcd74eb21330e6b5cb37c346d565/zope.processlifetime-3.0-py3-none-any.whl.metadata
+  Downloading zope.processlifetime-3.0-py3-none-any.whl.metadata (3.9 kB)
+Collecting zope.proxy (from zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for zope.proxy from https://files.pythonhosted.org/packages/10/35/e9b66bc6f7769c2cad484d85b8e3ffbbb79231cde97a66275f3cc9cff514/zope.proxy-5.2-cp312-cp312-win_amd64.whl.metadata
+  Downloading zope.proxy-5.2-cp312-cp312-win_amd64.whl.metadata (12 kB)
+Collecting zope.ptresource (from zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for zope.ptresource from https://files.pythonhosted.org/packages/b0/4c/88f4472d3cf2224d7877ba894987f23f7d23f5633deb9d5f9cac3c418a69/zope.ptresource-5.0-py3-none-any.whl.metadata
+  Downloading zope.ptresource-5.0-py3-none-any.whl.metadata (4.4 kB)
+Collecting zope.publisher (from zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for zope.publisher from https://files.pythonhosted.org/packages/5e/5e/3716350a425147ba1c4c73d3fc1ba740d97e581683a9daa95736128f8d70/zope.publisher-7.0-py3-none-any.whl.metadata
+  Downloading zope.publisher-7.0-py3-none-any.whl.metadata (21 kB)
+Collecting zope.schema (from zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for zope.schema from https://files.pythonhosted.org/packages/1d/97/517e3f5f4258bcc6491c806474a26e1a799bb99ec44ed95d22010caabc25/zope.schema-7.0.1-py3-none-any.whl.metadata
+  Downloading zope.schema-7.0.1-py3-none-any.whl.metadata (24 kB)
+Collecting zope.security (from zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for zope.security from https://files.pythonhosted.org/packages/5d/2f/53be49aa6f610d0c9f970dbbc5db3d910be062bac044351a18f5c3c7c760/zope.security-7.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading zope.security-7.0-cp312-cp312-win_amd64.whl.metadata (25 kB)
+Collecting zope.sequencesort (from zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for zope.sequencesort from https://files.pythonhosted.org/packages/60/8f/e0bdfdd1a0315469e57c23661f37dcb679800b24ece64f6bc2a9d7dc8755/zope.sequencesort-5.0-py3-none-any.whl.metadata
+  Downloading zope.sequencesort-5.0-py3-none-any.whl.metadata (3.9 kB)
+Collecting zope.site (from zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for zope.site from https://files.pythonhosted.org/packages/af/a7/728eb22ce8e15f4a70cba9a14bd7b0cae4979fe6faf710bc790a357e805a/zope.site-5.0-py3-none-any.whl.metadata
+  Downloading zope.site-5.0-py3-none-any.whl.metadata (20 kB)
+Collecting zope.size (from zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for zope.size from https://files.pythonhosted.org/packages/36/18/9d02077feb06605d24cb6ed1604b0313f9619700781c3bb546d72afaf221/zope.size-5.0-py3-none-any.whl.metadata
+  Downloading zope.size-5.0-py3-none-any.whl.metadata (4.6 kB)
+Collecting zope.tal (from zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for zope.tal from https://files.pythonhosted.org/packages/95/11/7347999cf60f7a40e0062ea38955ab004c973fe58a8ad42099e4ac553bdc/zope.tal-5.0.1-py3-none-any.whl.metadata
+  Downloading zope.tal-5.0.1-py3-none-any.whl.metadata (7.5 kB)
+Collecting zope.tales>=5.0.2 (from zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for zope.tales>=5.0.2 from https://files.pythonhosted.org/packages/a1/43/6080465e19e35dbee4c8512694858210e872181f2f706e53010840779669/zope.tales-6.0-py3-none-any.whl.metadata
+  Downloading zope.tales-6.0-py3-none-any.whl.metadata (6.6 kB)
+Collecting zope.testbrowser (from zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for zope.testbrowser from https://files.pythonhosted.org/packages/84/77/7e1cd9022a41bb3294b735f460b8a7ec59c3d0ba0e8b1f84d8a3674615e0/zope.testbrowser-7.0-py3-none-any.whl.metadata
+  Downloading zope.testbrowser-7.0-py3-none-any.whl.metadata (19 kB)
+Collecting zope.testing (from zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for zope.testing from https://files.pythonhosted.org/packages/82/eb/d09f00ea8c73cfbf8d0d72109fca19808c283b1d0da701b1be9c40b99e42/zope.testing-5.0.1-py3-none-any.whl.metadata
+  Downloading zope.testing-5.0.1-py3-none-any.whl.metadata (19 kB)
+Collecting zope.traversing (from zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for zope.traversing from https://files.pythonhosted.org/packages/d9/47/34fdb495867649747ddea10d7c9e83f7a1d8bcecdf86eeb4d46ed123faed/zope.traversing-5.0-py3-none-any.whl.metadata
+  Downloading zope.traversing-5.0-py3-none-any.whl.metadata (12 kB)
+Collecting zope.viewlet (from zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for zope.viewlet from https://files.pythonhosted.org/packages/fe/bc/5dccf8db564dce1cb621ddce4687ea380f75e045bb92494ff84cd5aa3cae/zope.viewlet-5.0-py3-none-any.whl.metadata
+  Downloading zope.viewlet-5.0-py3-none-any.whl.metadata (5.9 kB)
+Collecting AuthEncoding (from AccessControl>=4.2->zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for AuthEncoding from https://files.pythonhosted.org/packages/95/bd/5d09fb6cdd06203e9e43feb23a0f29030e373e4672af116e5195b83e9d13/AuthEncoding-5.0-py3-none-any.whl.metadata
+  Downloading AuthEncoding-5.0-py3-none-any.whl.metadata (2.7 kB)
+Collecting RestrictedPython (from zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for RestrictedPython from https://files.pythonhosted.org/packages/0e/e5/70f05a1adb479875d6b430fa0dc65bdb756c4df16f756af14d36d0d5eeea/RestrictedPython-7.2a1.dev0-py3-none-any.whl.metadata
+  Downloading RestrictedPython-7.2a1.dev0-py3-none-any.whl.metadata (12 kB)
+Collecting roman (from DocumentTemplate>=4.0->zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for roman from https://files.pythonhosted.org/packages/87/e7/9206aa493875e116272aa71d152c6ea1570cad7395a904fea11050a47fbd/roman-4.2-py3-none-any.whl.metadata
+  Downloading roman-4.2-py3-none-any.whl.metadata (3.6 kB)
+Collecting zope.structuredtext (from DocumentTemplate>=4.0->zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for zope.structuredtext from https://files.pythonhosted.org/packages/33/01/6dd11051048313f8a0c8e418d7790bb1af43488900cb82b104bca7a63ae8/zope.structuredtext-5.0-py3-none-any.whl.metadata
+  Downloading zope.structuredtext-5.0-py3-none-any.whl.metadata (4.3 kB)
+Collecting persistent>=4.1.1 (from Persistence->zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for persistent>=4.1.1 from https://files.pythonhosted.org/packages/88/e2/a5d8f7f4e41ec655d4157f18a124c6671705ed434e1ee94e8ab802277bd8/persistent-6.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading persistent-6.0-cp312-cp312-win_amd64.whl.metadata (21 kB)
+Collecting zope.hookable>=4.2.0 (from zope.component->zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for zope.hookable>=4.2.0 from https://files.pythonhosted.org/packages/bd/14/ed6f18060130110d0e27ceed75e511380c2babee99f703e16704926be50c/zope.hookable-6.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading zope.hookable-6.0-cp312-cp312-win_amd64.whl.metadata (6.0 kB)
+Collecting multipart (from zope.publisher->zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for multipart from https://files.pythonhosted.org/packages/be/87/17c98656b50d04dc694f5f417eb58bc0e5a6a3cffe18c6996d910279a72b/multipart-0.2.5-py3-none-any.whl.metadata
+  Downloading multipart-0.2.5-py3-none-any.whl.metadata (1.1 kB)
+Collecting pytz (from DateTime->zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for pytz from https://files.pythonhosted.org/packages/9c/3d/a121f284241f08268b21359bd425f7d4825cffc5ac5cd0e1b3d82ffd2b10/pytz-2024.1-py2.py3-none-any.whl.metadata
+  Downloading pytz-2024.1-py2.py3-none-any.whl.metadata (22 kB)
+Collecting zc.lockfile (from ZODB->zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for zc.lockfile from https://files.pythonhosted.org/packages/a7/aa/47f00f32605177a945f3a1b36a1b2bb9a39260566541280fcee27cbff5cf/zc.lockfile-3.0.post1-py3-none-any.whl.metadata
+  Downloading zc.lockfile-3.0.post1-py3-none-any.whl.metadata (6.2 kB)
+Collecting zodbpickle>=1.0.1 (from ZODB->zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for zodbpickle>=1.0.1 from https://files.pythonhosted.org/packages/60/35/57cd26d5258b75958ff4d5a48567f5751861ff37cbf642547aeceb1bf81b/zodbpickle-4.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading zodbpickle-4.0-cp312-cp312-win_amd64.whl.metadata (13 kB)
+Collecting zope.cachedescriptors (from zope.container->zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for zope.cachedescriptors from https://files.pythonhosted.org/packages/a9/3b/508a9a15414f5ccc9b0aa2dc13acd87159f664ff1e5058bbfd1e4853f501/zope.cachedescriptors-5.0-py3-none-any.whl.metadata
+  Downloading zope.cachedescriptors-5.0-py3-none-any.whl.metadata (17 kB)
+Collecting zope.dottedname (from zope.container->zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for zope.dottedname from https://files.pythonhosted.org/packages/5b/5f/04026e33ceea0347d60ceb9605523fc30183cf180f0bd165f9b674478007/zope.dottedname-6.0-py3-none-any.whl.metadata
+  Downloading zope.dottedname-6.0-py3-none-any.whl.metadata (3.4 kB)
+Collecting zope.filerepresentation (from zope.container->zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for zope.filerepresentation from https://files.pythonhosted.org/packages/91/02/8100ac284eab14a6f2cfce4454cb0bc39c55cc9c3d34d1a9c0deec768219/zope.filerepresentation-6.0-py3-none-any.whl.metadata
+  Downloading zope.filerepresentation-6.0-py3-none-any.whl.metadata (4.6 kB)
+Collecting python-gettext (from zope.i18n[zcml]->zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for python-gettext from https://files.pythonhosted.org/packages/0d/e7/70b80ec3480b9c453366a396e31eaa2f00b5a6824e1600d23f796e848b6b/python_gettext-5.0-py3-none-any.whl.metadata
+  Downloading python_gettext-5.0-py3-none-any.whl.metadata (4.6 kB)
+Collecting zope.deprecation (from zope.i18n[zcml]->zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for zope.deprecation from https://files.pythonhosted.org/packages/c8/7d/24a23d4d6d93744babfb99266eeb97a25ceae58c0f841a872b51c45ee214/zope.deprecation-5.0-py3-none-any.whl.metadata
+  Downloading zope.deprecation-5.0-py3-none-any.whl.metadata (5.1 kB)
+Collecting zope.annotation (from zope.site->zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for zope.annotation from https://files.pythonhosted.org/packages/a9/1f/a0540cb8d297f835ee1afaa32ee9065ae0555fefe6264a2483f8069276bc/zope.annotation-5.0-py3-none-any.whl.metadata
+  Downloading zope.annotation-5.0-py3-none-any.whl.metadata (6.6 kB)
+Collecting WebTest>=2.0.30 (from zope.testbrowser->zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for WebTest>=2.0.30 from https://files.pythonhosted.org/packages/41/c7/3897bd62366cb4a50bfb411d37efca9fa33bf07a7c1c22fce8f6ad2664ff/WebTest-3.0.0-py3-none-any.whl.metadata
+  Downloading WebTest-3.0.0-py3-none-any.whl.metadata (1.8 kB)
+Collecting BeautifulSoup4 (from zope.testbrowser->zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for BeautifulSoup4 from https://files.pythonhosted.org/packages/b1/fe/e8c672695b37eecc5cbf43e1d0638d88d66ba3a44c4d321c796f4e59167f/beautifulsoup4-4.12.3-py3-none-any.whl.metadata
+  Downloading beautifulsoup4-4.12.3-py3-none-any.whl.metadata (3.8 kB)
+Collecting SoupSieve>=1.9.0 (from zope.testbrowser->zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for SoupSieve>=1.9.0 from https://files.pythonhosted.org/packages/4c/f3/038b302fdfbe3be7da016777069f26ceefe11a681055ea1f7817546508e3/soupsieve-2.5-py3-none-any.whl.metadata
+  Downloading soupsieve-2.5-py3-none-any.whl.metadata (4.7 kB)
+Collecting WSGIProxy2 (from zope.testbrowser->zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for WSGIProxy2 from https://files.pythonhosted.org/packages/4f/b9/472013e536aa22eba099becd8d1c8cddc1fd900303c60c75a643a59e41a3/WSGIProxy2-0.5.1-py3-none-any.whl.metadata
+  Downloading WSGIProxy2-0.5.1-py3-none-any.whl.metadata (2.7 kB)
+Collecting cffi (from persistent>=4.1.1->Persistence->zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for cffi from https://files.pythonhosted.org/packages/e9/63/e285470a4880a4f36edabe4810057bd4b562c6ddcc165eacf9c3c7210b40/cffi-1.16.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading cffi-1.16.0-cp312-cp312-win_amd64.whl.metadata (1.5 kB)
+Collecting WebOb>=1.2 (from WebTest>=2.0.30->zope.testbrowser->zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for WebOb>=1.2 from https://files.pythonhosted.org/packages/62/9c/e94a9982e9f31fc35cf46cdc543a6c2c26cb7174635b5fd25b0bbc6a7bc0/WebOb-1.8.7-py2.py3-none-any.whl.metadata
+  Downloading WebOb-1.8.7-py2.py3-none-any.whl.metadata (10 kB)
+Collecting pycparser (from cffi->persistent>=4.1.1->Persistence->zope==5.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4074260.txt (line 1))
+  Obtaining dependency information for pycparser from https://files.pythonhosted.org/packages/13/a3/a812df4e2dd5696d1f351d58b8fe16a405b234ad2886a0dab9183fb78109/pycparser-2.22-py3-none-any.whl.metadata
+  Downloading pycparser-2.22-py3-none-any.whl.metadata (943 bytes)
+Downloading Zope-5.1-py3-none-any.whl (2.9 MB)
+   ---------------------------------------- 2.9/2.9 MB 15.2 MB/s eta 0:00:00
+Downloading AccessControl-7.0-cp312-cp312-win_amd64.whl (143 kB)
+   ---------------------------------------- 143.0/143.0 kB ? eta 0:00:00
+Downloading Chameleon-4.5.4-py3-none-any.whl (88 kB)
+   ---------------------------------------- 88.2/88.2 kB 4.9 MB/s eta 0:00:00
+Downloading DocumentTemplate-4.6-py3-none-any.whl (87 kB)
+   ---------------------------------------- 87.0/87.0 kB 4.8 MB/s eta 0:00:00
+Downloading ExtensionClass-5.1-cp312-cp312-win_amd64.whl (58 kB)
+   ---------------------------------------- 58.4/58.4 kB ? eta 0:00:00
+Downloading Persistence-5.0-cp312-cp312-win_amd64.whl (19 kB)
+Downloading RestrictedPython-7.2a1.dev0-py3-none-any.whl (26 kB)
+Downloading setuptools-71.0.0-py3-none-any.whl (908 kB)
+   --------------------------------------- 908.4/908.4 kB 28.1 MB/s eta 0:00:00
+Downloading transaction-4.0-py3-none-any.whl (46 kB)
+   ---------------------------------------- 46.6/46.6 kB 2.3 MB/s eta 0:00:00
+Downloading ZConfig-4.1-py3-none-any.whl (131 kB)
+   ---------------------------------------- 131.5/131.5 kB ? eta 0:00:00
+Downloading zExceptions-5.0-py3-none-any.whl (17 kB)
+Downloading zope.browserpage-5.0-py3-none-any.whl (32 kB)
+Downloading zope.browserresource-5.1-py3-none-any.whl (40 kB)
+   ---------------------------------------- 40.6/40.6 kB ? eta 0:00:00
+Downloading zope.component-6.0-py3-none-any.whl (68 kB)
+   ---------------------------------------- 68.8/68.8 kB 3.7 MB/s eta 0:00:00
+Downloading zope.contenttype-5.1-py3-none-any.whl (14 kB)
+Downloading zope.interface-6.4.post2-cp312-cp312-win_amd64.whl (206 kB)
+   --------------------------------------- 206.5/206.5 kB 13.1 MB/s eta 0:00:00
+Downloading zope.pagetemplate-5.1-py3-none-any.whl (44 kB)
+   ---------------------------------------- 45.0/45.0 kB 2.2 MB/s eta 0:00:00
+Downloading zope.publisher-7.0-py3-none-any.whl (119 kB)
+   ---------------------------------------- 119.3/119.3 kB 6.8 MB/s eta 0:00:00
+Downloading zope.security-7.0-cp312-cp312-win_amd64.whl (127 kB)
+   ---------------------------------------- 127.2/127.2 kB 3.8 MB/s eta 0:00:00
+Downloading zope.proxy-5.2-cp312-cp312-win_amd64.whl (40 kB)
+   ---------------------------------------- 40.4/40.4 kB ? eta 0:00:00
+Downloading zope.schema-7.0.1-py3-none-any.whl (85 kB)
+   ---------------------------------------- 85.9/85.9 kB 2.4 MB/s eta 0:00:00
+Downloading zope.tal-5.0.1-py3-none-any.whl (135 kB)
+   ---------------------------------------- 135.9/135.9 kB 8.4 MB/s eta 0:00:00
+Downloading zope.tales-6.0-py3-none-any.whl (30 kB)
+Downloading zope.traversing-5.0-py3-none-any.whl (47 kB)
+   ---------------------------------------- 47.6/47.6 kB 2.3 MB/s eta 0:00:00
+Downloading zope.location-5.0-py3-none-any.whl (19 kB)
+Downloading Acquisition-6.0-cp312-cp312-win_amd64.whl (65 kB)
+   ---------------------------------------- 65.6/65.6 kB 3.5 MB/s eta 0:00:00
+Downloading BTrees-6.0-cp312-cp312-win_amd64.whl (1.0 MB)
+   ---------------------------------------- 1.0/1.0 MB 13.1 MB/s eta 0:00:00
+Downloading DateTime-5.5-py3-none-any.whl (52 kB)
+   ---------------------------------------- 52.6/52.6 kB 2.7 MB/s eta 0:00:00
+Downloading MultiMapping-5.0-py3-none-any.whl (4.3 kB)
+Downloading PasteDeploy-3.1.0-py3-none-any.whl (16 kB)
+Downloading waitress-3.0.0-py3-none-any.whl (56 kB)
+   ---------------------------------------- 56.7/56.7 kB 3.1 MB/s eta 0:00:00
+Downloading z3c.pt-4.3-py3-none-any.whl (40 kB)
+   ---------------------------------------- 40.2/40.2 kB 1.9 MB/s eta 0:00:00
+Downloading ZODB-6.0-py3-none-any.whl (417 kB)
+   --------------------------------------- 417.8/417.8 kB 25.5 MB/s eta 0:00:00
+Downloading zope.browser-3.0-py3-none-any.whl (7.6 kB)
+Downloading zope.browsermenu-5.0-py3-none-any.whl (30 kB)
+Downloading zope.configuration-5.0.1-py3-none-any.whl (79 kB)
+   ---------------------------------------- 79.0/79.0 kB 4.3 MB/s eta 0:00:00
+Downloading zope.container-6.0-cp312-cp312-win_amd64.whl (77 kB)
+   ---------------------------------------- 78.0/78.0 kB 4.2 MB/s eta 0:00:00
+Downloading zope.lifecycleevent-5.0-py3-none-any.whl (18 kB)
+Downloading zope.contentprovider-6.0-py3-none-any.whl (11 kB)
+Downloading zope.deferredimport-5.0-py3-none-any.whl (10.0 kB)
+Downloading zope.event-5.0-py3-none-any.whl (6.8 kB)
+Downloading zope.exceptions-5.1-py3-none-any.whl (19 kB)
+Downloading zope.globalrequest-2.0-py3-none-any.whl (5.7 kB)
+Downloading zope.i18nmessageid-6.1.0-cp312-cp312-win_amd64.whl (19 kB)
+Downloading zope.processlifetime-3.0-py3-none-any.whl (5.9 kB)
+Downloading zope.ptresource-5.0-py3-none-any.whl (7.6 kB)
+Downloading zope.sequencesort-5.0-py3-none-any.whl (11 kB)
+Downloading zope.site-5.0-py3-none-any.whl (30 kB)
+Downloading zope.size-5.0-py3-none-any.whl (7.9 kB)
+Downloading zope.testbrowser-7.0-py3-none-any.whl (63 kB)
+   ---------------------------------------- 63.5/63.5 kB 3.3 MB/s eta 0:00:00
+Downloading zope.testing-5.0.1-py3-none-any.whl (37 kB)
+Downloading zope.viewlet-5.0-py3-none-any.whl (33 kB)
+Downloading persistent-6.0-cp312-cp312-win_amd64.whl (127 kB)
+   ---------------------------------------- 127.7/127.7 kB ? eta 0:00:00
+Downloading soupsieve-2.5-py3-none-any.whl (36 kB)
+Downloading WebTest-3.0.0-py3-none-any.whl (31 kB)
+Downloading zodbpickle-4.0-cp312-cp312-win_amd64.whl (141 kB)
+   ---------------------------------------- 141.7/141.7 kB ? eta 0:00:00
+Downloading zope.hookable-6.0-cp312-cp312-win_amd64.whl (17 kB)
+Downloading zope.i18n-5.1-py3-none-any.whl (798 kB)
+   --------------------------------------- 798.8/798.8 kB 25.4 MB/s eta 0:00:00
+Downloading AuthEncoding-5.0-py3-none-any.whl (8.7 kB)
+Downloading beautifulsoup4-4.12.3-py3-none-any.whl (147 kB)
+   ---------------------------------------- 147.9/147.9 kB ? eta 0:00:00
+Downloading multipart-0.2.5-py3-none-any.whl (7.4 kB)
+Downloading python_gettext-5.0-py3-none-any.whl (13 kB)
+Downloading pytz-2024.1-py2.py3-none-any.whl (505 kB)
+   --------------------------------------- 505.5/505.5 kB 16.0 MB/s eta 0:00:00
+Downloading roman-4.2-py3-none-any.whl (5.5 kB)
+Downloading WSGIProxy2-0.5.1-py3-none-any.whl (9.2 kB)
+Downloading zc.lockfile-3.0.post1-py3-none-any.whl (9.8 kB)
+Downloading zope.annotation-5.0-py3-none-any.whl (14 kB)
+Downloading zope.cachedescriptors-5.0-py3-none-any.whl (13 kB)
+Downloading zope.deprecation-5.0-py3-none-any.whl (10 kB)
+Downloading zope.dottedname-6.0-py3-none-any.whl (6.4 kB)
+Downloading zope.filerepresentation-6.0-py3-none-any.whl (8.3 kB)
+Downloading zope.structuredtext-5.0-py3-none-any.whl (92 kB)
+   ---------------------------------------- 92.5/92.5 kB 5.1 MB/s eta 0:00:00
+Downloading WebOb-1.8.7-py2.py3-none-any.whl (114 kB)
+   ---------------------------------------- 115.0/115.0 kB 6.5 MB/s eta 0:00:00
+Downloading cffi-1.16.0-cp312-cp312-win_amd64.whl (181 kB)
+   ---------------------------------------- 182.0/182.0 kB ? eta 0:00:00
+Downloading pycparser-2.22-py3-none-any.whl (117 kB)
+   ---------------------------------------- 117.6/117.6 kB 7.2 MB/s eta 0:00:00
+Would install AccessControl-7.0 Acquisition-6.0 AuthEncoding-5.0 BTrees-6.0 Chameleon-4.5.4 DateTime-5.5 DocumentTemplate-4.6 ExtensionClass-5.1 MultiMapping-5.0 PasteDeploy-3.1.0 Persistence-5.0 RestrictedPython-7.2a1.dev0 WSGIProxy2-0.5.1 WebOb-1.8.7 WebTest-3.0.0 ZConfig-4.1 ZODB-6.0 Zope-5.1 beautifulsoup4-4.12.3 cffi-1.16.0 multipart-0.2.5 persistent-6.0 pycparser-2.22 python-gettext-5.0 pytz-2024.1 roman-4.2 setuptools-71.0.0 soupsieve-2.5 transaction-4.0 waitress-3.0.0 z3c.pt-4.3 zExceptions-5.0 zc.lockfile-3.0.post1 zodbpickle-4.0 zope.annotation-5.0 zope.browser-3.0 zope.browsermenu-5.0 zope.browserpage-5.0 zope.browserresource-5.1 zope.cachedescriptors-5.0 zope.component-6.0 zope.configuration-5.0.1 zope.container-6.0 zope.contentprovider-6.0 zope.contenttype-5.1 zope.deferredimport-5.0 zope.deprecation-5.0 zope.dottedname-6.0 zope.event-5.0 zope.exceptions-5.1 zope.filerepresentation-6.0 zope.globalrequest-2.0 zope.hookable-6.0 zope.i18n-5.1 zope.i18nmessageid-6.1.0 zope.interface-6.4.post2 zope.lifecycleevent-5.0 zope.location-5.0 zope.pagetemplate-5.1 zope.processlifetime-3.0 zope.proxy-5.2 zope.ptresource-5.0 zope.publisher-7.0 zope.schema-7.0.1 zope.security-7.0 zope.sequencesort-5.0 zope.site-5.0 zope.size-5.0 zope.structuredtext-5.0 zope.tal-5.0.1 zope.tales-6.0 zope.testbrowser-7.0 zope.testing-5.0.1 zope.traversing-5.0 zope.viewlet-5.0
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

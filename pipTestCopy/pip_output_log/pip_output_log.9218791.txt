@@ -1,0 +1,32 @@
+Collecting colormath==3.0.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.9218791.txt (line 1))
+  Downloading colormath-3.0.0.tar.gz (39 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting Pillow==8.1.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.9218791.txt (line 2))
+  Downloading Pillow-8.1.0.tar.gz (44.9 MB)
+     ---------------------------------------- 44.9/44.9 MB 7.3 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting numpy (from colormath==3.0.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.9218791.txt (line 1))
+  Obtaining dependency information for numpy from https://files.pythonhosted.org/packages/ad/9c/4a93b8e395b755c53628573d75d7b21985d9a0f416e978d637084ccc8ec3/numpy-2.0.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading numpy-2.0.0-cp312-cp312-win_amd64.whl.metadata (60 kB)
+     ---------------------------------------- 60.9/60.9 kB 3.4 MB/s eta 0:00:00
+Collecting networkx>=2.0 (from colormath==3.0.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.9218791.txt (line 1))
+  Obtaining dependency information for networkx>=2.0 from https://files.pythonhosted.org/packages/38/e9/5f72929373e1a0e8d142a130f3f97e6ff920070f87f91c4e13e40e0fba5a/networkx-3.3-py3-none-any.whl.metadata
+  Downloading networkx-3.3-py3-none-any.whl.metadata (5.1 kB)
+Downloading networkx-3.3-py3-none-any.whl (1.7 MB)
+   ---------------------------------------- 1.7/1.7 MB 13.5 MB/s eta 0:00:00
+Downloading numpy-2.0.0-cp312-cp312-win_amd64.whl (16.2 MB)
+   ---------------------------------------- 16.2/16.2 MB 13.6 MB/s eta 0:00:00
+Would install Pillow-8.1.0 colormath-3.0.0 networkx-3.3 numpy-2.0.0
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

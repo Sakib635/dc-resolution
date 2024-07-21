@@ -1,0 +1,55 @@
+Collecting PyQt5==5.15.2 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8abd37bf2d60cce6e01d.txt (line 1))
+  Downloading PyQt5-5.15.2.tar.gz (3.3 MB)
+     ---------------------------------------- 3.3/3.3 MB 5.0 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'error'
+  error: subprocess-exited-with-error
+  
+  Preparing metadata (pyproject.toml) did not run successfully.
+  exit code: 1
+  
+  [26 lines of output]
+  pyproject.toml: line 7: using '[tool.sip.metadata]' to specify the project metadata is deprecated and will be removed in SIP v7.0.0, use '[project]' instead
+  Traceback (most recent call last):
+    File "D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 353, in <module>
+      main()
+    File "D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 335, in main
+      json_out['return_val'] = hook(**hook_input['kwargs'])
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 152, in prepare_metadata_for_build_wheel
+      whl_basename = backend.build_wheel(metadata_directory, config_settings)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-yhhs18rz\overlay\Lib\site-packages\sipbuild\api.py", line 28, in build_wheel
+      project = AbstractProject.bootstrap('wheel',
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-yhhs18rz\overlay\Lib\site-packages\sipbuild\abstract_project.py", line 74, in bootstrap
+      project.setup(pyproject, tool, tool_description)
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-yhhs18rz\overlay\Lib\site-packages\sipbuild\project.py", line 608, in setup
+      self.apply_user_defaults(tool)
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-install-7mcni7zp\pyqt5_69c0777a2edb4001bac8105d6181f085\project.py", line 63, in apply_user_defaults
+      super().apply_user_defaults(tool)
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-yhhs18rz\overlay\Lib\site-packages\pyqtbuild\project.py", line 51, in apply_user_defaults
+      super().apply_user_defaults(tool)
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-yhhs18rz\overlay\Lib\site-packages\sipbuild\project.py", line 237, in apply_user_defaults
+      self.builder.apply_user_defaults(tool)
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-yhhs18rz\overlay\Lib\site-packages\pyqtbuild\builder.py", line 50, in apply_user_defaults
+      raise PyProjectOptionException('qmake',
+  sipbuild.pyproject.PyProjectOptionException
+  [end of output]
+  
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+error: metadata-generation-failed
+
+Encountered error while generating package metadata.
+
+See above for output.
+
+note: This is an issue with the package mentioned above, not pip.
+hint: See above for details.
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

@@ -1,0 +1,140 @@
+Collecting nbconvert==6.0.7 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.221685a8e03a01baaf1e.txt (line 1))
+  Obtaining dependency information for nbconvert==6.0.7 from https://files.pythonhosted.org/packages/13/2f/acbe7006548f3914456ee47f97a2033b1b2f3daf921b12ac94105d87c163/nbconvert-6.0.7-py3-none-any.whl.metadata
+  Downloading nbconvert-6.0.7-py3-none-any.whl.metadata (6.2 kB)
+Collecting mistune<2,>=0.8.1 (from nbconvert==6.0.7->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.221685a8e03a01baaf1e.txt (line 1))
+  Obtaining dependency information for mistune<2,>=0.8.1 from https://files.pythonhosted.org/packages/09/ec/4b43dae793655b7d8a25f76119624350b4d65eb663459eb9603d7f1f0345/mistune-0.8.4-py2.py3-none-any.whl.metadata
+  Downloading mistune-0.8.4-py2.py3-none-any.whl.metadata (8.5 kB)
+Collecting jinja2>=2.4 (from nbconvert==6.0.7->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.221685a8e03a01baaf1e.txt (line 1))
+  Obtaining dependency information for jinja2>=2.4 from https://files.pythonhosted.org/packages/31/80/3a54838c3fb461f6fec263ebf3a3a41771bd05190238de3486aae8540c36/jinja2-3.1.4-py3-none-any.whl.metadata
+  Downloading jinja2-3.1.4-py3-none-any.whl.metadata (2.6 kB)
+Collecting pygments>=2.4.1 (from nbconvert==6.0.7->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.221685a8e03a01baaf1e.txt (line 1))
+  Obtaining dependency information for pygments>=2.4.1 from https://files.pythonhosted.org/packages/f7/3f/01c8b82017c199075f8f788d0d906b9ffbbc5a47dc9918a945e13d5a2bda/pygments-2.18.0-py3-none-any.whl.metadata
+  Downloading pygments-2.18.0-py3-none-any.whl.metadata (2.5 kB)
+Collecting jupyterlab-pygments (from nbconvert==6.0.7->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.221685a8e03a01baaf1e.txt (line 1))
+  Obtaining dependency information for jupyterlab-pygments from https://files.pythonhosted.org/packages/b1/dd/ead9d8ea85bf202d90cc513b533f9c363121c7792674f78e0d8a854b63b4/jupyterlab_pygments-0.3.0-py3-none-any.whl.metadata
+  Downloading jupyterlab_pygments-0.3.0-py3-none-any.whl.metadata (4.4 kB)
+Collecting traitlets>=4.2 (from nbconvert==6.0.7->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.221685a8e03a01baaf1e.txt (line 1))
+  Obtaining dependency information for traitlets>=4.2 from https://files.pythonhosted.org/packages/00/c0/8f5d070730d7836adc9c9b6408dec68c6ced86b304a9b26a14df072a6e8c/traitlets-5.14.3-py3-none-any.whl.metadata
+  Downloading traitlets-5.14.3-py3-none-any.whl.metadata (10 kB)
+Collecting jupyter-core (from nbconvert==6.0.7->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.221685a8e03a01baaf1e.txt (line 1))
+  Obtaining dependency information for jupyter-core from https://files.pythonhosted.org/packages/c9/fb/108ecd1fe961941959ad0ee4e12ee7b8b1477247f30b1fdfd83ceaf017f0/jupyter_core-5.7.2-py3-none-any.whl.metadata
+  Downloading jupyter_core-5.7.2-py3-none-any.whl.metadata (3.4 kB)
+Collecting nbformat>=4.4 (from nbconvert==6.0.7->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.221685a8e03a01baaf1e.txt (line 1))
+  Obtaining dependency information for nbformat>=4.4 from https://files.pythonhosted.org/packages/a9/82/0340caa499416c78e5d8f5f05947ae4bc3cba53c9f038ab6e9ed964e22f1/nbformat-5.10.4-py3-none-any.whl.metadata
+  Downloading nbformat-5.10.4-py3-none-any.whl.metadata (3.6 kB)
+Collecting entrypoints>=0.2.2 (from nbconvert==6.0.7->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.221685a8e03a01baaf1e.txt (line 1))
+  Obtaining dependency information for entrypoints>=0.2.2 from https://files.pythonhosted.org/packages/35/a8/365059bbcd4572cbc41de17fd5b682be5868b218c3c5479071865cab9078/entrypoints-0.4-py3-none-any.whl.metadata
+  Downloading entrypoints-0.4-py3-none-any.whl.metadata (2.6 kB)
+Collecting bleach (from nbconvert==6.0.7->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.221685a8e03a01baaf1e.txt (line 1))
+  Obtaining dependency information for bleach from https://files.pythonhosted.org/packages/ea/63/da7237f805089ecc28a3f36bca6a21c31fcbc2eb380f3b8f1be3312abd14/bleach-6.1.0-py3-none-any.whl.metadata
+  Downloading bleach-6.1.0-py3-none-any.whl.metadata (30 kB)
+Collecting pandocfilters>=1.4.1 (from nbconvert==6.0.7->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.221685a8e03a01baaf1e.txt (line 1))
+  Obtaining dependency information for pandocfilters>=1.4.1 from https://files.pythonhosted.org/packages/ef/af/4fbc8cab944db5d21b7e2a5b8e9211a03a79852b1157e2c102fcc61ac440/pandocfilters-1.5.1-py2.py3-none-any.whl.metadata
+  Downloading pandocfilters-1.5.1-py2.py3-none-any.whl.metadata (9.0 kB)
+Collecting testpath (from nbconvert==6.0.7->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.221685a8e03a01baaf1e.txt (line 1))
+  Obtaining dependency information for testpath from https://files.pythonhosted.org/packages/86/43/1ebfb29c2ca1df2bdb33dbcb2b526b77ee96873ba7b9e25650ddd4ae7156/testpath-0.6.0-py3-none-any.whl.metadata
+  Downloading testpath-0.6.0-py3-none-any.whl.metadata (1.1 kB)
+Collecting defusedxml (from nbconvert==6.0.7->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.221685a8e03a01baaf1e.txt (line 1))
+  Obtaining dependency information for defusedxml from https://files.pythonhosted.org/packages/07/6c/aa3f2f849e01cb6a001cd8554a88d4c77c5c1a31c95bdf1cf9301e6d9ef4/defusedxml-0.7.1-py2.py3-none-any.whl.metadata
+  Downloading defusedxml-0.7.1-py2.py3-none-any.whl.metadata (32 kB)
+Collecting nbclient<0.6.0,>=0.5.0 (from nbconvert==6.0.7->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.221685a8e03a01baaf1e.txt (line 1))
+  Obtaining dependency information for nbclient<0.6.0,>=0.5.0 from https://files.pythonhosted.org/packages/db/f7/436bb1add1814911efec4a4a5a358c7559e9b1fd19f4ef89a2a71d707c2b/nbclient-0.5.13-py3-none-any.whl.metadata
+  Downloading nbclient-0.5.13-py3-none-any.whl.metadata (5.0 kB)
+Collecting MarkupSafe>=2.0 (from jinja2>=2.4->nbconvert==6.0.7->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.221685a8e03a01baaf1e.txt (line 1))
+  Obtaining dependency information for MarkupSafe>=2.0 from https://files.pythonhosted.org/packages/3f/14/c3554d512d5f9100a95e737502f4a2323a1959f6d0d01e0d0997b35f7b10/MarkupSafe-2.1.5-cp312-cp312-win_amd64.whl.metadata
+  Downloading MarkupSafe-2.1.5-cp312-cp312-win_amd64.whl.metadata (3.1 kB)
+Collecting jupyter-client>=6.1.5 (from nbclient<0.6.0,>=0.5.0->nbconvert==6.0.7->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.221685a8e03a01baaf1e.txt (line 1))
+  Obtaining dependency information for jupyter-client>=6.1.5 from https://files.pythonhosted.org/packages/cf/d3/c4bb02580bc0db807edb9a29b2d0c56031be1ef0d804336deb2699a470f6/jupyter_client-8.6.2-py3-none-any.whl.metadata
+  Downloading jupyter_client-8.6.2-py3-none-any.whl.metadata (8.3 kB)
+Collecting nest-asyncio (from nbclient<0.6.0,>=0.5.0->nbconvert==6.0.7->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.221685a8e03a01baaf1e.txt (line 1))
+  Obtaining dependency information for nest-asyncio from https://files.pythonhosted.org/packages/a0/c4/c2971a3ba4c6103a3d10c4b0f24f461ddc027f0f09763220cf35ca1401b3/nest_asyncio-1.6.0-py3-none-any.whl.metadata
+  Downloading nest_asyncio-1.6.0-py3-none-any.whl.metadata (2.8 kB)
+Collecting fastjsonschema>=2.15 (from nbformat>=4.4->nbconvert==6.0.7->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.221685a8e03a01baaf1e.txt (line 1))
+  Obtaining dependency information for fastjsonschema>=2.15 from https://files.pythonhosted.org/packages/6d/ca/086311cdfc017ec964b2436fe0c98c1f4efcb7e4c328956a22456e497655/fastjsonschema-2.20.0-py3-none-any.whl.metadata
+  Downloading fastjsonschema-2.20.0-py3-none-any.whl.metadata (2.1 kB)
+Collecting jsonschema>=2.6 (from nbformat>=4.4->nbconvert==6.0.7->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.221685a8e03a01baaf1e.txt (line 1))
+  Obtaining dependency information for jsonschema>=2.6 from https://files.pythonhosted.org/packages/69/4a/4f9dbeb84e8850557c02365a0eee0649abe5eb1d84af92a25731c6c0f922/jsonschema-4.23.0-py3-none-any.whl.metadata
+  Downloading jsonschema-4.23.0-py3-none-any.whl.metadata (7.9 kB)
+Collecting platformdirs>=2.5 (from jupyter-core->nbconvert==6.0.7->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.221685a8e03a01baaf1e.txt (line 1))
+  Obtaining dependency information for platformdirs>=2.5 from https://files.pythonhosted.org/packages/68/13/2aa1f0e1364feb2c9ef45302f387ac0bd81484e9c9a4c5688a322fbdfd08/platformdirs-4.2.2-py3-none-any.whl.metadata
+  Downloading platformdirs-4.2.2-py3-none-any.whl.metadata (11 kB)
+Collecting pywin32>=300 (from jupyter-core->nbconvert==6.0.7->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.221685a8e03a01baaf1e.txt (line 1))
+  Obtaining dependency information for pywin32>=300 from https://files.pythonhosted.org/packages/83/1c/25b79fc3ec99b19b0a0730cc47356f7e2959863bf9f3cd314332bddb4f68/pywin32-306-cp312-cp312-win_amd64.whl.metadata
+  Downloading pywin32-306-cp312-cp312-win_amd64.whl.metadata (6.5 kB)
+Collecting six>=1.9.0 (from bleach->nbconvert==6.0.7->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.221685a8e03a01baaf1e.txt (line 1))
+  Obtaining dependency information for six>=1.9.0 from https://files.pythonhosted.org/packages/d9/5a/e7c31adbe875f2abbb91bd84cf2dc52d792b5a01506781dbcf25c91daf11/six-1.16.0-py2.py3-none-any.whl.metadata
+  Downloading six-1.16.0-py2.py3-none-any.whl.metadata (1.8 kB)
+Collecting webencodings (from bleach->nbconvert==6.0.7->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.221685a8e03a01baaf1e.txt (line 1))
+  Obtaining dependency information for webencodings from https://files.pythonhosted.org/packages/f4/24/2a3e3df732393fed8b3ebf2ec078f05546de641fe1b667ee316ec1dcf3b7/webencodings-0.5.1-py2.py3-none-any.whl.metadata
+  Downloading webencodings-0.5.1-py2.py3-none-any.whl.metadata (2.1 kB)
+Collecting attrs>=22.2.0 (from jsonschema>=2.6->nbformat>=4.4->nbconvert==6.0.7->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.221685a8e03a01baaf1e.txt (line 1))
+  Obtaining dependency information for attrs>=22.2.0 from https://files.pythonhosted.org/packages/e0/44/827b2a91a5816512fcaf3cc4ebc465ccd5d598c45cefa6703fcf4a79018f/attrs-23.2.0-py3-none-any.whl.metadata
+  Downloading attrs-23.2.0-py3-none-any.whl.metadata (9.5 kB)
+Collecting jsonschema-specifications>=2023.03.6 (from jsonschema>=2.6->nbformat>=4.4->nbconvert==6.0.7->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.221685a8e03a01baaf1e.txt (line 1))
+  Obtaining dependency information for jsonschema-specifications>=2023.03.6 from https://files.pythonhosted.org/packages/ee/07/44bd408781594c4d0a027666ef27fab1e441b109dc3b76b4f836f8fd04fe/jsonschema_specifications-2023.12.1-py3-none-any.whl.metadata
+  Downloading jsonschema_specifications-2023.12.1-py3-none-any.whl.metadata (3.0 kB)
+Collecting referencing>=0.28.4 (from jsonschema>=2.6->nbformat>=4.4->nbconvert==6.0.7->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.221685a8e03a01baaf1e.txt (line 1))
+  Obtaining dependency information for referencing>=0.28.4 from https://files.pythonhosted.org/packages/b7/59/2056f61236782a2c86b33906c025d4f4a0b17be0161b63b70fd9e8775d36/referencing-0.35.1-py3-none-any.whl.metadata
+  Downloading referencing-0.35.1-py3-none-any.whl.metadata (2.8 kB)
+Collecting rpds-py>=0.7.1 (from jsonschema>=2.6->nbformat>=4.4->nbconvert==6.0.7->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.221685a8e03a01baaf1e.txt (line 1))
+  Obtaining dependency information for rpds-py>=0.7.1 from https://files.pythonhosted.org/packages/ed/6e/58cd2fc0f63c2d06041513588cdeae753f36bead4227e1bb9ab137d7751c/rpds_py-0.19.0-cp312-none-win_amd64.whl.metadata
+  Downloading rpds_py-0.19.0-cp312-none-win_amd64.whl.metadata (4.2 kB)
+Collecting python-dateutil>=2.8.2 (from jupyter-client>=6.1.5->nbclient<0.6.0,>=0.5.0->nbconvert==6.0.7->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.221685a8e03a01baaf1e.txt (line 1))
+  Obtaining dependency information for python-dateutil>=2.8.2 from https://files.pythonhosted.org/packages/ec/57/56b9bcc3c9c6a792fcbaf139543cee77261f3651ca9da0c93f5c1221264b/python_dateutil-2.9.0.post0-py2.py3-none-any.whl.metadata
+  Downloading python_dateutil-2.9.0.post0-py2.py3-none-any.whl.metadata (8.4 kB)
+Collecting pyzmq>=23.0 (from jupyter-client>=6.1.5->nbclient<0.6.0,>=0.5.0->nbconvert==6.0.7->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.221685a8e03a01baaf1e.txt (line 1))
+  Obtaining dependency information for pyzmq>=23.0 from https://files.pythonhosted.org/packages/6c/45/905ec497208808aa0ba2470b2ab36d779b53f4016617feca93baffb6ba7f/pyzmq-26.0.3-cp312-cp312-win_amd64.whl.metadata
+  Downloading pyzmq-26.0.3-cp312-cp312-win_amd64.whl.metadata (6.1 kB)
+Collecting tornado>=6.2 (from jupyter-client>=6.1.5->nbclient<0.6.0,>=0.5.0->nbconvert==6.0.7->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.221685a8e03a01baaf1e.txt (line 1))
+  Obtaining dependency information for tornado>=6.2 from https://files.pythonhosted.org/packages/d9/2f/3f2f05e84a7aff787a96d5fb06821323feb370fe0baed4db6ea7b1088f32/tornado-6.4.1-cp38-abi3-win_amd64.whl.metadata
+  Downloading tornado-6.4.1-cp38-abi3-win_amd64.whl.metadata (2.6 kB)
+Downloading nbconvert-6.0.7-py3-none-any.whl (552 kB)
+   ---------------------------------------- 552.1/552.1 kB 5.8 MB/s eta 0:00:00
+Downloading entrypoints-0.4-py3-none-any.whl (5.3 kB)
+Downloading jinja2-3.1.4-py3-none-any.whl (133 kB)
+   ---------------------------------------- 133.3/133.3 kB 4.0 MB/s eta 0:00:00
+Downloading mistune-0.8.4-py2.py3-none-any.whl (16 kB)
+Downloading nbclient-0.5.13-py3-none-any.whl (70 kB)
+   ---------------------------------------- 70.6/70.6 kB 4.0 MB/s eta 0:00:00
+Downloading nbformat-5.10.4-py3-none-any.whl (78 kB)
+   ---------------------------------------- 78.5/78.5 kB ? eta 0:00:00
+Downloading jupyter_core-5.7.2-py3-none-any.whl (28 kB)
+Downloading pandocfilters-1.5.1-py2.py3-none-any.whl (8.7 kB)
+Downloading pygments-2.18.0-py3-none-any.whl (1.2 MB)
+   ---------------------------------------- 1.2/1.2 MB 4.5 MB/s eta 0:00:00
+Downloading traitlets-5.14.3-py3-none-any.whl (85 kB)
+   ---------------------------------------- 85.4/85.4 kB 4.7 MB/s eta 0:00:00
+Downloading bleach-6.1.0-py3-none-any.whl (162 kB)
+   ---------------------------------------- 162.8/162.8 kB 9.5 MB/s eta 0:00:00
+Downloading defusedxml-0.7.1-py2.py3-none-any.whl (25 kB)
+Downloading jupyterlab_pygments-0.3.0-py3-none-any.whl (15 kB)
+Downloading testpath-0.6.0-py3-none-any.whl (83 kB)
+   ---------------------------------------- 83.9/83.9 kB 4.9 MB/s eta 0:00:00
+Downloading fastjsonschema-2.20.0-py3-none-any.whl (23 kB)
+Downloading jsonschema-4.23.0-py3-none-any.whl (88 kB)
+   ---------------------------------------- 88.5/88.5 kB ? eta 0:00:00
+Downloading jupyter_client-8.6.2-py3-none-any.whl (105 kB)
+   ---------------------------------------- 105.9/105.9 kB ? eta 0:00:00
+Downloading MarkupSafe-2.1.5-cp312-cp312-win_amd64.whl (17 kB)
+Downloading platformdirs-4.2.2-py3-none-any.whl (18 kB)
+Downloading pywin32-306-cp312-cp312-win_amd64.whl (9.2 MB)
+   ---------------------------------------- 9.2/9.2 MB 18.4 MB/s eta 0:00:00
+Downloading six-1.16.0-py2.py3-none-any.whl (11 kB)
+Downloading nest_asyncio-1.6.0-py3-none-any.whl (5.2 kB)
+Downloading webencodings-0.5.1-py2.py3-none-any.whl (11 kB)
+Downloading attrs-23.2.0-py3-none-any.whl (60 kB)
+   ---------------------------------------- 60.8/60.8 kB 3.2 MB/s eta 0:00:00
+Downloading jsonschema_specifications-2023.12.1-py3-none-any.whl (18 kB)
+Downloading python_dateutil-2.9.0.post0-py2.py3-none-any.whl (229 kB)
+   --------------------------------------- 229.9/229.9 kB 14.6 MB/s eta 0:00:00
+Downloading pyzmq-26.0.3-cp312-cp312-win_amd64.whl (770 kB)
+   --------------------------------------- 770.1/770.1 kB 23.7 MB/s eta 0:00:00
+Downloading referencing-0.35.1-py3-none-any.whl (26 kB)
+Downloading rpds_py-0.19.0-cp312-none-win_amd64.whl (211 kB)
+   --------------------------------------- 211.5/211.5 kB 12.6 MB/s eta 0:00:00
+Downloading tornado-6.4.1-cp38-abi3-win_amd64.whl (438 kB)
+   --------------------------------------- 438.5/438.5 kB 26.8 MB/s eta 0:00:00
+Would install Jinja2-3.1.4 MarkupSafe-2.1.5 Pygments-2.18.0 attrs-23.2.0 bleach-6.1.0 defusedxml-0.7.1 entrypoints-0.4 fastjsonschema-2.20.0 jsonschema-4.23.0 jsonschema-specifications-2023.12.1 jupyter_client-8.6.2 jupyter_core-5.7.2 jupyterlab_pygments-0.3.0 mistune-0.8.4 nbclient-0.5.13 nbconvert-6.0.7 nbformat-5.10.4 nest-asyncio-1.6.0 pandocfilters-1.5.1 platformdirs-4.2.2 python-dateutil-2.9.0.post0 pywin32-306 pyzmq-26.0.3 referencing-0.35.1 rpds-py-0.19.0 six-1.16.0 testpath-0.6.0 tornado-6.4.1 traitlets-5.14.3 webencodings-0.5.1
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

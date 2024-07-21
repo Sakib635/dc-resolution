@@ -1,0 +1,47 @@
+Collecting boto3==1.16.55 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.df47cd6aea9eeac153ff.txt (line 1))
+  Obtaining dependency information for boto3==1.16.55 from https://files.pythonhosted.org/packages/65/c4/6a866d878e41d0fc4e29bc7782118e5202f21beee8fc492b10917e138a75/boto3-1.16.55-py2.py3-none-any.whl.metadata
+  Downloading boto3-1.16.55-py2.py3-none-any.whl.metadata (6.0 kB)
+Collecting PyYAML==5.3.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.df47cd6aea9eeac153ff.txt (line 2))
+  Downloading PyYAML-5.3.1.tar.gz (269 kB)
+     -------------------------------------- 269.4/269.4 kB 2.4 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting botocore<1.20.0,>=1.19.55 (from boto3==1.16.55->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.df47cd6aea9eeac153ff.txt (line 1))
+  Obtaining dependency information for botocore<1.20.0,>=1.19.55 from https://files.pythonhosted.org/packages/2c/05/0a955f0c92bec7da076fbbc73926dfb13fab8e2b88de7f8eb17c443f28f0/botocore-1.19.63-py2.py3-none-any.whl.metadata
+  Downloading botocore-1.19.63-py2.py3-none-any.whl.metadata (5.4 kB)
+Collecting jmespath<1.0.0,>=0.7.1 (from boto3==1.16.55->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.df47cd6aea9eeac153ff.txt (line 1))
+  Obtaining dependency information for jmespath<1.0.0,>=0.7.1 from https://files.pythonhosted.org/packages/07/cb/5f001272b6faeb23c1c9e0acc04d48eaaf5c862c17709d20e3469c6e0139/jmespath-0.10.0-py2.py3-none-any.whl.metadata
+  Downloading jmespath-0.10.0-py2.py3-none-any.whl.metadata (8.0 kB)
+Collecting s3transfer<0.4.0,>=0.3.0 (from boto3==1.16.55->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.df47cd6aea9eeac153ff.txt (line 1))
+  Obtaining dependency information for s3transfer<0.4.0,>=0.3.0 from https://files.pythonhosted.org/packages/00/89/0cb4e92c239e6425b9b0035227b8cdf9d3d098a5c9e95632c3815df63a09/s3transfer-0.3.7-py2.py3-none-any.whl.metadata
+  Downloading s3transfer-0.3.7-py2.py3-none-any.whl.metadata (1.4 kB)
+Collecting python-dateutil<3.0.0,>=2.1 (from botocore<1.20.0,>=1.19.55->boto3==1.16.55->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.df47cd6aea9eeac153ff.txt (line 1))
+  Obtaining dependency information for python-dateutil<3.0.0,>=2.1 from https://files.pythonhosted.org/packages/ec/57/56b9bcc3c9c6a792fcbaf139543cee77261f3651ca9da0c93f5c1221264b/python_dateutil-2.9.0.post0-py2.py3-none-any.whl.metadata
+  Downloading python_dateutil-2.9.0.post0-py2.py3-none-any.whl.metadata (8.4 kB)
+Collecting urllib3<1.27,>=1.25.4 (from botocore<1.20.0,>=1.19.55->boto3==1.16.55->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.df47cd6aea9eeac153ff.txt (line 1))
+  Obtaining dependency information for urllib3<1.27,>=1.25.4 from https://files.pythonhosted.org/packages/ae/6a/99eaaeae8becaa17a29aeb334a18e5d582d873b6f084c11f02581b8d7f7f/urllib3-1.26.19-py2.py3-none-any.whl.metadata
+  Downloading urllib3-1.26.19-py2.py3-none-any.whl.metadata (49 kB)
+     ---------------------------------------- 49.3/49.3 kB ? eta 0:00:00
+Collecting six>=1.5 (from python-dateutil<3.0.0,>=2.1->botocore<1.20.0,>=1.19.55->boto3==1.16.55->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.df47cd6aea9eeac153ff.txt (line 1))
+  Obtaining dependency information for six>=1.5 from https://files.pythonhosted.org/packages/d9/5a/e7c31adbe875f2abbb91bd84cf2dc52d792b5a01506781dbcf25c91daf11/six-1.16.0-py2.py3-none-any.whl.metadata
+  Downloading six-1.16.0-py2.py3-none-any.whl.metadata (1.8 kB)
+Downloading boto3-1.16.55-py2.py3-none-any.whl (130 kB)
+   ---------------------------------------- 130.2/130.2 kB 7.5 MB/s eta 0:00:00
+Downloading botocore-1.19.63-py2.py3-none-any.whl (7.2 MB)
+   ---------------------------------------- 7.2/7.2 MB 18.4 MB/s eta 0:00:00
+Downloading jmespath-0.10.0-py2.py3-none-any.whl (24 kB)
+Downloading s3transfer-0.3.7-py2.py3-none-any.whl (73 kB)
+   ---------------------------------------- 73.4/73.4 kB 3.9 MB/s eta 0:00:00
+Downloading python_dateutil-2.9.0.post0-py2.py3-none-any.whl (229 kB)
+   --------------------------------------- 229.9/229.9 kB 14.6 MB/s eta 0:00:00
+Downloading urllib3-1.26.19-py2.py3-none-any.whl (143 kB)
+   ---------------------------------------- 143.9/143.9 kB 8.9 MB/s eta 0:00:00
+Downloading six-1.16.0-py2.py3-none-any.whl (11 kB)
+Would install PyYAML-5.3.1 boto3-1.16.55 botocore-1.19.63 jmespath-0.10.0 python-dateutil-2.9.0.post0 s3transfer-0.3.7 six-1.16.0 urllib3-1.26.19
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

@@ -1,0 +1,18 @@
+Collecting pdfminer==20191125 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3696512.txt (line 1))
+  Downloading pdfminer-20191125.tar.gz (4.2 MB)
+     ---------------------------------------- 4.2/4.2 MB 9.9 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting pycryptodome (from pdfminer==20191125->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3696512.txt (line 1))
+  Obtaining dependency information for pycryptodome from https://files.pythonhosted.org/packages/1f/90/d131c0eb643290230dfa4108b7c2d135122d88b714ad241d77beb4782a76/pycryptodome-3.20.0-cp35-abi3-win_amd64.whl.metadata
+  Downloading pycryptodome-3.20.0-cp35-abi3-win_amd64.whl.metadata (3.4 kB)
+Downloading pycryptodome-3.20.0-cp35-abi3-win_amd64.whl (1.8 MB)
+   ---------------------------------------- 1.8/1.8 MB 22.4 MB/s eta 0:00:00
+Would install pdfminer-20191125 pycryptodome-3.20.0
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

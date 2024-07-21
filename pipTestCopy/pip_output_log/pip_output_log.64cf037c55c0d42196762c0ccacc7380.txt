@@ -1,0 +1,178 @@
+Collecting pwn==1.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.64cf037c55c0d42196762c0ccacc7380.txt (line 1))
+  Downloading pwn-1.0.tar.gz (1.1 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting pwntools (from pwn==1.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.64cf037c55c0d42196762c0ccacc7380.txt (line 1))
+  Obtaining dependency information for pwntools from https://files.pythonhosted.org/packages/04/74/ba17fe1f91ff2e154d8fe664f78ffeb7486365041c4ce9fea424531f70ad/pwntools-4.12.0-py2.py3-none-any.whl.metadata
+  Downloading pwntools-4.12.0-py2.py3-none-any.whl.metadata (5.2 kB)
+Collecting paramiko>=1.15.2 (from pwntools->pwn==1.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.64cf037c55c0d42196762c0ccacc7380.txt (line 1))
+  Obtaining dependency information for paramiko>=1.15.2 from https://files.pythonhosted.org/packages/ad/50/8792484502c8141c20c996b802fefa8435a9c018a2bb440a06b172782118/paramiko-3.4.0-py3-none-any.whl.metadata
+  Downloading paramiko-3.4.0-py3-none-any.whl.metadata (4.4 kB)
+Collecting mako>=1.0.0 (from pwntools->pwn==1.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.64cf037c55c0d42196762c0ccacc7380.txt (line 1))
+  Obtaining dependency information for mako>=1.0.0 from https://files.pythonhosted.org/packages/03/62/70f5a0c2dd208f9f3f2f9afd103aec42ee4d9ad2401d78342f75e9b8da36/Mako-1.3.5-py3-none-any.whl.metadata
+  Downloading Mako-1.3.5-py3-none-any.whl.metadata (2.9 kB)
+Collecting capstone>=3.0.5rc2 (from pwntools->pwn==1.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.64cf037c55c0d42196762c0ccacc7380.txt (line 1))
+  Obtaining dependency information for capstone>=3.0.5rc2 from https://files.pythonhosted.org/packages/d0/dd/b28df50316ca193dd1275a4c47115a720796d9e1501c1888c4bfa5dc2260/capstone-5.0.1-py3-none-win_amd64.whl.metadata
+  Downloading capstone-5.0.1-py3-none-win_amd64.whl.metadata (3.5 kB)
+Collecting ropgadget>=5.3 (from pwntools->pwn==1.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.64cf037c55c0d42196762c0ccacc7380.txt (line 1))
+  Obtaining dependency information for ropgadget>=5.3 from https://files.pythonhosted.org/packages/79/b3/196c65ada34d0f2d6500693e0e0a0d6e56d3682372eb06c6c1c8b058becb/ROPGadget-7.4-py3-none-any.whl.metadata
+  Downloading ROPGadget-7.4-py3-none-any.whl.metadata (868 bytes)
+Collecting pyserial>=2.7 (from pwntools->pwn==1.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.64cf037c55c0d42196762c0ccacc7380.txt (line 1))
+  Obtaining dependency information for pyserial>=2.7 from https://files.pythonhosted.org/packages/07/bc/587a445451b253b285629263eb51c2d8e9bcea4fc97826266d186f96f558/pyserial-3.5-py2.py3-none-any.whl.metadata
+  Downloading pyserial-3.5-py2.py3-none-any.whl.metadata (1.6 kB)
+Collecting requests>=2.0 (from pwntools->pwn==1.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.64cf037c55c0d42196762c0ccacc7380.txt (line 1))
+  Obtaining dependency information for requests>=2.0 from https://files.pythonhosted.org/packages/f9/9b/335f9764261e915ed497fcdeb11df5dfd6f7bf257d4a6a2a686d80da4d54/requests-2.32.3-py3-none-any.whl.metadata
+  Downloading requests-2.32.3-py3-none-any.whl.metadata (4.6 kB)
+Requirement already satisfied: pip>=6.0.8 in d:\windsor\windsorthesis\git repo\thesis-project-python-dependency-conflict-resolution\piptest\myenv\lib\site-packages (from pwntools->pwn==1.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.64cf037c55c0d42196762c0ccacc7380.txt (line 1)) (23.2.1)
+Collecting pygments>=2.0 (from pwntools->pwn==1.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.64cf037c55c0d42196762c0ccacc7380.txt (line 1))
+  Obtaining dependency information for pygments>=2.0 from https://files.pythonhosted.org/packages/f7/3f/01c8b82017c199075f8f788d0d906b9ffbbc5a47dc9918a945e13d5a2bda/pygments-2.18.0-py3-none-any.whl.metadata
+  Downloading pygments-2.18.0-py3-none-any.whl.metadata (2.5 kB)
+Collecting pysocks (from pwntools->pwn==1.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.64cf037c55c0d42196762c0ccacc7380.txt (line 1))
+  Obtaining dependency information for pysocks from https://files.pythonhosted.org/packages/8d/59/b4572118e098ac8e46e399a1dd0f2d85403ce8bbaad9ec79373ed6badaf9/PySocks-1.7.1-py3-none-any.whl.metadata
+  Downloading PySocks-1.7.1-py3-none-any.whl.metadata (13 kB)
+Collecting python-dateutil (from pwntools->pwn==1.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.64cf037c55c0d42196762c0ccacc7380.txt (line 1))
+  Obtaining dependency information for python-dateutil from https://files.pythonhosted.org/packages/ec/57/56b9bcc3c9c6a792fcbaf139543cee77261f3651ca9da0c93f5c1221264b/python_dateutil-2.9.0.post0-py2.py3-none-any.whl.metadata
+  Downloading python_dateutil-2.9.0.post0-py2.py3-none-any.whl.metadata (8.4 kB)
+Collecting packaging (from pwntools->pwn==1.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.64cf037c55c0d42196762c0ccacc7380.txt (line 1))
+  Obtaining dependency information for packaging from https://files.pythonhosted.org/packages/08/aa/cc0199a5f0ad350994d660967a8efb233fe0416e4639146c089643407ce6/packaging-24.1-py3-none-any.whl.metadata
+  Downloading packaging-24.1-py3-none-any.whl.metadata (3.2 kB)
+Collecting psutil>=3.3.0 (from pwntools->pwn==1.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.64cf037c55c0d42196762c0ccacc7380.txt (line 1))
+  Obtaining dependency information for psutil>=3.3.0 from https://files.pythonhosted.org/packages/73/44/561092313ae925f3acfaace6f9ddc4f6a9c748704317bad9c8c8f8a36a79/psutil-6.0.0-cp37-abi3-win_amd64.whl.metadata
+  Downloading psutil-6.0.0-cp37-abi3-win_amd64.whl.metadata (22 kB)
+Collecting intervaltree>=3.0 (from pwntools->pwn==1.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.64cf037c55c0d42196762c0ccacc7380.txt (line 1))
+  Downloading intervaltree-3.1.0.tar.gz (32 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting sortedcontainers (from pwntools->pwn==1.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.64cf037c55c0d42196762c0ccacc7380.txt (line 1))
+  Obtaining dependency information for sortedcontainers from https://files.pythonhosted.org/packages/32/46/9cb0e58b2deb7f82b84065f37f3bffeb12413f947f9388e4cac22c4621ce/sortedcontainers-2.4.0-py2.py3-none-any.whl.metadata
+  Downloading sortedcontainers-2.4.0-py2.py3-none-any.whl.metadata (10 kB)
+Collecting unicorn>=1.0.2rc1 (from pwntools->pwn==1.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.64cf037c55c0d42196762c0ccacc7380.txt (line 1))
+  Obtaining dependency information for unicorn>=1.0.2rc1 from https://files.pythonhosted.org/packages/53/2d/a1fdad55a893751e3cc7d3201053e55596dc754e3b93549d43c240fd4993/unicorn-2.0.1.post1-py2.py3-none-win_amd64.whl.metadata
+  Downloading unicorn-2.0.1.post1-py2.py3-none-win_amd64.whl.metadata (1.3 kB)
+Collecting six>=1.12.0 (from pwntools->pwn==1.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.64cf037c55c0d42196762c0ccacc7380.txt (line 1))
+  Obtaining dependency information for six>=1.12.0 from https://files.pythonhosted.org/packages/d9/5a/e7c31adbe875f2abbb91bd84cf2dc52d792b5a01506781dbcf25c91daf11/six-1.16.0-py2.py3-none-any.whl.metadata
+  Downloading six-1.16.0-py2.py3-none-any.whl.metadata (1.8 kB)
+Collecting rpyc (from pwntools->pwn==1.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.64cf037c55c0d42196762c0ccacc7380.txt (line 1))
+  Obtaining dependency information for rpyc from https://files.pythonhosted.org/packages/f6/e7/38cd5f2d8ab0d259648f6672fd19de30688a22ae769f87616c6a2fe92581/rpyc-6.0.0-py3-none-any.whl.metadata
+  Downloading rpyc-6.0.0-py3-none-any.whl.metadata (3.5 kB)
+Collecting colored-traceback (from pwntools->pwn==1.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.64cf037c55c0d42196762c0ccacc7380.txt (line 1))
+  Obtaining dependency information for colored-traceback from https://files.pythonhosted.org/packages/da/28/05e035e2d95dc469408bcb1edfbee5d4fcfe3b0a5fa3701c5f1f10c77c49/colored_traceback-0.4.2-py3-none-any.whl.metadata
+  Downloading colored_traceback-0.4.2-py3-none-any.whl.metadata (4.6 kB)
+Collecting zstandard (from pwntools->pwn==1.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.64cf037c55c0d42196762c0ccacc7380.txt (line 1))
+  Obtaining dependency information for zstandard from https://files.pythonhosted.org/packages/75/37/872d74bd7739639c4553bf94c84af7d54d8211b626b352bc57f0fd8d1e3f/zstandard-0.23.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading zstandard-0.23.0-cp312-cp312-win_amd64.whl.metadata (3.0 kB)
+Collecting pyelftools>=0.24 (from pwntools->pwn==1.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.64cf037c55c0d42196762c0ccacc7380.txt (line 1))
+  Obtaining dependency information for pyelftools>=0.24 from https://files.pythonhosted.org/packages/f8/64/711030d9fe9ccaf6ee3ab1bcf4801c6bb3d0e585af18824a50b016b4f39c/pyelftools-0.31-py3-none-any.whl.metadata
+  Downloading pyelftools-0.31-py3-none-any.whl.metadata (381 bytes)
+Collecting unix-ar (from pwntools->pwn==1.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.64cf037c55c0d42196762c0ccacc7380.txt (line 1))
+  Obtaining dependency information for unix-ar from https://files.pythonhosted.org/packages/b6/a1/847695f96c37cdd57233e6e0f76c4637332acb06a6e0258160f0062c1a85/unix_ar-0.2.1-py2.py3-none-any.whl.metadata
+  Downloading unix_ar-0.2.1-py2.py3-none-any.whl.metadata (1.9 kB)
+Collecting MarkupSafe>=0.9.2 (from mako>=1.0.0->pwntools->pwn==1.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.64cf037c55c0d42196762c0ccacc7380.txt (line 1))
+  Obtaining dependency information for MarkupSafe>=0.9.2 from https://files.pythonhosted.org/packages/3f/14/c3554d512d5f9100a95e737502f4a2323a1959f6d0d01e0d0997b35f7b10/MarkupSafe-2.1.5-cp312-cp312-win_amd64.whl.metadata
+  Downloading MarkupSafe-2.1.5-cp312-cp312-win_amd64.whl.metadata (3.1 kB)
+Collecting bcrypt>=3.2 (from paramiko>=1.15.2->pwntools->pwn==1.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.64cf037c55c0d42196762c0ccacc7380.txt (line 1))
+  Obtaining dependency information for bcrypt>=3.2 from https://files.pythonhosted.org/packages/b1/46/fada28872f3f3e121868f4cd2d61dcdc7085a07821debf1320cafeabc0db/bcrypt-4.1.3-cp39-abi3-win_amd64.whl.metadata
+  Downloading bcrypt-4.1.3-cp39-abi3-win_amd64.whl.metadata (9.8 kB)
+Collecting cryptography>=3.3 (from paramiko>=1.15.2->pwntools->pwn==1.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.64cf037c55c0d42196762c0ccacc7380.txt (line 1))
+  Obtaining dependency information for cryptography>=3.3 from https://files.pythonhosted.org/packages/a2/7b/b0d330852dd5953daee6b15f742f15d9f18e9c0154eb4cfcc8718f0436da/cryptography-42.0.8-cp39-abi3-win_amd64.whl.metadata
+  Downloading cryptography-42.0.8-cp39-abi3-win_amd64.whl.metadata (5.4 kB)
+Collecting pynacl>=1.5 (from paramiko>=1.15.2->pwntools->pwn==1.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.64cf037c55c0d42196762c0ccacc7380.txt (line 1))
+  Obtaining dependency information for pynacl>=1.5 from https://files.pythonhosted.org/packages/5e/22/d3db169895faaf3e2eda892f005f433a62db2decbcfbc2f61e6517adfa87/PyNaCl-1.5.0-cp36-abi3-win_amd64.whl.metadata
+  Downloading PyNaCl-1.5.0-cp36-abi3-win_amd64.whl.metadata (8.7 kB)
+Collecting charset-normalizer<4,>=2 (from requests>=2.0->pwntools->pwn==1.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.64cf037c55c0d42196762c0ccacc7380.txt (line 1))
+  Obtaining dependency information for charset-normalizer<4,>=2 from https://files.pythonhosted.org/packages/b6/7c/8debebb4f90174074b827c63242c23851bdf00a532489fba57fef3416e40/charset_normalizer-3.3.2-cp312-cp312-win_amd64.whl.metadata
+  Downloading charset_normalizer-3.3.2-cp312-cp312-win_amd64.whl.metadata (34 kB)
+Collecting idna<4,>=2.5 (from requests>=2.0->pwntools->pwn==1.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.64cf037c55c0d42196762c0ccacc7380.txt (line 1))
+  Obtaining dependency information for idna<4,>=2.5 from https://files.pythonhosted.org/packages/e5/3e/741d8c82801c347547f8a2a06aa57dbb1992be9e948df2ea0eda2c8b79e8/idna-3.7-py3-none-any.whl.metadata
+  Downloading idna-3.7-py3-none-any.whl.metadata (9.9 kB)
+Collecting urllib3<3,>=1.21.1 (from requests>=2.0->pwntools->pwn==1.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.64cf037c55c0d42196762c0ccacc7380.txt (line 1))
+  Obtaining dependency information for urllib3<3,>=1.21.1 from https://files.pythonhosted.org/packages/ca/1c/89ffc63a9605b583d5df2be791a27bc1a42b7c32bab68d3c8f2f73a98cd4/urllib3-2.2.2-py3-none-any.whl.metadata
+  Downloading urllib3-2.2.2-py3-none-any.whl.metadata (6.4 kB)
+Collecting certifi>=2017.4.17 (from requests>=2.0->pwntools->pwn==1.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.64cf037c55c0d42196762c0ccacc7380.txt (line 1))
+  Obtaining dependency information for certifi>=2017.4.17 from https://files.pythonhosted.org/packages/1c/d5/c84e1a17bf61d4df64ca866a1c9a913874b4e9bdc131ec689a0ad013fb36/certifi-2024.7.4-py3-none-any.whl.metadata
+  Downloading certifi-2024.7.4-py3-none-any.whl.metadata (2.2 kB)
+Collecting colorama (from colored-traceback->pwntools->pwn==1.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.64cf037c55c0d42196762c0ccacc7380.txt (line 1))
+  Obtaining dependency information for colorama from https://files.pythonhosted.org/packages/d1/d6/3965ed04c63042e047cb6a3e6ed1a63a35087b6a609aa3a15ed8ac56c221/colorama-0.4.6-py2.py3-none-any.whl.metadata
+  Downloading colorama-0.4.6-py2.py3-none-any.whl.metadata (17 kB)
+Collecting plumbum (from rpyc->pwntools->pwn==1.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.64cf037c55c0d42196762c0ccacc7380.txt (line 1))
+  Obtaining dependency information for plumbum from https://files.pythonhosted.org/packages/fa/08/53cf4fb6bebdfd2598e9d620a587229c3bfcc8df1a202289da07e5b282cd/plumbum-1.8.3-py3-none-any.whl.metadata
+  Downloading plumbum-1.8.3-py3-none-any.whl.metadata (10 kB)
+Collecting cffi>=1.12 (from cryptography>=3.3->paramiko>=1.15.2->pwntools->pwn==1.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.64cf037c55c0d42196762c0ccacc7380.txt (line 1))
+  Obtaining dependency information for cffi>=1.12 from https://files.pythonhosted.org/packages/e9/63/e285470a4880a4f36edabe4810057bd4b562c6ddcc165eacf9c3c7210b40/cffi-1.16.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading cffi-1.16.0-cp312-cp312-win_amd64.whl.metadata (1.5 kB)
+Collecting pywin32 (from plumbum->rpyc->pwntools->pwn==1.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.64cf037c55c0d42196762c0ccacc7380.txt (line 1))
+  Obtaining dependency information for pywin32 from https://files.pythonhosted.org/packages/83/1c/25b79fc3ec99b19b0a0730cc47356f7e2959863bf9f3cd314332bddb4f68/pywin32-306-cp312-cp312-win_amd64.whl.metadata
+  Downloading pywin32-306-cp312-cp312-win_amd64.whl.metadata (6.5 kB)
+Collecting pycparser (from cffi>=1.12->cryptography>=3.3->paramiko>=1.15.2->pwntools->pwn==1.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.64cf037c55c0d42196762c0ccacc7380.txt (line 1))
+  Obtaining dependency information for pycparser from https://files.pythonhosted.org/packages/13/a3/a812df4e2dd5696d1f351d58b8fe16a405b234ad2886a0dab9183fb78109/pycparser-2.22-py3-none-any.whl.metadata
+  Downloading pycparser-2.22-py3-none-any.whl.metadata (943 bytes)
+Downloading pwntools-4.12.0-py2.py3-none-any.whl (11.8 MB)
+   ---------------------------------------- 11.8/11.8 MB 17.7 MB/s eta 0:00:00
+Downloading capstone-5.0.1-py3-none-win_amd64.whl (1.3 MB)
+   ---------------------------------------- 1.3/1.3 MB 20.0 MB/s eta 0:00:00
+Downloading Mako-1.3.5-py3-none-any.whl (78 kB)
+   ---------------------------------------- 78.6/78.6 kB 488.0 kB/s eta 0:00:00
+Downloading paramiko-3.4.0-py3-none-any.whl (225 kB)
+   ---------------------------------------- 225.9/225.9 kB 1.7 MB/s eta 0:00:00
+Downloading psutil-6.0.0-cp37-abi3-win_amd64.whl (257 kB)
+   --------------------------------------- 257.4/257.4 kB 16.5 MB/s eta 0:00:00
+Downloading pyelftools-0.31-py3-none-any.whl (180 kB)
+   --------------------------------------- 180.5/180.5 kB 11.3 MB/s eta 0:00:00
+Downloading pygments-2.18.0-py3-none-any.whl (1.2 MB)
+   ---------------------------------------- 1.2/1.2 MB 25.4 MB/s eta 0:00:00
+Downloading pyserial-3.5-py2.py3-none-any.whl (90 kB)
+   ---------------------------------------- 90.6/90.6 kB 5.0 MB/s eta 0:00:00
+Downloading requests-2.32.3-py3-none-any.whl (64 kB)
+   ---------------------------------------- 64.9/64.9 kB 3.4 MB/s eta 0:00:00
+Downloading ROPGadget-7.4-py3-none-any.whl (32 kB)
+Downloading six-1.16.0-py2.py3-none-any.whl (11 kB)
+Downloading sortedcontainers-2.4.0-py2.py3-none-any.whl (29 kB)
+Downloading unicorn-2.0.1.post1-py2.py3-none-win_amd64.whl (15.7 MB)
+   ---------------------------------------- 15.7/15.7 MB 14.5 MB/s eta 0:00:00
+Downloading colored_traceback-0.4.2-py3-none-any.whl (5.5 kB)
+Downloading packaging-24.1-py3-none-any.whl (53 kB)
+   ---------------------------------------- 54.0/54.0 kB 1.4 MB/s eta 0:00:00
+Downloading PySocks-1.7.1-py3-none-any.whl (16 kB)
+Downloading python_dateutil-2.9.0.post0-py2.py3-none-any.whl (229 kB)
+   --------------------------------------- 229.9/229.9 kB 13.7 MB/s eta 0:00:00
+Downloading rpyc-6.0.0-py3-none-any.whl (74 kB)
+   ---------------------------------------- 74.5/74.5 kB 4.3 MB/s eta 0:00:00
+Downloading unix_ar-0.2.1-py2.py3-none-any.whl (6.5 kB)
+Downloading zstandard-0.23.0-cp312-cp312-win_amd64.whl (495 kB)
+   --------------------------------------- 495.6/495.6 kB 30.3 MB/s eta 0:00:00
+Downloading bcrypt-4.1.3-cp39-abi3-win_amd64.whl (158 kB)
+   ---------------------------------------- 158.1/158.1 kB 9.9 MB/s eta 0:00:00
+Downloading certifi-2024.7.4-py3-none-any.whl (162 kB)
+   --------------------------------------- 163.0/163.0 kB 10.2 MB/s eta 0:00:00
+Downloading charset_normalizer-3.3.2-cp312-cp312-win_amd64.whl (100 kB)
+   ---------------------------------------- 100.4/100.4 kB ? eta 0:00:00
+Downloading cryptography-42.0.8-cp39-abi3-win_amd64.whl (2.9 MB)
+   ---------------------------------------- 2.9/2.9 MB 26.1 MB/s eta 0:00:00
+Downloading idna-3.7-py3-none-any.whl (66 kB)
+   ---------------------------------------- 66.8/66.8 kB ? eta 0:00:00
+Downloading MarkupSafe-2.1.5-cp312-cp312-win_amd64.whl (17 kB)
+Downloading PyNaCl-1.5.0-cp36-abi3-win_amd64.whl (212 kB)
+   --------------------------------------- 212.1/212.1 kB 12.6 MB/s eta 0:00:00
+Downloading urllib3-2.2.2-py3-none-any.whl (121 kB)
+   ---------------------------------------- 121.4/121.4 kB 7.0 MB/s eta 0:00:00
+Downloading colorama-0.4.6-py2.py3-none-any.whl (25 kB)
+Downloading plumbum-1.8.3-py3-none-any.whl (127 kB)
+   ---------------------------------------- 127.6/127.6 kB 7.3 MB/s eta 0:00:00
+Downloading cffi-1.16.0-cp312-cp312-win_amd64.whl (181 kB)
+   --------------------------------------- 182.0/182.0 kB 10.7 MB/s eta 0:00:00
+Downloading pywin32-306-cp312-cp312-win_amd64.whl (9.2 MB)
+   ---------------------------------------- 9.2/9.2 MB 17.4 MB/s eta 0:00:00
+Downloading pycparser-2.22-py3-none-any.whl (117 kB)
+   ---------------------------------------- 117.6/117.6 kB 7.2 MB/s eta 0:00:00
+Would install Mako-1.3.5 MarkupSafe-2.1.5 PyNaCl-1.5.0 PySocks-1.7.1 Pygments-2.18.0 ROPGadget-7.4 bcrypt-4.1.3 capstone-5.0.1 certifi-2024.7.4 cffi-1.16.0 charset-normalizer-3.3.2 colorama-0.4.6 colored-traceback-0.4.2 cryptography-42.0.8 idna-3.7 intervaltree-3.1.0 packaging-24.1 paramiko-3.4.0 plumbum-1.8.3 psutil-6.0.0 pwn-1.0 pwntools-4.12.0 pycparser-2.22 pyelftools-0.31 pyserial-3.5 python-dateutil-2.9.0.post0 pywin32-306 requests-2.32.3 rpyc-6.0.0 six-1.16.0 sortedcontainers-2.4.0 unicorn-2.0.1.post1 unix-ar-0.2.1 urllib3-2.2.2 zstandard-0.23.0
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

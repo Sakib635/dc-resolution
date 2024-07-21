@@ -1,0 +1,13 @@
+Collecting WTForms==2.3.3 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1590178.txt (line 1))
+  Obtaining dependency information for WTForms==2.3.3 from https://files.pythonhosted.org/packages/e0/31/614fc7dc7d76005b0acb8c0c8920d962b83d7422b4ba912886dfb63f86ff/WTForms-2.3.3-py2.py3-none-any.whl.metadata
+  Downloading WTForms-2.3.3-py2.py3-none-any.whl.metadata (3.7 kB)
+Collecting MarkupSafe (from WTForms==2.3.3->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1590178.txt (line 1))
+  Obtaining dependency information for MarkupSafe from https://files.pythonhosted.org/packages/3f/14/c3554d512d5f9100a95e737502f4a2323a1959f6d0d01e0d0997b35f7b10/MarkupSafe-2.1.5-cp312-cp312-win_amd64.whl.metadata
+  Downloading MarkupSafe-2.1.5-cp312-cp312-win_amd64.whl.metadata (3.1 kB)
+Downloading WTForms-2.3.3-py2.py3-none-any.whl (169 kB)
+   ---------------------------------------- 169.1/169.1 kB 1.7 MB/s eta 0:00:00
+Downloading MarkupSafe-2.1.5-cp312-cp312-win_amd64.whl (17 kB)
+Would install MarkupSafe-2.1.5 WTForms-2.3.3
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

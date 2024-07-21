@@ -1,0 +1,134 @@
+Collecting tornado==6.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4582282.txt (line 1))
+  Downloading tornado-6.1.tar.gz (497 kB)
+     -------------------------------------- 497.4/497.4 kB 3.5 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting tulip==1.3.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4582282.txt (line 2))
+  Downloading tulip-1.3.0.tar.gz (429 kB)
+     ------------------------------------- 429.5/429.5 kB 28.0 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting networkx<=1.10,>=1.8 (from tulip==1.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4582282.txt (line 2))
+  Downloading networkx-1.10.zip (1.5 MB)
+     ---------------------------------------- 1.5/1.5 MB 24.7 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting numpy>=1.7 (from tulip==1.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4582282.txt (line 2))
+  Obtaining dependency information for numpy>=1.7 from https://files.pythonhosted.org/packages/ad/9c/4a93b8e395b755c53628573d75d7b21985d9a0f416e978d637084ccc8ec3/numpy-2.0.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading numpy-2.0.0-cp312-cp312-win_amd64.whl.metadata (60 kB)
+     ---------------------------------------- 60.9/60.9 kB 3.4 MB/s eta 0:00:00
+Collecting omega<0.1.0,>=0.0.9 (from tulip==1.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4582282.txt (line 2))
+  Downloading omega-0.0.11.tar.gz (82 kB)
+     ---------------------------------------- 82.4/82.4 kB ? eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting ply>=3.4 (from tulip==1.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4582282.txt (line 2))
+  Obtaining dependency information for ply>=3.4 from https://files.pythonhosted.org/packages/a3/58/35da89ee790598a0700ea49b2a66594140f44dec458c07e8e3d4979137fc/ply-3.11-py2.py3-none-any.whl.metadata
+  Downloading ply-3.11-py2.py3-none-any.whl.metadata (844 bytes)
+Collecting polytope>=0.1.2 (from tulip==1.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4582282.txt (line 2))
+  Downloading polytope-0.2.5.tar.gz (54 kB)
+     ---------------------------------------- 54.9/54.9 kB ? eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting pydot>=1.2.0 (from tulip==1.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4582282.txt (line 2))
+  Obtaining dependency information for pydot>=1.2.0 from https://files.pythonhosted.org/packages/9a/fd/df3932340498a8f38c6107c95b0eb1d9ac406c5ea1307c8f43408977378e/pydot-3.0.1-py3-none-any.whl.metadata
+  Downloading pydot-3.0.1-py3-none-any.whl.metadata (9.9 kB)
+Collecting scipy (from tulip==1.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4582282.txt (line 2))
+  Obtaining dependency information for scipy from https://files.pythonhosted.org/packages/3f/72/305686527c68f33f1dd3ebdd28f53340d372b2f9e44dccaf6f92e17739d3/scipy-1.14.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading scipy-1.14.0-cp312-cp312-win_amd64.whl.metadata (60 kB)
+     ---------------------------------------- 60.8/60.8 kB 3.2 MB/s eta 0:00:00
+Collecting decorator>=3.4.0 (from networkx<=1.10,>=1.8->tulip==1.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4582282.txt (line 2))
+  Obtaining dependency information for decorator>=3.4.0 from https://files.pythonhosted.org/packages/d5/50/83c593b07763e1161326b3b8c6686f0f4b0f24d5526546bee538c89837d6/decorator-5.1.1-py3-none-any.whl.metadata
+  Downloading decorator-5.1.1-py3-none-any.whl.metadata (4.0 kB)
+Collecting dd==0.4.3 (from omega<0.1.0,>=0.0.9->tulip==1.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4582282.txt (line 2))
+  Downloading dd-0.4.3.tar.gz (333 kB)
+     ------------------------------------- 333.9/333.9 kB 20.2 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting natsort>=3.5.3 (from omega<0.1.0,>=0.0.9->tulip==1.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4582282.txt (line 2))
+  Obtaining dependency information for natsort>=3.5.3 from https://files.pythonhosted.org/packages/ef/82/7a9d0550484a62c6da82858ee9419f3dd1ccc9aa1c26a1e43da3ecd20b0d/natsort-8.4.0-py3-none-any.whl.metadata
+  Downloading natsort-8.4.0-py3-none-any.whl.metadata (21 kB)
+Collecting astutils>=0.0.1 (from dd==0.4.3->omega<0.1.0,>=0.0.9->tulip==1.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4582282.txt (line 2))
+  Downloading astutils-0.0.6.tar.gz (9.3 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting psutil>=3.2.2 (from dd==0.4.3->omega<0.1.0,>=0.0.9->tulip==1.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4582282.txt (line 2))
+  Obtaining dependency information for psutil>=3.2.2 from https://files.pythonhosted.org/packages/73/44/561092313ae925f3acfaace6f9ddc4f6a9c748704317bad9c8c8f8a36a79/psutil-6.0.0-cp37-abi3-win_amd64.whl.metadata
+  Downloading psutil-6.0.0-cp37-abi3-win_amd64.whl.metadata (22 kB)
+Collecting setuptools>=19.6 (from dd==0.4.3->omega<0.1.0,>=0.0.9->tulip==1.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4582282.txt (line 2))
+  Obtaining dependency information for setuptools>=19.6 from https://files.pythonhosted.org/packages/01/82/a2c6c0a1612c89bdb21dc4d9196ba9e7dcbc2e285afda93ebdf663ba2ada/setuptools-71.0.0-py3-none-any.whl.metadata
+  Using cached setuptools-71.0.0-py3-none-any.whl.metadata (6.5 kB)
+INFO: pip is looking at multiple versions of polytope to determine which version is compatible with other requirements. This could take a while.
+Collecting polytope>=0.1.2 (from tulip==1.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4582282.txt (line 2))
+  Downloading polytope-0.2.4.tar.gz (54 kB)
+     ---------------------------------------- 54.6/54.6 kB 3.0 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+  Downloading polytope-0.2.3.tar.gz (51 kB)
+     ---------------------------------------- 51.0/51.0 kB 1.3 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting pyparsing>=3.0.9 (from pydot>=1.2.0->tulip==1.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4582282.txt (line 2))
+  Obtaining dependency information for pyparsing>=3.0.9 from https://files.pythonhosted.org/packages/9d/ea/6d76df31432a0e6fdf81681a895f009a4bb47b3c39036db3e1b528191d52/pyparsing-3.1.2-py3-none-any.whl.metadata
+  Downloading pyparsing-3.1.2-py3-none-any.whl.metadata (5.1 kB)
+Collecting ply>=3.4 (from tulip==1.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4582282.txt (line 2))
+  Downloading ply-3.10.tar.gz (150 kB)
+     -------------------------------------- 150.9/150.9 kB 4.5 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Downloading numpy-2.0.0-cp312-cp312-win_amd64.whl (16.2 MB)
+   ---------------------------------------- 16.2/16.2 MB 18.2 MB/s eta 0:00:00
+Downloading pydot-3.0.1-py3-none-any.whl (22 kB)
+Downloading scipy-1.14.0-cp312-cp312-win_amd64.whl (44.5 MB)
+   ---------------------------------------- 44.5/44.5 MB 5.4 MB/s eta 0:00:00
+Downloading decorator-5.1.1-py3-none-any.whl (9.1 kB)
+Downloading natsort-8.4.0-py3-none-any.whl (38 kB)
+Downloading pyparsing-3.1.2-py3-none-any.whl (103 kB)
+   ---------------------------------------- 103.2/103.2 kB 6.2 MB/s eta 0:00:00
+Downloading psutil-6.0.0-cp37-abi3-win_amd64.whl (257 kB)
+   --------------------------------------- 257.4/257.4 kB 16.5 MB/s eta 0:00:00
+Using cached setuptools-71.0.0-py3-none-any.whl (908 kB)
+Would install astutils-0.0.6 dd-0.4.3 decorator-5.1.1 natsort-8.4.0 networkx-1.10 numpy-2.0.0 omega-0.0.11 ply-3.10 polytope-0.2.3 psutil-6.0.0 pydot-3.0.1 pyparsing-3.1.2 scipy-1.14.0 setuptools-71.0.0 tornado-6.1 tulip-1.3.0
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

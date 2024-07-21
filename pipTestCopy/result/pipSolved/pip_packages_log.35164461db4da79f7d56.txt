@@ -1,0 +1,6 @@
+PySoundFile-0.9.0.post1
+cffi-1.16.0
+numpy-2.0.0
+pillow-10.4.0
+pippi-2.0.0b3
+pycparser-2.22

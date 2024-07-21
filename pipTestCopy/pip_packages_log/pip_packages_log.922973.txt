@@ -1,0 +1,5 @@
+basho-erlastic-2.1.1
+python3-protobuf-2.5.0
+riak-2.7.0
+setuptools-71.0.1
+six-1.16.0

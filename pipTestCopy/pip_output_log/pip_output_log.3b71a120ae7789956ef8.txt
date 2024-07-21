@@ -1,0 +1,18 @@
+Collecting PyPDF2==1.26.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3b71a120ae7789956ef8.txt (line 1))
+  Downloading PyPDF2-1.26.0.tar.gz (77 kB)
+     -------------------------------------- 77.6/77.6 kB 431.5 kB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting xlrd==2.0.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3b71a120ae7789956ef8.txt (line 2))
+  Obtaining dependency information for xlrd==2.0.1 from https://files.pythonhosted.org/packages/a6/0c/c2a72d51fe56e08a08acc85d13013558a2d793028ae7385448a6ccdfae64/xlrd-2.0.1-py2.py3-none-any.whl.metadata
+  Downloading xlrd-2.0.1-py2.py3-none-any.whl.metadata (3.4 kB)
+Downloading xlrd-2.0.1-py2.py3-none-any.whl (96 kB)
+   ---------------------------------------- 96.5/96.5 kB 2.7 MB/s eta 0:00:00
+Would install PyPDF2-1.26.0 xlrd-2.0.1
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

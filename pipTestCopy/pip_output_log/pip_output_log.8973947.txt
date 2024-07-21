@@ -1,0 +1,67 @@
+Collecting couchbase==3.0.8 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8973947.txt (line 1))
+  Downloading couchbase-3.0.8.tar.gz (1.5 MB)
+     ---------------------------------------- 1.5/1.5 MB 5.2 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Installing backend dependencies: started
+  Installing backend dependencies: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting Flask==1.1.2 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8973947.txt (line 2))
+  Obtaining dependency information for Flask==1.1.2 from https://files.pythonhosted.org/packages/f2/28/2a03252dfb9ebf377f40fba6a7841b47083260bf8bd8e737b0c6952df83f/Flask-1.1.2-py2.py3-none-any.whl.metadata
+  Downloading Flask-1.1.2-py2.py3-none-any.whl.metadata (4.6 kB)
+Collecting Werkzeug==1.0.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8973947.txt (line 3))
+  Obtaining dependency information for Werkzeug==1.0.1 from https://files.pythonhosted.org/packages/cc/94/5f7079a0e00bd6863ef8f1da638721e9da21e5bacee597595b318f71d62e/Werkzeug-1.0.1-py2.py3-none-any.whl.metadata
+  Downloading Werkzeug-1.0.1-py2.py3-none-any.whl.metadata (4.7 kB)
+Collecting mypy-extensions (from couchbase==3.0.8->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8973947.txt (line 1))
+  Obtaining dependency information for mypy-extensions from https://files.pythonhosted.org/packages/2a/e2/5d3f6ada4297caebe1a2add3b126fe800c96f56dbe5d1988a2cbe0b267aa/mypy_extensions-1.0.0-py3-none-any.whl.metadata
+  Using cached mypy_extensions-1.0.0-py3-none-any.whl.metadata (1.1 kB)
+Collecting pyrsistent>=0.15.2 (from couchbase==3.0.8->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8973947.txt (line 1))
+  Obtaining dependency information for pyrsistent>=0.15.2 from https://files.pythonhosted.org/packages/75/ef/2fa3b55023ec07c22682c957808f9a41836da4cd006b5f55ec76bf0fbfa6/pyrsistent-0.20.0-cp312-cp312-win_amd64.whl.metadata
+  Using cached pyrsistent-0.20.0-cp312-cp312-win_amd64.whl.metadata (976 bytes)
+Collecting six (from couchbase==3.0.8->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8973947.txt (line 1))
+  Obtaining dependency information for six from https://files.pythonhosted.org/packages/d9/5a/e7c31adbe875f2abbb91bd84cf2dc52d792b5a01506781dbcf25c91daf11/six-1.16.0-py2.py3-none-any.whl.metadata
+  Using cached six-1.16.0-py2.py3-none-any.whl.metadata (1.8 kB)
+Collecting wrapt>=1.11.2 (from couchbase==3.0.8->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8973947.txt (line 1))
+  Obtaining dependency information for wrapt>=1.11.2 from https://files.pythonhosted.org/packages/5c/cc/8297f9658506b224aa4bd71906447dea6bb0ba629861a758c28f67428b91/wrapt-1.16.0-cp312-cp312-win_amd64.whl.metadata
+  Using cached wrapt-1.16.0-cp312-cp312-win_amd64.whl.metadata (6.8 kB)
+Collecting attrs>=19.1.0 (from couchbase==3.0.8->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8973947.txt (line 1))
+  Obtaining dependency information for attrs>=19.1.0 from https://files.pythonhosted.org/packages/e0/44/827b2a91a5816512fcaf3cc4ebc465ccd5d598c45cefa6703fcf4a79018f/attrs-23.2.0-py3-none-any.whl.metadata
+  Using cached attrs-23.2.0-py3-none-any.whl.metadata (9.5 kB)
+Collecting Jinja2>=2.10.1 (from Flask==1.1.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8973947.txt (line 2))
+  Obtaining dependency information for Jinja2>=2.10.1 from https://files.pythonhosted.org/packages/31/80/3a54838c3fb461f6fec263ebf3a3a41771bd05190238de3486aae8540c36/jinja2-3.1.4-py3-none-any.whl.metadata
+  Downloading jinja2-3.1.4-py3-none-any.whl.metadata (2.6 kB)
+Collecting itsdangerous>=0.24 (from Flask==1.1.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8973947.txt (line 2))
+  Obtaining dependency information for itsdangerous>=0.24 from https://files.pythonhosted.org/packages/04/96/92447566d16df59b2a776c0fb82dbc4d9e07cd95062562af01e408583fc4/itsdangerous-2.2.0-py3-none-any.whl.metadata
+  Downloading itsdangerous-2.2.0-py3-none-any.whl.metadata (1.9 kB)
+Collecting click>=5.1 (from Flask==1.1.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8973947.txt (line 2))
+  Obtaining dependency information for click>=5.1 from https://files.pythonhosted.org/packages/00/2e/d53fa4befbf2cfa713304affc7ca780ce4fc1fd8710527771b58311a3229/click-8.1.7-py3-none-any.whl.metadata
+  Downloading click-8.1.7-py3-none-any.whl.metadata (3.0 kB)
+Collecting colorama (from click>=5.1->Flask==1.1.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8973947.txt (line 2))
+  Obtaining dependency information for colorama from https://files.pythonhosted.org/packages/d1/d6/3965ed04c63042e047cb6a3e6ed1a63a35087b6a609aa3a15ed8ac56c221/colorama-0.4.6-py2.py3-none-any.whl.metadata
+  Downloading colorama-0.4.6-py2.py3-none-any.whl.metadata (17 kB)
+Collecting MarkupSafe>=2.0 (from Jinja2>=2.10.1->Flask==1.1.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8973947.txt (line 2))
+  Obtaining dependency information for MarkupSafe>=2.0 from https://files.pythonhosted.org/packages/3f/14/c3554d512d5f9100a95e737502f4a2323a1959f6d0d01e0d0997b35f7b10/MarkupSafe-2.1.5-cp312-cp312-win_amd64.whl.metadata
+  Downloading MarkupSafe-2.1.5-cp312-cp312-win_amd64.whl.metadata (3.1 kB)
+Downloading Flask-1.1.2-py2.py3-none-any.whl (94 kB)
+   ---------------------------------------- 94.6/94.6 kB 5.3 MB/s eta 0:00:00
+Downloading Werkzeug-1.0.1-py2.py3-none-any.whl (298 kB)
+   --------------------------------------- 298.6/298.6 kB 19.2 MB/s eta 0:00:00
+Using cached attrs-23.2.0-py3-none-any.whl (60 kB)
+Downloading click-8.1.7-py3-none-any.whl (97 kB)
+   ---------------------------------------- 97.9/97.9 kB 5.5 MB/s eta 0:00:00
+Downloading itsdangerous-2.2.0-py3-none-any.whl (16 kB)
+Downloading jinja2-3.1.4-py3-none-any.whl (133 kB)
+   ---------------------------------------- 133.3/133.3 kB 7.7 MB/s eta 0:00:00
+Using cached pyrsistent-0.20.0-cp312-cp312-win_amd64.whl (63 kB)
+Using cached wrapt-1.16.0-cp312-cp312-win_amd64.whl (37 kB)
+Using cached mypy_extensions-1.0.0-py3-none-any.whl (4.7 kB)
+Using cached six-1.16.0-py2.py3-none-any.whl (11 kB)
+Downloading MarkupSafe-2.1.5-cp312-cp312-win_amd64.whl (17 kB)
+Downloading colorama-0.4.6-py2.py3-none-any.whl (25 kB)
+Would install Flask-1.1.2 Jinja2-3.1.4 MarkupSafe-2.1.5 Werkzeug-1.0.1 attrs-23.2.0 click-8.1.7 colorama-0.4.6 couchbase-3.0.8 itsdangerous-2.2.0 mypy-extensions-1.0.0 pyrsistent-0.20.0 six-1.16.0 wrapt-1.16.0
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

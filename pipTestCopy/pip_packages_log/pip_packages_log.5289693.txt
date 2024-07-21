@@ -1,0 +1,12 @@
+PyYAML-6.0.1
+certifi-2024.7.4
+cffi-1.16.0
+chardet-4.0.0
+cryptography-42.0.8
+grpcio-1.64.1
+idna-2.10
+protobuf-5.27.2
+pycparser-2.22
+requests-2.25.1
+skein-0.8.0
+urllib3-1.26.19

@@ -1,0 +1,38 @@
+Collecting riak==2.7.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.922973.txt (line 1))
+  Downloading riak-2.7.0.tar.gz (194 kB)
+     -------------------------------------- 194.1/194.1 kB 1.2 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting six>=1.8.0 (from riak==2.7.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.922973.txt (line 1))
+  Obtaining dependency information for six>=1.8.0 from https://files.pythonhosted.org/packages/d9/5a/e7c31adbe875f2abbb91bd84cf2dc52d792b5a01506781dbcf25c91daf11/six-1.16.0-py2.py3-none-any.whl.metadata
+  Downloading six-1.16.0-py2.py3-none-any.whl.metadata (1.8 kB)
+Collecting basho-erlastic>=2.1.1 (from riak==2.7.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.922973.txt (line 1))
+  Downloading basho-erlastic-2.1.1.tar.gz (9.3 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting python3-protobuf<2.6.0,>=2.4.1 (from riak==2.7.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.922973.txt (line 1))
+  Downloading python3-protobuf-2.5.0.tar.gz (69 kB)
+     ---------------------------------------- 69.7/69.7 kB 3.7 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting setuptools (from python3-protobuf<2.6.0,>=2.4.1->riak==2.7.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.922973.txt (line 1))
+  Obtaining dependency information for setuptools from https://files.pythonhosted.org/packages/39/11/6159cc30f99dbdccac3c74d67277505d0e0bfc059e6cc57ef2eefc9b8751/setuptools-71.0.1-py3-none-any.whl.metadata
+  Using cached setuptools-71.0.1-py3-none-any.whl.metadata (6.5 kB)
+Downloading six-1.16.0-py2.py3-none-any.whl (11 kB)
+Using cached setuptools-71.0.1-py3-none-any.whl (2.2 MB)
+Would install basho-erlastic-2.1.1 python3-protobuf-2.5.0 riak-2.7.0 setuptools-71.0.1 six-1.16.0
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

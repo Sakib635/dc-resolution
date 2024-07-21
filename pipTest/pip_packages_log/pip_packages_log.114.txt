@@ -1,2 +1,0 @@
-pypandoc-1.13
-setuptools-markdown-0.4.1

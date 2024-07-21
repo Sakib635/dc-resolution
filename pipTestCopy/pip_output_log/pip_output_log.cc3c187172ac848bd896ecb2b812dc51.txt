@@ -1,0 +1,81 @@
+Collecting internetarchive==1.9.6 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.cc3c187172ac848bd896ecb2b812dc51.txt (line 1))
+  Obtaining dependency information for internetarchive==1.9.6 from https://files.pythonhosted.org/packages/91/3e/4915c1c683913308b403db44f40dc1ccded68ed220a281e3d4d497b66e11/internetarchive-1.9.6-py2.py3-none-any.whl.metadata
+  Downloading internetarchive-1.9.6-py2.py3-none-any.whl.metadata (2.3 kB)
+Collecting Pillow==8.1.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.cc3c187172ac848bd896ecb2b812dc51.txt (line 2))
+  Downloading Pillow-8.1.0.tar.gz (44.9 MB)
+     --------------------------------------- 44.9/44.9 MB 10.9 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting backports.csv<1.07 (from internetarchive==1.9.6->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.cc3c187172ac848bd896ecb2b812dc51.txt (line 1))
+  Obtaining dependency information for backports.csv<1.07 from https://files.pythonhosted.org/packages/8e/26/a6bd68f13e0f38fbb643d6e497fc3462be83a0b6c4d43425c78bb51a7291/backports.csv-1.0.7-py2.py3-none-any.whl.metadata
+  Downloading backports.csv-1.0.7-py2.py3-none-any.whl.metadata (4.0 kB)
+Collecting docopt<0.7.0,>=0.6.0 (from internetarchive==1.9.6->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.cc3c187172ac848bd896ecb2b812dc51.txt (line 1))
+  Downloading docopt-0.6.2.tar.gz (25 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting jsonpatch>=0.4 (from internetarchive==1.9.6->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.cc3c187172ac848bd896ecb2b812dc51.txt (line 1))
+  Obtaining dependency information for jsonpatch>=0.4 from https://files.pythonhosted.org/packages/73/07/02e16ed01e04a374e644b575638ec7987ae846d25ad97bcc9945a3ee4b0e/jsonpatch-1.33-py2.py3-none-any.whl.metadata
+  Downloading jsonpatch-1.33-py2.py3-none-any.whl.metadata (3.0 kB)
+Collecting requests<3.0.0,>=2.9.1 (from internetarchive==1.9.6->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.cc3c187172ac848bd896ecb2b812dc51.txt (line 1))
+  Obtaining dependency information for requests<3.0.0,>=2.9.1 from https://files.pythonhosted.org/packages/f9/9b/335f9764261e915ed497fcdeb11df5dfd6f7bf257d4a6a2a686d80da4d54/requests-2.32.3-py3-none-any.whl.metadata
+  Downloading requests-2.32.3-py3-none-any.whl.metadata (4.6 kB)
+Collecting schema>=0.4.0 (from internetarchive==1.9.6->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.cc3c187172ac848bd896ecb2b812dc51.txt (line 1))
+  Obtaining dependency information for schema>=0.4.0 from https://files.pythonhosted.org/packages/ad/1b/81855a88c6db2b114d5b2e9f96339190d5ee4d1b981d217fa32127bb00e0/schema-0.7.7-py2.py3-none-any.whl.metadata
+  Downloading schema-0.7.7-py2.py3-none-any.whl.metadata (34 kB)
+Collecting six<2.0.0,>=1.13.0 (from internetarchive==1.9.6->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.cc3c187172ac848bd896ecb2b812dc51.txt (line 1))
+  Obtaining dependency information for six<2.0.0,>=1.13.0 from https://files.pythonhosted.org/packages/d9/5a/e7c31adbe875f2abbb91bd84cf2dc52d792b5a01506781dbcf25c91daf11/six-1.16.0-py2.py3-none-any.whl.metadata
+  Downloading six-1.16.0-py2.py3-none-any.whl.metadata (1.8 kB)
+Collecting tqdm>=4.0.0 (from internetarchive==1.9.6->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.cc3c187172ac848bd896ecb2b812dc51.txt (line 1))
+  Obtaining dependency information for tqdm>=4.0.0 from https://files.pythonhosted.org/packages/18/eb/fdb7eb9e48b7b02554e1664afd3bd3f117f6b6d6c5881438a0b055554f9b/tqdm-4.66.4-py3-none-any.whl.metadata
+  Downloading tqdm-4.66.4-py3-none-any.whl.metadata (57 kB)
+     ---------------------------------------- 57.6/57.6 kB 3.0 MB/s eta 0:00:00
+Collecting jsonpointer>=1.9 (from jsonpatch>=0.4->internetarchive==1.9.6->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.cc3c187172ac848bd896ecb2b812dc51.txt (line 1))
+  Obtaining dependency information for jsonpointer>=1.9 from https://files.pythonhosted.org/packages/71/92/5e77f98553e9e75130c78900d000368476aed74276eb8ae8796f65f00918/jsonpointer-3.0.0-py2.py3-none-any.whl.metadata
+  Downloading jsonpointer-3.0.0-py2.py3-none-any.whl.metadata (2.3 kB)
+Collecting charset-normalizer<4,>=2 (from requests<3.0.0,>=2.9.1->internetarchive==1.9.6->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.cc3c187172ac848bd896ecb2b812dc51.txt (line 1))
+  Obtaining dependency information for charset-normalizer<4,>=2 from https://files.pythonhosted.org/packages/b6/7c/8debebb4f90174074b827c63242c23851bdf00a532489fba57fef3416e40/charset_normalizer-3.3.2-cp312-cp312-win_amd64.whl.metadata
+  Downloading charset_normalizer-3.3.2-cp312-cp312-win_amd64.whl.metadata (34 kB)
+Collecting idna<4,>=2.5 (from requests<3.0.0,>=2.9.1->internetarchive==1.9.6->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.cc3c187172ac848bd896ecb2b812dc51.txt (line 1))
+  Obtaining dependency information for idna<4,>=2.5 from https://files.pythonhosted.org/packages/e5/3e/741d8c82801c347547f8a2a06aa57dbb1992be9e948df2ea0eda2c8b79e8/idna-3.7-py3-none-any.whl.metadata
+  Downloading idna-3.7-py3-none-any.whl.metadata (9.9 kB)
+Collecting urllib3<3,>=1.21.1 (from requests<3.0.0,>=2.9.1->internetarchive==1.9.6->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.cc3c187172ac848bd896ecb2b812dc51.txt (line 1))
+  Obtaining dependency information for urllib3<3,>=1.21.1 from https://files.pythonhosted.org/packages/ca/1c/89ffc63a9605b583d5df2be791a27bc1a42b7c32bab68d3c8f2f73a98cd4/urllib3-2.2.2-py3-none-any.whl.metadata
+  Downloading urllib3-2.2.2-py3-none-any.whl.metadata (6.4 kB)
+Collecting certifi>=2017.4.17 (from requests<3.0.0,>=2.9.1->internetarchive==1.9.6->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.cc3c187172ac848bd896ecb2b812dc51.txt (line 1))
+  Obtaining dependency information for certifi>=2017.4.17 from https://files.pythonhosted.org/packages/1c/d5/c84e1a17bf61d4df64ca866a1c9a913874b4e9bdc131ec689a0ad013fb36/certifi-2024.7.4-py3-none-any.whl.metadata
+  Downloading certifi-2024.7.4-py3-none-any.whl.metadata (2.2 kB)
+Collecting colorama (from tqdm>=4.0.0->internetarchive==1.9.6->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.cc3c187172ac848bd896ecb2b812dc51.txt (line 1))
+  Obtaining dependency information for colorama from https://files.pythonhosted.org/packages/d1/d6/3965ed04c63042e047cb6a3e6ed1a63a35087b6a609aa3a15ed8ac56c221/colorama-0.4.6-py2.py3-none-any.whl.metadata
+  Downloading colorama-0.4.6-py2.py3-none-any.whl.metadata (17 kB)
+Downloading internetarchive-1.9.6-py2.py3-none-any.whl (79 kB)
+   ---------------------------------------- 79.4/79.4 kB 4.6 MB/s eta 0:00:00
+Downloading backports.csv-1.0.7-py2.py3-none-any.whl (12 kB)
+Downloading jsonpatch-1.33-py2.py3-none-any.whl (12 kB)
+Downloading requests-2.32.3-py3-none-any.whl (64 kB)
+   ---------------------------------------- 64.9/64.9 kB ? eta 0:00:00
+Downloading schema-0.7.7-py2.py3-none-any.whl (18 kB)
+Downloading six-1.16.0-py2.py3-none-any.whl (11 kB)
+Downloading tqdm-4.66.4-py3-none-any.whl (78 kB)
+   ---------------------------------------- 78.3/78.3 kB ? eta 0:00:00
+Downloading certifi-2024.7.4-py3-none-any.whl (162 kB)
+   ---------------------------------------- 163.0/163.0 kB 9.5 MB/s eta 0:00:00
+Downloading charset_normalizer-3.3.2-cp312-cp312-win_amd64.whl (100 kB)
+   ---------------------------------------- 100.4/100.4 kB 5.6 MB/s eta 0:00:00
+Downloading idna-3.7-py3-none-any.whl (66 kB)
+   ---------------------------------------- 66.8/66.8 kB 3.5 MB/s eta 0:00:00
+Downloading jsonpointer-3.0.0-py2.py3-none-any.whl (7.6 kB)
+Downloading urllib3-2.2.2-py3-none-any.whl (121 kB)
+   ---------------------------------------- 121.4/121.4 kB 7.0 MB/s eta 0:00:00
+Downloading colorama-0.4.6-py2.py3-none-any.whl (25 kB)
+Would install Pillow-8.1.0 backports.csv-1.0.7 certifi-2024.7.4 charset-normalizer-3.3.2 colorama-0.4.6 docopt-0.6.2 idna-3.7 internetarchive-1.9.6 jsonpatch-1.33 jsonpointer-3.0.0 requests-2.32.3 schema-0.7.7 six-1.16.0 tqdm-4.66.4 urllib3-2.2.2
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

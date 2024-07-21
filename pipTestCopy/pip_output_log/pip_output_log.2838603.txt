@@ -1,0 +1,8 @@
+Collecting geopy==2.1.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2838603.txt (line 1))
+  Obtaining dependency information for geopy==2.1.0 from https://files.pythonhosted.org/packages/0c/67/915668d0e286caa21a1da82a85ffe3d20528ec7212777b43ccd027d94023/geopy-2.1.0-py3-none-any.whl.metadata
+  Downloading geopy-2.1.0-py3-none-any.whl.metadata (6.7 kB)
+ERROR: Could not find a version that satisfies the requirement osgeo==0.0.0 (from versions: 0.0.1)
+ERROR: No matching distribution found for osgeo==0.0.0
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

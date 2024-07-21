@@ -1,4 +1,0 @@
-apispec-6.6.1
-marshmallow-2.21.0
-marshmallow-oneofschema-1.0.6
-packaging-24.1

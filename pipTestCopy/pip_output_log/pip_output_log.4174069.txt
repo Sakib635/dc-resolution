@@ -1,0 +1,16 @@
+Collecting Flask==1.1.2 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4174069.txt (line 1))
+  Obtaining dependency information for Flask==1.1.2 from https://files.pythonhosted.org/packages/f2/28/2a03252dfb9ebf377f40fba6a7841b47083260bf8bd8e737b0c6952df83f/Flask-1.1.2-py2.py3-none-any.whl.metadata
+  Downloading Flask-1.1.2-py2.py3-none-any.whl.metadata (4.6 kB)
+Collecting Flask_Bcrypt==0.7.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4174069.txt (line 2))
+  Downloading Flask-Bcrypt-0.7.1.tar.gz (5.1 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+ERROR: Could not find a version that satisfies the requirement model==0.6.0 (from versions: none)
+ERROR: No matching distribution found for model==0.6.0
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

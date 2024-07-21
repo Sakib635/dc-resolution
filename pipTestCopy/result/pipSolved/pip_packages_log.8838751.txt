@@ -1,0 +1,8 @@
+ExifRead-3.0.0
+cffi-1.16.0
+click-8.1.7
+colorama-0.4.6
+filesystemlib-0.1.0
+photos-0.0.5
+pycparser-2.22
+pyheif-0.7.1

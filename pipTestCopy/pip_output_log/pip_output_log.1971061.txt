@@ -1,0 +1,338 @@
+Collecting flexget==3.1.98 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1971061.txt (line 1))
+  Obtaining dependency information for flexget==3.1.98 from https://files.pythonhosted.org/packages/42/30/27f1f65dd988476db94c3297b25221ae3b5af4a75519cdf694cbbec8446e/FlexGet-3.1.98-py3-none-any.whl.metadata
+  Downloading FlexGet-3.1.98-py3-none-any.whl.metadata (8.4 kB)
+Collecting aniso8601==1.2.1 (from flexget==3.1.98->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1971061.txt (line 1))
+  Downloading aniso8601-1.2.1.tar.gz (62 kB)
+     -------------------------------------- 62.4/62.4 kB 560.5 kB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting apscheduler==3.5.0 (from flexget==3.1.98->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1971061.txt (line 1))
+  Obtaining dependency information for apscheduler==3.5.0 from https://files.pythonhosted.org/packages/19/d9/ca8322005bcd84c38e38cfaf2d5bd6fb66c14b4e977e973c6bb5ac5b98c7/APScheduler-3.5.0-py2.py3-none-any.whl.metadata
+  Downloading APScheduler-3.5.0-py2.py3-none-any.whl.metadata (5.3 kB)
+Collecting babelfish==0.5.5 (from flexget==3.1.98->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1971061.txt (line 1))
+  Downloading babelfish-0.5.5.tar.gz (90 kB)
+     ---------------------------------------- 90.4/90.4 kB 2.6 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting beautifulsoup4==4.8.2 (from flexget==3.1.98->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1971061.txt (line 1))
+  Obtaining dependency information for beautifulsoup4==4.8.2 from https://files.pythonhosted.org/packages/cb/a1/c698cf319e9cfed6b17376281bd0efc6bfc8465698f54170ef60a485ab5d/beautifulsoup4-4.8.2-py3-none-any.whl.metadata
+  Downloading beautifulsoup4-4.8.2-py3-none-any.whl.metadata (4.1 kB)
+Collecting certifi==2017.4.17 (from flexget==3.1.98->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1971061.txt (line 1))
+  Obtaining dependency information for certifi==2017.4.17 from https://files.pythonhosted.org/packages/eb/01/c1f58987b777d6c4ec535b4e004a4a07bfc9db06f0c7533367ca6da8f2a6/certifi-2017.4.17-py2.py3-none-any.whl.metadata
+  Downloading certifi-2017.4.17-py2.py3-none-any.whl.metadata (2.4 kB)
+Collecting chardet==3.0.3 (from flexget==3.1.98->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1971061.txt (line 1))
+  Obtaining dependency information for chardet==3.0.3 from https://files.pythonhosted.org/packages/8c/27/99f781a11e4daa5acadf97add6e5883ec5f8f9abbf279e790fd0ff371db7/chardet-3.0.3-py2.py3-none-any.whl.metadata
+  Downloading chardet-3.0.3-py2.py3-none-any.whl.metadata (3.4 kB)
+Collecting cheroot==8.2.1 (from flexget==3.1.98->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1971061.txt (line 1))
+  Obtaining dependency information for cheroot==8.2.1 from https://files.pythonhosted.org/packages/bf/be/51b1517c6dbf3851d44b36ff08a6e1012464149f89f74c46b29d2f76545e/cheroot-8.2.1-py2.py3-none-any.whl.metadata
+  Downloading cheroot-8.2.1-py2.py3-none-any.whl.metadata (6.0 kB)
+Collecting cherrypy==18.4.0 (from flexget==3.1.98->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1971061.txt (line 1))
+  Obtaining dependency information for cherrypy==18.4.0 from https://files.pythonhosted.org/packages/2b/50/da443d5e52de445462d0c3852549d7fa2e226375a2cb4e9464545cacddb6/CherryPy-18.4.0-py2.py3-none-any.whl.metadata
+  Downloading CherryPy-18.4.0-py2.py3-none-any.whl.metadata (7.8 kB)
+Collecting click==6.7 (from flexget==3.1.98->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1971061.txt (line 1))
+  Obtaining dependency information for click==6.7 from https://files.pythonhosted.org/packages/34/c1/8806f99713ddb993c5366c362b2f908f18269f8d792aff1abfd700775a77/click-6.7-py2.py3-none-any.whl.metadata
+  Downloading click-6.7-py2.py3-none-any.whl.metadata (424 bytes)
+Collecting colorama==0.4.4 (from flexget==3.1.98->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1971061.txt (line 1))
+  Obtaining dependency information for colorama==0.4.4 from https://files.pythonhosted.org/packages/44/98/5b86278fbbf250d239ae0ecb724f8572af1c91f4a11edf4d36a206189440/colorama-0.4.4-py2.py3-none-any.whl.metadata
+  Downloading colorama-0.4.4-py2.py3-none-any.whl.metadata (14 kB)
+Collecting colorclass==2.2.0 (from flexget==3.1.98->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1971061.txt (line 1))
+  Downloading colorclass-2.2.0.tar.gz (17 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting feedparser==6.0.2 (from flexget==3.1.98->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1971061.txt (line 1))
+  Obtaining dependency information for feedparser==6.0.2 from https://files.pythonhosted.org/packages/1c/21/faf1bac028662cc8adb2b5ef7a6f3999a765baa2835331df365289b0ca56/feedparser-6.0.2-py3-none-any.whl.metadata
+  Downloading feedparser-6.0.2-py3-none-any.whl.metadata (2.3 kB)
+Collecting flask-compress==1.4.0 (from flexget==3.1.98->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1971061.txt (line 1))
+  Downloading Flask-Compress-1.4.0.tar.gz (6.0 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting flask-cors==3.0.2 (from flexget==3.1.98->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1971061.txt (line 1))
+  Obtaining dependency information for flask-cors==3.0.2 from https://files.pythonhosted.org/packages/4f/4f/ea10ca247c21b6512766cf730621697ec2766fb2f712245b2c00983a57b1/Flask_Cors-3.0.2-py2.py3-none-any.whl.metadata
+  Downloading Flask_Cors-3.0.2-py2.py3-none-any.whl.metadata (5.2 kB)
+Collecting flask-login==0.4.0 (from flexget==3.1.98->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1971061.txt (line 1))
+  Obtaining dependency information for flask-login==0.4.0 from https://files.pythonhosted.org/packages/5a/14/364597ec0dd5490eb4443adae60b35088a6b7d466a9f7c8dacbe259477b5/Flask_Login-0.4.0-py2.py3-none-any.whl.metadata
+  Downloading Flask_Login-0.4.0-py2.py3-none-any.whl.metadata (1.5 kB)
+Collecting flask-restful==0.3.6 (from flexget==3.1.98->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1971061.txt (line 1))
+  Obtaining dependency information for flask-restful==0.3.6 from https://files.pythonhosted.org/packages/47/08/89cf8594735392cd71752f7cf159fa63765eac3e11b0da4324cdfeaea137/Flask_RESTful-0.3.6-py2.py3-none-any.whl.metadata
+  Downloading Flask_RESTful-0.3.6-py2.py3-none-any.whl.metadata (985 bytes)
+Collecting flask-restx==0.2.0 (from flexget==3.1.98->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1971061.txt (line 1))
+  Obtaining dependency information for flask-restx==0.2.0 from https://files.pythonhosted.org/packages/31/61/cd22fe928dd132feabed3bdf1d23e668ae81f572e5530b7e618e64a02ebe/flask_restx-0.2.0-py2.py3-none-any.whl.metadata
+  Downloading flask_restx-0.2.0-py2.py3-none-any.whl.metadata (8.8 kB)
+Collecting flask==1.0.2 (from flexget==3.1.98->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1971061.txt (line 1))
+  Obtaining dependency information for flask==1.0.2 from https://files.pythonhosted.org/packages/7f/e7/08578774ed4536d3242b14dacb4696386634607af824ea997202cd0edb4b/Flask-1.0.2-py2.py3-none-any.whl.metadata
+  Downloading Flask-1.0.2-py2.py3-none-any.whl.metadata (4.2 kB)
+Collecting guessit==3.1.0 (from flexget==3.1.98->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1971061.txt (line 1))
+  Downloading guessit-3.1.0.tar.gz (144 kB)
+     -------------------------------------- 144.1/144.1 kB 4.3 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Installing backend dependencies: started
+  Installing backend dependencies: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting html5lib==0.999999999 (from flexget==3.1.98->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1971061.txt (line 1))
+  Obtaining dependency information for html5lib==0.999999999 from https://files.pythonhosted.org/packages/f7/71/a96f36d34394bcfff9fb54bfe0aa72cc5b4ff2f803e5728645aef38f7aee/html5lib-0.999999999-py2.py3-none-any.whl.metadata
+  Downloading html5lib-0.999999999-py2.py3-none-any.whl.metadata (14 kB)
+Collecting idna==2.8 (from flexget==3.1.98->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1971061.txt (line 1))
+  Obtaining dependency information for idna==2.8 from https://files.pythonhosted.org/packages/14/2c/cd551d81dbe15200be1cf41cd03869a46fe7226e7450af7a6545bfc474c9/idna-2.8-py2.py3-none-any.whl.metadata
+  Downloading idna-2.8-py2.py3-none-any.whl.metadata (8.9 kB)
+Collecting itsdangerous==0.24 (from flexget==3.1.98->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1971061.txt (line 1))
+  Downloading itsdangerous-0.24.tar.gz (46 kB)
+     ---------------------------------------- 46.5/46.5 kB 1.1 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting jaraco.functools==2.0 (from flexget==3.1.98->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1971061.txt (line 1))
+  Obtaining dependency information for jaraco.functools==2.0 from https://files.pythonhosted.org/packages/12/a4/3e7366d0f5e75dcad7be88524c8cbd0f3a9fb1db243269550981740c57fe/jaraco.functools-2.0-py2.py3-none-any.whl.metadata
+  Downloading jaraco.functools-2.0-py2.py3-none-any.whl.metadata (1.9 kB)
+Collecting jinja2==2.10.1 (from flexget==3.1.98->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1971061.txt (line 1))
+  Obtaining dependency information for jinja2==2.10.1 from https://files.pythonhosted.org/packages/1d/e7/fd8b501e7a6dfe492a433deb7b9d833d39ca74916fa8bc63dd1a4947a671/Jinja2-2.10.1-py2.py3-none-any.whl.metadata
+  Downloading Jinja2-2.10.1-py2.py3-none-any.whl.metadata (2.2 kB)
+Collecting jsonschema==2.6.0 (from flexget==3.1.98->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1971061.txt (line 1))
+  Obtaining dependency information for jsonschema==2.6.0 from https://files.pythonhosted.org/packages/77/de/47e35a97b2b05c2fadbec67d44cfcdcd09b8086951b331d82de90d2912da/jsonschema-2.6.0-py2.py3-none-any.whl.metadata
+  Downloading jsonschema-2.6.0-py2.py3-none-any.whl.metadata (4.6 kB)
+Collecting loguru==0.5.3 (from flexget==3.1.98->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1971061.txt (line 1))
+  Obtaining dependency information for loguru==0.5.3 from https://files.pythonhosted.org/packages/6d/48/0a7d5847e3de329f1d0134baf707b689700b53bd3066a5a8cfd94b3c9fc8/loguru-0.5.3-py3-none-any.whl.metadata
+  Downloading loguru-0.5.3-py3-none-any.whl.metadata (21 kB)
+Collecting markupsafe==1.1.1 (from flexget==3.1.98->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1971061.txt (line 1))
+  Downloading MarkupSafe-1.1.1.tar.gz (19 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting more-itertools==7.2.0 (from flexget==3.1.98->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1971061.txt (line 1))
+  Obtaining dependency information for more-itertools==7.2.0 from https://files.pythonhosted.org/packages/45/dc/3241eef99eb45f1def35cf93af35d1cf9ef4c0991792583b8f33ea41b092/more_itertools-7.2.0-py3-none-any.whl.metadata
+  Downloading more_itertools-7.2.0-py3-none-any.whl.metadata (38 kB)
+Collecting plumbum==1.6.3 (from flexget==3.1.98->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1971061.txt (line 1))
+  Obtaining dependency information for plumbum==1.6.3 from https://files.pythonhosted.org/packages/86/6e/2976af0c43f5d6ba2179e1f024a62a886737b0cf46bfff1cc987d55bbcaf/plumbum-1.6.3-py2.py3-none-any.whl.metadata
+  Downloading plumbum-1.6.3-py2.py3-none-any.whl.metadata (7.2 kB)
+Collecting portend==2.6 (from flexget==3.1.98->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1971061.txt (line 1))
+  Obtaining dependency information for portend==2.6 from https://files.pythonhosted.org/packages/d7/79/eee70a512bffe5ceb5008f8e3326581948f50ca393c3bcb4d557e4818bd1/portend-2.6-py2.py3-none-any.whl.metadata
+  Downloading portend-2.6-py2.py3-none-any.whl.metadata (3.1 kB)
+Collecting progressbar==2.5 (from flexget==3.1.98->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1971061.txt (line 1))
+  Downloading progressbar-2.5.tar.gz (10 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting pynzb==0.1.0 (from flexget==3.1.98->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1971061.txt (line 1))
+  Downloading pynzb-0.1.0.tar.gz (5.6 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting pyparsing==2.4.7 (from flexget==3.1.98->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1971061.txt (line 1))
+  Obtaining dependency information for pyparsing==2.4.7 from https://files.pythonhosted.org/packages/8a/bb/488841f56197b13700afd5658fc279a2025a39e22449b7cf29864669b15d/pyparsing-2.4.7-py2.py3-none-any.whl.metadata
+  Downloading pyparsing-2.4.7-py2.py3-none-any.whl.metadata (3.6 kB)
+Collecting pyrss2gen==1.1 (from flexget==3.1.98->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1971061.txt (line 1))
+  Downloading PyRSS2Gen-1.1.tar.gz (6.9 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting python-dateutil==2.6.1 (from flexget==3.1.98->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1971061.txt (line 1))
+  Obtaining dependency information for python-dateutil==2.6.1 from https://files.pythonhosted.org/packages/4b/0d/7ed381ab4fe80b8ebf34411d14f253e1cf3e56e2820ffa1d8844b23859a2/python_dateutil-2.6.1-py2.py3-none-any.whl.metadata
+  Downloading python_dateutil-2.6.1-py2.py3-none-any.whl.metadata (1.1 kB)
+Collecting pytz==2017.2 (from flexget==3.1.98->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1971061.txt (line 1))
+  Obtaining dependency information for pytz==2017.2 from https://files.pythonhosted.org/packages/55/62/e7cd0e15b76062d298413f14bb4ec3cd8568a22d274427f9c3c7286969f4/pytz-2017.2-py2.py3-none-any.whl.metadata
+  Downloading pytz-2017.2-py2.py3-none-any.whl.metadata (20 kB)
+Collecting pyyaml==5.1.2 (from flexget==3.1.98->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1971061.txt (line 1))
+  Downloading PyYAML-5.1.2.tar.gz (265 kB)
+     -------------------------------------- 265.0/265.0 kB 8.2 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting rebulk==2.0.0 (from flexget==3.1.98->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1971061.txt (line 1))
+  Downloading rebulk-2.0.0.tar.gz (257 kB)
+     ------------------------------------- 257.1/257.1 kB 15.4 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Installing backend dependencies: started
+  Installing backend dependencies: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting requests==2.24.0 (from flexget==3.1.98->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1971061.txt (line 1))
+  Obtaining dependency information for requests==2.24.0 from https://files.pythonhosted.org/packages/45/1e/0c169c6a5381e241ba7404532c16a21d86ab872c9bed8bdcd4c423954103/requests-2.24.0-py2.py3-none-any.whl.metadata
+  Downloading requests-2.24.0-py2.py3-none-any.whl.metadata (6.9 kB)
+Collecting rpyc==4.0.1 (from flexget==3.1.98->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1971061.txt (line 1))
+  Downloading rpyc-4.0.1.tar.gz (54 kB)
+     ---------------------------------------- 54.4/54.4 kB ? eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting sgmllib3k==1.0.0 (from flexget==3.1.98->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1971061.txt (line 1))
+  Downloading sgmllib3k-1.0.0.tar.gz (5.8 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting six==1.13.0 (from flexget==3.1.98->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1971061.txt (line 1))
+  Obtaining dependency information for six==1.13.0 from https://files.pythonhosted.org/packages/65/26/32b8464df2a97e6dd1b656ed26b2c194606c16fe163c695a992b36c11cdf/six-1.13.0-py2.py3-none-any.whl.metadata
+  Downloading six-1.13.0-py2.py3-none-any.whl.metadata (1.9 kB)
+Collecting soupsieve==1.9.5 (from flexget==3.1.98->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1971061.txt (line 1))
+  Obtaining dependency information for soupsieve==1.9.5 from https://files.pythonhosted.org/packages/81/94/03c0f04471fc245d08d0a99f7946ac228ca98da4fa75796c507f61e688c2/soupsieve-1.9.5-py2.py3-none-any.whl.metadata
+  Downloading soupsieve-1.9.5-py2.py3-none-any.whl.metadata (5.5 kB)
+Collecting sqlalchemy==1.3.11 (from flexget==3.1.98->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1971061.txt (line 1))
+  Downloading SQLAlchemy-1.3.11.tar.gz (6.0 MB)
+     ---------------------------------------- 6.0/6.0 MB 11.6 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting tempora==1.8 (from flexget==3.1.98->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1971061.txt (line 1))
+  Obtaining dependency information for tempora==1.8 from https://files.pythonhosted.org/packages/33/ac/50ea4e5a23d6de977fffbc3c7cf94df60e9d1c9f5479e6f9845fb333342c/tempora-1.8-py2.py3-none-any.whl.metadata
+  Downloading tempora-1.8-py2.py3-none-any.whl.metadata (1.7 kB)
+Collecting terminaltables==3.1.0 (from flexget==3.1.98->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1971061.txt (line 1))
+  Downloading terminaltables-3.1.0.tar.gz (12 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting tzlocal==1.4 (from flexget==3.1.98->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1971061.txt (line 1))
+  Downloading tzlocal-1.4.tar.gz (15 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting urllib3==1.25.11 (from flexget==3.1.98->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1971061.txt (line 1))
+  Obtaining dependency information for urllib3==1.25.11 from https://files.pythonhosted.org/packages/56/aa/4ef5aa67a9a62505db124a5cb5262332d1d4153462eb8fd89c9fa41e5d92/urllib3-1.25.11-py2.py3-none-any.whl.metadata
+  Downloading urllib3-1.25.11-py2.py3-none-any.whl.metadata (41 kB)
+     ---------------------------------------- 41.1/41.1 kB 1.9 MB/s eta 0:00:00
+Collecting webencodings==0.5.1 (from flexget==3.1.98->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1971061.txt (line 1))
+  Obtaining dependency information for webencodings==0.5.1 from https://files.pythonhosted.org/packages/f4/24/2a3e3df732393fed8b3ebf2ec078f05546de641fe1b667ee316ec1dcf3b7/webencodings-0.5.1-py2.py3-none-any.whl.metadata
+  Downloading webencodings-0.5.1-py2.py3-none-any.whl.metadata (2.1 kB)
+Collecting werkzeug==0.15.6 (from flexget==3.1.98->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1971061.txt (line 1))
+  Obtaining dependency information for werkzeug==0.15.6 from https://files.pythonhosted.org/packages/b7/61/c0a1adf9ad80db012ed7191af98fa05faa95fa09eceb71bb6fa8b66e6a43/Werkzeug-0.15.6-py2.py3-none-any.whl.metadata
+  Downloading Werkzeug-0.15.6-py2.py3-none-any.whl.metadata (4.7 kB)
+Collecting zc.lockfile==2.0 (from flexget==3.1.98->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1971061.txt (line 1))
+  Obtaining dependency information for zc.lockfile==2.0 from https://files.pythonhosted.org/packages/6c/2a/268389776288f0f26c7272c70c36c96dcc0bdb88ab6216ea18e19df1fadd/zc.lockfile-2.0-py2.py3-none-any.whl.metadata
+  Downloading zc.lockfile-2.0-py2.py3-none-any.whl.metadata (5.9 kB)
+Collecting zxcvbn-python==4.4.15 (from flexget==3.1.98->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1971061.txt (line 1))
+  Downloading zxcvbn-python-4.4.15.tar.gz (405 kB)
+     ------------------------------------- 405.2/405.2 kB 26.3 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting setuptools>=0.7 (from apscheduler==3.5.0->flexget==3.1.98->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1971061.txt (line 1))
+  Obtaining dependency information for setuptools>=0.7 from https://files.pythonhosted.org/packages/01/82/a2c6c0a1612c89bdb21dc4d9196ba9e7dcbc2e285afda93ebdf663ba2ada/setuptools-71.0.0-py3-none-any.whl.metadata
+  Using cached setuptools-71.0.0-py3-none-any.whl.metadata (6.5 kB)
+Collecting pywin32 (from cherrypy==18.4.0->flexget==3.1.98->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1971061.txt (line 1))
+  Obtaining dependency information for pywin32 from https://files.pythonhosted.org/packages/83/1c/25b79fc3ec99b19b0a0730cc47356f7e2959863bf9f3cd314332bddb4f68/pywin32-306-cp312-cp312-win_amd64.whl.metadata
+  Downloading pywin32-306-cp312-cp312-win_amd64.whl.metadata (6.5 kB)
+Collecting win32-setctime>=1.0.0 (from loguru==0.5.3->flexget==3.1.98->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1971061.txt (line 1))
+  Obtaining dependency information for win32-setctime>=1.0.0 from https://files.pythonhosted.org/packages/0a/e6/a7d828fef907843b2a5773ebff47fb79ac0c1c88d60c0ca9530ee941e248/win32_setctime-1.1.0-py3-none-any.whl.metadata
+  Downloading win32_setctime-1.1.0-py3-none-any.whl.metadata (2.3 kB)
+Downloading FlexGet-3.1.98-py3-none-any.whl (8.9 MB)
+   ---------------------------------------- 8.9/8.9 MB 3.4 MB/s eta 0:00:00
+Downloading APScheduler-3.5.0-py2.py3-none-any.whl (60 kB)
+   ---------------------------------------- 60.1/60.1 kB 3.3 MB/s eta 0:00:00
+Downloading beautifulsoup4-4.8.2-py3-none-any.whl (106 kB)
+   ---------------------------------------- 106.9/106.9 kB 6.4 MB/s eta 0:00:00
+Downloading certifi-2017.4.17-py2.py3-none-any.whl (375 kB)
+   --------------------------------------- 375.9/375.9 kB 22.9 MB/s eta 0:00:00
+Downloading chardet-3.0.3-py2.py3-none-any.whl (133 kB)
+   ---------------------------------------- 133.4/133.4 kB ? eta 0:00:00
+Downloading cheroot-8.2.1-py2.py3-none-any.whl (79 kB)
+   ---------------------------------------- 79.9/79.9 kB 4.6 MB/s eta 0:00:00
+Downloading CherryPy-18.4.0-py2.py3-none-any.whl (418 kB)
+   --------------------------------------- 418.6/418.6 kB 27.2 MB/s eta 0:00:00
+Downloading click-6.7-py2.py3-none-any.whl (71 kB)
+   ---------------------------------------- 71.2/71.2 kB ? eta 0:00:00
+Downloading colorama-0.4.4-py2.py3-none-any.whl (16 kB)
+Downloading feedparser-6.0.2-py3-none-any.whl (80 kB)
+   ---------------------------------------- 80.9/80.9 kB 4.4 MB/s eta 0:00:00
+Downloading Flask-1.0.2-py2.py3-none-any.whl (91 kB)
+   ---------------------------------------- 91.4/91.4 kB 5.1 MB/s eta 0:00:00
+Downloading Flask_Cors-3.0.2-py2.py3-none-any.whl (15 kB)
+Downloading Flask_Login-0.4.0-py2.py3-none-any.whl (15 kB)
+Downloading Flask_RESTful-0.3.6-py2.py3-none-any.whl (25 kB)
+Downloading flask_restx-0.2.0-py2.py3-none-any.whl (2.6 MB)
+   ---------------------------------------- 2.6/2.6 MB 33.6 MB/s eta 0:00:00
+Downloading html5lib-0.999999999-py2.py3-none-any.whl (112 kB)
+   ---------------------------------------- 112.7/112.7 kB 6.4 MB/s eta 0:00:00
+Downloading idna-2.8-py2.py3-none-any.whl (58 kB)
+   ---------------------------------------- 58.6/58.6 kB ? eta 0:00:00
+Downloading jaraco.functools-2.0-py2.py3-none-any.whl (6.7 kB)
+Downloading Jinja2-2.10.1-py2.py3-none-any.whl (124 kB)
+   ---------------------------------------- 124.9/124.9 kB 7.6 MB/s eta 0:00:00
+Downloading jsonschema-2.6.0-py2.py3-none-any.whl (39 kB)
+Downloading loguru-0.5.3-py3-none-any.whl (57 kB)
+   ---------------------------------------- 57.2/57.2 kB ? eta 0:00:00
+Downloading more_itertools-7.2.0-py3-none-any.whl (57 kB)
+   ---------------------------------------- 57.3/57.3 kB 1.5 MB/s eta 0:00:00
+Downloading plumbum-1.6.3-py2.py3-none-any.whl (99 kB)
+   ---------------------------------------- 99.6/99.6 kB 5.6 MB/s eta 0:00:00
+Downloading portend-2.6-py2.py3-none-any.whl (5.1 kB)
+Downloading pyparsing-2.4.7-py2.py3-none-any.whl (67 kB)
+   ---------------------------------------- 67.8/67.8 kB 3.6 MB/s eta 0:00:00
+Downloading python_dateutil-2.6.1-py2.py3-none-any.whl (194 kB)
+   --------------------------------------- 194.2/194.2 kB 11.5 MB/s eta 0:00:00
+Downloading pytz-2017.2-py2.py3-none-any.whl (484 kB)
+   --------------------------------------- 484.9/484.9 kB 15.3 MB/s eta 0:00:00
+Downloading requests-2.24.0-py2.py3-none-any.whl (61 kB)
+   ---------------------------------------- 61.8/61.8 kB 3.2 MB/s eta 0:00:00
+Downloading six-1.13.0-py2.py3-none-any.whl (10 kB)
+Downloading soupsieve-1.9.5-py2.py3-none-any.whl (33 kB)
+Downloading tempora-1.8-py2.py3-none-any.whl (11 kB)
+Downloading urllib3-1.25.11-py2.py3-none-any.whl (127 kB)
+   ---------------------------------------- 128.0/128.0 kB 7.8 MB/s eta 0:00:00
+Downloading webencodings-0.5.1-py2.py3-none-any.whl (11 kB)
+Downloading Werkzeug-0.15.6-py2.py3-none-any.whl (328 kB)
+   --------------------------------------- 328.3/328.3 kB 19.9 MB/s eta 0:00:00
+Downloading zc.lockfile-2.0-py2.py3-none-any.whl (9.7 kB)
+Using cached setuptools-71.0.0-py3-none-any.whl (908 kB)
+Downloading win32_setctime-1.1.0-py3-none-any.whl (3.6 kB)
+Downloading pywin32-306-cp312-cp312-win_amd64.whl (9.2 MB)
+   ---------------------------------------- 9.2/9.2 MB 20.3 MB/s eta 0:00:00
+Would install APScheduler-3.5.0 CherryPy-18.4.0 Flask-1.0.2 Flask-Compress-1.4.0 Flask-Cors-3.0.2 Flask-Login-0.4.0 Flask-RESTful-0.3.6 FlexGet-3.1.98 Jinja2-2.10.1 MarkupSafe-1.1.1 PyRSS2Gen-1.1 PyYAML-5.1.2 SQLAlchemy-1.3.11 Werkzeug-0.15.6 aniso8601-1.2.1 babelfish-0.5.5 beautifulsoup4-4.8.2 certifi-2017.4.17 chardet-3.0.3 cheroot-8.2.1 click-6.7 colorama-0.4.4 colorclass-2.2.0 feedparser-6.0.2 flask-restx-0.2.0 guessit-3.1.0 html5lib-0.999999999 idna-2.8 itsdangerous-0.24 jaraco.functools-2.0 jsonschema-2.6.0 loguru-0.5.3 more-itertools-7.2.0 plumbum-1.6.3 portend-2.6 progressbar-2.5 pynzb-0.1.0 pyparsing-2.4.7 python-dateutil-2.6.1 pytz-2017.2 pywin32-306 rebulk-2.0.0 requests-2.24.0 rpyc-4.0.1 setuptools-71.0.0 sgmllib3k-1.0.0 six-1.13.0 soupsieve-1.9.5 tempora-1.8 terminaltables-3.1.0 tzlocal-1.4 urllib3-1.25.11 webencodings-0.5.1 win32-setctime-1.1.0 zc.lockfile-2.0 zxcvbn-python-4.4.15
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

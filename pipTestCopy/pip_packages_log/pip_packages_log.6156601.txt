@@ -1,0 +1,3 @@
+more-itertools-10.3.0
+wolframalpha-4.1.1
+xmltodict-0.13.0

@@ -1,6 +1,0 @@
-Django-5.0.7
-asgiref-3.8.1
-opentracing-2.0.0
-six-1.16.0
-sqlparse-0.5.0
-tzdata-2024.1

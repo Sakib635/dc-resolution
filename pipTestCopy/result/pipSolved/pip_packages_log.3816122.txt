@@ -1,0 +1,5 @@
+Django-1.10.8
+django-classy-tags-0.8.0
+django-sekizai-0.10.0
+envoy-0.0.3
+foundation-0.1.0a0.dev1

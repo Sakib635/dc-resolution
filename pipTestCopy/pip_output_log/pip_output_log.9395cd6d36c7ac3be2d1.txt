@@ -1,0 +1,178 @@
+Collecting jupyterhub==1.3.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.9395cd6d36c7ac3be2d1.txt (line 1))
+  Obtaining dependency information for jupyterhub==1.3.0 from https://files.pythonhosted.org/packages/18/ab/e1bd7a04a9a1106cfdc90c80d4546fef0ea4d1412fd3e4ca336fc8ff199d/jupyterhub-1.3.0-py3-none-any.whl.metadata
+  Downloading jupyterhub-1.3.0-py3-none-any.whl.metadata (14 kB)
+Collecting tornado==6.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.9395cd6d36c7ac3be2d1.txt (line 2))
+  Downloading tornado-6.1.tar.gz (497 kB)
+     -------------------------------------- 497.4/497.4 kB 2.4 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting alembic (from jupyterhub==1.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.9395cd6d36c7ac3be2d1.txt (line 1))
+  Obtaining dependency information for alembic from https://files.pythonhosted.org/packages/df/ed/c884465c33c25451e4a5cd4acad154c29e5341e3214e220e7f3478aa4b0d/alembic-1.13.2-py3-none-any.whl.metadata
+  Downloading alembic-1.13.2-py3-none-any.whl.metadata (7.4 kB)
+Collecting async-generator>=1.9 (from jupyterhub==1.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.9395cd6d36c7ac3be2d1.txt (line 1))
+  Obtaining dependency information for async-generator>=1.9 from https://files.pythonhosted.org/packages/71/52/39d20e03abd0ac9159c162ec24b93fbcaa111e8400308f2465432495ca2b/async_generator-1.10-py3-none-any.whl.metadata
+  Downloading async_generator-1.10-py3-none-any.whl.metadata (4.9 kB)
+Collecting certipy>=0.1.2 (from jupyterhub==1.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.9395cd6d36c7ac3be2d1.txt (line 1))
+  Obtaining dependency information for certipy>=0.1.2 from https://files.pythonhosted.org/packages/4e/c4/02194a623c03547306c5edfb6b1c0fadaa35ad7fdc2a93b2c1e5e86afc51/certipy-0.1.3-py3-none-any.whl.metadata
+  Downloading certipy-0.1.3-py3-none-any.whl.metadata (3.7 kB)
+Collecting entrypoints (from jupyterhub==1.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.9395cd6d36c7ac3be2d1.txt (line 1))
+  Obtaining dependency information for entrypoints from https://files.pythonhosted.org/packages/35/a8/365059bbcd4572cbc41de17fd5b682be5868b218c3c5479071865cab9078/entrypoints-0.4-py3-none-any.whl.metadata
+  Downloading entrypoints-0.4-py3-none-any.whl.metadata (2.6 kB)
+Collecting jinja2>=2.11.0 (from jupyterhub==1.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.9395cd6d36c7ac3be2d1.txt (line 1))
+  Obtaining dependency information for jinja2>=2.11.0 from https://files.pythonhosted.org/packages/31/80/3a54838c3fb461f6fec263ebf3a3a41771bd05190238de3486aae8540c36/jinja2-3.1.4-py3-none-any.whl.metadata
+  Downloading jinja2-3.1.4-py3-none-any.whl.metadata (2.6 kB)
+Collecting jupyter-telemetry>=0.1.0 (from jupyterhub==1.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.9395cd6d36c7ac3be2d1.txt (line 1))
+  Obtaining dependency information for jupyter-telemetry>=0.1.0 from https://files.pythonhosted.org/packages/90/ab/8d565a0797dacf82dea161ba5c40bd1f3ddbf365e3f7f8fd63007f03b19f/jupyter_telemetry-0.1.0-py3-none-any.whl.metadata
+  Downloading jupyter_telemetry-0.1.0-py3-none-any.whl.metadata (4.0 kB)
+Collecting oauthlib>=3.0 (from jupyterhub==1.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.9395cd6d36c7ac3be2d1.txt (line 1))
+  Obtaining dependency information for oauthlib>=3.0 from https://files.pythonhosted.org/packages/7e/80/cab10959dc1faead58dc8384a781dfbf93cb4d33d50988f7a69f1b7c9bbe/oauthlib-3.2.2-py3-none-any.whl.metadata
+  Downloading oauthlib-3.2.2-py3-none-any.whl.metadata (7.5 kB)
+Collecting prometheus-client>=0.4.0 (from jupyterhub==1.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.9395cd6d36c7ac3be2d1.txt (line 1))
+  Obtaining dependency information for prometheus-client>=0.4.0 from https://files.pythonhosted.org/packages/c7/98/745b810d822103adca2df8decd4c0bbe839ba7ad3511af3f0d09692fc0f0/prometheus_client-0.20.0-py3-none-any.whl.metadata
+  Downloading prometheus_client-0.20.0-py3-none-any.whl.metadata (1.8 kB)
+Collecting python-dateutil (from jupyterhub==1.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.9395cd6d36c7ac3be2d1.txt (line 1))
+  Obtaining dependency information for python-dateutil from https://files.pythonhosted.org/packages/ec/57/56b9bcc3c9c6a792fcbaf139543cee77261f3651ca9da0c93f5c1221264b/python_dateutil-2.9.0.post0-py2.py3-none-any.whl.metadata
+  Downloading python_dateutil-2.9.0.post0-py2.py3-none-any.whl.metadata (8.4 kB)
+Collecting requests (from jupyterhub==1.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.9395cd6d36c7ac3be2d1.txt (line 1))
+  Obtaining dependency information for requests from https://files.pythonhosted.org/packages/f9/9b/335f9764261e915ed497fcdeb11df5dfd6f7bf257d4a6a2a686d80da4d54/requests-2.32.3-py3-none-any.whl.metadata
+  Downloading requests-2.32.3-py3-none-any.whl.metadata (4.6 kB)
+Collecting SQLAlchemy>=1.1 (from jupyterhub==1.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.9395cd6d36c7ac3be2d1.txt (line 1))
+  Obtaining dependency information for SQLAlchemy>=1.1 from https://files.pythonhosted.org/packages/d0/ff/5746886a796799d45285573c8a6564b4b84c730142ab974d7a3f7bacee6c/SQLAlchemy-2.0.31-cp312-cp312-win_amd64.whl.metadata
+  Downloading SQLAlchemy-2.0.31-cp312-cp312-win_amd64.whl.metadata (9.9 kB)
+Collecting traitlets>=4.3.2 (from jupyterhub==1.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.9395cd6d36c7ac3be2d1.txt (line 1))
+  Obtaining dependency information for traitlets>=4.3.2 from https://files.pythonhosted.org/packages/00/c0/8f5d070730d7836adc9c9b6408dec68c6ced86b304a9b26a14df072a6e8c/traitlets-5.14.3-py3-none-any.whl.metadata
+  Downloading traitlets-5.14.3-py3-none-any.whl.metadata (10 kB)
+Collecting psutil>=5.6.5 (from jupyterhub==1.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.9395cd6d36c7ac3be2d1.txt (line 1))
+  Obtaining dependency information for psutil>=5.6.5 from https://files.pythonhosted.org/packages/73/44/561092313ae925f3acfaace6f9ddc4f6a9c748704317bad9c8c8f8a36a79/psutil-6.0.0-cp37-abi3-win_amd64.whl.metadata
+  Downloading psutil-6.0.0-cp37-abi3-win_amd64.whl.metadata (22 kB)
+Collecting pyopenssl (from certipy>=0.1.2->jupyterhub==1.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.9395cd6d36c7ac3be2d1.txt (line 1))
+  Obtaining dependency information for pyopenssl from https://files.pythonhosted.org/packages/54/a7/2104f674a5a6845b04c8ff01659becc6b8978ca410b82b94287e0b1e018b/pyOpenSSL-24.1.0-py3-none-any.whl.metadata
+  Downloading pyOpenSSL-24.1.0-py3-none-any.whl.metadata (12 kB)
+Collecting MarkupSafe>=2.0 (from jinja2>=2.11.0->jupyterhub==1.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.9395cd6d36c7ac3be2d1.txt (line 1))
+  Obtaining dependency information for MarkupSafe>=2.0 from https://files.pythonhosted.org/packages/3f/14/c3554d512d5f9100a95e737502f4a2323a1959f6d0d01e0d0997b35f7b10/MarkupSafe-2.1.5-cp312-cp312-win_amd64.whl.metadata
+  Downloading MarkupSafe-2.1.5-cp312-cp312-win_amd64.whl.metadata (3.1 kB)
+Collecting jsonschema (from jupyter-telemetry>=0.1.0->jupyterhub==1.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.9395cd6d36c7ac3be2d1.txt (line 1))
+  Obtaining dependency information for jsonschema from https://files.pythonhosted.org/packages/69/4a/4f9dbeb84e8850557c02365a0eee0649abe5eb1d84af92a25731c6c0f922/jsonschema-4.23.0-py3-none-any.whl.metadata
+  Downloading jsonschema-4.23.0-py3-none-any.whl.metadata (7.9 kB)
+Collecting python-json-logger (from jupyter-telemetry>=0.1.0->jupyterhub==1.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.9395cd6d36c7ac3be2d1.txt (line 1))
+  Obtaining dependency information for python-json-logger from https://files.pythonhosted.org/packages/35/a6/145655273568ee78a581e734cf35beb9e33a370b29c5d3c8fee3744de29f/python_json_logger-2.0.7-py3-none-any.whl.metadata
+  Downloading python_json_logger-2.0.7-py3-none-any.whl.metadata (6.5 kB)
+Collecting ruamel.yaml (from jupyter-telemetry>=0.1.0->jupyterhub==1.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.9395cd6d36c7ac3be2d1.txt (line 1))
+  Obtaining dependency information for ruamel.yaml from https://files.pythonhosted.org/packages/73/67/8ece580cc363331d9a53055130f86b096bf16e38156e33b1d3014fffda6b/ruamel.yaml-0.18.6-py3-none-any.whl.metadata
+  Downloading ruamel.yaml-0.18.6-py3-none-any.whl.metadata (23 kB)
+Collecting typing-extensions>=4.6.0 (from SQLAlchemy>=1.1->jupyterhub==1.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.9395cd6d36c7ac3be2d1.txt (line 1))
+  Obtaining dependency information for typing-extensions>=4.6.0 from https://files.pythonhosted.org/packages/26/9f/ad63fc0248c5379346306f8668cda6e2e2e9c95e01216d2b8ffd9ff037d0/typing_extensions-4.12.2-py3-none-any.whl.metadata
+  Downloading typing_extensions-4.12.2-py3-none-any.whl.metadata (3.0 kB)
+Collecting greenlet!=0.4.17 (from SQLAlchemy>=1.1->jupyterhub==1.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.9395cd6d36c7ac3be2d1.txt (line 1))
+  Obtaining dependency information for greenlet!=0.4.17 from https://files.pythonhosted.org/packages/53/80/3d94d5999b4179d91bcc93745d1b0815b073d61be79dd546b840d17adb18/greenlet-3.0.3-cp312-cp312-win_amd64.whl.metadata
+  Downloading greenlet-3.0.3-cp312-cp312-win_amd64.whl.metadata (3.9 kB)
+Collecting Mako (from alembic->jupyterhub==1.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.9395cd6d36c7ac3be2d1.txt (line 1))
+  Obtaining dependency information for Mako from https://files.pythonhosted.org/packages/03/62/70f5a0c2dd208f9f3f2f9afd103aec42ee4d9ad2401d78342f75e9b8da36/Mako-1.3.5-py3-none-any.whl.metadata
+  Downloading Mako-1.3.5-py3-none-any.whl.metadata (2.9 kB)
+Collecting six>=1.5 (from python-dateutil->jupyterhub==1.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.9395cd6d36c7ac3be2d1.txt (line 1))
+  Obtaining dependency information for six>=1.5 from https://files.pythonhosted.org/packages/d9/5a/e7c31adbe875f2abbb91bd84cf2dc52d792b5a01506781dbcf25c91daf11/six-1.16.0-py2.py3-none-any.whl.metadata
+  Downloading six-1.16.0-py2.py3-none-any.whl.metadata (1.8 kB)
+Collecting charset-normalizer<4,>=2 (from requests->jupyterhub==1.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.9395cd6d36c7ac3be2d1.txt (line 1))
+  Obtaining dependency information for charset-normalizer<4,>=2 from https://files.pythonhosted.org/packages/b6/7c/8debebb4f90174074b827c63242c23851bdf00a532489fba57fef3416e40/charset_normalizer-3.3.2-cp312-cp312-win_amd64.whl.metadata
+  Downloading charset_normalizer-3.3.2-cp312-cp312-win_amd64.whl.metadata (34 kB)
+Collecting idna<4,>=2.5 (from requests->jupyterhub==1.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.9395cd6d36c7ac3be2d1.txt (line 1))
+  Obtaining dependency information for idna<4,>=2.5 from https://files.pythonhosted.org/packages/e5/3e/741d8c82801c347547f8a2a06aa57dbb1992be9e948df2ea0eda2c8b79e8/idna-3.7-py3-none-any.whl.metadata
+  Downloading idna-3.7-py3-none-any.whl.metadata (9.9 kB)
+Collecting urllib3<3,>=1.21.1 (from requests->jupyterhub==1.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.9395cd6d36c7ac3be2d1.txt (line 1))
+  Obtaining dependency information for urllib3<3,>=1.21.1 from https://files.pythonhosted.org/packages/ca/1c/89ffc63a9605b583d5df2be791a27bc1a42b7c32bab68d3c8f2f73a98cd4/urllib3-2.2.2-py3-none-any.whl.metadata
+  Downloading urllib3-2.2.2-py3-none-any.whl.metadata (6.4 kB)
+Collecting certifi>=2017.4.17 (from requests->jupyterhub==1.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.9395cd6d36c7ac3be2d1.txt (line 1))
+  Obtaining dependency information for certifi>=2017.4.17 from https://files.pythonhosted.org/packages/1c/d5/c84e1a17bf61d4df64ca866a1c9a913874b4e9bdc131ec689a0ad013fb36/certifi-2024.7.4-py3-none-any.whl.metadata
+  Downloading certifi-2024.7.4-py3-none-any.whl.metadata (2.2 kB)
+Collecting attrs>=22.2.0 (from jsonschema->jupyter-telemetry>=0.1.0->jupyterhub==1.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.9395cd6d36c7ac3be2d1.txt (line 1))
+  Obtaining dependency information for attrs>=22.2.0 from https://files.pythonhosted.org/packages/e0/44/827b2a91a5816512fcaf3cc4ebc465ccd5d598c45cefa6703fcf4a79018f/attrs-23.2.0-py3-none-any.whl.metadata
+  Downloading attrs-23.2.0-py3-none-any.whl.metadata (9.5 kB)
+Collecting jsonschema-specifications>=2023.03.6 (from jsonschema->jupyter-telemetry>=0.1.0->jupyterhub==1.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.9395cd6d36c7ac3be2d1.txt (line 1))
+  Obtaining dependency information for jsonschema-specifications>=2023.03.6 from https://files.pythonhosted.org/packages/ee/07/44bd408781594c4d0a027666ef27fab1e441b109dc3b76b4f836f8fd04fe/jsonschema_specifications-2023.12.1-py3-none-any.whl.metadata
+  Downloading jsonschema_specifications-2023.12.1-py3-none-any.whl.metadata (3.0 kB)
+Collecting referencing>=0.28.4 (from jsonschema->jupyter-telemetry>=0.1.0->jupyterhub==1.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.9395cd6d36c7ac3be2d1.txt (line 1))
+  Obtaining dependency information for referencing>=0.28.4 from https://files.pythonhosted.org/packages/b7/59/2056f61236782a2c86b33906c025d4f4a0b17be0161b63b70fd9e8775d36/referencing-0.35.1-py3-none-any.whl.metadata
+  Downloading referencing-0.35.1-py3-none-any.whl.metadata (2.8 kB)
+Collecting rpds-py>=0.7.1 (from jsonschema->jupyter-telemetry>=0.1.0->jupyterhub==1.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.9395cd6d36c7ac3be2d1.txt (line 1))
+  Obtaining dependency information for rpds-py>=0.7.1 from https://files.pythonhosted.org/packages/ed/6e/58cd2fc0f63c2d06041513588cdeae753f36bead4227e1bb9ab137d7751c/rpds_py-0.19.0-cp312-none-win_amd64.whl.metadata
+  Downloading rpds_py-0.19.0-cp312-none-win_amd64.whl.metadata (4.2 kB)
+Collecting cryptography<43,>=41.0.5 (from pyopenssl->certipy>=0.1.2->jupyterhub==1.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.9395cd6d36c7ac3be2d1.txt (line 1))
+  Obtaining dependency information for cryptography<43,>=41.0.5 from https://files.pythonhosted.org/packages/a2/7b/b0d330852dd5953daee6b15f742f15d9f18e9c0154eb4cfcc8718f0436da/cryptography-42.0.8-cp39-abi3-win_amd64.whl.metadata
+  Downloading cryptography-42.0.8-cp39-abi3-win_amd64.whl.metadata (5.4 kB)
+Collecting ruamel.yaml.clib>=0.2.7 (from ruamel.yaml->jupyter-telemetry>=0.1.0->jupyterhub==1.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.9395cd6d36c7ac3be2d1.txt (line 1))
+  Obtaining dependency information for ruamel.yaml.clib>=0.2.7 from https://files.pythonhosted.org/packages/10/d2/52a3d810d0b5b3720725c0504a27b3fced7b6f310fe928f7019d79387bc1/ruamel.yaml.clib-0.2.8-cp312-cp312-win_amd64.whl.metadata
+  Downloading ruamel.yaml.clib-0.2.8-cp312-cp312-win_amd64.whl.metadata (2.3 kB)
+Collecting cffi>=1.12 (from cryptography<43,>=41.0.5->pyopenssl->certipy>=0.1.2->jupyterhub==1.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.9395cd6d36c7ac3be2d1.txt (line 1))
+  Obtaining dependency information for cffi>=1.12 from https://files.pythonhosted.org/packages/e9/63/e285470a4880a4f36edabe4810057bd4b562c6ddcc165eacf9c3c7210b40/cffi-1.16.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading cffi-1.16.0-cp312-cp312-win_amd64.whl.metadata (1.5 kB)
+Collecting pycparser (from cffi>=1.12->cryptography<43,>=41.0.5->pyopenssl->certipy>=0.1.2->jupyterhub==1.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.9395cd6d36c7ac3be2d1.txt (line 1))
+  Obtaining dependency information for pycparser from https://files.pythonhosted.org/packages/13/a3/a812df4e2dd5696d1f351d58b8fe16a405b234ad2886a0dab9183fb78109/pycparser-2.22-py3-none-any.whl.metadata
+  Downloading pycparser-2.22-py3-none-any.whl.metadata (943 bytes)
+Downloading jupyterhub-1.3.0-py3-none-any.whl (3.6 MB)
+   ---------------------------------------- 3.6/3.6 MB 4.0 MB/s eta 0:00:00
+Downloading async_generator-1.10-py3-none-any.whl (18 kB)
+Downloading certipy-0.1.3-py3-none-any.whl (22 kB)
+Downloading jinja2-3.1.4-py3-none-any.whl (133 kB)
+   ---------------------------------------- 133.3/133.3 kB 7.7 MB/s eta 0:00:00
+Downloading jupyter_telemetry-0.1.0-py3-none-any.whl (7.1 kB)
+Downloading oauthlib-3.2.2-py3-none-any.whl (151 kB)
+   ---------------------------------------- 151.7/151.7 kB 8.8 MB/s eta 0:00:00
+Downloading prometheus_client-0.20.0-py3-none-any.whl (54 kB)
+   ---------------------------------------- 54.5/54.5 kB 2.8 MB/s eta 0:00:00
+Downloading psutil-6.0.0-cp37-abi3-win_amd64.whl (257 kB)
+   --------------------------------------- 257.4/257.4 kB 16.5 MB/s eta 0:00:00
+Downloading SQLAlchemy-2.0.31-cp312-cp312-win_amd64.whl (2.1 MB)
+   ---------------------------------------- 2.1/2.1 MB 12.0 MB/s eta 0:00:00
+Downloading traitlets-5.14.3-py3-none-any.whl (85 kB)
+   ---------------------------------------- 85.4/85.4 kB 5.0 MB/s eta 0:00:00
+Downloading alembic-1.13.2-py3-none-any.whl (232 kB)
+   ---------------------------------------- 233.0/233.0 kB 7.2 MB/s eta 0:00:00
+Downloading entrypoints-0.4-py3-none-any.whl (5.3 kB)
+Downloading python_dateutil-2.9.0.post0-py2.py3-none-any.whl (229 kB)
+   --------------------------------------- 229.9/229.9 kB 13.7 MB/s eta 0:00:00
+Downloading requests-2.32.3-py3-none-any.whl (64 kB)
+   ---------------------------------------- 64.9/64.9 kB 3.4 MB/s eta 0:00:00
+Downloading certifi-2024.7.4-py3-none-any.whl (162 kB)
+   ---------------------------------------- 163.0/163.0 kB 9.5 MB/s eta 0:00:00
+Downloading charset_normalizer-3.3.2-cp312-cp312-win_amd64.whl (100 kB)
+   ---------------------------------------- 100.4/100.4 kB 5.6 MB/s eta 0:00:00
+Downloading greenlet-3.0.3-cp312-cp312-win_amd64.whl (293 kB)
+   --------------------------------------- 293.6/293.6 kB 17.7 MB/s eta 0:00:00
+Downloading idna-3.7-py3-none-any.whl (66 kB)
+   ---------------------------------------- 66.8/66.8 kB 3.8 MB/s eta 0:00:00
+Downloading MarkupSafe-2.1.5-cp312-cp312-win_amd64.whl (17 kB)
+Downloading six-1.16.0-py2.py3-none-any.whl (11 kB)
+Downloading typing_extensions-4.12.2-py3-none-any.whl (37 kB)
+Downloading urllib3-2.2.2-py3-none-any.whl (121 kB)
+   ---------------------------------------- 121.4/121.4 kB ? eta 0:00:00
+Downloading jsonschema-4.23.0-py3-none-any.whl (88 kB)
+   ---------------------------------------- 88.5/88.5 kB 4.9 MB/s eta 0:00:00
+Downloading Mako-1.3.5-py3-none-any.whl (78 kB)
+   ---------------------------------------- 78.6/78.6 kB 4.3 MB/s eta 0:00:00
+Downloading pyOpenSSL-24.1.0-py3-none-any.whl (56 kB)
+   ---------------------------------------- 56.9/56.9 kB ? eta 0:00:00
+Downloading python_json_logger-2.0.7-py3-none-any.whl (8.1 kB)
+Downloading ruamel.yaml-0.18.6-py3-none-any.whl (117 kB)
+   ---------------------------------------- 117.8/117.8 kB 7.2 MB/s eta 0:00:00
+Downloading attrs-23.2.0-py3-none-any.whl (60 kB)
+   ---------------------------------------- 60.8/60.8 kB 3.2 MB/s eta 0:00:00
+Downloading cryptography-42.0.8-cp39-abi3-win_amd64.whl (2.9 MB)
+   ---------------------------------------- 2.9/2.9 MB 15.3 MB/s eta 0:00:00
+Downloading jsonschema_specifications-2023.12.1-py3-none-any.whl (18 kB)
+Downloading referencing-0.35.1-py3-none-any.whl (26 kB)
+Downloading rpds_py-0.19.0-cp312-none-win_amd64.whl (211 kB)
+   --------------------------------------- 211.5/211.5 kB 12.6 MB/s eta 0:00:00
+Downloading ruamel.yaml.clib-0.2.8-cp312-cp312-win_amd64.whl (115 kB)
+   ---------------------------------------- 115.3/115.3 kB 6.6 MB/s eta 0:00:00
+Downloading cffi-1.16.0-cp312-cp312-win_amd64.whl (181 kB)
+   --------------------------------------- 182.0/182.0 kB 10.7 MB/s eta 0:00:00
+Downloading pycparser-2.22-py3-none-any.whl (117 kB)
+   ---------------------------------------- 117.6/117.6 kB ? eta 0:00:00
+Would install Jinja2-3.1.4 Mako-1.3.5 MarkupSafe-2.1.5 SQLAlchemy-2.0.31 alembic-1.13.2 async-generator-1.10 attrs-23.2.0 certifi-2024.7.4 certipy-0.1.3 cffi-1.16.0 charset-normalizer-3.3.2 cryptography-42.0.8 entrypoints-0.4 greenlet-3.0.3 idna-3.7 jsonschema-4.23.0 jsonschema-specifications-2023.12.1 jupyter-telemetry-0.1.0 jupyterhub-1.3.0 oauthlib-3.2.2 prometheus_client-0.20.0 psutil-6.0.0 pyOpenSSL-24.1.0 pycparser-2.22 python-dateutil-2.9.0.post0 python-json-logger-2.0.7 referencing-0.35.1 requests-2.32.3 rpds-py-0.19.0 ruamel.yaml-0.18.6 ruamel.yaml.clib-0.2.8 six-1.16.0 tornado-6.1 traitlets-5.14.3 typing_extensions-4.12.2 urllib3-2.2.2
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

@@ -1,0 +1,355 @@
+Collecting pybel==0.15.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for pybel==0.15.0 from https://files.pythonhosted.org/packages/65/dc/12d2543aa8d3d2ee5efaa496ef7dad9622b9aa4c388fe60951203af309e7/pybel-0.15.0-py3-none-any.whl.metadata
+  Downloading pybel-0.15.0-py3-none-any.whl.metadata (15 kB)
+Collecting networkx>=2.4 (from pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for networkx>=2.4 from https://files.pythonhosted.org/packages/38/e9/5f72929373e1a0e8d142a130f3f97e6ff920070f87f91c4e13e40e0fba5a/networkx-3.3-py3-none-any.whl.metadata
+  Downloading networkx-3.3-py3-none-any.whl.metadata (5.1 kB)
+Collecting sqlalchemy (from pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for sqlalchemy from https://files.pythonhosted.org/packages/d0/ff/5746886a796799d45285573c8a6564b4b84c730142ab974d7a3f7bacee6c/SQLAlchemy-2.0.31-cp312-cp312-win_amd64.whl.metadata
+  Downloading SQLAlchemy-2.0.31-cp312-cp312-win_amd64.whl.metadata (9.9 kB)
+Collecting click (from pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for click from https://files.pythonhosted.org/packages/00/2e/d53fa4befbf2cfa713304affc7ca780ce4fc1fd8710527771b58311a3229/click-8.1.7-py3-none-any.whl.metadata
+  Downloading click-8.1.7-py3-none-any.whl.metadata (3.0 kB)
+Collecting click-plugins (from pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for click-plugins from https://files.pythonhosted.org/packages/e9/da/824b92d9942f4e472702488857914bdd50f73021efea15b4cad9aca8ecef/click_plugins-1.1.1-py2.py3-none-any.whl.metadata
+  Downloading click_plugins-1.1.1-py2.py3-none-any.whl.metadata (6.4 kB)
+Collecting bel-resources>=0.0.3 (from pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for bel-resources>=0.0.3 from https://files.pythonhosted.org/packages/98/a9/0e71c326db7471fdceff858911ddc4f60213b1cee00c397a06d1e8d366e0/bel_resources-0.0.3-py3-none-any.whl.metadata
+  Downloading bel_resources-0.0.3-py3-none-any.whl.metadata (2.5 kB)
+Collecting more-itertools (from pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for more-itertools from https://files.pythonhosted.org/packages/bb/23/2d1cdb0427aecb2b150dc2ac2d15400990c4f05585b3fbc1b5177d74d7fb/more_itertools-10.3.0-py3-none-any.whl.metadata
+  Downloading more_itertools-10.3.0-py3-none-any.whl.metadata (36 kB)
+Collecting requests (from pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for requests from https://files.pythonhosted.org/packages/f9/9b/335f9764261e915ed497fcdeb11df5dfd6f7bf257d4a6a2a686d80da4d54/requests-2.32.3-py3-none-any.whl.metadata
+  Downloading requests-2.32.3-py3-none-any.whl.metadata (4.6 kB)
+Collecting requests-file (from pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for requests-file from https://files.pythonhosted.org/packages/d7/25/dd878a121fcfdf38f52850f11c512e13ec87c2ea72385933818e5b6c15ce/requests_file-2.1.0-py2.py3-none-any.whl.metadata
+  Downloading requests_file-2.1.0-py2.py3-none-any.whl.metadata (1.7 kB)
+Collecting pyparsing (from pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for pyparsing from https://files.pythonhosted.org/packages/9d/ea/6d76df31432a0e6fdf81681a895f009a4bb47b3c39036db3e1b528191d52/pyparsing-3.1.2-py3-none-any.whl.metadata
+  Downloading pyparsing-3.1.2-py3-none-any.whl.metadata (5.1 kB)
+Collecting tqdm (from pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for tqdm from https://files.pythonhosted.org/packages/18/eb/fdb7eb9e48b7b02554e1664afd3bd3f117f6b6d6c5881438a0b055554f9b/tqdm-4.66.4-py3-none-any.whl.metadata
+  Downloading tqdm-4.66.4-py3-none-any.whl.metadata (57 kB)
+     ---------------------------------------- 57.6/57.6 kB 1.5 MB/s eta 0:00:00
+Collecting humanize (from pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for humanize from https://files.pythonhosted.org/packages/8f/49/a29c79bea335e52fb512a43faf84998c184c87fef82c65f568f8c56f2642/humanize-4.10.0-py3-none-any.whl.metadata
+  Downloading humanize-4.10.0-py3-none-any.whl.metadata (7.9 kB)
+Collecting tabulate (from pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for tabulate from https://files.pythonhosted.org/packages/40/44/4a5f08c96eb108af5cb50b41f76142f0afa346dfa99d5296fe7202a11854/tabulate-0.9.0-py3-none-any.whl.metadata
+  Downloading tabulate-0.9.0-py3-none-any.whl.metadata (34 kB)
+Collecting pandas (from pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for pandas from https://files.pythonhosted.org/packages/22/a5/a0b255295406ed54269814bc93723cfd1a0da63fb9aaf99e1364f07923e5/pandas-2.2.2-cp312-cp312-win_amd64.whl.metadata
+  Downloading pandas-2.2.2-cp312-cp312-win_amd64.whl.metadata (19 kB)
+Collecting jsonschema (from pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for jsonschema from https://files.pythonhosted.org/packages/69/4a/4f9dbeb84e8850557c02365a0eee0649abe5eb1d84af92a25731c6c0f922/jsonschema-4.23.0-py3-none-any.whl.metadata
+  Downloading jsonschema-4.23.0-py3-none-any.whl.metadata (7.9 kB)
+Collecting pyobo>=0.2.12 (from pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for pyobo>=0.2.12 from https://files.pythonhosted.org/packages/a8/00/76ce522204b9ee92513829155b18f6850ea9e14c6f9ed797413cab176e39/pyobo-0.10.11-py3-none-any.whl.metadata
+  Downloading pyobo-0.10.11-py3-none-any.whl.metadata (20 kB)
+Collecting ratelimit (from pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Downloading ratelimit-2.2.1.tar.gz (5.3 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting multisplitby (from bel-resources>=0.0.3->pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for multisplitby from https://files.pythonhosted.org/packages/b1/8f/a054cb80019076a42b2a2876b76aea0c48c44c2fefd86bc59782967fcc13/multisplitby-0.0.1-py3-none-any.whl.metadata
+  Downloading multisplitby-0.0.1-py3-none-any.whl.metadata (3.1 kB)
+Collecting obonet>=0.3.0 (from pyobo>=0.2.12->pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for obonet>=0.3.0 from https://files.pythonhosted.org/packages/ec/72/ad5c32258a7473eb4ad4cc18d8f27fe02cab47fb1bf888d03fa0fe9528bd/obonet-1.0.0-py3-none-any.whl.metadata
+  Downloading obonet-1.0.0-py3-none-any.whl.metadata (6.8 kB)
+Collecting pyyaml (from pyobo>=0.2.12->pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for pyyaml from https://files.pythonhosted.org/packages/2b/9f/fbade56564ad486809c27b322d0f7e6a89c01f6b4fe208402e90d4443a99/PyYAML-6.0.1-cp312-cp312-win_amd64.whl.metadata
+  Downloading PyYAML-6.0.1-cp312-cp312-win_amd64.whl.metadata (2.1 kB)
+Collecting protmapper (from pyobo>=0.2.12->pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for protmapper from https://files.pythonhosted.org/packages/3c/bc/cdf85d1a6e4fc5287eb4e492e50f1c8a3a7a5a9b6660e364f894f64d1b0b/protmapper-0.0.29-py3-none-any.whl.metadata
+  Downloading protmapper-0.0.29-py3-none-any.whl.metadata (4.3 kB)
+Collecting more-click>=0.0.2 (from pyobo>=0.2.12->pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for more-click>=0.0.2 from https://files.pythonhosted.org/packages/ad/8e/4e25da8883c5d661eaf4225a951046b8f4466e75eadb8594e204550b3179/more_click-0.1.2-py3-none-any.whl.metadata
+  Downloading more_click-0.1.2-py3-none-any.whl.metadata (4.3 kB)
+Collecting cachier (from pyobo>=0.2.12->pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for cachier from https://files.pythonhosted.org/packages/4c/92/4d01b0cb193df4e2cd490f94429071a2bac8bc042bcd32bd7048d2f74a9c/cachier-3.0.0-py3-none-any.whl.metadata
+  Downloading cachier-3.0.0-py3-none-any.whl.metadata (18 kB)
+Collecting pystow>=0.2.7 (from pyobo>=0.2.12->pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for pystow>=0.2.7 from https://files.pythonhosted.org/packages/da/75/6b5b2817f28344112fd01163fbe2df4906850a235badcf6a7b730da784db/pystow-0.5.4-py3-none-any.whl.metadata
+  Downloading pystow-0.5.4-py3-none-any.whl.metadata (8.9 kB)
+Collecting bioversions>=0.5.202 (from pyobo>=0.2.12->pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for bioversions>=0.5.202 from https://files.pythonhosted.org/packages/99/81/ac877a1213df4e84d5c2a6e0b0a854a2af6d7dd5ff66d2a37fe189183714/bioversions-0.5.433-py3-none-any.whl.metadata
+  Downloading bioversions-0.5.433-py3-none-any.whl.metadata (9.4 kB)
+Collecting bioregistry>=0.10.20 (from pyobo>=0.2.12->pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for bioregistry>=0.10.20 from https://files.pythonhosted.org/packages/02/56/de906b3eb462f92f28abcd387c2cf32f256ba889d49a5e05d22ad9688263/bioregistry-0.11.10-py3-none-any.whl.metadata
+  Downloading bioregistry-0.11.10-py3-none-any.whl.metadata (33 kB)
+Collecting bioontologies>=0.4.0 (from pyobo>=0.2.12->pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for bioontologies>=0.4.0 from https://files.pythonhosted.org/packages/2f/cc/35aff131dc4998f1742b2da977599d721bf7998a32a35dd103598e4c55ea/bioontologies-0.4.3-py3-none-any.whl.metadata
+  Downloading bioontologies-0.4.3-py3-none-any.whl.metadata (8.5 kB)
+Collecting zenodo-client>=0.0.5 (from pyobo>=0.2.12->pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for zenodo-client>=0.0.5 from https://files.pythonhosted.org/packages/2b/2f/96a949beaa2bd435b531f33fa407788cbc6576498681d1f10fef951dfbf6/zenodo_client-0.3.4-py3-none-any.whl.metadata
+  Downloading zenodo_client-0.3.4-py3-none-any.whl.metadata (10 kB)
+Collecting class-resolver (from pyobo>=0.2.12->pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for class-resolver from https://files.pythonhosted.org/packages/37/ab/31abb24b26e6b94b4bc754b6fb69dc3184fc8ebf3f341422d3fd641290f6/class_resolver-0.4.3-py3-none-any.whl.metadata
+  Downloading class_resolver-0.4.3-py3-none-any.whl.metadata (13 kB)
+Collecting psycopg2-binary (from pyobo>=0.2.12->pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for psycopg2-binary from https://files.pythonhosted.org/packages/7b/08/9c66c269b0d417a0af9fb969535f0371b8c538633535a7a6a5ca3f9231e2/psycopg2_binary-2.9.9-cp312-cp312-win_amd64.whl.metadata
+  Downloading psycopg2_binary-2.9.9-cp312-cp312-win_amd64.whl.metadata (4.6 kB)
+Collecting drugbank-downloader (from pyobo>=0.2.12->pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for drugbank-downloader from https://files.pythonhosted.org/packages/2a/44/4e19600b919b173bb3e6c90f250f4a470047f0edb918f74362a033c01f7c/drugbank_downloader-0.1.1-py3-none-any.whl.metadata
+  Downloading drugbank_downloader-0.1.1-py3-none-any.whl.metadata (7.1 kB)
+Collecting chembl-downloader (from pyobo>=0.2.12->pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for chembl-downloader from https://files.pythonhosted.org/packages/dc/c5/56833f3d1954bca13193d83d7ca5b9ea978d299c82477d13a72dbefe6284/chembl_downloader-0.4.5-py3-none-any.whl.metadata
+  Downloading chembl_downloader-0.4.5-py3-none-any.whl.metadata (13 kB)
+Collecting umls-downloader>=0.1.3 (from pyobo>=0.2.12->pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for umls-downloader>=0.1.3 from https://files.pythonhosted.org/packages/2c/49/89ebe1157e63f65cdcf0784b5d29bb312885380cfb36e56c3c15da1fcbdf/umls_downloader-0.1.3-py3-none-any.whl.metadata
+  Downloading umls_downloader-0.1.3-py3-none-any.whl.metadata (7.5 kB)
+Collecting typing-extensions (from pyobo>=0.2.12->pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for typing-extensions from https://files.pythonhosted.org/packages/26/9f/ad63fc0248c5379346306f8668cda6e2e2e9c95e01216d2b8ffd9ff037d0/typing_extensions-4.12.2-py3-none-any.whl.metadata
+  Downloading typing_extensions-4.12.2-py3-none-any.whl.metadata (3.0 kB)
+Collecting colorama (from click->pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for colorama from https://files.pythonhosted.org/packages/d1/d6/3965ed04c63042e047cb6a3e6ed1a63a35087b6a609aa3a15ed8ac56c221/colorama-0.4.6-py2.py3-none-any.whl.metadata
+  Downloading colorama-0.4.6-py2.py3-none-any.whl.metadata (17 kB)
+Collecting attrs>=22.2.0 (from jsonschema->pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for attrs>=22.2.0 from https://files.pythonhosted.org/packages/e0/44/827b2a91a5816512fcaf3cc4ebc465ccd5d598c45cefa6703fcf4a79018f/attrs-23.2.0-py3-none-any.whl.metadata
+  Downloading attrs-23.2.0-py3-none-any.whl.metadata (9.5 kB)
+Collecting jsonschema-specifications>=2023.03.6 (from jsonschema->pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for jsonschema-specifications>=2023.03.6 from https://files.pythonhosted.org/packages/ee/07/44bd408781594c4d0a027666ef27fab1e441b109dc3b76b4f836f8fd04fe/jsonschema_specifications-2023.12.1-py3-none-any.whl.metadata
+  Downloading jsonschema_specifications-2023.12.1-py3-none-any.whl.metadata (3.0 kB)
+Collecting referencing>=0.28.4 (from jsonschema->pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for referencing>=0.28.4 from https://files.pythonhosted.org/packages/b7/59/2056f61236782a2c86b33906c025d4f4a0b17be0161b63b70fd9e8775d36/referencing-0.35.1-py3-none-any.whl.metadata
+  Downloading referencing-0.35.1-py3-none-any.whl.metadata (2.8 kB)
+Collecting rpds-py>=0.7.1 (from jsonschema->pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for rpds-py>=0.7.1 from https://files.pythonhosted.org/packages/ed/6e/58cd2fc0f63c2d06041513588cdeae753f36bead4227e1bb9ab137d7751c/rpds_py-0.19.0-cp312-none-win_amd64.whl.metadata
+  Downloading rpds_py-0.19.0-cp312-none-win_amd64.whl.metadata (4.2 kB)
+Collecting numpy>=1.26.0 (from pandas->pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for numpy>=1.26.0 from https://files.pythonhosted.org/packages/ad/9c/4a93b8e395b755c53628573d75d7b21985d9a0f416e978d637084ccc8ec3/numpy-2.0.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading numpy-2.0.0-cp312-cp312-win_amd64.whl.metadata (60 kB)
+     ---------------------------------------- 60.9/60.9 kB 1.6 MB/s eta 0:00:00
+Collecting python-dateutil>=2.8.2 (from pandas->pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for python-dateutil>=2.8.2 from https://files.pythonhosted.org/packages/ec/57/56b9bcc3c9c6a792fcbaf139543cee77261f3651ca9da0c93f5c1221264b/python_dateutil-2.9.0.post0-py2.py3-none-any.whl.metadata
+  Downloading python_dateutil-2.9.0.post0-py2.py3-none-any.whl.metadata (8.4 kB)
+Collecting pytz>=2020.1 (from pandas->pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for pytz>=2020.1 from https://files.pythonhosted.org/packages/9c/3d/a121f284241f08268b21359bd425f7d4825cffc5ac5cd0e1b3d82ffd2b10/pytz-2024.1-py2.py3-none-any.whl.metadata
+  Downloading pytz-2024.1-py2.py3-none-any.whl.metadata (22 kB)
+Collecting tzdata>=2022.7 (from pandas->pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for tzdata>=2022.7 from https://files.pythonhosted.org/packages/65/58/f9c9e6be752e9fcb8b6a0ee9fb87e6e7a1f6bcab2cdc73f02bb7ba91ada0/tzdata-2024.1-py2.py3-none-any.whl.metadata
+  Downloading tzdata-2024.1-py2.py3-none-any.whl.metadata (1.4 kB)
+Collecting charset-normalizer<4,>=2 (from requests->pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for charset-normalizer<4,>=2 from https://files.pythonhosted.org/packages/b6/7c/8debebb4f90174074b827c63242c23851bdf00a532489fba57fef3416e40/charset_normalizer-3.3.2-cp312-cp312-win_amd64.whl.metadata
+  Downloading charset_normalizer-3.3.2-cp312-cp312-win_amd64.whl.metadata (34 kB)
+Collecting idna<4,>=2.5 (from requests->pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for idna<4,>=2.5 from https://files.pythonhosted.org/packages/e5/3e/741d8c82801c347547f8a2a06aa57dbb1992be9e948df2ea0eda2c8b79e8/idna-3.7-py3-none-any.whl.metadata
+  Downloading idna-3.7-py3-none-any.whl.metadata (9.9 kB)
+Collecting urllib3<3,>=1.21.1 (from requests->pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for urllib3<3,>=1.21.1 from https://files.pythonhosted.org/packages/ca/1c/89ffc63a9605b583d5df2be791a27bc1a42b7c32bab68d3c8f2f73a98cd4/urllib3-2.2.2-py3-none-any.whl.metadata
+  Downloading urllib3-2.2.2-py3-none-any.whl.metadata (6.4 kB)
+Collecting certifi>=2017.4.17 (from requests->pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for certifi>=2017.4.17 from https://files.pythonhosted.org/packages/1c/d5/c84e1a17bf61d4df64ca866a1c9a913874b4e9bdc131ec689a0ad013fb36/certifi-2024.7.4-py3-none-any.whl.metadata
+  Downloading certifi-2024.7.4-py3-none-any.whl.metadata (2.2 kB)
+Collecting greenlet!=0.4.17 (from sqlalchemy->pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for greenlet!=0.4.17 from https://files.pythonhosted.org/packages/53/80/3d94d5999b4179d91bcc93745d1b0815b073d61be79dd546b840d17adb18/greenlet-3.0.3-cp312-cp312-win_amd64.whl.metadata
+  Downloading greenlet-3.0.3-cp312-cp312-win_amd64.whl.metadata (3.9 kB)
+Collecting curies>=0.6.0 (from bioontologies>=0.4.0->pyobo>=0.2.12->pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for curies>=0.6.0 from https://files.pythonhosted.org/packages/dc/8e/ee360a94aa8a2079e805044ea08cfffb61c7c30284ae784af97760e4a4ef/curies-0.7.10-py3-none-any.whl.metadata
+  Downloading curies-0.7.10-py3-none-any.whl.metadata (9.5 kB)
+Collecting pydantic (from bioontologies>=0.4.0->pyobo>=0.2.12->pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for pydantic from https://files.pythonhosted.org/packages/1f/fa/b7f815b8c9ad021c07f88875b601222ef5e70619391ade4a49234d12d278/pydantic-2.8.2-py3-none-any.whl.metadata
+  Downloading pydantic-2.8.2-py3-none-any.whl.metadata (125 kB)
+     -------------------------------------- 125.2/125.2 kB 1.8 MB/s eta 0:00:00
+Collecting requests-ftp (from bioversions>=0.5.202->pyobo>=0.2.12->pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Downloading requests-ftp-0.3.1.tar.gz (7.8 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting beautifulsoup4 (from bioversions>=0.5.202->pyobo>=0.2.12->pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for beautifulsoup4 from https://files.pythonhosted.org/packages/b1/fe/e8c672695b37eecc5cbf43e1d0638d88d66ba3a44c4d321c796f4e59167f/beautifulsoup4-4.12.3-py3-none-any.whl.metadata
+  Downloading beautifulsoup4-4.12.3-py3-none-any.whl.metadata (3.8 kB)
+Collecting click-default-group (from bioversions>=0.5.202->pyobo>=0.2.12->pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for click-default-group from https://files.pythonhosted.org/packages/2c/1a/aff8bb287a4b1400f69e09a53bd65de96aa5cee5691925b38731c67fc695/click_default_group-1.2.4-py2.py3-none-any.whl.metadata
+  Downloading click_default_group-1.2.4-py2.py3-none-any.whl.metadata (2.8 kB)
+Collecting dataclasses-json (from bioversions>=0.5.202->pyobo>=0.2.12->pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for dataclasses-json from https://files.pythonhosted.org/packages/c3/be/d0d44e092656fe7a06b55e6103cbce807cdbdee17884a5367c68c9860853/dataclasses_json-0.6.7-py3-none-any.whl.metadata
+  Downloading dataclasses_json-0.6.7-py3-none-any.whl.metadata (25 kB)
+Collecting lxml (from bioversions>=0.5.202->pyobo>=0.2.12->pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for lxml from https://files.pythonhosted.org/packages/58/16/99b03974974537c8c786fb98183d7c213ceb16e71205174a29ae869ca988/lxml-5.2.2-cp312-cp312-win_amd64.whl.metadata
+  Downloading lxml-5.2.2-cp312-cp312-win_amd64.whl.metadata (3.5 kB)
+Collecting watchdog>=2.3.1 (from cachier->pyobo>=0.2.12->pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for watchdog>=2.3.1 from https://files.pythonhosted.org/packages/85/e0/2a9f43008902427b5f074c497705d6ef8f815c85d4bc25fbf83f720a6159/watchdog-4.0.1-py3-none-win_amd64.whl.metadata
+  Downloading watchdog-4.0.1-py3-none-win_amd64.whl.metadata (37 kB)
+Collecting portalocker>=2.3.2 (from cachier->pyobo>=0.2.12->pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for portalocker>=2.3.2 from https://files.pythonhosted.org/packages/9b/fb/a70a4214956182e0d7a9099ab17d50bfcba1056188e9b14f35b9e2b62a0d/portalocker-2.10.1-py3-none-any.whl.metadata
+  Downloading portalocker-2.10.1-py3-none-any.whl.metadata (8.5 kB)
+Collecting setuptools>=67.6.0 (from cachier->pyobo>=0.2.12->pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for setuptools>=67.6.0 from https://files.pythonhosted.org/packages/01/82/a2c6c0a1612c89bdb21dc4d9196ba9e7dcbc2e285afda93ebdf663ba2ada/setuptools-71.0.0-py3-none-any.whl.metadata
+  Using cached setuptools-71.0.0-py3-none-any.whl.metadata (6.5 kB)
+Collecting six>=1.5 (from python-dateutil>=2.8.2->pandas->pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for six>=1.5 from https://files.pythonhosted.org/packages/d9/5a/e7c31adbe875f2abbb91bd84cf2dc52d792b5a01506781dbcf25c91daf11/six-1.16.0-py2.py3-none-any.whl.metadata
+  Downloading six-1.16.0-py2.py3-none-any.whl.metadata (1.8 kB)
+Collecting boto3 (from protmapper->pyobo>=0.2.12->pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for boto3 from https://files.pythonhosted.org/packages/9a/b0/a4301290ea6cdbb0cda7048ae11b0e560eacca7d2c2e64e6b3d5a9fb3fde/boto3-1.34.144-py3-none-any.whl.metadata
+  Downloading boto3-1.34.144-py3-none-any.whl.metadata (6.6 kB)
+Collecting defusedxml (from bioregistry>=0.10.20->pyobo>=0.2.12->pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for defusedxml from https://files.pythonhosted.org/packages/07/6c/aa3f2f849e01cb6a001cd8554a88d4c77c5c1a31c95bdf1cf9301e6d9ef4/defusedxml-0.7.1-py2.py3-none-any.whl.metadata
+  Downloading defusedxml-0.7.1-py2.py3-none-any.whl.metadata (32 kB)
+Collecting fairsharing-client>=0.1.0 (from bioregistry>=0.10.20->pyobo>=0.2.12->pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for fairsharing-client>=0.1.0 from https://files.pythonhosted.org/packages/d8/5e/16060ef7acc75b75b8a0be1d5096ed98154d189d930eba343cb46b48b802/fairsharing_client-0.1.0-py3-none-any.whl.metadata
+  Downloading fairsharing_client-0.1.0-py3-none-any.whl.metadata (9.4 kB)
+Collecting pytrie (from curies>=0.6.0->bioontologies>=0.4.0->pyobo>=0.2.12->pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for pytrie from https://files.pythonhosted.org/packages/b9/fd/499b261a34e9c6e39b9f5711c4b3093bca980b8db4b49de3009d808f41c9/PyTrie-0.4.0-py3-none-any.whl.metadata
+  Downloading PyTrie-0.4.0-py3-none-any.whl.metadata (1.6 kB)
+Collecting pywin32>=226 (from portalocker>=2.3.2->cachier->pyobo>=0.2.12->pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for pywin32>=226 from https://files.pythonhosted.org/packages/83/1c/25b79fc3ec99b19b0a0730cc47356f7e2959863bf9f3cd314332bddb4f68/pywin32-306-cp312-cp312-win_amd64.whl.metadata
+  Downloading pywin32-306-cp312-cp312-win_amd64.whl.metadata (6.5 kB)
+Collecting soupsieve>1.2 (from beautifulsoup4->bioversions>=0.5.202->pyobo>=0.2.12->pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for soupsieve>1.2 from https://files.pythonhosted.org/packages/4c/f3/038b302fdfbe3be7da016777069f26ceefe11a681055ea1f7817546508e3/soupsieve-2.5-py3-none-any.whl.metadata
+  Downloading soupsieve-2.5-py3-none-any.whl.metadata (4.7 kB)
+Collecting botocore<1.35.0,>=1.34.144 (from boto3->protmapper->pyobo>=0.2.12->pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for botocore<1.35.0,>=1.34.144 from https://files.pythonhosted.org/packages/24/4b/956a80d406dfffba1f8f7fbaba7dd73d418ed8a7b95faa1ade7cf17663a5/botocore-1.34.144-py3-none-any.whl.metadata
+  Downloading botocore-1.34.144-py3-none-any.whl.metadata (5.7 kB)
+Collecting jmespath<2.0.0,>=0.7.1 (from boto3->protmapper->pyobo>=0.2.12->pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for jmespath<2.0.0,>=0.7.1 from https://files.pythonhosted.org/packages/31/b4/b9b800c45527aadd64d5b442f9b932b00648617eb5d63d2c7a6587b7cafc/jmespath-1.0.1-py3-none-any.whl.metadata
+  Downloading jmespath-1.0.1-py3-none-any.whl.metadata (7.6 kB)
+Collecting s3transfer<0.11.0,>=0.10.0 (from boto3->protmapper->pyobo>=0.2.12->pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for s3transfer<0.11.0,>=0.10.0 from https://files.pythonhosted.org/packages/3c/4a/b221409913760d26cf4498b7b1741d510c82d3ad38381984a3ddc135ec66/s3transfer-0.10.2-py3-none-any.whl.metadata
+  Downloading s3transfer-0.10.2-py3-none-any.whl.metadata (1.7 kB)
+Collecting marshmallow<4.0.0,>=3.18.0 (from dataclasses-json->bioversions>=0.5.202->pyobo>=0.2.12->pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for marshmallow<4.0.0,>=3.18.0 from https://files.pythonhosted.org/packages/96/d7/f318261e6ccbba86bdf626e07cd850981508fdaec52cfcdc4ac1030327ab/marshmallow-3.21.3-py3-none-any.whl.metadata
+  Downloading marshmallow-3.21.3-py3-none-any.whl.metadata (7.1 kB)
+Collecting typing-inspect<1,>=0.4.0 (from dataclasses-json->bioversions>=0.5.202->pyobo>=0.2.12->pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for typing-inspect<1,>=0.4.0 from https://files.pythonhosted.org/packages/65/f3/107a22063bf27bdccf2024833d3445f4eea42b2e598abfbd46f6a63b6cb0/typing_inspect-0.9.0-py3-none-any.whl.metadata
+  Downloading typing_inspect-0.9.0-py3-none-any.whl.metadata (1.5 kB)
+Collecting annotated-types>=0.4.0 (from pydantic->bioontologies>=0.4.0->pyobo>=0.2.12->pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for annotated-types>=0.4.0 from https://files.pythonhosted.org/packages/78/b6/6307fbef88d9b5ee7421e68d78a9f162e0da4900bc5f5793f6d3d0e34fb8/annotated_types-0.7.0-py3-none-any.whl.metadata
+  Downloading annotated_types-0.7.0-py3-none-any.whl.metadata (15 kB)
+Collecting pydantic-core==2.20.1 (from pydantic->bioontologies>=0.4.0->pyobo>=0.2.12->pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for pydantic-core==2.20.1 from https://files.pythonhosted.org/packages/d5/36/e61ad5a46607a469e2786f398cd671ebafcd9fb17f09a2359985c7228df5/pydantic_core-2.20.1-cp312-none-win_amd64.whl.metadata
+  Downloading pydantic_core-2.20.1-cp312-none-win_amd64.whl.metadata (6.7 kB)
+Collecting packaging>=17.0 (from marshmallow<4.0.0,>=3.18.0->dataclasses-json->bioversions>=0.5.202->pyobo>=0.2.12->pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for packaging>=17.0 from https://files.pythonhosted.org/packages/08/aa/cc0199a5f0ad350994d660967a8efb233fe0416e4639146c089643407ce6/packaging-24.1-py3-none-any.whl.metadata
+  Downloading packaging-24.1-py3-none-any.whl.metadata (3.2 kB)
+Collecting mypy-extensions>=0.3.0 (from typing-inspect<1,>=0.4.0->dataclasses-json->bioversions>=0.5.202->pyobo>=0.2.12->pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for mypy-extensions>=0.3.0 from https://files.pythonhosted.org/packages/2a/e2/5d3f6ada4297caebe1a2add3b126fe800c96f56dbe5d1988a2cbe0b267aa/mypy_extensions-1.0.0-py3-none-any.whl.metadata
+  Downloading mypy_extensions-1.0.0-py3-none-any.whl.metadata (1.1 kB)
+Collecting sortedcontainers (from pytrie->curies>=0.6.0->bioontologies>=0.4.0->pyobo>=0.2.12->pybel==0.15.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3047772.txt (line 1))
+  Obtaining dependency information for sortedcontainers from https://files.pythonhosted.org/packages/32/46/9cb0e58b2deb7f82b84065f37f3bffeb12413f947f9388e4cac22c4621ce/sortedcontainers-2.4.0-py2.py3-none-any.whl.metadata
+  Downloading sortedcontainers-2.4.0-py2.py3-none-any.whl.metadata (10 kB)
+Downloading pybel-0.15.0-py3-none-any.whl (382 kB)
+   ---------------------------------------- 382.9/382.9 kB 3.0 MB/s eta 0:00:00
+Downloading bel_resources-0.0.3-py3-none-any.whl (17 kB)
+Downloading networkx-3.3-py3-none-any.whl (1.7 MB)
+   ---------------------------------------- 1.7/1.7 MB 4.0 MB/s eta 0:00:00
+Downloading pyobo-0.10.11-py3-none-any.whl (23.1 MB)
+   ---------------------------------------- 23.1/23.1 MB 10.6 MB/s eta 0:00:00
+Downloading click-8.1.7-py3-none-any.whl (97 kB)
+   ---------------------------------------- 97.9/97.9 kB 5.8 MB/s eta 0:00:00
+Downloading click_plugins-1.1.1-py2.py3-none-any.whl (7.5 kB)
+Downloading humanize-4.10.0-py3-none-any.whl (126 kB)
+   ---------------------------------------- 127.0/127.0 kB ? eta 0:00:00
+Downloading jsonschema-4.23.0-py3-none-any.whl (88 kB)
+   ---------------------------------------- 88.5/88.5 kB 4.9 MB/s eta 0:00:00
+Downloading more_itertools-10.3.0-py3-none-any.whl (59 kB)
+   ---------------------------------------- 59.2/59.2 kB ? eta 0:00:00
+Downloading pandas-2.2.2-cp312-cp312-win_amd64.whl (11.5 MB)
+   ---------------------------------------- 11.5/11.5 MB 17.7 MB/s eta 0:00:00
+Downloading pyparsing-3.1.2-py3-none-any.whl (103 kB)
+   ---------------------------------------- 103.2/103.2 kB 5.8 MB/s eta 0:00:00
+Downloading requests-2.32.3-py3-none-any.whl (64 kB)
+   ---------------------------------------- 64.9/64.9 kB 3.4 MB/s eta 0:00:00
+Downloading requests_file-2.1.0-py2.py3-none-any.whl (4.2 kB)
+Downloading SQLAlchemy-2.0.31-cp312-cp312-win_amd64.whl (2.1 MB)
+   ---------------------------------------- 2.1/2.1 MB 26.5 MB/s eta 0:00:00
+Downloading tabulate-0.9.0-py3-none-any.whl (35 kB)
+Downloading tqdm-4.66.4-py3-none-any.whl (78 kB)
+   ---------------------------------------- 78.3/78.3 kB 4.3 MB/s eta 0:00:00
+Downloading attrs-23.2.0-py3-none-any.whl (60 kB)
+   ---------------------------------------- 60.8/60.8 kB 3.4 MB/s eta 0:00:00
+Downloading bioontologies-0.4.3-py3-none-any.whl (43 kB)
+   ---------------------------------------- 43.8/43.8 kB ? eta 0:00:00
+Downloading bioregistry-0.11.10-py3-none-any.whl (5.2 MB)
+   ---------------------------------------- 5.2/5.2 MB 16.6 MB/s eta 0:00:00
+Downloading bioversions-0.5.433-py3-none-any.whl (55 kB)
+   ---------------------------------------- 55.7/55.7 kB 2.8 MB/s eta 0:00:00
+Downloading cachier-3.0.0-py3-none-any.whl (22 kB)
+Downloading certifi-2024.7.4-py3-none-any.whl (162 kB)
+   ---------------------------------------- 163.0/163.0 kB 9.5 MB/s eta 0:00:00
+Downloading charset_normalizer-3.3.2-cp312-cp312-win_amd64.whl (100 kB)
+   -------------------------------------- 100.4/100.4 kB 577.9 kB/s eta 0:00:00
+Downloading greenlet-3.0.3-cp312-cp312-win_amd64.whl (293 kB)
+   ---------------------------------------- 293.6/293.6 kB 3.0 MB/s eta 0:00:00
+Downloading idna-3.7-py3-none-any.whl (66 kB)
+   ---------------------------------------- 66.8/66.8 kB 3.5 MB/s eta 0:00:00
+Downloading jsonschema_specifications-2023.12.1-py3-none-any.whl (18 kB)
+Downloading more_click-0.1.2-py3-none-any.whl (6.7 kB)
+Downloading numpy-2.0.0-cp312-cp312-win_amd64.whl (16.2 MB)
+   ---------------------------------------- 16.2/16.2 MB 16.4 MB/s eta 0:00:00
+Downloading obonet-1.0.0-py3-none-any.whl (9.2 kB)
+Downloading pystow-0.5.4-py3-none-any.whl (32 kB)
+Downloading python_dateutil-2.9.0.post0-py2.py3-none-any.whl (229 kB)
+   --------------------------------------- 229.9/229.9 kB 13.7 MB/s eta 0:00:00
+Downloading pytz-2024.1-py2.py3-none-any.whl (505 kB)
+   --------------------------------------- 505.5/505.5 kB 33.0 MB/s eta 0:00:00
+Downloading referencing-0.35.1-py3-none-any.whl (26 kB)
+Downloading rpds_py-0.19.0-cp312-none-win_amd64.whl (211 kB)
+   --------------------------------------- 211.5/211.5 kB 12.6 MB/s eta 0:00:00
+Downloading typing_extensions-4.12.2-py3-none-any.whl (37 kB)
+Downloading tzdata-2024.1-py2.py3-none-any.whl (345 kB)
+   ---------------------------------------- 345.4/345.4 kB ? eta 0:00:00
+Downloading umls_downloader-0.1.3-py3-none-any.whl (13 kB)
+Downloading urllib3-2.2.2-py3-none-any.whl (121 kB)
+   ---------------------------------------- 121.4/121.4 kB ? eta 0:00:00
+Downloading zenodo_client-0.3.4-py3-none-any.whl (14 kB)
+Downloading chembl_downloader-0.4.5-py3-none-any.whl (17 kB)
+Downloading class_resolver-0.4.3-py3-none-any.whl (25 kB)
+Downloading colorama-0.4.6-py2.py3-none-any.whl (25 kB)
+Downloading drugbank_downloader-0.1.1-py3-none-any.whl (7.3 kB)
+Downloading multisplitby-0.0.1-py3-none-any.whl (4.0 kB)
+Downloading protmapper-0.0.29-py3-none-any.whl (35 kB)
+Downloading psycopg2_binary-2.9.9-cp312-cp312-win_amd64.whl (1.2 MB)
+   ---------------------------------------- 1.2/1.2 MB 14.8 MB/s eta 0:00:00
+Downloading PyYAML-6.0.1-cp312-cp312-win_amd64.whl (138 kB)
+   ---------------------------------------- 138.7/138.7 kB 1.0 MB/s eta 0:00:00
+Downloading curies-0.7.10-py3-none-any.whl (46 kB)
+   ---------------------------------------- 46.4/46.4 kB 210.0 kB/s eta 0:00:00
+Downloading portalocker-2.10.1-py3-none-any.whl (18 kB)
+Using cached setuptools-71.0.0-py3-none-any.whl (908 kB)
+Downloading six-1.16.0-py2.py3-none-any.whl (11 kB)
+Downloading watchdog-4.0.1-py3-none-win_amd64.whl (83 kB)
+   ---------------------------------------- 83.0/83.0 kB 4.5 MB/s eta 0:00:00
+Downloading beautifulsoup4-4.12.3-py3-none-any.whl (147 kB)
+   ---------------------------------------- 147.9/147.9 kB 8.6 MB/s eta 0:00:00
+Downloading boto3-1.34.144-py3-none-any.whl (139 kB)
+   ---------------------------------------- 139.2/139.2 kB 8.6 MB/s eta 0:00:00
+Downloading click_default_group-1.2.4-py2.py3-none-any.whl (4.1 kB)
+Downloading dataclasses_json-0.6.7-py3-none-any.whl (28 kB)
+Downloading lxml-5.2.2-cp312-cp312-win_amd64.whl (3.8 MB)
+   ---------------------------------------- 3.8/3.8 MB 14.3 MB/s eta 0:00:00
+Downloading pydantic-2.8.2-py3-none-any.whl (423 kB)
+   --------------------------------------- 423.9/423.9 kB 13.3 MB/s eta 0:00:00
+Downloading pydantic_core-2.20.1-cp312-none-win_amd64.whl (1.9 MB)
+   ---------------------------------------- 1.9/1.9 MB 11.0 MB/s eta 0:00:00
+Downloading annotated_types-0.7.0-py3-none-any.whl (13 kB)
+Downloading botocore-1.34.144-py3-none-any.whl (12.4 MB)
+   ---------------------------------------- 12.4/12.4 MB 10.7 MB/s eta 0:00:00
+Downloading fairsharing_client-0.1.0-py3-none-any.whl (9.0 kB)
+Downloading jmespath-1.0.1-py3-none-any.whl (20 kB)
+Downloading marshmallow-3.21.3-py3-none-any.whl (49 kB)
+   ---------------------------------------- 49.2/49.2 kB ? eta 0:00:00
+Downloading pywin32-306-cp312-cp312-win_amd64.whl (9.2 MB)
+   ---------------------------------------- 9.2/9.2 MB 16.4 MB/s eta 0:00:00
+Downloading s3transfer-0.10.2-py3-none-any.whl (82 kB)
+   ---------------------------------------- 82.7/82.7 kB 4.8 MB/s eta 0:00:00
+Downloading soupsieve-2.5-py3-none-any.whl (36 kB)
+Downloading typing_inspect-0.9.0-py3-none-any.whl (8.8 kB)
+Downloading defusedxml-0.7.1-py2.py3-none-any.whl (25 kB)
+Downloading PyTrie-0.4.0-py3-none-any.whl (6.1 kB)
+Downloading mypy_extensions-1.0.0-py3-none-any.whl (4.7 kB)
+Downloading packaging-24.1-py3-none-any.whl (53 kB)
+   ---------------------------------------- 54.0/54.0 kB ? eta 0:00:00
+Downloading sortedcontainers-2.4.0-py2.py3-none-any.whl (29 kB)
+Would install PyTrie-0.4.0 PyYAML-6.0.1 SQLAlchemy-2.0.31 annotated-types-0.7.0 attrs-23.2.0 beautifulsoup4-4.12.3 bel-resources-0.0.3 bioontologies-0.4.3 bioregistry-0.11.10 bioversions-0.5.433 boto3-1.34.144 botocore-1.34.144 cachier-3.0.0 certifi-2024.7.4 charset-normalizer-3.3.2 chembl_downloader-0.4.5 class_resolver-0.4.3 click-8.1.7 click-default-group-1.2.4 click-plugins-1.1.1 colorama-0.4.6 curies-0.7.10 dataclasses-json-0.6.7 defusedxml-0.7.1 drugbank-downloader-0.1.1 fairsharing-client-0.1.0 greenlet-3.0.3 humanize-4.10.0 idna-3.7 jmespath-1.0.1 jsonschema-4.23.0 jsonschema-specifications-2023.12.1 lxml-5.2.2 marshmallow-3.21.3 more-click-0.1.2 more-itertools-10.3.0 multisplitby-0.0.1 mypy-extensions-1.0.0 networkx-3.3 numpy-2.0.0 obonet-1.0.0 packaging-24.1 pandas-2.2.2 portalocker-2.10.1 protmapper-0.0.29 psycopg2-binary-2.9.9 pybel-0.15.0 pydantic-2.8.2 pydantic_core-2.20.1 pyobo-0.10.11 pyparsing-3.1.2 pystow-0.5.4 python-dateutil-2.9.0.post0 pytz-2024.1 pywin32-306 ratelimit-2.2.1 referencing-0.35.1 requests-2.32.3 requests-file-2.1.0 requests-ftp-0.3.1 rpds-py-0.19.0 s3transfer-0.10.2 setuptools-71.0.0 six-1.16.0 sortedcontainers-2.4.0 soupsieve-2.5 tabulate-0.9.0 tqdm-4.66.4 typing-inspect-0.9.0 typing_extensions-4.12.2 tzdata-2024.1 umls_downloader-0.1.3 urllib3-2.2.2 watchdog-4.0.1 zenodo_client-0.3.4
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

@@ -1,0 +1,8 @@
+cffi-1.16.0
+cryptography-42.0.8
+ndg-httpsclient-0.5.1
+pyOpenSSL-20.0.1
+pyasn1-0.4.8
+pycparser-2.22
+pytz-2020.5
+six-1.16.0

@@ -1,0 +1,134 @@
+Collecting gmusicapi==13.0.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2406a3034b4afb800290.txt (line 1))
+  Downloading gmusicapi-13.0.0.tar.gz (173 kB)
+     ------------------------------------ 173.0/173.0 kB 946.5 kB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting validictory!=0.9.2,>=0.8.0 (from gmusicapi==13.0.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2406a3034b4afb800290.txt (line 1))
+  Obtaining dependency information for validictory!=0.9.2,>=0.8.0 from https://files.pythonhosted.org/packages/ba/2b/e78293195d5792fb407383ba4f6cc3968319205ba6ae4d0c42c66481c736/validictory-1.1.3-py2.py3-none-any.whl.metadata
+  Downloading validictory-1.1.3-py2.py3-none-any.whl.metadata (3.4 kB)
+Collecting decorator>=3.3.1 (from gmusicapi==13.0.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2406a3034b4afb800290.txt (line 1))
+  Obtaining dependency information for decorator>=3.3.1 from https://files.pythonhosted.org/packages/d5/50/83c593b07763e1161326b3b8c6686f0f4b0f24d5526546bee538c89837d6/decorator-5.1.1-py3-none-any.whl.metadata
+  Downloading decorator-5.1.1-py3-none-any.whl.metadata (4.0 kB)
+Collecting mutagen>=1.34 (from gmusicapi==13.0.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2406a3034b4afb800290.txt (line 1))
+  Obtaining dependency information for mutagen>=1.34 from https://files.pythonhosted.org/packages/b0/7a/620f945b96be1f6ee357d211d5bf74ab1b7fe72a9f1525aafbfe3aee6875/mutagen-1.47.0-py3-none-any.whl.metadata
+  Downloading mutagen-1.47.0-py3-none-any.whl.metadata (1.7 kB)
+Collecting requests!=1.2.0,!=2.12.0,!=2.12.1,!=2.12.2,!=2.18.2,!=2.2.1,!=2.8.0,!=2.8.1,>=1.1.0 (from gmusicapi==13.0.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2406a3034b4afb800290.txt (line 1))
+  Obtaining dependency information for requests!=1.2.0,!=2.12.0,!=2.12.1,!=2.12.2,!=2.18.2,!=2.2.1,!=2.8.0,!=2.8.1,>=1.1.0 from https://files.pythonhosted.org/packages/f9/9b/335f9764261e915ed497fcdeb11df5dfd6f7bf257d4a6a2a686d80da4d54/requests-2.32.3-py3-none-any.whl.metadata
+  Downloading requests-2.32.3-py3-none-any.whl.metadata (4.6 kB)
+Collecting python-dateutil!=2.0,>=1.3 (from gmusicapi==13.0.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2406a3034b4afb800290.txt (line 1))
+  Obtaining dependency information for python-dateutil!=2.0,>=1.3 from https://files.pythonhosted.org/packages/ec/57/56b9bcc3c9c6a792fcbaf139543cee77261f3651ca9da0c93f5c1221264b/python_dateutil-2.9.0.post0-py2.py3-none-any.whl.metadata
+  Downloading python_dateutil-2.9.0.post0-py2.py3-none-any.whl.metadata (8.4 kB)
+Collecting proboscis>=1.2.5.1 (from gmusicapi==13.0.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2406a3034b4afb800290.txt (line 1))
+  Downloading proboscis-1.2.6.0.tar.gz (19 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting protobuf>=3.0.0 (from gmusicapi==13.0.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2406a3034b4afb800290.txt (line 1))
+  Obtaining dependency information for protobuf>=3.0.0 from https://files.pythonhosted.org/packages/b1/04/73b8fd7f34f3a2b2b64aa31a173b8aebbdb0c55523df4c027846bb44bc1e/protobuf-5.27.2-cp310-abi3-win_amd64.whl.metadata
+  Downloading protobuf-5.27.2-cp310-abi3-win_amd64.whl.metadata (592 bytes)
+Collecting oauth2client>=1.1 (from gmusicapi==13.0.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2406a3034b4afb800290.txt (line 1))
+  Obtaining dependency information for oauth2client>=1.1 from https://files.pythonhosted.org/packages/95/a9/4f25a14d23f0786b64875b91784607c2277eff25d48f915e39ff0cff505a/oauth2client-4.1.3-py2.py3-none-any.whl.metadata
+  Downloading oauth2client-4.1.3-py2.py3-none-any.whl.metadata (1.2 kB)
+Collecting appdirs>=1.1.0 (from gmusicapi==13.0.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2406a3034b4afb800290.txt (line 1))
+  Obtaining dependency information for appdirs>=1.1.0 from https://files.pythonhosted.org/packages/3b/00/2344469e2084fb287c2e0b57b72910309874c3245463acd6cf5e3db69324/appdirs-1.4.4-py2.py3-none-any.whl.metadata
+  Downloading appdirs-1.4.4-py2.py3-none-any.whl.metadata (9.0 kB)
+Collecting gpsoauth>=0.2.0 (from gmusicapi==13.0.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2406a3034b4afb800290.txt (line 1))
+  Obtaining dependency information for gpsoauth>=0.2.0 from https://files.pythonhosted.org/packages/7b/ad/89f0921a402cdaf715ecb9d3b8509a6a71999b01eb471f60553bf5d4e926/gpsoauth-1.1.1-py3-none-any.whl.metadata
+  Downloading gpsoauth-1.1.1-py3-none-any.whl.metadata (4.2 kB)
+Collecting MechanicalSoup>=0.4.0 (from gmusicapi==13.0.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2406a3034b4afb800290.txt (line 1))
+  Obtaining dependency information for MechanicalSoup>=0.4.0 from https://files.pythonhosted.org/packages/d3/26/e48f1499547475659c49d4d8143b26b9488a0358997bfba13617d4e7dbe7/MechanicalSoup-1.3.0-py3-none-any.whl.metadata
+  Downloading MechanicalSoup-1.3.0-py3-none-any.whl.metadata (6.0 kB)
+Collecting pycryptodomex>=3.0 (from gpsoauth>=0.2.0->gmusicapi==13.0.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2406a3034b4afb800290.txt (line 1))
+  Obtaining dependency information for pycryptodomex>=3.0 from https://files.pythonhosted.org/packages/b2/e8/1b92184ab7e5595bf38000587e6f8cf9556ebd1bf0a583619bee2057afbd/pycryptodomex-3.20.0-cp35-abi3-win_amd64.whl.metadata
+  Downloading pycryptodomex-3.20.0-cp35-abi3-win_amd64.whl.metadata (3.4 kB)
+Collecting urllib3<2.0 (from gpsoauth>=0.2.0->gmusicapi==13.0.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2406a3034b4afb800290.txt (line 1))
+  Obtaining dependency information for urllib3<2.0 from https://files.pythonhosted.org/packages/ae/6a/99eaaeae8becaa17a29aeb334a18e5d582d873b6f084c11f02581b8d7f7f/urllib3-1.26.19-py2.py3-none-any.whl.metadata
+  Downloading urllib3-1.26.19-py2.py3-none-any.whl.metadata (49 kB)
+     ---------------------------------------- 49.3/49.3 kB ? eta 0:00:00
+Collecting beautifulsoup4>=4.7 (from MechanicalSoup>=0.4.0->gmusicapi==13.0.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2406a3034b4afb800290.txt (line 1))
+  Obtaining dependency information for beautifulsoup4>=4.7 from https://files.pythonhosted.org/packages/b1/fe/e8c672695b37eecc5cbf43e1d0638d88d66ba3a44c4d321c796f4e59167f/beautifulsoup4-4.12.3-py3-none-any.whl.metadata
+  Downloading beautifulsoup4-4.12.3-py3-none-any.whl.metadata (3.8 kB)
+Collecting lxml (from MechanicalSoup>=0.4.0->gmusicapi==13.0.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2406a3034b4afb800290.txt (line 1))
+  Obtaining dependency information for lxml from https://files.pythonhosted.org/packages/58/16/99b03974974537c8c786fb98183d7c213ceb16e71205174a29ae869ca988/lxml-5.2.2-cp312-cp312-win_amd64.whl.metadata
+  Downloading lxml-5.2.2-cp312-cp312-win_amd64.whl.metadata (3.5 kB)
+Collecting httplib2>=0.9.1 (from oauth2client>=1.1->gmusicapi==13.0.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2406a3034b4afb800290.txt (line 1))
+  Obtaining dependency information for httplib2>=0.9.1 from https://files.pythonhosted.org/packages/a8/6c/d2fbdaaa5959339d53ba38e94c123e4e84b8fbc4b84beb0e70d7c1608486/httplib2-0.22.0-py3-none-any.whl.metadata
+  Downloading httplib2-0.22.0-py3-none-any.whl.metadata (2.6 kB)
+Collecting pyasn1>=0.1.7 (from oauth2client>=1.1->gmusicapi==13.0.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2406a3034b4afb800290.txt (line 1))
+  Obtaining dependency information for pyasn1>=0.1.7 from https://files.pythonhosted.org/packages/23/7e/5f50d07d5e70a2addbccd90ac2950f81d1edd0783630651d9268d7f1db49/pyasn1-0.6.0-py2.py3-none-any.whl.metadata
+  Downloading pyasn1-0.6.0-py2.py3-none-any.whl.metadata (8.3 kB)
+Collecting pyasn1-modules>=0.0.5 (from oauth2client>=1.1->gmusicapi==13.0.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2406a3034b4afb800290.txt (line 1))
+  Obtaining dependency information for pyasn1-modules>=0.0.5 from https://files.pythonhosted.org/packages/13/68/8906226b15ef38e71dc926c321d2fe99de8048e9098b5dfd38343011c886/pyasn1_modules-0.4.0-py3-none-any.whl.metadata
+  Downloading pyasn1_modules-0.4.0-py3-none-any.whl.metadata (3.4 kB)
+Collecting rsa>=3.1.4 (from oauth2client>=1.1->gmusicapi==13.0.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2406a3034b4afb800290.txt (line 1))
+  Obtaining dependency information for rsa>=3.1.4 from https://files.pythonhosted.org/packages/49/97/fa78e3d2f65c02c8e1268b9aba606569fe97f6c8f7c2d74394553347c145/rsa-4.9-py3-none-any.whl.metadata
+  Downloading rsa-4.9-py3-none-any.whl.metadata (4.2 kB)
+Collecting six>=1.6.1 (from oauth2client>=1.1->gmusicapi==13.0.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2406a3034b4afb800290.txt (line 1))
+  Obtaining dependency information for six>=1.6.1 from https://files.pythonhosted.org/packages/d9/5a/e7c31adbe875f2abbb91bd84cf2dc52d792b5a01506781dbcf25c91daf11/six-1.16.0-py2.py3-none-any.whl.metadata
+  Downloading six-1.16.0-py2.py3-none-any.whl.metadata (1.8 kB)
+Collecting charset-normalizer<4,>=2 (from requests!=1.2.0,!=2.12.0,!=2.12.1,!=2.12.2,!=2.18.2,!=2.2.1,!=2.8.0,!=2.8.1,>=1.1.0->gmusicapi==13.0.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2406a3034b4afb800290.txt (line 1))
+  Obtaining dependency information for charset-normalizer<4,>=2 from https://files.pythonhosted.org/packages/b6/7c/8debebb4f90174074b827c63242c23851bdf00a532489fba57fef3416e40/charset_normalizer-3.3.2-cp312-cp312-win_amd64.whl.metadata
+  Downloading charset_normalizer-3.3.2-cp312-cp312-win_amd64.whl.metadata (34 kB)
+Collecting idna<4,>=2.5 (from requests!=1.2.0,!=2.12.0,!=2.12.1,!=2.12.2,!=2.18.2,!=2.2.1,!=2.8.0,!=2.8.1,>=1.1.0->gmusicapi==13.0.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2406a3034b4afb800290.txt (line 1))
+  Obtaining dependency information for idna<4,>=2.5 from https://files.pythonhosted.org/packages/e5/3e/741d8c82801c347547f8a2a06aa57dbb1992be9e948df2ea0eda2c8b79e8/idna-3.7-py3-none-any.whl.metadata
+  Downloading idna-3.7-py3-none-any.whl.metadata (9.9 kB)
+Collecting certifi>=2017.4.17 (from requests!=1.2.0,!=2.12.0,!=2.12.1,!=2.12.2,!=2.18.2,!=2.2.1,!=2.8.0,!=2.8.1,>=1.1.0->gmusicapi==13.0.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2406a3034b4afb800290.txt (line 1))
+  Obtaining dependency information for certifi>=2017.4.17 from https://files.pythonhosted.org/packages/1c/d5/c84e1a17bf61d4df64ca866a1c9a913874b4e9bdc131ec689a0ad013fb36/certifi-2024.7.4-py3-none-any.whl.metadata
+  Downloading certifi-2024.7.4-py3-none-any.whl.metadata (2.2 kB)
+Collecting soupsieve>1.2 (from beautifulsoup4>=4.7->MechanicalSoup>=0.4.0->gmusicapi==13.0.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2406a3034b4afb800290.txt (line 1))
+  Obtaining dependency information for soupsieve>1.2 from https://files.pythonhosted.org/packages/4c/f3/038b302fdfbe3be7da016777069f26ceefe11a681055ea1f7817546508e3/soupsieve-2.5-py3-none-any.whl.metadata
+  Downloading soupsieve-2.5-py3-none-any.whl.metadata (4.7 kB)
+Collecting pyparsing!=3.0.0,!=3.0.1,!=3.0.2,!=3.0.3,<4,>=2.4.2 (from httplib2>=0.9.1->oauth2client>=1.1->gmusicapi==13.0.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2406a3034b4afb800290.txt (line 1))
+  Obtaining dependency information for pyparsing!=3.0.0,!=3.0.1,!=3.0.2,!=3.0.3,<4,>=2.4.2 from https://files.pythonhosted.org/packages/9d/ea/6d76df31432a0e6fdf81681a895f009a4bb47b3c39036db3e1b528191d52/pyparsing-3.1.2-py3-none-any.whl.metadata
+  Downloading pyparsing-3.1.2-py3-none-any.whl.metadata (5.1 kB)
+Downloading appdirs-1.4.4-py2.py3-none-any.whl (9.6 kB)
+Downloading decorator-5.1.1-py3-none-any.whl (9.1 kB)
+Downloading gpsoauth-1.1.1-py3-none-any.whl (7.3 kB)
+Downloading MechanicalSoup-1.3.0-py3-none-any.whl (19 kB)
+Downloading mutagen-1.47.0-py3-none-any.whl (194 kB)
+   --------------------------------------- 194.4/194.4 kB 12.3 MB/s eta 0:00:00
+Downloading oauth2client-4.1.3-py2.py3-none-any.whl (98 kB)
+   ---------------------------------------- 98.2/98.2 kB ? eta 0:00:00
+Downloading protobuf-5.27.2-cp310-abi3-win_amd64.whl (426 kB)
+   ---------------------------------------- 426.9/426.9 kB 9.1 MB/s eta 0:00:00
+Downloading python_dateutil-2.9.0.post0-py2.py3-none-any.whl (229 kB)
+   ---------------------------------------- 229.9/229.9 kB ? eta 0:00:00
+Downloading requests-2.32.3-py3-none-any.whl (64 kB)
+   ---------------------------------------- 64.9/64.9 kB ? eta 0:00:00
+Downloading validictory-1.1.3-py2.py3-none-any.whl (11 kB)
+Downloading beautifulsoup4-4.12.3-py3-none-any.whl (147 kB)
+   ---------------------------------------- 147.9/147.9 kB ? eta 0:00:00
+Downloading certifi-2024.7.4-py3-none-any.whl (162 kB)
+   ---------------------------------------- 163.0/163.0 kB ? eta 0:00:00
+Downloading charset_normalizer-3.3.2-cp312-cp312-win_amd64.whl (100 kB)
+   ---------------------------------------- 100.4/100.4 kB 6.0 MB/s eta 0:00:00
+Downloading httplib2-0.22.0-py3-none-any.whl (96 kB)
+   ---------------------------------------- 96.9/96.9 kB 5.8 MB/s eta 0:00:00
+Downloading idna-3.7-py3-none-any.whl (66 kB)
+   ---------------------------------------- 66.8/66.8 kB ? eta 0:00:00
+Downloading pyasn1-0.6.0-py2.py3-none-any.whl (85 kB)
+   ---------------------------------------- 85.3/85.3 kB 5.0 MB/s eta 0:00:00
+Downloading pyasn1_modules-0.4.0-py3-none-any.whl (181 kB)
+   --------------------------------------- 181.2/181.2 kB 11.4 MB/s eta 0:00:00
+Downloading pycryptodomex-3.20.0-cp35-abi3-win_amd64.whl (1.8 MB)
+   ---------------------------------------- 1.8/1.8 MB 16.1 MB/s eta 0:00:00
+Downloading rsa-4.9-py3-none-any.whl (34 kB)
+Downloading six-1.16.0-py2.py3-none-any.whl (11 kB)
+Downloading urllib3-1.26.19-py2.py3-none-any.whl (143 kB)
+   ---------------------------------------- 143.9/143.9 kB 8.4 MB/s eta 0:00:00
+Downloading lxml-5.2.2-cp312-cp312-win_amd64.whl (3.8 MB)
+   ---------------------------------------- 3.8/3.8 MB 16.3 MB/s eta 0:00:00
+Downloading pyparsing-3.1.2-py3-none-any.whl (103 kB)
+   ---------------------------------------- 103.2/103.2 kB 5.8 MB/s eta 0:00:00
+Downloading soupsieve-2.5-py3-none-any.whl (36 kB)
+Would install MechanicalSoup-1.3.0 appdirs-1.4.4 beautifulsoup4-4.12.3 certifi-2024.7.4 charset-normalizer-3.3.2 decorator-5.1.1 gmusicapi-13.0.0 gpsoauth-1.1.1 httplib2-0.22.0 idna-3.7 lxml-5.2.2 mutagen-1.47.0 oauth2client-4.1.3 proboscis-1.2.6.0 protobuf-5.27.2 pyasn1-0.6.0 pyasn1_modules-0.4.0 pycryptodomex-3.20.0 pyparsing-3.1.2 python-dateutil-2.9.0.post0 requests-2.32.3 rsa-4.9 six-1.16.0 soupsieve-2.5 urllib3-1.26.19 validictory-1.1.3
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

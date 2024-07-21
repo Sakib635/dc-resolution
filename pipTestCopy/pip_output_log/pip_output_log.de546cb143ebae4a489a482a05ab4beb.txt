@@ -1,0 +1,9 @@
+Collecting notmuch==0.29.2 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.de546cb143ebae4a489a482a05ab4beb.txt (line 1))
+  Obtaining dependency information for notmuch==0.29.2 from https://files.pythonhosted.org/packages/c1/35/ed1aa4868179365367e4f76fc5f0bc45a0b6045623308aa613bdf74fb3f2/notmuch-0.29.2-py3-none-any.whl.metadata
+  Downloading notmuch-0.29.2-py3-none-any.whl.metadata (1.8 kB)
+Downloading notmuch-0.29.2-py3-none-any.whl (51 kB)
+   ---------------------------------------- 51.1/51.1 kB 371.5 kB/s eta 0:00:00
+Would install notmuch-0.29.2
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

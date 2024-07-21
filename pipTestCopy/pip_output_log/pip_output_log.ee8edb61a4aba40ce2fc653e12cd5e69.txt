@@ -1,0 +1,23 @@
+Collecting docx==0.2.4 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.ee8edb61a4aba40ce2fc653e12cd5e69.txt (line 1))
+  Downloading docx-0.2.4.tar.gz (54 kB)
+     -------------------------------------- 54.9/54.9 kB 357.5 kB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting lxml (from docx==0.2.4->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.ee8edb61a4aba40ce2fc653e12cd5e69.txt (line 1))
+  Obtaining dependency information for lxml from https://files.pythonhosted.org/packages/58/16/99b03974974537c8c786fb98183d7c213ceb16e71205174a29ae869ca988/lxml-5.2.2-cp312-cp312-win_amd64.whl.metadata
+  Downloading lxml-5.2.2-cp312-cp312-win_amd64.whl.metadata (3.5 kB)
+Collecting Pillow>=2.0 (from docx==0.2.4->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.ee8edb61a4aba40ce2fc653e12cd5e69.txt (line 1))
+  Obtaining dependency information for Pillow>=2.0 from https://files.pythonhosted.org/packages/74/0a/d4ce3c44bca8635bd29a2eab5aa181b654a734a29b263ca8efe013beea98/pillow-10.4.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading pillow-10.4.0-cp312-cp312-win_amd64.whl.metadata (9.3 kB)
+Downloading pillow-10.4.0-cp312-cp312-win_amd64.whl (2.6 MB)
+   ---------------------------------------- 2.6/2.6 MB 10.2 MB/s eta 0:00:00
+Downloading lxml-5.2.2-cp312-cp312-win_amd64.whl (3.8 MB)
+   ---------------------------------------- 3.8/3.8 MB 20.3 MB/s eta 0:00:00
+Would install docx-0.2.4 lxml-5.2.2 pillow-10.4.0
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

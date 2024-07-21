@@ -1,0 +1,8 @@
+importlib_metadata-8.0.0
+pycurl-7.45.3
+setuptools-71.0.0
+six-1.16.0
+urlgrabber-4.1.0
+wheel-0.43.0
+zapp-0.0.7
+zipp-3.19.2

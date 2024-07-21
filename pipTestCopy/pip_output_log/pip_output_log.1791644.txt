@@ -1,0 +1,54 @@
+Collecting django_compressor==2.4 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1791644.txt (line 1))
+  Obtaining dependency information for django_compressor==2.4 from https://files.pythonhosted.org/packages/d7/07/2c7524eb05f9eb770b3e39deb0dacf6fb8c5d21107c9d1cbab3ebd300bfe/django_compressor-2.4-py2.py3-none-any.whl.metadata
+  Downloading django_compressor-2.4-py2.py3-none-any.whl.metadata (5.1 kB)
+Collecting django-appconf>=1.0.3 (from django_compressor==2.4->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1791644.txt (line 1))
+  Obtaining dependency information for django-appconf>=1.0.3 from https://files.pythonhosted.org/packages/c0/98/1cb3d9e8b1c6d0a74539b998474796fc5c0c0888b6201e5c95ba2f7a0677/django_appconf-1.0.6-py3-none-any.whl.metadata
+  Downloading django_appconf-1.0.6-py3-none-any.whl.metadata (5.4 kB)
+Collecting rcssmin==1.0.6 (from django_compressor==2.4->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1791644.txt (line 1))
+  Downloading rcssmin-1.0.6.tar.gz (582 kB)
+     -------------------------------------- 582.9/582.9 kB 3.7 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting rjsmin==1.1.0 (from django_compressor==2.4->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1791644.txt (line 1))
+  Downloading rjsmin-1.1.0.tar.gz (412 kB)
+     ------------------------------------- 412.4/412.4 kB 13.0 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting six>=1.12.0 (from django_compressor==2.4->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1791644.txt (line 1))
+  Obtaining dependency information for six>=1.12.0 from https://files.pythonhosted.org/packages/d9/5a/e7c31adbe875f2abbb91bd84cf2dc52d792b5a01506781dbcf25c91daf11/six-1.16.0-py2.py3-none-any.whl.metadata
+  Downloading six-1.16.0-py2.py3-none-any.whl.metadata (1.8 kB)
+Collecting django (from django-appconf>=1.0.3->django_compressor==2.4->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1791644.txt (line 1))
+  Obtaining dependency information for django from https://files.pythonhosted.org/packages/b7/fc/bff93df9b0bc23d66411cc54e7cd10195b81d61d25591317038d9823e99e/Django-5.0.7-py3-none-any.whl.metadata
+  Downloading Django-5.0.7-py3-none-any.whl.metadata (4.1 kB)
+Collecting asgiref<4,>=3.7.0 (from django->django-appconf>=1.0.3->django_compressor==2.4->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1791644.txt (line 1))
+  Obtaining dependency information for asgiref<4,>=3.7.0 from https://files.pythonhosted.org/packages/39/e3/893e8757be2612e6c266d9bb58ad2e3651524b5b40cf56761e985a28b13e/asgiref-3.8.1-py3-none-any.whl.metadata
+  Downloading asgiref-3.8.1-py3-none-any.whl.metadata (9.3 kB)
+Collecting sqlparse>=0.3.1 (from django->django-appconf>=1.0.3->django_compressor==2.4->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1791644.txt (line 1))
+  Obtaining dependency information for sqlparse>=0.3.1 from https://files.pythonhosted.org/packages/5d/a5/b2860373aa8de1e626b2bdfdd6df4355f0565b47e51f7d0c54fe70faf8fe/sqlparse-0.5.1-py3-none-any.whl.metadata
+  Downloading sqlparse-0.5.1-py3-none-any.whl.metadata (3.9 kB)
+Collecting tzdata (from django->django-appconf>=1.0.3->django_compressor==2.4->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1791644.txt (line 1))
+  Obtaining dependency information for tzdata from https://files.pythonhosted.org/packages/65/58/f9c9e6be752e9fcb8b6a0ee9fb87e6e7a1f6bcab2cdc73f02bb7ba91ada0/tzdata-2024.1-py2.py3-none-any.whl.metadata
+  Downloading tzdata-2024.1-py2.py3-none-any.whl.metadata (1.4 kB)
+Downloading django_compressor-2.4-py2.py3-none-any.whl (126 kB)
+   -------------------------------------- 126.1/126.1 kB 297.0 kB/s eta 0:00:00
+Downloading django_appconf-1.0.6-py3-none-any.whl (6.4 kB)
+Downloading six-1.16.0-py2.py3-none-any.whl (11 kB)
+Downloading Django-5.0.7-py3-none-any.whl (8.2 MB)
+   ---------------------------------------- 8.2/8.2 MB 13.1 MB/s eta 0:00:00
+Downloading asgiref-3.8.1-py3-none-any.whl (23 kB)
+Downloading sqlparse-0.5.1-py3-none-any.whl (44 kB)
+   ---------------------------------------- 44.2/44.2 kB 86.7 kB/s eta 0:00:00
+Downloading tzdata-2024.1-py2.py3-none-any.whl (345 kB)
+   ---------------------------------------- 345.4/345.4 kB 1.4 MB/s eta 0:00:00
+Would install Django-5.0.7 asgiref-3.8.1 django-appconf-1.0.6 django-compressor-2.4 rcssmin-1.0.6 rjsmin-1.1.0 six-1.16.0 sqlparse-0.5.1 tzdata-2024.1
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

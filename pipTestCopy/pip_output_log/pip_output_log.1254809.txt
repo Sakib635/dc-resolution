@@ -1,0 +1,19 @@
+Collecting python_Levenshtein==0.12.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1254809.txt (line 1))
+  Downloading python-Levenshtein-0.12.0.tar.gz (48 kB)
+     -------------------------------------- 48.6/48.6 kB 307.0 kB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting setuptools (from python_Levenshtein==0.12.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1254809.txt (line 1))
+  Obtaining dependency information for setuptools from https://files.pythonhosted.org/packages/ef/15/88e46eb9387e905704b69849618e699dc2f54407d8953cc4ec4b8b46528d/setuptools-70.3.0-py3-none-any.whl.metadata
+  Using cached setuptools-70.3.0-py3-none-any.whl.metadata (5.8 kB)
+Using cached setuptools-70.3.0-py3-none-any.whl (931 kB)
+Would install python-Levenshtein-0.12.0 setuptools-70.3.0
+WARNING: The candidate selected for download or install is a yanked version: 'python-levenshtein' candidate (version 0.12.0 at https://files.pythonhosted.org/packages/42/a9/d1785c85ebf9b7dfacd08938dd028209c34a0ea3b1bcdb895208bd40a67d/python-Levenshtein-0.12.0.tar.gz (from https://pypi.org/simple/python-levenshtein/))
+Reason for being yanked: Insecure, upgrade to 0.12.1
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

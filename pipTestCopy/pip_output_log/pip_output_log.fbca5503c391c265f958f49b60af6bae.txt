@@ -1,0 +1,9 @@
+Collecting pypng==0.0.20 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.fbca5503c391c265f958f49b60af6bae.txt (line 1))
+  Obtaining dependency information for pypng==0.0.20 from https://files.pythonhosted.org/packages/f7/24/36654d22e5750517f53b823fafe1c6f128f7ff9c319af811947f410b64d4/pypng-0.0.20-py3-none-any.whl.metadata
+  Downloading pypng-0.0.20-py3-none-any.whl.metadata (1.1 kB)
+Downloading pypng-0.0.20-py3-none-any.whl (70 kB)
+   ---------------------------------------- 70.5/70.5 kB 481.7 kB/s eta 0:00:00
+Would install pypng-0.0.20
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

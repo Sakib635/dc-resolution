@@ -1,0 +1,168 @@
+Collecting google_api_python_client==2.0.2 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.10011921.txt (line 1))
+  Obtaining dependency information for google_api_python_client==2.0.2 from https://files.pythonhosted.org/packages/b7/56/bc7314cd180d1420e4ef11202dc9548ec22237a0a6de1aaf37b460ee7753/google_api_python_client-2.0.2-py2.py3-none-any.whl.metadata
+  Downloading google_api_python_client-2.0.2-py2.py3-none-any.whl.metadata (4.0 kB)
+Collecting httplib2==0.19.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.10011921.txt (line 2))
+  Obtaining dependency information for httplib2==0.19.0 from https://files.pythonhosted.org/packages/15/7e/51e5bd333c0afa1c7bdbf98eb3b0ccf5167e2b1ecc8b4d13e9cc29291f81/httplib2-0.19.0-py3-none-any.whl.metadata
+  Downloading httplib2-0.19.0-py3-none-any.whl.metadata (2.2 kB)
+Collecting Jinja2==2.11.3 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.10011921.txt (line 3))
+  Obtaining dependency information for Jinja2==2.11.3 from https://files.pythonhosted.org/packages/7e/c2/1eece8c95ddbc9b1aeb64f5783a9e07a286de42191b7204d67b7496ddf35/Jinja2-2.11.3-py2.py3-none-any.whl.metadata
+  Downloading Jinja2-2.11.3-py2.py3-none-any.whl.metadata (3.5 kB)
+Collecting oauth2client==4.1.3 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.10011921.txt (line 4))
+  Obtaining dependency information for oauth2client==4.1.3 from https://files.pythonhosted.org/packages/95/a9/4f25a14d23f0786b64875b91784607c2277eff25d48f915e39ff0cff505a/oauth2client-4.1.3-py2.py3-none-any.whl.metadata
+  Downloading oauth2client-4.1.3-py2.py3-none-any.whl.metadata (1.2 kB)
+Collecting protobuf==3.15.5 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.10011921.txt (line 5))
+  Obtaining dependency information for protobuf==3.15.5 from https://files.pythonhosted.org/packages/bd/a8/ea0da788573c3cd1339825863bfc4ea02464d2b1c0d2c7674f5e1d979337/protobuf-3.15.5-py2.py3-none-any.whl.metadata
+  Downloading protobuf-3.15.5-py2.py3-none-any.whl.metadata (958 bytes)
+Collecting webapp2==2.5.2 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.10011921.txt (line 6))
+  Downloading webapp2-2.5.2.zip (243 kB)
+     -------------------------------------- 243.2/243.2 kB 2.1 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting google-auth<2dev,>=1.16.0 (from google_api_python_client==2.0.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.10011921.txt (line 1))
+  Obtaining dependency information for google-auth<2dev,>=1.16.0 from https://files.pythonhosted.org/packages/fb/7a/1b3eb54caee1b8c73c2c3645f78a382eca4805a301a30c64a078e736e446/google_auth-1.35.0-py2.py3-none-any.whl.metadata
+  Downloading google_auth-1.35.0-py2.py3-none-any.whl.metadata (3.5 kB)
+Collecting google-auth-httplib2>=0.0.3 (from google_api_python_client==2.0.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.10011921.txt (line 1))
+  Obtaining dependency information for google-auth-httplib2>=0.0.3 from https://files.pythonhosted.org/packages/be/8a/fe34d2f3f9470a27b01c9e76226965863f153d5fbe276f83608562e49c04/google_auth_httplib2-0.2.0-py2.py3-none-any.whl.metadata
+  Downloading google_auth_httplib2-0.2.0-py2.py3-none-any.whl.metadata (2.2 kB)
+Collecting google-api-core<2dev,>=1.21.0 (from google_api_python_client==2.0.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.10011921.txt (line 1))
+  Obtaining dependency information for google-api-core<2dev,>=1.21.0 from https://files.pythonhosted.org/packages/11/51/1d325e9b7358f15dca82e1ed91413c5cecb9d4665da6c44cb8dd348deeaa/google_api_core-1.34.1-py3-none-any.whl.metadata
+  Downloading google_api_core-1.34.1-py3-none-any.whl.metadata (2.4 kB)
+Collecting six<2dev,>=1.13.0 (from google_api_python_client==2.0.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.10011921.txt (line 1))
+  Obtaining dependency information for six<2dev,>=1.13.0 from https://files.pythonhosted.org/packages/d9/5a/e7c31adbe875f2abbb91bd84cf2dc52d792b5a01506781dbcf25c91daf11/six-1.16.0-py2.py3-none-any.whl.metadata
+  Downloading six-1.16.0-py2.py3-none-any.whl.metadata (1.8 kB)
+Collecting uritemplate<4dev,>=3.0.0 (from google_api_python_client==2.0.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.10011921.txt (line 1))
+  Obtaining dependency information for uritemplate<4dev,>=3.0.0 from https://files.pythonhosted.org/packages/bf/0c/60d82c077998feb631608dca3cc1fe19ac074e772bf0c24cf409b977b815/uritemplate-3.0.1-py2.py3-none-any.whl.metadata
+  Downloading uritemplate-3.0.1-py2.py3-none-any.whl.metadata (4.6 kB)
+Collecting pyparsing<3,>=2.4.2 (from httplib2==0.19.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.10011921.txt (line 2))
+  Obtaining dependency information for pyparsing<3,>=2.4.2 from https://files.pythonhosted.org/packages/8a/bb/488841f56197b13700afd5658fc279a2025a39e22449b7cf29864669b15d/pyparsing-2.4.7-py2.py3-none-any.whl.metadata
+  Downloading pyparsing-2.4.7-py2.py3-none-any.whl.metadata (3.6 kB)
+Collecting MarkupSafe>=0.23 (from Jinja2==2.11.3->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.10011921.txt (line 3))
+  Obtaining dependency information for MarkupSafe>=0.23 from https://files.pythonhosted.org/packages/3f/14/c3554d512d5f9100a95e737502f4a2323a1959f6d0d01e0d0997b35f7b10/MarkupSafe-2.1.5-cp312-cp312-win_amd64.whl.metadata
+  Downloading MarkupSafe-2.1.5-cp312-cp312-win_amd64.whl.metadata (3.1 kB)
+Collecting pyasn1>=0.1.7 (from oauth2client==4.1.3->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.10011921.txt (line 4))
+  Obtaining dependency information for pyasn1>=0.1.7 from https://files.pythonhosted.org/packages/23/7e/5f50d07d5e70a2addbccd90ac2950f81d1edd0783630651d9268d7f1db49/pyasn1-0.6.0-py2.py3-none-any.whl.metadata
+  Downloading pyasn1-0.6.0-py2.py3-none-any.whl.metadata (8.3 kB)
+Collecting pyasn1-modules>=0.0.5 (from oauth2client==4.1.3->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.10011921.txt (line 4))
+  Obtaining dependency information for pyasn1-modules>=0.0.5 from https://files.pythonhosted.org/packages/13/68/8906226b15ef38e71dc926c321d2fe99de8048e9098b5dfd38343011c886/pyasn1_modules-0.4.0-py3-none-any.whl.metadata
+  Downloading pyasn1_modules-0.4.0-py3-none-any.whl.metadata (3.4 kB)
+Collecting rsa>=3.1.4 (from oauth2client==4.1.3->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.10011921.txt (line 4))
+  Obtaining dependency information for rsa>=3.1.4 from https://files.pythonhosted.org/packages/49/97/fa78e3d2f65c02c8e1268b9aba606569fe97f6c8f7c2d74394553347c145/rsa-4.9-py3-none-any.whl.metadata
+  Downloading rsa-4.9-py3-none-any.whl.metadata (4.2 kB)
+Collecting googleapis-common-protos<2.0dev,>=1.56.2 (from google-api-core<2dev,>=1.21.0->google_api_python_client==2.0.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.10011921.txt (line 1))
+  Obtaining dependency information for googleapis-common-protos<2.0dev,>=1.56.2 from https://files.pythonhosted.org/packages/02/48/87422ff1bddcae677fb6f58c97f5cfc613304a5e8ce2c3662760199c0a84/googleapis_common_protos-1.63.2-py2.py3-none-any.whl.metadata
+  Downloading googleapis_common_protos-1.63.2-py2.py3-none-any.whl.metadata (1.5 kB)
+INFO: pip is looking at multiple versions of google-api-core to determine which version is compatible with other requirements. This could take a while.
+Collecting google-api-core<2dev,>=1.21.0 (from google_api_python_client==2.0.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.10011921.txt (line 1))
+  Obtaining dependency information for google-api-core<2dev,>=1.21.0 from https://files.pythonhosted.org/packages/c7/ca/bf63a592b6db1b7a899d05a046955db2ea3cb5cff5eb899f421f3f97fc48/google_api_core-1.34.0-py3-none-any.whl.metadata
+  Downloading google_api_core-1.34.0-py3-none-any.whl.metadata (2.4 kB)
+  Obtaining dependency information for google-api-core<2dev,>=1.21.0 from https://files.pythonhosted.org/packages/09/d4/8f1e3f5e6650da1686901306ca560d3290367e9fa38b3ff9da3b05e97d4b/google_api_core-1.33.2-py3-none-any.whl.metadata
+  Downloading google_api_core-1.33.2-py3-none-any.whl.metadata (2.4 kB)
+  Obtaining dependency information for google-api-core<2dev,>=1.21.0 from https://files.pythonhosted.org/packages/fb/d4/c5328241bf434a05df092f1e23da7a43de2f0216bb7c368b3b3012487c98/google_api_core-1.33.1-py3-none-any.whl.metadata
+  Downloading google_api_core-1.33.1-py3-none-any.whl.metadata (2.3 kB)
+  Obtaining dependency information for google-api-core<2dev,>=1.21.0 from https://files.pythonhosted.org/packages/f1/e8/0b7562be1791f7ffd7d5a8a698e23768e175c51b829431f38ee00409e658/google_api_core-1.33.0-py3-none-any.whl.metadata
+  Downloading google_api_core-1.33.0-py3-none-any.whl.metadata (2.3 kB)
+  Obtaining dependency information for google-api-core<2dev,>=1.21.0 from https://files.pythonhosted.org/packages/9f/35/4177a49a54f3d4040ca7eb53094ab6d789a9688aba4c24be4e5291035f49/google_api_core-1.32.0-py2.py3-none-any.whl.metadata
+  Downloading google_api_core-1.32.0-py2.py3-none-any.whl.metadata (2.5 kB)
+Collecting requests<3.0.0dev,>=2.18.0 (from google-api-core<2dev,>=1.21.0->google_api_python_client==2.0.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.10011921.txt (line 1))
+  Obtaining dependency information for requests<3.0.0dev,>=2.18.0 from https://files.pythonhosted.org/packages/f9/9b/335f9764261e915ed497fcdeb11df5dfd6f7bf257d4a6a2a686d80da4d54/requests-2.32.3-py3-none-any.whl.metadata
+  Downloading requests-2.32.3-py3-none-any.whl.metadata (4.6 kB)
+Collecting setuptools>=40.3.0 (from google-api-core<2dev,>=1.21.0->google_api_python_client==2.0.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.10011921.txt (line 1))
+  Obtaining dependency information for setuptools>=40.3.0 from https://files.pythonhosted.org/packages/ef/15/88e46eb9387e905704b69849618e699dc2f54407d8953cc4ec4b8b46528d/setuptools-70.3.0-py3-none-any.whl.metadata
+  Using cached setuptools-70.3.0-py3-none-any.whl.metadata (5.8 kB)
+Collecting packaging>=14.3 (from google-api-core<2dev,>=1.21.0->google_api_python_client==2.0.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.10011921.txt (line 1))
+  Obtaining dependency information for packaging>=14.3 from https://files.pythonhosted.org/packages/08/aa/cc0199a5f0ad350994d660967a8efb233fe0416e4639146c089643407ce6/packaging-24.1-py3-none-any.whl.metadata
+  Downloading packaging-24.1-py3-none-any.whl.metadata (3.2 kB)
+Collecting pytz (from google-api-core<2dev,>=1.21.0->google_api_python_client==2.0.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.10011921.txt (line 1))
+  Obtaining dependency information for pytz from https://files.pythonhosted.org/packages/9c/3d/a121f284241f08268b21359bd425f7d4825cffc5ac5cd0e1b3d82ffd2b10/pytz-2024.1-py2.py3-none-any.whl.metadata
+  Downloading pytz-2024.1-py2.py3-none-any.whl.metadata (22 kB)
+Collecting cachetools<5.0,>=2.0.0 (from google-auth<2dev,>=1.16.0->google_api_python_client==2.0.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.10011921.txt (line 1))
+  Obtaining dependency information for cachetools<5.0,>=2.0.0 from https://files.pythonhosted.org/packages/ea/c1/4740af52db75e6dbdd57fc7e9478439815bbac549c1c05881be27d19a17d/cachetools-4.2.4-py3-none-any.whl.metadata
+  Downloading cachetools-4.2.4-py3-none-any.whl.metadata (4.8 kB)
+INFO: pip is looking at multiple versions of googleapis-common-protos to determine which version is compatible with other requirements. This could take a while.
+Collecting googleapis-common-protos<2.0dev,>=1.6.0 (from google-api-core<2dev,>=1.21.0->google_api_python_client==2.0.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.10011921.txt (line 1))
+  Obtaining dependency information for googleapis-common-protos<2.0dev,>=1.6.0 from https://files.pythonhosted.org/packages/98/87/1608d23bb9879694579fff5dc56d60e3d48e012fd08670f140cf82f6cf26/googleapis_common_protos-1.63.1-py2.py3-none-any.whl.metadata
+  Downloading googleapis_common_protos-1.63.1-py2.py3-none-any.whl.metadata (1.5 kB)
+  Obtaining dependency information for googleapis-common-protos<2.0dev,>=1.6.0 from https://files.pythonhosted.org/packages/dc/a6/12a0c976140511d8bc8a16ad15793b2aef29ac927baa0786ccb7ddbb6e1c/googleapis_common_protos-1.63.0-py2.py3-none-any.whl.metadata
+  Downloading googleapis_common_protos-1.63.0-py2.py3-none-any.whl.metadata (1.5 kB)
+  Obtaining dependency information for googleapis-common-protos<2.0dev,>=1.6.0 from https://files.pythonhosted.org/packages/f0/43/c9d8f75ddf08e2a0a27db243c13a700c3cc7ec615b545b697cf6f715ad92/googleapis_common_protos-1.62.0-py2.py3-none-any.whl.metadata
+  Downloading googleapis_common_protos-1.62.0-py2.py3-none-any.whl.metadata (1.5 kB)
+  Obtaining dependency information for googleapis-common-protos<2.0dev,>=1.6.0 from https://files.pythonhosted.org/packages/21/49/12996dc0238e017504dceea1d121a48bd49fb3f4416f40d59fc3e924b4f3/googleapis_common_protos-1.61.0-py2.py3-none-any.whl.metadata
+  Downloading googleapis_common_protos-1.61.0-py2.py3-none-any.whl.metadata (1.5 kB)
+  Obtaining dependency information for googleapis-common-protos<2.0dev,>=1.6.0 from https://files.pythonhosted.org/packages/a7/bc/416a1ffeba4dcd072bc10523dac9ed97f2e7fc4b760580e2bdbdc1e2afdd/googleapis_common_protos-1.60.0-py2.py3-none-any.whl.metadata
+  Downloading googleapis_common_protos-1.60.0-py2.py3-none-any.whl.metadata (1.5 kB)
+  Obtaining dependency information for googleapis-common-protos<2.0dev,>=1.6.0 from https://files.pythonhosted.org/packages/b3/b7/bbaa556e9ff0580f408c64ccf4db0c1414eec79e7151d33a10bc209ffb6d/googleapis_common_protos-1.59.1-py2.py3-none-any.whl.metadata
+  Downloading googleapis_common_protos-1.59.1-py2.py3-none-any.whl.metadata (1.5 kB)
+  Obtaining dependency information for googleapis-common-protos<2.0dev,>=1.6.0 from https://files.pythonhosted.org/packages/a7/8d/7ccf8f63ab0a768e13720262374c0d6a1489f7f23f1b89a16c92af452f09/googleapis_common_protos-1.59.0-py2.py3-none-any.whl.metadata
+  Downloading googleapis_common_protos-1.59.0-py2.py3-none-any.whl.metadata (1.5 kB)
+INFO: pip is still looking at multiple versions of googleapis-common-protos to determine which version is compatible with other requirements. This could take a while.
+  Obtaining dependency information for googleapis-common-protos<2.0dev,>=1.6.0 from https://files.pythonhosted.org/packages/32/4e/ed585842aaa704d87495a0e99317aaa44c5007a597c05b995fa8cfc4dfbe/googleapis_common_protos-1.58.0-py2.py3-none-any.whl.metadata
+  Downloading googleapis_common_protos-1.58.0-py2.py3-none-any.whl.metadata (1.5 kB)
+  Obtaining dependency information for googleapis-common-protos<2.0dev,>=1.6.0 from https://files.pythonhosted.org/packages/76/b9/fc6a31a90e3c78cea00d209d48f1e5c6c9edc6b14f3039470c3f7fae60a1/googleapis_common_protos-1.57.1-py2.py3-none-any.whl.metadata
+  Downloading googleapis_common_protos-1.57.1-py2.py3-none-any.whl.metadata (1.5 kB)
+  Obtaining dependency information for googleapis-common-protos<2.0dev,>=1.6.0 from https://files.pythonhosted.org/packages/f0/2a/25d8c1ceedc5af97de37434c9c5e38ce28aaa45960aa2bd7aa215fc420c0/googleapis_common_protos-1.57.0-py2.py3-none-any.whl.metadata
+  Downloading googleapis_common_protos-1.57.0-py2.py3-none-any.whl.metadata (1.5 kB)
+  Obtaining dependency information for googleapis-common-protos<2.0dev,>=1.6.0 from https://files.pythonhosted.org/packages/e2/fd/d9efa2085bd762fba3a637eb3e36d76d72eb6e083d170aeaca65a75f1f9c/googleapis_common_protos-1.56.4-py2.py3-none-any.whl.metadata
+  Downloading googleapis_common_protos-1.56.4-py2.py3-none-any.whl.metadata (1.3 kB)
+Collecting charset-normalizer<4,>=2 (from requests<3.0.0dev,>=2.18.0->google-api-core<2dev,>=1.21.0->google_api_python_client==2.0.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.10011921.txt (line 1))
+  Obtaining dependency information for charset-normalizer<4,>=2 from https://files.pythonhosted.org/packages/b6/7c/8debebb4f90174074b827c63242c23851bdf00a532489fba57fef3416e40/charset_normalizer-3.3.2-cp312-cp312-win_amd64.whl.metadata
+  Downloading charset_normalizer-3.3.2-cp312-cp312-win_amd64.whl.metadata (34 kB)
+Collecting idna<4,>=2.5 (from requests<3.0.0dev,>=2.18.0->google-api-core<2dev,>=1.21.0->google_api_python_client==2.0.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.10011921.txt (line 1))
+  Obtaining dependency information for idna<4,>=2.5 from https://files.pythonhosted.org/packages/e5/3e/741d8c82801c347547f8a2a06aa57dbb1992be9e948df2ea0eda2c8b79e8/idna-3.7-py3-none-any.whl.metadata
+  Downloading idna-3.7-py3-none-any.whl.metadata (9.9 kB)
+Collecting urllib3<3,>=1.21.1 (from requests<3.0.0dev,>=2.18.0->google-api-core<2dev,>=1.21.0->google_api_python_client==2.0.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.10011921.txt (line 1))
+  Obtaining dependency information for urllib3<3,>=1.21.1 from https://files.pythonhosted.org/packages/ca/1c/89ffc63a9605b583d5df2be791a27bc1a42b7c32bab68d3c8f2f73a98cd4/urllib3-2.2.2-py3-none-any.whl.metadata
+  Downloading urllib3-2.2.2-py3-none-any.whl.metadata (6.4 kB)
+Collecting certifi>=2017.4.17 (from requests<3.0.0dev,>=2.18.0->google-api-core<2dev,>=1.21.0->google_api_python_client==2.0.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.10011921.txt (line 1))
+  Obtaining dependency information for certifi>=2017.4.17 from https://files.pythonhosted.org/packages/1c/d5/c84e1a17bf61d4df64ca866a1c9a913874b4e9bdc131ec689a0ad013fb36/certifi-2024.7.4-py3-none-any.whl.metadata
+  Downloading certifi-2024.7.4-py3-none-any.whl.metadata (2.2 kB)
+Downloading google_api_python_client-2.0.2-py2.py3-none-any.whl (6.5 MB)
+   ---------------------------------------- 6.5/6.5 MB 16.5 MB/s eta 0:00:00
+Downloading httplib2-0.19.0-py3-none-any.whl (95 kB)
+   ---------------------------------------- 95.4/95.4 kB 5.7 MB/s eta 0:00:00
+Downloading Jinja2-2.11.3-py2.py3-none-any.whl (125 kB)
+   ---------------------------------------- 125.7/125.7 kB ? eta 0:00:00
+Downloading oauth2client-4.1.3-py2.py3-none-any.whl (98 kB)
+   ---------------------------------------- 98.2/98.2 kB 5.9 MB/s eta 0:00:00
+Downloading protobuf-3.15.5-py2.py3-none-any.whl (173 kB)
+   --------------------------------------- 173.7/173.7 kB 10.2 MB/s eta 0:00:00
+Downloading google_api_core-1.32.0-py2.py3-none-any.whl (93 kB)
+   ---------------------------------------- 93.6/93.6 kB ? eta 0:00:00
+Downloading google_auth-1.35.0-py2.py3-none-any.whl (152 kB)
+   ---------------------------------------- 152.9/152.9 kB 8.9 MB/s eta 0:00:00
+Downloading google_auth_httplib2-0.2.0-py2.py3-none-any.whl (9.3 kB)
+Downloading MarkupSafe-2.1.5-cp312-cp312-win_amd64.whl (17 kB)
+Downloading pyasn1-0.6.0-py2.py3-none-any.whl (85 kB)
+   ---------------------------------------- 85.3/85.3 kB 5.0 MB/s eta 0:00:00
+Downloading pyasn1_modules-0.4.0-py3-none-any.whl (181 kB)
+   --------------------------------------- 181.2/181.2 kB 10.7 MB/s eta 0:00:00
+Downloading pyparsing-2.4.7-py2.py3-none-any.whl (67 kB)
+   ---------------------------------------- 67.8/67.8 kB ? eta 0:00:00
+Downloading rsa-4.9-py3-none-any.whl (34 kB)
+Downloading six-1.16.0-py2.py3-none-any.whl (11 kB)
+Downloading uritemplate-3.0.1-py2.py3-none-any.whl (15 kB)
+Downloading cachetools-4.2.4-py3-none-any.whl (10 kB)
+Downloading googleapis_common_protos-1.56.4-py2.py3-none-any.whl (211 kB)
+   ---------------------------------------- 211.7/211.7 kB ? eta 0:00:00
+Downloading packaging-24.1-py3-none-any.whl (53 kB)
+   ---------------------------------------- 54.0/54.0 kB 2.9 MB/s eta 0:00:00
+Downloading requests-2.32.3-py3-none-any.whl (64 kB)
+   ---------------------------------------- 64.9/64.9 kB 3.4 MB/s eta 0:00:00
+Using cached setuptools-70.3.0-py3-none-any.whl (931 kB)
+Downloading pytz-2024.1-py2.py3-none-any.whl (505 kB)
+   --------------------------------------- 505.5/505.5 kB 16.0 MB/s eta 0:00:00
+Downloading certifi-2024.7.4-py3-none-any.whl (162 kB)
+   ---------------------------------------- 163.0/163.0 kB ? eta 0:00:00
+Downloading charset_normalizer-3.3.2-cp312-cp312-win_amd64.whl (100 kB)
+   ---------------------------------------- 100.4/100.4 kB 5.6 MB/s eta 0:00:00
+Downloading idna-3.7-py3-none-any.whl (66 kB)
+   ---------------------------------------- 66.8/66.8 kB 3.8 MB/s eta 0:00:00
+Downloading urllib3-2.2.2-py3-none-any.whl (121 kB)
+   ---------------------------------------- 121.4/121.4 kB 7.4 MB/s eta 0:00:00
+Would install Jinja2-2.11.3 MarkupSafe-2.1.5 cachetools-4.2.4 certifi-2024.7.4 charset-normalizer-3.3.2 google-api-core-1.32.0 google-api-python-client-2.0.2 google-auth-1.35.0 google-auth-httplib2-0.2.0 googleapis-common-protos-1.56.4 httplib2-0.19.0 idna-3.7 oauth2client-4.1.3 packaging-24.1 protobuf-3.15.5 pyasn1-0.6.0 pyasn1_modules-0.4.0 pyparsing-2.4.7 pytz-2024.1 requests-2.32.3 rsa-4.9 setuptools-70.3.0 six-1.16.0 uritemplate-3.0.1 urllib3-2.2.2 webapp2-2.5.2
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

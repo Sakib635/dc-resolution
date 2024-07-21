@@ -1,0 +1,91 @@
+Collecting auth==0.5.3 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4134185.txt (line 1))
+  Obtaining dependency information for auth==0.5.3 from https://files.pythonhosted.org/packages/c6/ec/4c30e831f53a81930be7996a4384db3cab5bb2155906c8429d68aea29bb0/auth-0.5.3-py3-none-any.whl.metadata
+  Downloading auth-0.5.3-py3-none-any.whl.metadata (7.6 kB)
+Collecting boto==2.49.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4134185.txt (line 2))
+  Obtaining dependency information for boto==2.49.0 from https://files.pythonhosted.org/packages/23/10/c0b78c27298029e4454a472a1919bde20cb182dab1662cec7f2ca1dcc523/boto-2.49.0-py2.py3-none-any.whl.metadata
+  Downloading boto-2.49.0-py2.py3-none-any.whl.metadata (7.3 kB)
+Collecting blinker (from auth==0.5.3->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4134185.txt (line 1))
+  Obtaining dependency information for blinker from https://files.pythonhosted.org/packages/bb/2a/10164ed1f31196a2f7f3799368a821765c62851ead0e630ab52b8e14b4d0/blinker-1.8.2-py3-none-any.whl.metadata
+  Downloading blinker-1.8.2-py3-none-any.whl.metadata (1.6 kB)
+Collecting eventlet (from auth==0.5.3->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4134185.txt (line 1))
+  Obtaining dependency information for eventlet from https://files.pythonhosted.org/packages/75/af/73efcf654d8875febc6599f5a3d1eed043c1ca34a9b12950208cbf710d2a/eventlet-0.36.1-py3-none-any.whl.metadata
+  Downloading eventlet-0.36.1-py3-none-any.whl.metadata (5.5 kB)
+Collecting falcon (from auth==0.5.3->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4134185.txt (line 1))
+  Obtaining dependency information for falcon from https://files.pythonhosted.org/packages/b9/a4/dacbf0fd08e23ab5d52354d3b02516001d8ee31e8c8f51dc205e610faf9f/falcon-3.1.3-cp312-cp312-win_amd64.whl.metadata
+  Downloading falcon-3.1.3-cp312-cp312-win_amd64.whl.metadata (38 kB)
+Collecting gunicorn (from auth==0.5.3->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4134185.txt (line 1))
+  Obtaining dependency information for gunicorn from https://files.pythonhosted.org/packages/29/97/6d610ae77b5633d24b69c2ff1ac3044e0e565ecbd1ec188f02c45073054c/gunicorn-22.0.0-py3-none-any.whl.metadata
+  Downloading gunicorn-22.0.0-py3-none-any.whl.metadata (4.4 kB)
+Collecting mongoengine (from auth==0.5.3->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4134185.txt (line 1))
+  Obtaining dependency information for mongoengine from https://files.pythonhosted.org/packages/fd/43/b5c7e04fba26c546930933c3f24ebe57b07ebd2663c50a0abb4166aa6895/mongoengine-0.28.2-py3-none-any.whl.metadata
+  Downloading mongoengine-0.28.2-py3-none-any.whl.metadata (6.6 kB)
+Collecting requests (from auth==0.5.3->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4134185.txt (line 1))
+  Obtaining dependency information for requests from https://files.pythonhosted.org/packages/f9/9b/335f9764261e915ed497fcdeb11df5dfd6f7bf257d4a6a2a686d80da4d54/requests-2.32.3-py3-none-any.whl.metadata
+  Downloading requests-2.32.3-py3-none-any.whl.metadata (4.6 kB)
+Collecting werkzeug (from auth==0.5.3->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4134185.txt (line 1))
+  Obtaining dependency information for werkzeug from https://files.pythonhosted.org/packages/9d/6e/e792999e816d19d7fcbfa94c730936750036d65656a76a5a688b57a656c4/werkzeug-3.0.3-py3-none-any.whl.metadata
+  Downloading werkzeug-3.0.3-py3-none-any.whl.metadata (3.7 kB)
+Collecting dnspython>=1.15.0 (from eventlet->auth==0.5.3->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4134185.txt (line 1))
+  Obtaining dependency information for dnspython>=1.15.0 from https://files.pythonhosted.org/packages/87/a1/8c5287991ddb8d3e4662f71356d9656d91ab3a36618c3dd11b280df0d255/dnspython-2.6.1-py3-none-any.whl.metadata
+  Downloading dnspython-2.6.1-py3-none-any.whl.metadata (5.8 kB)
+Collecting greenlet>=1.0 (from eventlet->auth==0.5.3->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4134185.txt (line 1))
+  Obtaining dependency information for greenlet>=1.0 from https://files.pythonhosted.org/packages/53/80/3d94d5999b4179d91bcc93745d1b0815b073d61be79dd546b840d17adb18/greenlet-3.0.3-cp312-cp312-win_amd64.whl.metadata
+  Downloading greenlet-3.0.3-cp312-cp312-win_amd64.whl.metadata (3.9 kB)
+Collecting packaging (from gunicorn->auth==0.5.3->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4134185.txt (line 1))
+  Obtaining dependency information for packaging from https://files.pythonhosted.org/packages/08/aa/cc0199a5f0ad350994d660967a8efb233fe0416e4639146c089643407ce6/packaging-24.1-py3-none-any.whl.metadata
+  Downloading packaging-24.1-py3-none-any.whl.metadata (3.2 kB)
+Collecting pymongo<5.0,>=3.4 (from mongoengine->auth==0.5.3->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4134185.txt (line 1))
+  Obtaining dependency information for pymongo<5.0,>=3.4 from https://files.pythonhosted.org/packages/99/1c/f5108dc39450077556844abfd92b768c57775f85270fc0b1dc834ad18113/pymongo-4.8.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading pymongo-4.8.0-cp312-cp312-win_amd64.whl.metadata (22 kB)
+Collecting charset-normalizer<4,>=2 (from requests->auth==0.5.3->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4134185.txt (line 1))
+  Obtaining dependency information for charset-normalizer<4,>=2 from https://files.pythonhosted.org/packages/b6/7c/8debebb4f90174074b827c63242c23851bdf00a532489fba57fef3416e40/charset_normalizer-3.3.2-cp312-cp312-win_amd64.whl.metadata
+  Downloading charset_normalizer-3.3.2-cp312-cp312-win_amd64.whl.metadata (34 kB)
+Collecting idna<4,>=2.5 (from requests->auth==0.5.3->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4134185.txt (line 1))
+  Obtaining dependency information for idna<4,>=2.5 from https://files.pythonhosted.org/packages/e5/3e/741d8c82801c347547f8a2a06aa57dbb1992be9e948df2ea0eda2c8b79e8/idna-3.7-py3-none-any.whl.metadata
+  Downloading idna-3.7-py3-none-any.whl.metadata (9.9 kB)
+Collecting urllib3<3,>=1.21.1 (from requests->auth==0.5.3->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4134185.txt (line 1))
+  Obtaining dependency information for urllib3<3,>=1.21.1 from https://files.pythonhosted.org/packages/ca/1c/89ffc63a9605b583d5df2be791a27bc1a42b7c32bab68d3c8f2f73a98cd4/urllib3-2.2.2-py3-none-any.whl.metadata
+  Downloading urllib3-2.2.2-py3-none-any.whl.metadata (6.4 kB)
+Collecting certifi>=2017.4.17 (from requests->auth==0.5.3->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4134185.txt (line 1))
+  Obtaining dependency information for certifi>=2017.4.17 from https://files.pythonhosted.org/packages/1c/d5/c84e1a17bf61d4df64ca866a1c9a913874b4e9bdc131ec689a0ad013fb36/certifi-2024.7.4-py3-none-any.whl.metadata
+  Downloading certifi-2024.7.4-py3-none-any.whl.metadata (2.2 kB)
+Collecting MarkupSafe>=2.1.1 (from werkzeug->auth==0.5.3->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4134185.txt (line 1))
+  Obtaining dependency information for MarkupSafe>=2.1.1 from https://files.pythonhosted.org/packages/3f/14/c3554d512d5f9100a95e737502f4a2323a1959f6d0d01e0d0997b35f7b10/MarkupSafe-2.1.5-cp312-cp312-win_amd64.whl.metadata
+  Downloading MarkupSafe-2.1.5-cp312-cp312-win_amd64.whl.metadata (3.1 kB)
+Downloading auth-0.5.3-py3-none-any.whl (14 kB)
+Downloading boto-2.49.0-py2.py3-none-any.whl (1.4 MB)
+   ---------------------------------------- 1.4/1.4 MB 9.6 MB/s eta 0:00:00
+Downloading blinker-1.8.2-py3-none-any.whl (9.5 kB)
+Downloading eventlet-0.36.1-py3-none-any.whl (360 kB)
+   --------------------------------------- 360.5/360.5 kB 23.3 MB/s eta 0:00:00
+Downloading falcon-3.1.3-cp312-cp312-win_amd64.whl (1.9 MB)
+   ---------------------------------------- 1.9/1.9 MB 24.6 MB/s eta 0:00:00
+Downloading gunicorn-22.0.0-py3-none-any.whl (84 kB)
+   ---------------------------------------- 84.4/84.4 kB ? eta 0:00:00
+Downloading mongoengine-0.28.2-py3-none-any.whl (111 kB)
+   ---------------------------------------- 111.6/111.6 kB 6.3 MB/s eta 0:00:00
+Downloading requests-2.32.3-py3-none-any.whl (64 kB)
+   ---------------------------------------- 64.9/64.9 kB 1.8 MB/s eta 0:00:00
+Downloading werkzeug-3.0.3-py3-none-any.whl (227 kB)
+   --------------------------------------- 227.3/227.3 kB 13.6 MB/s eta 0:00:00
+Downloading certifi-2024.7.4-py3-none-any.whl (162 kB)
+   ---------------------------------------- 163.0/163.0 kB 9.5 MB/s eta 0:00:00
+Downloading charset_normalizer-3.3.2-cp312-cp312-win_amd64.whl (100 kB)
+   ---------------------------------------- 100.4/100.4 kB ? eta 0:00:00
+Downloading dnspython-2.6.1-py3-none-any.whl (307 kB)
+   --------------------------------------- 307.7/307.7 kB 18.6 MB/s eta 0:00:00
+Downloading greenlet-3.0.3-cp312-cp312-win_amd64.whl (293 kB)
+   --------------------------------------- 293.6/293.6 kB 17.7 MB/s eta 0:00:00
+Downloading idna-3.7-py3-none-any.whl (66 kB)
+   ---------------------------------------- 66.8/66.8 kB ? eta 0:00:00
+Downloading MarkupSafe-2.1.5-cp312-cp312-win_amd64.whl (17 kB)
+Downloading pymongo-4.8.0-cp312-cp312-win_amd64.whl (680 kB)
+   --------------------------------------- 680.4/680.4 kB 21.6 MB/s eta 0:00:00
+Downloading urllib3-2.2.2-py3-none-any.whl (121 kB)
+   ---------------------------------------- 121.4/121.4 kB 7.4 MB/s eta 0:00:00
+Downloading packaging-24.1-py3-none-any.whl (53 kB)
+   ---------------------------------------- 54.0/54.0 kB ? eta 0:00:00
+Would install MarkupSafe-2.1.5 Werkzeug-3.0.3 auth-0.5.3 blinker-1.8.2 boto-2.49.0 certifi-2024.7.4 charset-normalizer-3.3.2 dnspython-2.6.1 eventlet-0.36.1 falcon-3.1.3 greenlet-3.0.3 gunicorn-22.0.0 idna-3.7 mongoengine-0.28.2 packaging-24.1 pymongo-4.8.0 requests-2.32.3 urllib3-2.2.2
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

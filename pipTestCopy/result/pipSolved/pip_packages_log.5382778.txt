@@ -1,0 +1,8 @@
+cffi-1.16.0
+darr-0.5.5
+numpy-2.0.0
+packaging-24.1
+pycparser-2.22
+scene-0.0.1
+sound-0.1.0
+soundfile-0.12.1

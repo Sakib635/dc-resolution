@@ -1,4 +1,0 @@
-grpcio-1.64.1
-protobuf-3.6.1
-setuptools-70.3.0
-six-1.16.0

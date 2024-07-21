@@ -1,0 +1,22 @@
+Collecting readability_lxml==0.8.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.477a9dcd198439ef2def.txt (line 1))
+  Obtaining dependency information for readability_lxml==0.8.1 from https://files.pythonhosted.org/packages/39/a6/cfe22aaa19ac69b97d127043a76a5bbcb0ef24f3a0b22793c46608190caa/readability_lxml-0.8.1-py3-none-any.whl.metadata
+  Downloading readability_lxml-0.8.1-py3-none-any.whl.metadata (3.6 kB)
+Collecting chardet (from readability_lxml==0.8.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.477a9dcd198439ef2def.txt (line 1))
+  Obtaining dependency information for chardet from https://files.pythonhosted.org/packages/38/6f/f5fbc992a329ee4e0f288c1fe0e2ad9485ed064cac731ed2fe47dcc38cbf/chardet-5.2.0-py3-none-any.whl.metadata
+  Downloading chardet-5.2.0-py3-none-any.whl.metadata (3.4 kB)
+Collecting lxml (from readability_lxml==0.8.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.477a9dcd198439ef2def.txt (line 1))
+  Obtaining dependency information for lxml from https://files.pythonhosted.org/packages/58/16/99b03974974537c8c786fb98183d7c213ceb16e71205174a29ae869ca988/lxml-5.2.2-cp312-cp312-win_amd64.whl.metadata
+  Downloading lxml-5.2.2-cp312-cp312-win_amd64.whl.metadata (3.5 kB)
+Collecting cssselect (from readability_lxml==0.8.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.477a9dcd198439ef2def.txt (line 1))
+  Obtaining dependency information for cssselect from https://files.pythonhosted.org/packages/06/a9/2da08717a6862c48f1d61ef957a7bba171e7eefa6c0aa0ceb96a140c2a6b/cssselect-1.2.0-py2.py3-none-any.whl.metadata
+  Downloading cssselect-1.2.0-py2.py3-none-any.whl.metadata (2.2 kB)
+Downloading readability_lxml-0.8.1-py3-none-any.whl (20 kB)
+Downloading chardet-5.2.0-py3-none-any.whl (199 kB)
+   ---------------------------------------- 199.4/199.4 kB 3.1 MB/s eta 0:00:00
+Downloading cssselect-1.2.0-py2.py3-none-any.whl (18 kB)
+Downloading lxml-5.2.2-cp312-cp312-win_amd64.whl (3.8 MB)
+   ---------------------------------------- 3.8/3.8 MB 11.6 MB/s eta 0:00:00
+Would install chardet-5.2.0 cssselect-1.2.0 lxml-5.2.2 readability-lxml-0.8.1
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

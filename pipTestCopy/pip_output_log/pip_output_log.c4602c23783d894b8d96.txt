@@ -1,0 +1,76 @@
+Collecting lxml==4.6.2 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.c4602c23783d894b8d96.txt (line 1))
+  Downloading lxml-4.6.2.tar.gz (3.2 MB)
+     ---------------------------------------- 3.2/3.2 MB 9.2 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting pycryptodome==3.9.9 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.c4602c23783d894b8d96.txt (line 2))
+  Downloading pycryptodome-3.9.9.tar.gz (15.5 MB)
+     --------------------------------------- 15.5/15.5 MB 18.7 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'error'
+  error: subprocess-exited-with-error
+  
+  Getting requirements to build wheel did not run successfully.
+  exit code: 1
+  
+  [40 lines of output]
+  Testing support for clang
+  Traceback (most recent call last):
+    File "D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 353, in <module>
+      main()
+    File "D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 335, in main
+      json_out['return_val'] = hook(**hook_input['kwargs'])
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 118, in get_requires_for_build_wheel
+      return hook(config_settings)
+             ^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-9m_qo4kj\overlay\Lib\site-packages\setuptools\build_meta.py", line 327, in get_requires_for_build_wheel
+      return self._get_build_requires(config_settings, requirements=[])
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-9m_qo4kj\overlay\Lib\site-packages\setuptools\build_meta.py", line 297, in _get_build_requires
+      self.run_setup()
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-9m_qo4kj\overlay\Lib\site-packages\setuptools\build_meta.py", line 497, in run_setup
+      super().run_setup(setup_script=setup_script)
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-9m_qo4kj\overlay\Lib\site-packages\setuptools\build_meta.py", line 313, in run_setup
+      exec(code, locals())
+    File "<string>", line 457, in <module>
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-install-f4e5vt_s\pycryptodome_298340d06aba46a09f5c8a3e4b2b4e0d\compiler_opt.py", line 341, in set_compiler_options
+      clang = compiler_is_clang()
+              ^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-install-f4e5vt_s\pycryptodome_298340d06aba46a09f5c8a3e4b2b4e0d\compiler_opt.py", line 251, in compiler_is_clang
+      return test_compilation(source, msg="clang")
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-install-f4e5vt_s\pycryptodome_298340d06aba46a09f5c8a3e4b2b4e0d\compiler_opt.py", line 82, in test_compilation
+      objects = compiler.compile([fname], extra_postargs=extra_cc_options)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-9m_qo4kj\overlay\Lib\site-packages\setuptools\_distutils\_msvccompiler.py", line 343, in compile
+      self.initialize()
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-9m_qo4kj\overlay\Lib\site-packages\setuptools\_distutils\_msvccompiler.py", line 253, in initialize
+      vc_env = _get_vc_env(plat_spec)
+               ^^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-9m_qo4kj\overlay\Lib\site-packages\setuptools\msvc.py", line 233, in msvc14_get_vc_env
+      return _msvc14_get_vc_env(plat_spec)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-9m_qo4kj\overlay\Lib\site-packages\setuptools\msvc.py", line 190, in _msvc14_get_vc_env
+      raise distutils.errors.DistutilsPlatformError("Unable to find vcvarsall.bat")
+  distutils.errors.DistutilsPlatformError: Microsoft Visual C++ 14.0 or greater is required. Get it with "Microsoft C++ Build Tools": https://visualstudio.microsoft.com/visual-cpp-build-tools/
+  [end of output]
+  
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+error: subprocess-exited-with-error
+
+Getting requirements to build wheel did not run successfully.
+exit code: 1
+
+See above for output.
+
+note: This error originates from a subprocess, and is likely not a problem with pip.
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

@@ -1,0 +1,8 @@
+Collecting packages==0.1.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.e93532d5e7ddf0ec56c336499165c4dc.txt (line 1))
+  Obtaining dependency information for packages==0.1.0 from https://files.pythonhosted.org/packages/eb/57/62bb00f35c704756319c1debd06bb94e9771e946c10930f3c27aa0884990/packages-0.1.0-py3-none-any.whl.metadata
+  Downloading packages-0.1.0-py3-none-any.whl.metadata (240 bytes)
+Downloading packages-0.1.0-py3-none-any.whl (1.0 kB)
+Would install packages-0.1.0
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

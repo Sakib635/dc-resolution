@@ -1,0 +1,30 @@
+Collecting keras==2.4.3 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.f8b86d001a367aa7dde1ab6b587246b5.txt (line 1))
+  Obtaining dependency information for keras==2.4.3 from https://files.pythonhosted.org/packages/44/e1/dc0757b20b56c980b5553c1b5c4c32d378c7055ab7bfa92006801ad359ab/Keras-2.4.3-py2.py3-none-any.whl.metadata
+  Downloading Keras-2.4.3-py2.py3-none-any.whl.metadata (1.5 kB)
+Collecting numpy>=1.9.1 (from keras==2.4.3->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.f8b86d001a367aa7dde1ab6b587246b5.txt (line 1))
+  Obtaining dependency information for numpy>=1.9.1 from https://files.pythonhosted.org/packages/ad/9c/4a93b8e395b755c53628573d75d7b21985d9a0f416e978d637084ccc8ec3/numpy-2.0.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading numpy-2.0.0-cp312-cp312-win_amd64.whl.metadata (60 kB)
+     -------------------------------------- 60.9/60.9 kB 405.3 kB/s eta 0:00:00
+Collecting scipy>=0.14 (from keras==2.4.3->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.f8b86d001a367aa7dde1ab6b587246b5.txt (line 1))
+  Obtaining dependency information for scipy>=0.14 from https://files.pythonhosted.org/packages/3f/72/305686527c68f33f1dd3ebdd28f53340d372b2f9e44dccaf6f92e17739d3/scipy-1.14.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading scipy-1.14.0-cp312-cp312-win_amd64.whl.metadata (60 kB)
+     ---------------------------------------- 60.8/60.8 kB 1.6 MB/s eta 0:00:00
+Collecting pyyaml (from keras==2.4.3->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.f8b86d001a367aa7dde1ab6b587246b5.txt (line 1))
+  Obtaining dependency information for pyyaml from https://files.pythonhosted.org/packages/2b/9f/fbade56564ad486809c27b322d0f7e6a89c01f6b4fe208402e90d4443a99/PyYAML-6.0.1-cp312-cp312-win_amd64.whl.metadata
+  Downloading PyYAML-6.0.1-cp312-cp312-win_amd64.whl.metadata (2.1 kB)
+Collecting h5py (from keras==2.4.3->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.f8b86d001a367aa7dde1ab6b587246b5.txt (line 1))
+  Obtaining dependency information for h5py from https://files.pythonhosted.org/packages/2b/b2/0ee327933ffa37af1fc7915df7fc067e6009adcd8445d55ad07a9bec11b5/h5py-3.11.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading h5py-3.11.0-cp312-cp312-win_amd64.whl.metadata (2.5 kB)
+Downloading Keras-2.4.3-py2.py3-none-any.whl (36 kB)
+Downloading numpy-2.0.0-cp312-cp312-win_amd64.whl (16.2 MB)
+   ---------------------------------------- 16.2/16.2 MB 18.7 MB/s eta 0:00:00
+Downloading scipy-1.14.0-cp312-cp312-win_amd64.whl (44.5 MB)
+   ---------------------------------------- 44.5/44.5 MB 9.9 MB/s eta 0:00:00
+Downloading h5py-3.11.0-cp312-cp312-win_amd64.whl (3.0 MB)
+   ---------------------------------------- 3.0/3.0 MB 26.9 MB/s eta 0:00:00
+Downloading PyYAML-6.0.1-cp312-cp312-win_amd64.whl (138 kB)
+   ---------------------------------------- 138.7/138.7 kB ? eta 0:00:00
+Would install Keras-2.4.3 PyYAML-6.0.1 h5py-3.11.0 numpy-2.0.0 scipy-1.14.0
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

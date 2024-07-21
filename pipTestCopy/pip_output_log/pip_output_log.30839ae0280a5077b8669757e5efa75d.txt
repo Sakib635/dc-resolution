@@ -1,0 +1,40 @@
+Collecting sound==0.1.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.30839ae0280a5077b8669757e5efa75d.txt (line 1))
+  Obtaining dependency information for sound==0.1.0 from https://files.pythonhosted.org/packages/aa/11/74d2f6f62b1aea1c373b9c51c8bd7abf824e7438e3882388c0eed912dab7/sound-0.1.0-py3-none-any.whl.metadata
+  Downloading sound-0.1.0-py3-none-any.whl.metadata (1.1 kB)
+Collecting soundfile (from sound==0.1.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.30839ae0280a5077b8669757e5efa75d.txt (line 1))
+  Obtaining dependency information for soundfile from https://files.pythonhosted.org/packages/50/ff/26a4ee48d0b66625a4e4028a055b9f25bc9d7c7b2d17d21a45137621a50d/soundfile-0.12.1-py2.py3-none-win_amd64.whl.metadata
+  Downloading soundfile-0.12.1-py2.py3-none-win_amd64.whl.metadata (14 kB)
+Collecting darr (from sound==0.1.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.30839ae0280a5077b8669757e5efa75d.txt (line 1))
+  Obtaining dependency information for darr from https://files.pythonhosted.org/packages/31/43/0692b27b09b1e921b8774fbd19a41e1d2f73b783a64492cc44b332b643df/darr-0.5.5-py3-none-any.whl.metadata
+  Downloading darr-0.5.5-py3-none-any.whl.metadata (7.1 kB)
+Collecting numpy (from darr->sound==0.1.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.30839ae0280a5077b8669757e5efa75d.txt (line 1))
+  Obtaining dependency information for numpy from https://files.pythonhosted.org/packages/ad/9c/4a93b8e395b755c53628573d75d7b21985d9a0f416e978d637084ccc8ec3/numpy-2.0.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading numpy-2.0.0-cp312-cp312-win_amd64.whl.metadata (60 kB)
+     -------------------------------------- 60.9/60.9 kB 817.1 kB/s eta 0:00:00
+Collecting packaging (from darr->sound==0.1.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.30839ae0280a5077b8669757e5efa75d.txt (line 1))
+  Obtaining dependency information for packaging from https://files.pythonhosted.org/packages/08/aa/cc0199a5f0ad350994d660967a8efb233fe0416e4639146c089643407ce6/packaging-24.1-py3-none-any.whl.metadata
+  Downloading packaging-24.1-py3-none-any.whl.metadata (3.2 kB)
+Collecting cffi>=1.0 (from soundfile->sound==0.1.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.30839ae0280a5077b8669757e5efa75d.txt (line 1))
+  Obtaining dependency information for cffi>=1.0 from https://files.pythonhosted.org/packages/e9/63/e285470a4880a4f36edabe4810057bd4b562c6ddcc165eacf9c3c7210b40/cffi-1.16.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading cffi-1.16.0-cp312-cp312-win_amd64.whl.metadata (1.5 kB)
+Collecting pycparser (from cffi>=1.0->soundfile->sound==0.1.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.30839ae0280a5077b8669757e5efa75d.txt (line 1))
+  Obtaining dependency information for pycparser from https://files.pythonhosted.org/packages/13/a3/a812df4e2dd5696d1f351d58b8fe16a405b234ad2886a0dab9183fb78109/pycparser-2.22-py3-none-any.whl.metadata
+  Downloading pycparser-2.22-py3-none-any.whl.metadata (943 bytes)
+Downloading sound-0.1.0-py3-none-any.whl (43 kB)
+   ---------------------------------------- 43.8/43.8 kB 2.1 MB/s eta 0:00:00
+Downloading darr-0.5.5-py3-none-any.whl (55 kB)
+   ---------------------------------------- 55.5/55.5 kB 3.0 MB/s eta 0:00:00
+Downloading soundfile-0.12.1-py2.py3-none-win_amd64.whl (1.0 MB)
+   ---------------------------------------- 1.0/1.0 MB 4.6 MB/s eta 0:00:00
+Downloading cffi-1.16.0-cp312-cp312-win_amd64.whl (181 kB)
+   ---------------------------------------- 182.0/182.0 kB 3.7 MB/s eta 0:00:00
+Downloading numpy-2.0.0-cp312-cp312-win_amd64.whl (16.2 MB)
+   ---------------------------------------- 16.2/16.2 MB 7.4 MB/s eta 0:00:00
+Downloading packaging-24.1-py3-none-any.whl (53 kB)
+   ---------------------------------------- 54.0/54.0 kB 2.9 MB/s eta 0:00:00
+Downloading pycparser-2.22-py3-none-any.whl (117 kB)
+   ---------------------------------------- 117.6/117.6 kB ? eta 0:00:00
+Would install cffi-1.16.0 darr-0.5.5 numpy-2.0.0 packaging-24.1 pycparser-2.22 sound-0.1.0 soundfile-0.12.1
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

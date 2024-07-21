@@ -1,0 +1,22 @@
+Collecting pytz==2020.5 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.5420652.txt (line 1))
+  Obtaining dependency information for pytz==2020.5 from https://files.pythonhosted.org/packages/89/06/2c2d3034b4d6bf22f2a4ae546d16925898658a33b4400cfb7e2c1e2871a3/pytz-2020.5-py2.py3-none-any.whl.metadata
+  Downloading pytz-2020.5-py2.py3-none-any.whl.metadata (21 kB)
+Collecting M2Crypto==0.37.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.5420652.txt (line 2))
+  Downloading M2Crypto-0.37.1.tar.gz (1.2 MB)
+     ---------------------------------------- 1.2/1.2 MB 7.9 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting parameterized (from M2Crypto==0.37.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.5420652.txt (line 2))
+  Obtaining dependency information for parameterized from https://files.pythonhosted.org/packages/00/2f/804f58f0b856ab3bf21617cccf5b39206e6c4c94c2cd227bde125ea6105f/parameterized-0.9.0-py2.py3-none-any.whl.metadata
+  Downloading parameterized-0.9.0-py2.py3-none-any.whl.metadata (18 kB)
+Downloading pytz-2020.5-py2.py3-none-any.whl (510 kB)
+   --------------------------------------- 510.8/510.8 kB 16.1 MB/s eta 0:00:00
+Downloading parameterized-0.9.0-py2.py3-none-any.whl (20 kB)
+Would install M2Crypto-0.37.1 parameterized-0.9.0 pytz-2020.5
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

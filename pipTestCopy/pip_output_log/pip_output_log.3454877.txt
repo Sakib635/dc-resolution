@@ -1,0 +1,154 @@
+Collecting buildbot==2.10.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3454877.txt (line 1))
+  Obtaining dependency information for buildbot==2.10.0 from https://files.pythonhosted.org/packages/c9/e4/3a1c6f3c524a5b23d1f65f44292296f1afb6ca5aef1b174fd8bb2e264143/buildbot-2.10.0-py3-none-any.whl.metadata
+  Downloading buildbot-2.10.0-py3-none-any.whl.metadata (6.5 kB)
+Collecting Twisted==20.3.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3454877.txt (line 2))
+  Downloading Twisted-20.3.0.tar.bz2 (3.1 MB)
+     ---------------------------------------- 3.1/3.1 MB 12.5 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Installing backend dependencies: started
+  Installing backend dependencies: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting setuptools>=8.0 (from buildbot==2.10.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3454877.txt (line 1))
+  Obtaining dependency information for setuptools>=8.0 from https://files.pythonhosted.org/packages/01/82/a2c6c0a1612c89bdb21dc4d9196ba9e7dcbc2e285afda93ebdf663ba2ada/setuptools-71.0.0-py3-none-any.whl.metadata
+  Using cached setuptools-71.0.0-py3-none-any.whl.metadata (6.5 kB)
+Collecting Jinja2>=2.1 (from buildbot==2.10.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3454877.txt (line 1))
+  Obtaining dependency information for Jinja2>=2.1 from https://files.pythonhosted.org/packages/31/80/3a54838c3fb461f6fec263ebf3a3a41771bd05190238de3486aae8540c36/jinja2-3.1.4-py3-none-any.whl.metadata
+  Downloading jinja2-3.1.4-py3-none-any.whl.metadata (2.6 kB)
+Collecting zope.interface>=4.1.1 (from buildbot==2.10.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3454877.txt (line 1))
+  Obtaining dependency information for zope.interface>=4.1.1 from https://files.pythonhosted.org/packages/19/68/4a5bb890be19a934878b68acab8b09e93d34613cccb576026016bffb5de5/zope.interface-6.4.post2-cp312-cp312-win_amd64.whl.metadata
+  Downloading zope.interface-6.4.post2-cp312-cp312-win_amd64.whl.metadata (44 kB)
+     ---------------------------------------- 44.1/44.1 kB 2.3 MB/s eta 0:00:00
+Collecting sqlalchemy>=1.2.0 (from buildbot==2.10.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3454877.txt (line 1))
+  Obtaining dependency information for sqlalchemy>=1.2.0 from https://files.pythonhosted.org/packages/d0/ff/5746886a796799d45285573c8a6564b4b84c730142ab974d7a3f7bacee6c/SQLAlchemy-2.0.31-cp312-cp312-win_amd64.whl.metadata
+  Downloading SQLAlchemy-2.0.31-cp312-cp312-win_amd64.whl.metadata (9.9 kB)
+Collecting sqlalchemy-migrate>=0.13 (from buildbot==2.10.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3454877.txt (line 1))
+  Obtaining dependency information for sqlalchemy-migrate>=0.13 from https://files.pythonhosted.org/packages/1a/ba/0725bf5f54d0c5ed7c1da025215f288fb68ef4cc4966abfb76c1926ee0af/sqlalchemy_migrate-0.13.0-py2.py3-none-any.whl.metadata
+  Downloading sqlalchemy_migrate-0.13.0-py2.py3-none-any.whl.metadata (2.7 kB)
+Collecting python-dateutil>=1.5 (from buildbot==2.10.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3454877.txt (line 1))
+  Obtaining dependency information for python-dateutil>=1.5 from https://files.pythonhosted.org/packages/ec/57/56b9bcc3c9c6a792fcbaf139543cee77261f3651ca9da0c93f5c1221264b/python_dateutil-2.9.0.post0-py2.py3-none-any.whl.metadata
+  Downloading python_dateutil-2.9.0.post0-py2.py3-none-any.whl.metadata (8.4 kB)
+Collecting txaio>=2.2.2 (from buildbot==2.10.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3454877.txt (line 1))
+  Obtaining dependency information for txaio>=2.2.2 from https://files.pythonhosted.org/packages/7d/6c/a53cc9a97c2da76d9cd83c03f377468599a28f2d4ad9fc71c3b99640e71e/txaio-23.1.1-py2.py3-none-any.whl.metadata
+  Downloading txaio-23.1.1-py2.py3-none-any.whl.metadata (5.4 kB)
+Collecting autobahn>=0.16.0 (from buildbot==2.10.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3454877.txt (line 1))
+  Downloading autobahn-23.6.2.tar.gz (480 kB)
+     ------------------------------------- 480.8/480.8 kB 31.4 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting PyJWT (from buildbot==2.10.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3454877.txt (line 1))
+  Obtaining dependency information for PyJWT from https://files.pythonhosted.org/packages/2b/4f/e04a8067c7c96c364cef7ef73906504e2f40d690811c021e1a1901473a19/PyJWT-2.8.0-py3-none-any.whl.metadata
+  Downloading PyJWT-2.8.0-py3-none-any.whl.metadata (4.2 kB)
+Collecting pyyaml (from buildbot==2.10.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3454877.txt (line 1))
+  Obtaining dependency information for pyyaml from https://files.pythonhosted.org/packages/2b/9f/fbade56564ad486809c27b322d0f7e6a89c01f6b4fe208402e90d4443a99/PyYAML-6.0.1-cp312-cp312-win_amd64.whl.metadata
+  Downloading PyYAML-6.0.1-cp312-cp312-win_amd64.whl.metadata (2.1 kB)
+Collecting constantly>=15.1 (from Twisted==20.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3454877.txt (line 2))
+  Obtaining dependency information for constantly>=15.1 from https://files.pythonhosted.org/packages/b8/40/c199d095151addf69efdb4b9ca3a4f20f70e20508d6222bffb9b76f58573/constantly-23.10.4-py3-none-any.whl.metadata
+  Downloading constantly-23.10.4-py3-none-any.whl.metadata (1.8 kB)
+Collecting incremental>=16.10.1 (from Twisted==20.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3454877.txt (line 2))
+  Obtaining dependency information for incremental>=16.10.1 from https://files.pythonhosted.org/packages/77/51/8073577012492fcd15628e811db585f447c500fa407e944ab3a18ec55fb7/incremental-22.10.0-py2.py3-none-any.whl.metadata
+  Using cached incremental-22.10.0-py2.py3-none-any.whl.metadata (6.0 kB)
+Collecting Automat>=0.3.0 (from Twisted==20.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3454877.txt (line 2))
+  Obtaining dependency information for Automat>=0.3.0 from https://files.pythonhosted.org/packages/29/90/64aabce6c1b820395452cc5472b8f11cd98320f40941795b8069aef4e0e0/Automat-22.10.0-py2.py3-none-any.whl.metadata
+  Downloading Automat-22.10.0-py2.py3-none-any.whl.metadata (1.0 kB)
+Collecting hyperlink>=17.1.1 (from Twisted==20.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3454877.txt (line 2))
+  Obtaining dependency information for hyperlink>=17.1.1 from https://files.pythonhosted.org/packages/6e/aa/8caf6a0a3e62863cbb9dab27135660acba46903b703e224f14f447e57934/hyperlink-21.0.0-py2.py3-none-any.whl.metadata
+  Downloading hyperlink-21.0.0-py2.py3-none-any.whl.metadata (1.5 kB)
+Collecting PyHamcrest!=1.10.0,>=1.9.0 (from Twisted==20.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3454877.txt (line 2))
+  Obtaining dependency information for PyHamcrest!=1.10.0,>=1.9.0 from https://files.pythonhosted.org/packages/0c/71/1b25d3797a24add00f6f8c1bb0ac03a38616e2ec6606f598c1d50b0b0ffb/pyhamcrest-2.1.0-py3-none-any.whl.metadata
+  Downloading pyhamcrest-2.1.0-py3-none-any.whl.metadata (15 kB)
+Collecting attrs>=19.2.0 (from Twisted==20.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3454877.txt (line 2))
+  Obtaining dependency information for attrs>=19.2.0 from https://files.pythonhosted.org/packages/e0/44/827b2a91a5816512fcaf3cc4ebc465ccd5d598c45cefa6703fcf4a79018f/attrs-23.2.0-py3-none-any.whl.metadata
+  Downloading attrs-23.2.0-py3-none-any.whl.metadata (9.5 kB)
+Collecting cryptography>=3.4.6 (from autobahn>=0.16.0->buildbot==2.10.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3454877.txt (line 1))
+  Obtaining dependency information for cryptography>=3.4.6 from https://files.pythonhosted.org/packages/a2/7b/b0d330852dd5953daee6b15f742f15d9f18e9c0154eb4cfcc8718f0436da/cryptography-42.0.8-cp39-abi3-win_amd64.whl.metadata
+  Downloading cryptography-42.0.8-cp39-abi3-win_amd64.whl.metadata (5.4 kB)
+Collecting six (from Automat>=0.3.0->Twisted==20.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3454877.txt (line 2))
+  Obtaining dependency information for six from https://files.pythonhosted.org/packages/d9/5a/e7c31adbe875f2abbb91bd84cf2dc52d792b5a01506781dbcf25c91daf11/six-1.16.0-py2.py3-none-any.whl.metadata
+  Downloading six-1.16.0-py2.py3-none-any.whl.metadata (1.8 kB)
+Collecting idna>=2.5 (from hyperlink>=17.1.1->Twisted==20.3.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3454877.txt (line 2))
+  Obtaining dependency information for idna>=2.5 from https://files.pythonhosted.org/packages/e5/3e/741d8c82801c347547f8a2a06aa57dbb1992be9e948df2ea0eda2c8b79e8/idna-3.7-py3-none-any.whl.metadata
+  Downloading idna-3.7-py3-none-any.whl.metadata (9.9 kB)
+Collecting MarkupSafe>=2.0 (from Jinja2>=2.1->buildbot==2.10.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3454877.txt (line 1))
+  Obtaining dependency information for MarkupSafe>=2.0 from https://files.pythonhosted.org/packages/3f/14/c3554d512d5f9100a95e737502f4a2323a1959f6d0d01e0d0997b35f7b10/MarkupSafe-2.1.5-cp312-cp312-win_amd64.whl.metadata
+  Downloading MarkupSafe-2.1.5-cp312-cp312-win_amd64.whl.metadata (3.1 kB)
+Collecting typing-extensions>=4.6.0 (from sqlalchemy>=1.2.0->buildbot==2.10.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3454877.txt (line 1))
+  Obtaining dependency information for typing-extensions>=4.6.0 from https://files.pythonhosted.org/packages/26/9f/ad63fc0248c5379346306f8668cda6e2e2e9c95e01216d2b8ffd9ff037d0/typing_extensions-4.12.2-py3-none-any.whl.metadata
+  Downloading typing_extensions-4.12.2-py3-none-any.whl.metadata (3.0 kB)
+Collecting greenlet!=0.4.17 (from sqlalchemy>=1.2.0->buildbot==2.10.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3454877.txt (line 1))
+  Obtaining dependency information for greenlet!=0.4.17 from https://files.pythonhosted.org/packages/53/80/3d94d5999b4179d91bcc93745d1b0815b073d61be79dd546b840d17adb18/greenlet-3.0.3-cp312-cp312-win_amd64.whl.metadata
+  Downloading greenlet-3.0.3-cp312-cp312-win_amd64.whl.metadata (3.9 kB)
+Collecting pbr>=1.8 (from sqlalchemy-migrate>=0.13->buildbot==2.10.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3454877.txt (line 1))
+  Obtaining dependency information for pbr>=1.8 from https://files.pythonhosted.org/packages/64/dd/171c9fb653591cf265bcc89c436eec75c9bde3dec921cc236fa71e5698df/pbr-6.0.0-py2.py3-none-any.whl.metadata
+  Downloading pbr-6.0.0-py2.py3-none-any.whl.metadata (1.3 kB)
+Collecting decorator (from sqlalchemy-migrate>=0.13->buildbot==2.10.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3454877.txt (line 1))
+  Obtaining dependency information for decorator from https://files.pythonhosted.org/packages/d5/50/83c593b07763e1161326b3b8c6686f0f4b0f24d5526546bee538c89837d6/decorator-5.1.1-py3-none-any.whl.metadata
+  Downloading decorator-5.1.1-py3-none-any.whl.metadata (4.0 kB)
+Collecting sqlparse (from sqlalchemy-migrate>=0.13->buildbot==2.10.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3454877.txt (line 1))
+  Obtaining dependency information for sqlparse from https://files.pythonhosted.org/packages/5d/a5/b2860373aa8de1e626b2bdfdd6df4355f0565b47e51f7d0c54fe70faf8fe/sqlparse-0.5.1-py3-none-any.whl.metadata
+  Downloading sqlparse-0.5.1-py3-none-any.whl.metadata (3.9 kB)
+Collecting Tempita>=0.4 (from sqlalchemy-migrate>=0.13->buildbot==2.10.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3454877.txt (line 1))
+  Obtaining dependency information for Tempita>=0.4 from https://files.pythonhosted.org/packages/46/5b/2ad80b580134a160e84b9aac0d136df3d77d5ccd45cd349f6146d41cee76/Tempita-0.5.2-py3-none-any.whl.metadata
+  Downloading Tempita-0.5.2-py3-none-any.whl.metadata (1.0 kB)
+Collecting cffi>=1.12 (from cryptography>=3.4.6->autobahn>=0.16.0->buildbot==2.10.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3454877.txt (line 1))
+  Obtaining dependency information for cffi>=1.12 from https://files.pythonhosted.org/packages/e9/63/e285470a4880a4f36edabe4810057bd4b562c6ddcc165eacf9c3c7210b40/cffi-1.16.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading cffi-1.16.0-cp312-cp312-win_amd64.whl.metadata (1.5 kB)
+Collecting pycparser (from cffi>=1.12->cryptography>=3.4.6->autobahn>=0.16.0->buildbot==2.10.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3454877.txt (line 1))
+  Obtaining dependency information for pycparser from https://files.pythonhosted.org/packages/13/a3/a812df4e2dd5696d1f351d58b8fe16a405b234ad2886a0dab9183fb78109/pycparser-2.22-py3-none-any.whl.metadata
+  Downloading pycparser-2.22-py3-none-any.whl.metadata (943 bytes)
+Downloading buildbot-2.10.0-py3-none-any.whl (879 kB)
+   ---------------------------------------- 879.4/879.4 kB 4.0 MB/s eta 0:00:00
+Downloading attrs-23.2.0-py3-none-any.whl (60 kB)
+   ---------------------------------------- 60.8/60.8 kB ? eta 0:00:00
+Downloading Automat-22.10.0-py2.py3-none-any.whl (26 kB)
+Downloading constantly-23.10.4-py3-none-any.whl (13 kB)
+Downloading hyperlink-21.0.0-py2.py3-none-any.whl (74 kB)
+   ---------------------------------------- 74.6/74.6 kB 4.0 MB/s eta 0:00:00
+Using cached incremental-22.10.0-py2.py3-none-any.whl (16 kB)
+Downloading jinja2-3.1.4-py3-none-any.whl (133 kB)
+   ---------------------------------------- 133.3/133.3 kB 8.2 MB/s eta 0:00:00
+Downloading pyhamcrest-2.1.0-py3-none-any.whl (54 kB)
+   ---------------------------------------- 54.6/54.6 kB 2.8 MB/s eta 0:00:00
+Downloading python_dateutil-2.9.0.post0-py2.py3-none-any.whl (229 kB)
+   --------------------------------------- 229.9/229.9 kB 13.7 MB/s eta 0:00:00
+Using cached setuptools-71.0.0-py3-none-any.whl (908 kB)
+Downloading SQLAlchemy-2.0.31-cp312-cp312-win_amd64.whl (2.1 MB)
+   ---------------------------------------- 2.1/2.1 MB 18.8 MB/s eta 0:00:00
+Downloading sqlalchemy_migrate-0.13.0-py2.py3-none-any.whl (109 kB)
+   ---------------------------------------- 109.1/109.1 kB 6.6 MB/s eta 0:00:00
+Downloading txaio-23.1.1-py2.py3-none-any.whl (30 kB)
+Downloading zope.interface-6.4.post2-cp312-cp312-win_amd64.whl (206 kB)
+   --------------------------------------- 206.5/206.5 kB 12.3 MB/s eta 0:00:00
+Downloading PyJWT-2.8.0-py3-none-any.whl (22 kB)
+Downloading PyYAML-6.0.1-cp312-cp312-win_amd64.whl (138 kB)
+   ---------------------------------------- 138.7/138.7 kB 8.0 MB/s eta 0:00:00
+Downloading cryptography-42.0.8-cp39-abi3-win_amd64.whl (2.9 MB)
+   ---------------------------------------- 2.9/2.9 MB 30.6 MB/s eta 0:00:00
+Downloading greenlet-3.0.3-cp312-cp312-win_amd64.whl (293 kB)
+   --------------------------------------- 293.6/293.6 kB 17.7 MB/s eta 0:00:00
+Downloading idna-3.7-py3-none-any.whl (66 kB)
+   ---------------------------------------- 66.8/66.8 kB ? eta 0:00:00
+Downloading MarkupSafe-2.1.5-cp312-cp312-win_amd64.whl (17 kB)
+Downloading pbr-6.0.0-py2.py3-none-any.whl (107 kB)
+   ---------------------------------------- 107.5/107.5 kB ? eta 0:00:00
+Downloading six-1.16.0-py2.py3-none-any.whl (11 kB)
+Downloading Tempita-0.5.2-py3-none-any.whl (12 kB)
+Downloading typing_extensions-4.12.2-py3-none-any.whl (37 kB)
+Downloading decorator-5.1.1-py3-none-any.whl (9.1 kB)
+Downloading sqlparse-0.5.1-py3-none-any.whl (44 kB)
+   ---------------------------------------- 44.2/44.2 kB 2.1 MB/s eta 0:00:00
+Downloading cffi-1.16.0-cp312-cp312-win_amd64.whl (181 kB)
+   --------------------------------------- 182.0/182.0 kB 10.7 MB/s eta 0:00:00
+Downloading pycparser-2.22-py3-none-any.whl (117 kB)
+   ---------------------------------------- 117.6/117.6 kB ? eta 0:00:00
+Would install Automat-22.10.0 Jinja2-3.1.4 MarkupSafe-2.1.5 PyHamcrest-2.1.0 PyJWT-2.8.0 PyYAML-6.0.1 SQLAlchemy-2.0.31 Tempita-0.5.2 Twisted-20.3.0 attrs-23.2.0 autobahn-23.6.2 buildbot-2.10.0 cffi-1.16.0 constantly-23.10.4 cryptography-42.0.8 decorator-5.1.1 greenlet-3.0.3 hyperlink-21.0.0 idna-3.7 incremental-22.10.0 pbr-6.0.0 pycparser-2.22 python-dateutil-2.9.0.post0 setuptools-71.0.0 six-1.16.0 sqlalchemy-migrate-0.13.0 sqlparse-0.5.1 txaio-23.1.1 typing_extensions-4.12.2 zope.interface-6.4.post2
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

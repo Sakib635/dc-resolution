@@ -1,0 +1,8 @@
+Collecting gobject==0.1.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.51686.txt (line 1))
+  Obtaining dependency information for gobject==0.1.0 from https://files.pythonhosted.org/packages/35/69/9148b849a9e54297e31eac6ce5fa61d8e82921cd990bbda9dfb6be7a5f84/gobject-0.1.0-py3-none-any.whl.metadata
+  Downloading gobject-0.1.0-py3-none-any.whl.metadata (775 bytes)
+Downloading gobject-0.1.0-py3-none-any.whl (5.9 kB)
+Would install gobject-0.1.0
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

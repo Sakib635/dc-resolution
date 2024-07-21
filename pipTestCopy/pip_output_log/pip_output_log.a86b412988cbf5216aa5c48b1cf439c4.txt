@@ -1,0 +1,13 @@
+Collecting clipboard==0.0.4 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.a86b412988cbf5216aa5c48b1cf439c4.txt (line 1))
+  Downloading clipboard-0.0.4.tar.gz (1.7 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+ERROR: Could not find a version that satisfies the requirement console==0.9905 (from versions: 0.98, 0.9906, 0.9907)
+ERROR: No matching distribution found for console==0.9905
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

@@ -1,0 +1,8 @@
+Collecting keras==2.4.3 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.a48feaecfdb9e0609c6a02590fd1f91b.txt (line 1))
+  Obtaining dependency information for keras==2.4.3 from https://files.pythonhosted.org/packages/44/e1/dc0757b20b56c980b5553c1b5c4c32d378c7055ab7bfa92006801ad359ab/Keras-2.4.3-py2.py3-none-any.whl.metadata
+  Downloading Keras-2.4.3-py2.py3-none-any.whl.metadata (1.5 kB)
+ERROR: Could not find a version that satisfies the requirement tensorflow==2.4.0 (from versions: 2.16.0rc0, 2.16.1, 2.16.2, 2.17.0rc0, 2.17.0rc1, 2.17.0)
+ERROR: No matching distribution found for tensorflow==2.4.0
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

@@ -1,0 +1,9 @@
+Collecting robotframework==3.2.2 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.35723b58d238a67234d8.txt (line 1))
+  Obtaining dependency information for robotframework==3.2.2 from https://files.pythonhosted.org/packages/38/43/e03efaa547a3158f0745c5ea7f1eafebd69d46f2c9aece3a8ba21992adc9/robotframework-3.2.2-py2.py3-none-any.whl.metadata
+  Downloading robotframework-3.2.2-py2.py3-none-any.whl.metadata (7.5 kB)
+Downloading robotframework-3.2.2-py2.py3-none-any.whl (623 kB)
+   ---------------------------------------- 624.0/624.0 kB 3.0 MB/s eta 0:00:00
+Would install robotframework-3.2.2
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

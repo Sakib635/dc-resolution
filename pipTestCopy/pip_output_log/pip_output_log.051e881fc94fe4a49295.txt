@@ -1,0 +1,8 @@
+Collecting impacket==0.9.22 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.051e881fc94fe4a49295.txt (line 1))
+  Downloading impacket-0.9.22.tar.gz (1.4 MB)
+     ---------------------------------------- 1.4/1.4 MB 5.1 MB/s eta 0:00:00
+ERROR: Could not install packages due to an OSError: [Errno 22] Invalid argument: 'C:\\Users\\ASUS\\AppData\\Local\\Temp\\pip-unpack-vm498pvn\\impacket-0.9.22.tar.gz'
+
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

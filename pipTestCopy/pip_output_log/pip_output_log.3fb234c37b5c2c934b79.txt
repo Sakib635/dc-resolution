@@ -1,0 +1,17 @@
+Collecting six==1.15.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3fb234c37b5c2c934b79.txt (line 1))
+  Obtaining dependency information for six==1.15.0 from https://files.pythonhosted.org/packages/ee/ff/48bde5c0f013094d729fe4b0316ba2a24774b3ff1c52d924a8a4cb04078a/six-1.15.0-py2.py3-none-any.whl.metadata
+  Downloading six-1.15.0-py2.py3-none-any.whl.metadata (1.8 kB)
+Collecting PyYAML==5.3.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3fb234c37b5c2c934b79.txt (line 2))
+  Downloading PyYAML-5.3.1.tar.gz (269 kB)
+     -------------------------------------- 269.4/269.4 kB 1.7 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Downloading six-1.15.0-py2.py3-none-any.whl (10 kB)
+Would install PyYAML-5.3.1 six-1.15.0
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

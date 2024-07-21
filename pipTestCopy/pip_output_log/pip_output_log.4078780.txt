@@ -1,0 +1,9 @@
+Collecting pyglet==1.5.14 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4078780.txt (line 1))
+  Obtaining dependency information for pyglet==1.5.14 from https://files.pythonhosted.org/packages/83/f1/cf220acd05280ae9d8666eae422182852f5e00ba95d03dfb2dd39a09b104/pyglet-1.5.14-py3-none-any.whl.metadata
+  Downloading pyglet-1.5.14-py3-none-any.whl.metadata (7.6 kB)
+Downloading pyglet-1.5.14-py3-none-any.whl (1.1 MB)
+   ---------------------------------------- 1.1/1.1 MB 6.3 MB/s eta 0:00:00
+Would install pyglet-1.5.14
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

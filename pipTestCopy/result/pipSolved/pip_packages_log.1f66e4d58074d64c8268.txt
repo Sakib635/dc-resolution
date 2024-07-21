@@ -1,0 +1,9 @@
+Deprecated-1.2.14
+beautifulsoup4-4.9.3
+img2pdf-0.4.0
+lxml-5.2.2
+packaging-24.1
+pikepdf-9.0.0
+pillow-10.4.0
+soupsieve-2.5
+wrapt-1.16.0

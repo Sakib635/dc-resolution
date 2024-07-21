@@ -1,0 +1,51 @@
+Collecting Django==3.1.7 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.03d9c46c86691c9bb680.txt (line 1))
+  Obtaining dependency information for Django==3.1.7 from https://files.pythonhosted.org/packages/b8/6f/9a4415cc4fe9228e26ea53cf2005961799b2abb8da0411e519fdb74754fa/Django-3.1.7-py3-none-any.whl.metadata
+  Downloading Django-3.1.7-py3-none-any.whl.metadata (3.7 kB)
+Collecting psycopg2==2.8.6 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.03d9c46c86691c9bb680.txt (line 2))
+  Downloading psycopg2-2.8.6.tar.gz (383 kB)
+     -------------------------------------- 383.8/383.8 kB 2.6 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'error'
+  error: subprocess-exited-with-error
+  
+  Getting requirements to build wheel did not run successfully.
+  exit code: 1
+  
+  [21 lines of output]
+  running egg_info
+  writing psycopg2.egg-info\PKG-INFO
+  writing dependency_links to psycopg2.egg-info\dependency_links.txt
+  writing top-level names to psycopg2.egg-info\top_level.txt
+  
+  Error: pg_config executable not found.
+  
+  pg_config is required to build psycopg2 from source.  Please add the directory
+  containing pg_config to the $PATH or specify the full executable path with the
+  option:
+  
+      python setup.py build_ext --pg-config /path/to/pg_config build ...
+  
+  or with the pg_config option in 'setup.cfg'.
+  
+  If you prefer to avoid building psycopg2 from source, please install the PyPI
+  'psycopg2-binary' package instead.
+  
+  For further information please check the 'doc/src/install.rst' file (also at
+  <https://www.psycopg.org/docs/install.html>).
+  
+  [end of output]
+  
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+error: subprocess-exited-with-error
+
+Getting requirements to build wheel did not run successfully.
+exit code: 1
+
+See above for output.
+
+note: This error originates from a subprocess, and is likely not a problem with pip.
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

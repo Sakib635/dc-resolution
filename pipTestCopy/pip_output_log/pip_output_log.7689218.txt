@@ -1,0 +1,91 @@
+Collecting httplib2==0.18.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.7689218.txt (line 1))
+  Obtaining dependency information for httplib2==0.18.1 from https://files.pythonhosted.org/packages/b3/ad/d9d9331850ea5bd4f5cb8c650c0bfa119a4abd6b0ad7c45b6506bc979fc0/httplib2-0.18.1-py3-none-any.whl.metadata
+  Downloading httplib2-0.18.1-py3-none-any.whl.metadata (2.2 kB)
+Collecting launchpadlib==1.10.13 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.7689218.txt (line 2))
+  Downloading launchpadlib-1.10.13.tar.gz (200 kB)
+     -------------------------------------- 200.8/200.8 kB 1.4 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting keyring (from launchpadlib==1.10.13->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.7689218.txt (line 2))
+  Obtaining dependency information for keyring from https://files.pythonhosted.org/packages/92/91/901f5cfeaaea04cf15f5ddf41ee053a5c9e389166477a3427fcfd055e1d9/keyring-25.2.1-py3-none-any.whl.metadata
+  Downloading keyring-25.2.1-py3-none-any.whl.metadata (20 kB)
+Collecting lazr.restfulclient>=0.9.19 (from launchpadlib==1.10.13->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.7689218.txt (line 2))
+  Obtaining dependency information for lazr.restfulclient>=0.9.19 from https://files.pythonhosted.org/packages/6f/de/0588cc50519e5b7ec75742d3e7cb7234298c95ef580b97f0ed3ac8fbc891/lazr.restfulclient-0.14.6-py2.py3-none-any.whl.metadata
+  Downloading lazr.restfulclient-0.14.6-py2.py3-none-any.whl.metadata (12 kB)
+Collecting lazr.uri (from launchpadlib==1.10.13->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.7689218.txt (line 2))
+  Downloading lazr.uri-1.0.6.tar.gz (18 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting setuptools (from launchpadlib==1.10.13->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.7689218.txt (line 2))
+  Obtaining dependency information for setuptools from https://files.pythonhosted.org/packages/39/11/6159cc30f99dbdccac3c74d67277505d0e0bfc059e6cc57ef2eefc9b8751/setuptools-71.0.1-py3-none-any.whl.metadata
+  Using cached setuptools-71.0.1-py3-none-any.whl.metadata (6.5 kB)
+Collecting six (from launchpadlib==1.10.13->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.7689218.txt (line 2))
+  Obtaining dependency information for six from https://files.pythonhosted.org/packages/d9/5a/e7c31adbe875f2abbb91bd84cf2dc52d792b5a01506781dbcf25c91daf11/six-1.16.0-py2.py3-none-any.whl.metadata
+  Downloading six-1.16.0-py2.py3-none-any.whl.metadata (1.8 kB)
+Collecting testresources (from launchpadlib==1.10.13->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.7689218.txt (line 2))
+  Obtaining dependency information for testresources from https://files.pythonhosted.org/packages/45/4d/79a9a1f71de22fbc6c6433ac135f68d005de72fbe73e2137d2e77da9252c/testresources-2.0.1-py2.py3-none-any.whl.metadata
+  Downloading testresources-2.0.1-py2.py3-none-any.whl.metadata (11 kB)
+Collecting wadllib (from launchpadlib==1.10.13->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.7689218.txt (line 2))
+  Downloading wadllib-1.3.6.tar.gz (62 kB)
+     ---------------------------------------- 62.2/62.2 kB ? eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting distro (from lazr.restfulclient>=0.9.19->launchpadlib==1.10.13->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.7689218.txt (line 2))
+  Obtaining dependency information for distro from https://files.pythonhosted.org/packages/12/b3/231ffd4ab1fc9d679809f356cebee130ac7daa00d6d6f3206dd4fd137e9e/distro-1.9.0-py3-none-any.whl.metadata
+  Downloading distro-1.9.0-py3-none-any.whl.metadata (6.8 kB)
+Collecting oauthlib (from lazr.restfulclient>=0.9.19->launchpadlib==1.10.13->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.7689218.txt (line 2))
+  Obtaining dependency information for oauthlib from https://files.pythonhosted.org/packages/7e/80/cab10959dc1faead58dc8384a781dfbf93cb4d33d50988f7a69f1b7c9bbe/oauthlib-3.2.2-py3-none-any.whl.metadata
+  Downloading oauthlib-3.2.2-py3-none-any.whl.metadata (7.5 kB)
+Collecting jaraco.classes (from keyring->launchpadlib==1.10.13->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.7689218.txt (line 2))
+  Obtaining dependency information for jaraco.classes from https://files.pythonhosted.org/packages/7f/66/b15ce62552d84bbfcec9a4873ab79d993a1dd4edb922cbfccae192bd5b5f/jaraco.classes-3.4.0-py3-none-any.whl.metadata
+  Downloading jaraco.classes-3.4.0-py3-none-any.whl.metadata (2.6 kB)
+Collecting jaraco.functools (from keyring->launchpadlib==1.10.13->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.7689218.txt (line 2))
+  Obtaining dependency information for jaraco.functools from https://files.pythonhosted.org/packages/c3/ac/d0bf0d37a9f95f69a5efc5685d9166ee34a664d3cd29a9c139989512fe14/jaraco.functools-4.0.1-py3-none-any.whl.metadata
+  Downloading jaraco.functools-4.0.1-py3-none-any.whl.metadata (2.9 kB)
+Collecting jaraco.context (from keyring->launchpadlib==1.10.13->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.7689218.txt (line 2))
+  Obtaining dependency information for jaraco.context from https://files.pythonhosted.org/packages/d2/40/11b7bc1898cf1dcb87ccbe09b39f5088634ac78bb25f3383ff541c2b40aa/jaraco.context-5.3.0-py3-none-any.whl.metadata
+  Downloading jaraco.context-5.3.0-py3-none-any.whl.metadata (4.0 kB)
+Collecting pywin32-ctypes>=0.2.0 (from keyring->launchpadlib==1.10.13->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.7689218.txt (line 2))
+  Obtaining dependency information for pywin32-ctypes>=0.2.0 from https://files.pythonhosted.org/packages/a4/bc/78b2c00cc64c31dbb3be42a0e8600bcebc123ad338c3b714754d668c7c2d/pywin32_ctypes-0.2.2-py3-none-any.whl.metadata
+  Downloading pywin32_ctypes-0.2.2-py3-none-any.whl.metadata (3.8 kB)
+Collecting pbr>=1.8 (from testresources->launchpadlib==1.10.13->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.7689218.txt (line 2))
+  Obtaining dependency information for pbr>=1.8 from https://files.pythonhosted.org/packages/64/dd/171c9fb653591cf265bcc89c436eec75c9bde3dec921cc236fa71e5698df/pbr-6.0.0-py2.py3-none-any.whl.metadata
+  Downloading pbr-6.0.0-py2.py3-none-any.whl.metadata (1.3 kB)
+Collecting more-itertools (from jaraco.classes->keyring->launchpadlib==1.10.13->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.7689218.txt (line 2))
+  Obtaining dependency information for more-itertools from https://files.pythonhosted.org/packages/bb/23/2d1cdb0427aecb2b150dc2ac2d15400990c4f05585b3fbc1b5177d74d7fb/more_itertools-10.3.0-py3-none-any.whl.metadata
+  Downloading more_itertools-10.3.0-py3-none-any.whl.metadata (36 kB)
+Downloading httplib2-0.18.1-py3-none-any.whl (95 kB)
+   ---------------------------------------- 95.3/95.3 kB 5.7 MB/s eta 0:00:00
+Downloading lazr.restfulclient-0.14.6-py2.py3-none-any.whl (67 kB)
+   ---------------------------------------- 67.4/67.4 kB 3.6 MB/s eta 0:00:00
+Downloading keyring-25.2.1-py3-none-any.whl (38 kB)
+Using cached setuptools-71.0.1-py3-none-any.whl (2.2 MB)
+Downloading six-1.16.0-py2.py3-none-any.whl (11 kB)
+Downloading testresources-2.0.1-py2.py3-none-any.whl (36 kB)
+Downloading pbr-6.0.0-py2.py3-none-any.whl (107 kB)
+   ---------------------------------------- 107.5/107.5 kB 6.1 MB/s eta 0:00:00
+Downloading pywin32_ctypes-0.2.2-py3-none-any.whl (30 kB)
+Downloading distro-1.9.0-py3-none-any.whl (20 kB)
+Downloading jaraco.classes-3.4.0-py3-none-any.whl (6.8 kB)
+Downloading jaraco.context-5.3.0-py3-none-any.whl (6.5 kB)
+Downloading jaraco.functools-4.0.1-py3-none-any.whl (9.8 kB)
+Downloading oauthlib-3.2.2-py3-none-any.whl (151 kB)
+   ---------------------------------------- 151.7/151.7 kB 9.4 MB/s eta 0:00:00
+Downloading more_itertools-10.3.0-py3-none-any.whl (59 kB)
+   ---------------------------------------- 59.2/59.2 kB 3.3 MB/s eta 0:00:00
+Would install distro-1.9.0 httplib2-0.18.1 jaraco.classes-3.4.0 jaraco.context-5.3.0 jaraco.functools-4.0.1 keyring-25.2.1 launchpadlib-1.10.13 lazr.restfulclient-0.14.6 lazr.uri-1.0.6 more-itertools-10.3.0 oauthlib-3.2.2 pbr-6.0.0 pywin32-ctypes-0.2.2 setuptools-71.0.1 six-1.16.0 testresources-2.0.1 wadllib-1.3.6
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

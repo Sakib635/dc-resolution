@@ -1,0 +1,22 @@
+Collecting python_daemon==2.2.4 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.5108298.txt (line 1))
+  Obtaining dependency information for python_daemon==2.2.4 from https://files.pythonhosted.org/packages/5a/0c/57f15b1572661877ff1acbe66c2f5be9d999ae5fb128e22933d374f62aa1/python_daemon-2.2.4-py2.py3-none-any.whl.metadata
+  Downloading python_daemon-2.2.4-py2.py3-none-any.whl.metadata (1.8 kB)
+Collecting docutils (from python_daemon==2.2.4->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.5108298.txt (line 1))
+  Obtaining dependency information for docutils from https://files.pythonhosted.org/packages/8f/d7/9322c609343d929e75e7e5e6255e614fcc67572cfd083959cdef3b7aad79/docutils-0.21.2-py3-none-any.whl.metadata
+  Downloading docutils-0.21.2-py3-none-any.whl.metadata (2.8 kB)
+Collecting lockfile>=0.10 (from python_daemon==2.2.4->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.5108298.txt (line 1))
+  Obtaining dependency information for lockfile>=0.10 from https://files.pythonhosted.org/packages/c8/22/9460e311f340cb62d26a38c419b1381b8593b0bb6b5d1f056938b086d362/lockfile-0.12.2-py2.py3-none-any.whl.metadata
+  Downloading lockfile-0.12.2-py2.py3-none-any.whl.metadata (2.4 kB)
+Collecting setuptools (from python_daemon==2.2.4->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.5108298.txt (line 1))
+  Obtaining dependency information for setuptools from https://files.pythonhosted.org/packages/01/82/a2c6c0a1612c89bdb21dc4d9196ba9e7dcbc2e285afda93ebdf663ba2ada/setuptools-71.0.0-py3-none-any.whl.metadata
+  Downloading setuptools-71.0.0-py3-none-any.whl.metadata (6.5 kB)
+Downloading python_daemon-2.2.4-py2.py3-none-any.whl (35 kB)
+Downloading lockfile-0.12.2-py2.py3-none-any.whl (13 kB)
+Downloading docutils-0.21.2-py3-none-any.whl (587 kB)
+   ---------------------------------------- 587.4/587.4 kB 6.1 MB/s eta 0:00:00
+Downloading setuptools-71.0.0-py3-none-any.whl (908 kB)
+   --------------------------------------- 908.4/908.4 kB 14.3 MB/s eta 0:00:00
+Would install docutils-0.21.2 lockfile-0.12.2 python-daemon-2.2.4 setuptools-71.0.0
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

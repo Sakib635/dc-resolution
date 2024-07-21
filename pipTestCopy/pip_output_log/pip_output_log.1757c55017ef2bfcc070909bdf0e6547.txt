@@ -1,0 +1,8 @@
+Collecting readchar==2.0.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1757c55017ef2bfcc070909bdf0e6547.txt (line 1))
+  Obtaining dependency information for readchar==2.0.1 from https://files.pythonhosted.org/packages/ef/f3/50cc9199733bf91f3c140150752a6430d8b785f9d22a31dcae721edb0b9a/readchar-2.0.1-py3-none-any.whl.metadata
+  Downloading readchar-2.0.1-py3-none-any.whl.metadata (4.9 kB)
+Downloading readchar-2.0.1-py3-none-any.whl (6.9 kB)
+Would install readchar-2.0.1
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

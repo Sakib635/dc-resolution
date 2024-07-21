@@ -1,0 +1,8 @@
+Collecting DateTime==4.3 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2973355.txt (line 1))
+  Obtaining dependency information for DateTime==4.3 from https://files.pythonhosted.org/packages/73/22/a5297f3a1f92468cc737f8ce7ba6e5f245fcfafeae810ba37bd1039ea01c/DateTime-4.3-py2.py3-none-any.whl.metadata
+  Downloading DateTime-4.3-py2.py3-none-any.whl.metadata (30 kB)
+ERROR: Could not find a version that satisfies the requirement pisa==3.0.33 (from versions: none)
+ERROR: No matching distribution found for pisa==3.0.33
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

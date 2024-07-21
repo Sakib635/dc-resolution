@@ -1,0 +1,35 @@
+Collecting machine==0.0.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.c84643e4d13818fc5a35a8de888126bb.txt (line 1))
+  Obtaining dependency information for machine==0.0.1 from https://files.pythonhosted.org/packages/c0/ce/0c62600971471aabe55865c7100a886f3c2cad767e3a0af2dff717d08e68/machine-0.0.1-py2.py3-none-any.whl.metadata
+  Downloading machine-0.0.1-py2.py3-none-any.whl.metadata (2.0 kB)
+Collecting pycom==0.6.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.c84643e4d13818fc5a35a8de888126bb.txt (line 2))
+  Downloading pycom-0.6.0.tar.gz (57 kB)
+     -------------------------------------- 57.8/57.8 kB 436.5 kB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting pycrypto (from machine==0.0.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.c84643e4d13818fc5a35a8de888126bb.txt (line 1))
+  Downloading pycrypto-2.6.1.tar.gz (446 kB)
+     -------------------------------------- 446.2/446.2 kB 4.0 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting pyzmq>=2.1.11 (from pycom==0.6.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.c84643e4d13818fc5a35a8de888126bb.txt (line 2))
+  Obtaining dependency information for pyzmq>=2.1.11 from https://files.pythonhosted.org/packages/6c/45/905ec497208808aa0ba2470b2ab36d779b53f4016617feca93baffb6ba7f/pyzmq-26.0.3-cp312-cp312-win_amd64.whl.metadata
+  Downloading pyzmq-26.0.3-cp312-cp312-win_amd64.whl.metadata (6.1 kB)
+Collecting six (from pycom==0.6.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.c84643e4d13818fc5a35a8de888126bb.txt (line 2))
+  Obtaining dependency information for six from https://files.pythonhosted.org/packages/d9/5a/e7c31adbe875f2abbb91bd84cf2dc52d792b5a01506781dbcf25c91daf11/six-1.16.0-py2.py3-none-any.whl.metadata
+  Downloading six-1.16.0-py2.py3-none-any.whl.metadata (1.8 kB)
+Downloading machine-0.0.1-py2.py3-none-any.whl (4.2 kB)
+Downloading pyzmq-26.0.3-cp312-cp312-win_amd64.whl (770 kB)
+   --------------------------------------- 770.1/770.1 kB 12.3 MB/s eta 0:00:00
+Downloading six-1.16.0-py2.py3-none-any.whl (11 kB)
+Would install machine-0.0.1 pycom-0.6.0 pycrypto-2.6.1 pyzmq-26.0.3 six-1.16.0
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

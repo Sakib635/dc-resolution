@@ -1,0 +1,8 @@
+Collecting markov==0.4.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.5356796.txt (line 1))
+  Obtaining dependency information for markov==0.4.0 from https://files.pythonhosted.org/packages/65/77/eb7dd3b10855ce4cc1fcb66884686fd9337d9310fbef08cf03c3c3097a05/Markov-0.4.0-py3-none-any.whl.metadata
+  Downloading Markov-0.4.0-py3-none-any.whl.metadata (9.1 kB)
+Downloading Markov-0.4.0-py3-none-any.whl (8.9 kB)
+Would install Markov-0.4.0
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

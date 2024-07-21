@@ -1,0 +1,13 @@
+beautifulsoup4-4.12.3
+certifi-2024.7.4
+charset-normalizer-3.3.2
+idna-3.7
+kitchen-1.2.6
+lockfile-0.12.2
+munch-4.0.0
+openidc-client-0.6.0
+python-fedora-1.1.1
+requests-2.32.3
+six-1.16.0
+soupsieve-2.5
+urllib3-2.2.2

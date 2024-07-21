@@ -1,0 +1,99 @@
+Collecting trytond_stock==5.8.2 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2019037.txt (line 1))
+  Obtaining dependency information for trytond_stock==5.8.2 from https://files.pythonhosted.org/packages/0f/fe/b79bb31cbb53523f2b0cd3fc926316335d8a6c9aad0faa06036aab84df12/trytond_stock-5.8.2-py3-none-any.whl.metadata
+  Downloading trytond_stock-5.8.2-py3-none-any.whl.metadata (11 kB)
+Collecting python-sql>=0.4 (from trytond_stock==5.8.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2019037.txt (line 1))
+  Obtaining dependency information for python-sql>=0.4 from https://files.pythonhosted.org/packages/05/15/c76fa41233cc8e426ca45cd802aae5a862df9f104c709e9856bf6e0d18b7/python_sql-1.5.1-py3-none-any.whl.metadata
+  Downloading python_sql-1.5.1-py3-none-any.whl.metadata (8.5 kB)
+Collecting simpleeval (from trytond_stock==5.8.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2019037.txt (line 1))
+  Obtaining dependency information for simpleeval from https://files.pythonhosted.org/packages/0a/51/bedb4af4f3fe4bb32a3cabfd285be388958c6d676f6b0fa65997812a381b/simpleeval-0.9.13-py2.py3-none-any.whl.metadata
+  Downloading simpleeval-0.9.13-py2.py3-none-any.whl.metadata (15 kB)
+Collecting trytond-company<5.9,>=5.8 (from trytond_stock==5.8.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2019037.txt (line 1))
+  Obtaining dependency information for trytond-company<5.9,>=5.8 from https://files.pythonhosted.org/packages/1c/fe/f2c4e74ec44ce2fd269a59a039322f55d5aebd4c7c8c80171b5d1a6b2a88/trytond_company-5.8.3-py3-none-any.whl.metadata
+  Downloading trytond_company-5.8.3-py3-none-any.whl.metadata (3.5 kB)
+Collecting trytond-currency<5.9,>=5.8 (from trytond_stock==5.8.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2019037.txt (line 1))
+  Obtaining dependency information for trytond-currency<5.9,>=5.8 from https://files.pythonhosted.org/packages/00/c1/b1b465c6955c7e94a36dd5f04c5ccd61e9efff8b3d9a7931b3dab5388f33/trytond_currency-5.8.2-py3-none-any.whl.metadata
+  Downloading trytond_currency-5.8.2-py3-none-any.whl.metadata (3.3 kB)
+Collecting trytond-party<5.9,>=5.8 (from trytond_stock==5.8.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2019037.txt (line 1))
+  Obtaining dependency information for trytond-party<5.9,>=5.8 from https://files.pythonhosted.org/packages/3b/1a/b4cf5195b08607c1bdde62fa6091135dcad3632509a785f842e23c9b3db9/trytond_party-5.8.2-py3-none-any.whl.metadata
+  Downloading trytond_party-5.8.2-py3-none-any.whl.metadata (4.8 kB)
+Collecting trytond-product<5.9,>=5.8 (from trytond_stock==5.8.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2019037.txt (line 1))
+  Obtaining dependency information for trytond-product<5.9,>=5.8 from https://files.pythonhosted.org/packages/26/9a/18f5effd0c783d763bf33237b098768e40ad05e8d2c44649609a9302585a/trytond_product-5.8.5-py3-none-any.whl.metadata
+  Downloading trytond_product-5.8.5-py3-none-any.whl.metadata (5.3 kB)
+Collecting trytond<5.9,>=5.8 (from trytond_stock==5.8.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2019037.txt (line 1))
+  Obtaining dependency information for trytond<5.9,>=5.8 from https://files.pythonhosted.org/packages/45/02/f8e8b02cceceab86afed9e8303185c06d3d1828f769ba04da7498c9ebf6f/trytond-5.8.16-py3-none-any.whl.metadata
+  Downloading trytond-5.8.16-py3-none-any.whl.metadata (3.1 kB)
+Collecting lxml>=2.0 (from trytond<5.9,>=5.8->trytond_stock==5.8.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2019037.txt (line 1))
+  Obtaining dependency information for lxml>=2.0 from https://files.pythonhosted.org/packages/58/16/99b03974974537c8c786fb98183d7c213ceb16e71205174a29ae869ca988/lxml-5.2.2-cp312-cp312-win_amd64.whl.metadata
+  Downloading lxml-5.2.2-cp312-cp312-win_amd64.whl.metadata (3.5 kB)
+Collecting relatorio[fodt]>=0.7.0 (from trytond<5.9,>=5.8->trytond_stock==5.8.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2019037.txt (line 1))
+  Obtaining dependency information for relatorio[fodt]>=0.7.0 from https://files.pythonhosted.org/packages/10/45/206a60ac9ecf0932cad67a97326337553126714c391e1e0001949cbc3e48/relatorio-0.10.2-py3-none-any.whl.metadata
+  Downloading relatorio-0.10.2-py3-none-any.whl.metadata (2.0 kB)
+Collecting Genshi (from trytond<5.9,>=5.8->trytond_stock==5.8.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2019037.txt (line 1))
+  Obtaining dependency information for Genshi from https://files.pythonhosted.org/packages/89/86/7a8bb428086cdbf1d179af4d4d6f96e19e51d671cf119adc9c74a25feb27/Genshi-0.7.9-py3-none-any.whl.metadata
+  Downloading Genshi-0.7.9-py3-none-any.whl.metadata (1.5 kB)
+Collecting python-dateutil (from trytond<5.9,>=5.8->trytond_stock==5.8.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2019037.txt (line 1))
+  Obtaining dependency information for python-dateutil from https://files.pythonhosted.org/packages/ec/57/56b9bcc3c9c6a792fcbaf139543cee77261f3651ca9da0c93f5c1221264b/python_dateutil-2.9.0.post0-py2.py3-none-any.whl.metadata
+  Downloading python_dateutil-2.9.0.post0-py2.py3-none-any.whl.metadata (8.4 kB)
+Collecting polib (from trytond<5.9,>=5.8->trytond_stock==5.8.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2019037.txt (line 1))
+  Obtaining dependency information for polib from https://files.pythonhosted.org/packages/6b/99/45bb1f9926efe370c6dbe324741c749658e44cb060124f28dad201202274/polib-1.2.0-py2.py3-none-any.whl.metadata
+  Downloading polib-1.2.0-py2.py3-none-any.whl.metadata (15 kB)
+Collecting werkzeug<2 (from trytond<5.9,>=5.8->trytond_stock==5.8.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2019037.txt (line 1))
+  Obtaining dependency information for werkzeug<2 from https://files.pythonhosted.org/packages/cc/94/5f7079a0e00bd6863ef8f1da638721e9da21e5bacee597595b318f71d62e/Werkzeug-1.0.1-py2.py3-none-any.whl.metadata
+  Downloading Werkzeug-1.0.1-py2.py3-none-any.whl.metadata (4.7 kB)
+Collecting wrapt (from trytond<5.9,>=5.8->trytond_stock==5.8.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2019037.txt (line 1))
+  Obtaining dependency information for wrapt from https://files.pythonhosted.org/packages/5c/cc/8297f9658506b224aa4bd71906447dea6bb0ba629861a758c28f67428b91/wrapt-1.16.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading wrapt-1.16.0-cp312-cp312-win_amd64.whl.metadata (6.8 kB)
+Collecting passlib>=1.7.0 (from trytond<5.9,>=5.8->trytond_stock==5.8.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2019037.txt (line 1))
+  Obtaining dependency information for passlib>=1.7.0 from https://files.pythonhosted.org/packages/3b/a4/ab6b7589382ca3df236e03faa71deac88cae040af60c071a78d254a62172/passlib-1.7.4-py2.py3-none-any.whl.metadata
+  Downloading passlib-1.7.4-py2.py3-none-any.whl.metadata (1.7 kB)
+Collecting python-stdnum>=1.13 (from trytond-party<5.9,>=5.8->trytond_stock==5.8.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2019037.txt (line 1))
+  Obtaining dependency information for python-stdnum>=1.13 from https://files.pythonhosted.org/packages/d6/0f/8639d60f6d7c169836694aa81504c4ee9a95dfb73ccdb16be66df4785f52/python_stdnum-1.20-py2.py3-none-any.whl.metadata
+  Downloading python_stdnum-1.20-py2.py3-none-any.whl.metadata (18 kB)
+Collecting trytond-country<5.9,>=5.8 (from trytond-party<5.9,>=5.8->trytond_stock==5.8.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2019037.txt (line 1))
+  Obtaining dependency information for trytond-country<5.9,>=5.8 from https://files.pythonhosted.org/packages/09/77/07678e90bd6977ad7a32a1691e98403b550a990dd1d596f8ecd32774d934/trytond_country-5.8.1-py3-none-any.whl.metadata
+  Downloading trytond_country-5.8.1-py3-none-any.whl.metadata (3.1 kB)
+Collecting python-magic (from relatorio[fodt]>=0.7.0->trytond<5.9,>=5.8->trytond_stock==5.8.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2019037.txt (line 1))
+  Obtaining dependency information for python-magic from https://files.pythonhosted.org/packages/6c/73/9f872cb81fc5c3bb48f7227872c28975f998f3e7c2b1c16e95e6432bbb90/python_magic-0.4.27-py2.py3-none-any.whl.metadata
+  Downloading python_magic-0.4.27-py2.py3-none-any.whl.metadata (5.8 kB)
+Collecting six (from Genshi->trytond<5.9,>=5.8->trytond_stock==5.8.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2019037.txt (line 1))
+  Obtaining dependency information for six from https://files.pythonhosted.org/packages/d9/5a/e7c31adbe875f2abbb91bd84cf2dc52d792b5a01506781dbcf25c91daf11/six-1.16.0-py2.py3-none-any.whl.metadata
+  Downloading six-1.16.0-py2.py3-none-any.whl.metadata (1.8 kB)
+Downloading trytond_stock-5.8.2-py3-none-any.whl (376 kB)
+   ---------------------------------------- 376.2/376.2 kB 4.7 MB/s eta 0:00:00
+Downloading python_sql-1.5.1-py3-none-any.whl (43 kB)
+   ---------------------------------------- 43.6/43.6 kB 2.1 MB/s eta 0:00:00
+Downloading trytond-5.8.16-py3-none-any.whl (891 kB)
+   --------------------------------------- 891.8/891.8 kB 18.8 MB/s eta 0:00:00
+Downloading trytond_company-5.8.3-py3-none-any.whl (77 kB)
+   ---------------------------------------- 77.9/77.9 kB 4.2 MB/s eta 0:00:00
+Downloading trytond_currency-5.8.2-py3-none-any.whl (52 kB)
+   ---------------------------------------- 52.8/52.8 kB ? eta 0:00:00
+Downloading trytond_party-5.8.2-py3-none-any.whl (160 kB)
+   ---------------------------------------- 160.8/160.8 kB 9.4 MB/s eta 0:00:00
+Downloading trytond_product-5.8.5-py3-none-any.whl (133 kB)
+   ---------------------------------------- 133.0/133.0 kB 8.2 MB/s eta 0:00:00
+Downloading simpleeval-0.9.13-py2.py3-none-any.whl (15 kB)
+Downloading lxml-5.2.2-cp312-cp312-win_amd64.whl (3.8 MB)
+   ---------------------------------------- 3.8/3.8 MB 8.4 MB/s eta 0:00:00
+Downloading passlib-1.7.4-py2.py3-none-any.whl (525 kB)
+   ---------------------------------------- 525.6/525.6 kB 8.2 MB/s eta 0:00:00
+Downloading python_stdnum-1.20-py2.py3-none-any.whl (1.1 MB)
+   ---------------------------------------- 1.1/1.1 MB 22.3 MB/s eta 0:00:00
+Downloading Genshi-0.7.9-py3-none-any.whl (177 kB)
+   ---------------------------------------- 177.8/177.8 kB 3.6 MB/s eta 0:00:00
+Downloading trytond_country-5.8.1-py3-none-any.whl (68 kB)
+   ---------------------------------------- 68.8/68.8 kB 3.7 MB/s eta 0:00:00
+Downloading Werkzeug-1.0.1-py2.py3-none-any.whl (298 kB)
+   ---------------------------------------- 298.6/298.6 kB 2.3 MB/s eta 0:00:00
+Downloading polib-1.2.0-py2.py3-none-any.whl (20 kB)
+Downloading python_dateutil-2.9.0.post0-py2.py3-none-any.whl (229 kB)
+   ---------------------------------------- 229.9/229.9 kB 2.8 MB/s eta 0:00:00
+Downloading wrapt-1.16.0-cp312-cp312-win_amd64.whl (37 kB)
+Downloading six-1.16.0-py2.py3-none-any.whl (11 kB)
+Downloading python_magic-0.4.27-py2.py3-none-any.whl (13 kB)
+Downloading relatorio-0.10.2-py3-none-any.whl (297 kB)
+   --------------------------------------- 297.8/297.8 kB 18.0 MB/s eta 0:00:00
+Would install Genshi-0.7.9 Werkzeug-1.0.1 lxml-5.2.2 passlib-1.7.4 polib-1.2.0 python-dateutil-2.9.0.post0 python-magic-0.4.27 python-sql-1.5.1 python-stdnum-1.20 relatorio-0.10.2 simpleeval-0.9.13 six-1.16.0 trytond-5.8.16 trytond-company-5.8.3 trytond-country-5.8.1 trytond-currency-5.8.2 trytond-party-5.8.2 trytond-product-5.8.5 trytond-stock-5.8.2 wrapt-1.16.0
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

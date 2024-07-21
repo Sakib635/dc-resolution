@@ -1,0 +1,30 @@
+Collecting inkex==1.0.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.ee9151b0ad985ca348cd.txt (line 1))
+  Downloading inkex-1.0.1.tar.gz (86 kB)
+     -------------------------------------- 86.3/86.3 kB 484.6 kB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting simplepath==0.3.5 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.ee9151b0ad985ca348cd.txt (line 2))
+  Obtaining dependency information for simplepath==0.3.5 from https://files.pythonhosted.org/packages/4e/2d/a08e877bc2c7538b2c5b3124b26951152c0d689baaa26e3761378421cf17/simplepath-0.3.5-py2.py3-none-any.whl.metadata
+  Downloading simplepath-0.3.5-py2.py3-none-any.whl.metadata (6.8 kB)
+Collecting lxml (from inkex==1.0.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.ee9151b0ad985ca348cd.txt (line 1))
+  Obtaining dependency information for lxml from https://files.pythonhosted.org/packages/58/16/99b03974974537c8c786fb98183d7c213ceb16e71205174a29ae869ca988/lxml-5.2.2-cp312-cp312-win_amd64.whl.metadata
+  Downloading lxml-5.2.2-cp312-cp312-win_amd64.whl.metadata (3.5 kB)
+Collecting six (from simplepath==0.3.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.ee9151b0ad985ca348cd.txt (line 2))
+  Obtaining dependency information for six from https://files.pythonhosted.org/packages/d9/5a/e7c31adbe875f2abbb91bd84cf2dc52d792b5a01506781dbcf25c91daf11/six-1.16.0-py2.py3-none-any.whl.metadata
+  Downloading six-1.16.0-py2.py3-none-any.whl.metadata (1.8 kB)
+Collecting setuptools (from simplepath==0.3.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.ee9151b0ad985ca348cd.txt (line 2))
+  Obtaining dependency information for setuptools from https://files.pythonhosted.org/packages/39/11/6159cc30f99dbdccac3c74d67277505d0e0bfc059e6cc57ef2eefc9b8751/setuptools-71.0.1-py3-none-any.whl.metadata
+  Using cached setuptools-71.0.1-py3-none-any.whl.metadata (6.5 kB)
+Downloading simplepath-0.3.5-py2.py3-none-any.whl (16 kB)
+Downloading lxml-5.2.2-cp312-cp312-win_amd64.whl (3.8 MB)
+   ---------------------------------------- 3.8/3.8 MB 7.9 MB/s eta 0:00:00
+Using cached setuptools-71.0.1-py3-none-any.whl (2.2 MB)
+Downloading six-1.16.0-py2.py3-none-any.whl (11 kB)
+Would install inkex-1.0.1 lxml-5.2.2 setuptools-71.0.1 simplepath-0.3.5 six-1.16.0
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

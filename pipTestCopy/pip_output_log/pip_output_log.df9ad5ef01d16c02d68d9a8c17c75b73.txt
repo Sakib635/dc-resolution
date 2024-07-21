@@ -1,0 +1,22 @@
+Collecting python_dateutil==2.8.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.df9ad5ef01d16c02d68d9a8c17c75b73.txt (line 1))
+  Obtaining dependency information for python_dateutil==2.8.1 from https://files.pythonhosted.org/packages/d4/70/d60450c3dd48ef87586924207ae8907090de0b306af2bce5d134d78615cb/python_dateutil-2.8.1-py2.py3-none-any.whl.metadata
+  Downloading python_dateutil-2.8.1-py2.py3-none-any.whl.metadata (8.0 kB)
+Collecting ttp==0.6.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.df9ad5ef01d16c02d68d9a8c17c75b73.txt (line 2))
+  Downloading ttp-0.6.0.tar.gz (62 kB)
+     -------------------------------------- 62.6/62.6 kB 335.5 kB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting six>=1.5 (from python_dateutil==2.8.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.df9ad5ef01d16c02d68d9a8c17c75b73.txt (line 1))
+  Obtaining dependency information for six>=1.5 from https://files.pythonhosted.org/packages/d9/5a/e7c31adbe875f2abbb91bd84cf2dc52d792b5a01506781dbcf25c91daf11/six-1.16.0-py2.py3-none-any.whl.metadata
+  Downloading six-1.16.0-py2.py3-none-any.whl.metadata (1.8 kB)
+Downloading python_dateutil-2.8.1-py2.py3-none-any.whl (227 kB)
+   ---------------------------------------- 227.2/227.2 kB 3.4 MB/s eta 0:00:00
+Downloading six-1.16.0-py2.py3-none-any.whl (11 kB)
+Would install python-dateutil-2.8.1 six-1.16.0 ttp-0.6.0
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

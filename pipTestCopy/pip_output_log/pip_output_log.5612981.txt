@@ -1,0 +1,26 @@
+Collecting redis==3.5.3 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.5612981.txt (line 1))
+  Obtaining dependency information for redis==3.5.3 from https://files.pythonhosted.org/packages/a7/7c/24fb0511df653cf1a5d938d8f5d19802a88cef255706fdda242ff97e91b7/redis-3.5.3-py2.py3-none-any.whl.metadata
+  Downloading redis-3.5.3-py2.py3-none-any.whl.metadata (36 kB)
+Collecting tornado==6.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.5612981.txt (line 2))
+  Downloading tornado-6.1.tar.gz (497 kB)
+     -------------------------------------- 497.4/497.4 kB 5.2 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting tornado_redis==2.4.18 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.5612981.txt (line 3))
+  Downloading tornado-redis-2.4.18.tar.gz (17 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Downloading redis-3.5.3-py2.py3-none-any.whl (72 kB)
+   ---------------------------------------- 72.1/72.1 kB 562.8 kB/s eta 0:00:00
+Would install redis-3.5.3 tornado-6.1 tornado-redis-2.4.18
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

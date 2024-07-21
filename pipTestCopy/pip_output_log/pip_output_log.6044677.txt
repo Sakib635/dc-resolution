@@ -1,0 +1,53 @@
+Collecting tox==3.21.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.6044677.txt (line 1))
+  Obtaining dependency information for tox==3.21.1 from https://files.pythonhosted.org/packages/d5/2a/1f7b0ff269ddd65565c20e5048e39328ad0d08fe177dd9b5b39fcbc8f6f3/tox-3.21.1-py2.py3-none-any.whl.metadata
+  Downloading tox-3.21.1-py2.py3-none-any.whl.metadata (7.6 kB)
+Collecting filelock>=3.0.0 (from tox==3.21.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.6044677.txt (line 1))
+  Obtaining dependency information for filelock>=3.0.0 from https://files.pythonhosted.org/packages/ae/f0/48285f0262fe47103a4a45972ed2f9b93e4c80b8fd609fa98da78b2a5706/filelock-3.15.4-py3-none-any.whl.metadata
+  Downloading filelock-3.15.4-py3-none-any.whl.metadata (2.9 kB)
+Collecting packaging>=14 (from tox==3.21.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.6044677.txt (line 1))
+  Obtaining dependency information for packaging>=14 from https://files.pythonhosted.org/packages/08/aa/cc0199a5f0ad350994d660967a8efb233fe0416e4639146c089643407ce6/packaging-24.1-py3-none-any.whl.metadata
+  Downloading packaging-24.1-py3-none-any.whl.metadata (3.2 kB)
+Collecting pluggy>=0.12.0 (from tox==3.21.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.6044677.txt (line 1))
+  Obtaining dependency information for pluggy>=0.12.0 from https://files.pythonhosted.org/packages/88/5f/e351af9a41f866ac3f1fac4ca0613908d9a41741cfcf2228f4ad853b697d/pluggy-1.5.0-py3-none-any.whl.metadata
+  Downloading pluggy-1.5.0-py3-none-any.whl.metadata (4.8 kB)
+Collecting py>=1.4.17 (from tox==3.21.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.6044677.txt (line 1))
+  Obtaining dependency information for py>=1.4.17 from https://files.pythonhosted.org/packages/f6/f0/10642828a8dfb741e5f3fbaac830550a518a775c7fff6f04a007259b0548/py-1.11.0-py2.py3-none-any.whl.metadata
+  Downloading py-1.11.0-py2.py3-none-any.whl.metadata (2.8 kB)
+Collecting six>=1.14.0 (from tox==3.21.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.6044677.txt (line 1))
+  Obtaining dependency information for six>=1.14.0 from https://files.pythonhosted.org/packages/d9/5a/e7c31adbe875f2abbb91bd84cf2dc52d792b5a01506781dbcf25c91daf11/six-1.16.0-py2.py3-none-any.whl.metadata
+  Downloading six-1.16.0-py2.py3-none-any.whl.metadata (1.8 kB)
+Collecting toml>=0.9.4 (from tox==3.21.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.6044677.txt (line 1))
+  Obtaining dependency information for toml>=0.9.4 from https://files.pythonhosted.org/packages/44/6f/7120676b6d73228c96e17f1f794d8ab046fc910d781c8d151120c3f1569e/toml-0.10.2-py2.py3-none-any.whl.metadata
+  Downloading toml-0.10.2-py2.py3-none-any.whl.metadata (7.1 kB)
+Collecting virtualenv!=20.0.0,!=20.0.1,!=20.0.2,!=20.0.3,!=20.0.4,!=20.0.5,!=20.0.6,!=20.0.7,>=16.0.0 (from tox==3.21.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.6044677.txt (line 1))
+  Obtaining dependency information for virtualenv!=20.0.0,!=20.0.1,!=20.0.2,!=20.0.3,!=20.0.4,!=20.0.5,!=20.0.6,!=20.0.7,>=16.0.0 from https://files.pythonhosted.org/packages/07/4d/410156100224c5e2f0011d435e477b57aed9576fc7fe137abcf14ec16e11/virtualenv-20.26.3-py3-none-any.whl.metadata
+  Downloading virtualenv-20.26.3-py3-none-any.whl.metadata (4.5 kB)
+Collecting colorama>=0.4.1 (from tox==3.21.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.6044677.txt (line 1))
+  Obtaining dependency information for colorama>=0.4.1 from https://files.pythonhosted.org/packages/d1/d6/3965ed04c63042e047cb6a3e6ed1a63a35087b6a609aa3a15ed8ac56c221/colorama-0.4.6-py2.py3-none-any.whl.metadata
+  Downloading colorama-0.4.6-py2.py3-none-any.whl.metadata (17 kB)
+Collecting distlib<1,>=0.3.7 (from virtualenv!=20.0.0,!=20.0.1,!=20.0.2,!=20.0.3,!=20.0.4,!=20.0.5,!=20.0.6,!=20.0.7,>=16.0.0->tox==3.21.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.6044677.txt (line 1))
+  Obtaining dependency information for distlib<1,>=0.3.7 from https://files.pythonhosted.org/packages/8e/41/9307e4f5f9976bc8b7fea0b66367734e8faf3ec84bc0d412d8cfabbb66cd/distlib-0.3.8-py2.py3-none-any.whl.metadata
+  Downloading distlib-0.3.8-py2.py3-none-any.whl.metadata (5.1 kB)
+Collecting platformdirs<5,>=3.9.1 (from virtualenv!=20.0.0,!=20.0.1,!=20.0.2,!=20.0.3,!=20.0.4,!=20.0.5,!=20.0.6,!=20.0.7,>=16.0.0->tox==3.21.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.6044677.txt (line 1))
+  Obtaining dependency information for platformdirs<5,>=3.9.1 from https://files.pythonhosted.org/packages/68/13/2aa1f0e1364feb2c9ef45302f387ac0bd81484e9c9a4c5688a322fbdfd08/platformdirs-4.2.2-py3-none-any.whl.metadata
+  Downloading platformdirs-4.2.2-py3-none-any.whl.metadata (11 kB)
+Downloading tox-3.21.1-py2.py3-none-any.whl (84 kB)
+   ---------------------------------------- 84.7/84.7 kB 2.4 MB/s eta 0:00:00
+Downloading colorama-0.4.6-py2.py3-none-any.whl (25 kB)
+Downloading filelock-3.15.4-py3-none-any.whl (16 kB)
+Downloading packaging-24.1-py3-none-any.whl (53 kB)
+   ---------------------------------------- 54.0/54.0 kB 2.9 MB/s eta 0:00:00
+Downloading pluggy-1.5.0-py3-none-any.whl (20 kB)
+Downloading py-1.11.0-py2.py3-none-any.whl (98 kB)
+   ---------------------------------------- 98.7/98.7 kB 5.5 MB/s eta 0:00:00
+Downloading six-1.16.0-py2.py3-none-any.whl (11 kB)
+Downloading toml-0.10.2-py2.py3-none-any.whl (16 kB)
+Downloading virtualenv-20.26.3-py3-none-any.whl (5.7 MB)
+   ---------------------------------------- 5.7/5.7 MB 13.4 MB/s eta 0:00:00
+Downloading distlib-0.3.8-py2.py3-none-any.whl (468 kB)
+   --------------------------------------- 468.9/468.9 kB 28.7 MB/s eta 0:00:00
+Downloading platformdirs-4.2.2-py3-none-any.whl (18 kB)
+Would install colorama-0.4.6 distlib-0.3.8 filelock-3.15.4 packaging-24.1 platformdirs-4.2.2 pluggy-1.5.0 py-1.11.0 six-1.16.0 toml-0.10.2 tox-3.21.1 virtualenv-20.26.3
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

@@ -1,0 +1,8 @@
+Collecting djangorestframework==3.12.2 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.b0eae211db963fe56c0c55773e6a16c0.txt (line 1))
+  Obtaining dependency information for djangorestframework==3.12.2 from https://files.pythonhosted.org/packages/8e/42/4cd19938181a912150e55835109b1933be26b776f3d4fb186491968dc41d/djangorestframework-3.12.2-py3-none-any.whl.metadata
+  Downloading djangorestframework-3.12.2-py3-none-any.whl.metadata (9.9 kB)
+ERROR: Could not find a version that satisfies the requirement push_notifications==0.1 (from versions: none)
+ERROR: No matching distribution found for push_notifications==0.1
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

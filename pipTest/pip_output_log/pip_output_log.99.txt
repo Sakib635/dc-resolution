@@ -1,4 +1,0 @@
-ERROR: Invalid requirement: '<3.1.0' (from line 2 of D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/pipTestCopy/watchman\requirements.99.requests.txt)
-
-[notice] A new release of pip is available: 23.2.1 -> 24.1.2
-[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

@@ -1,0 +1,17 @@
+Collecting machine==0.0.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.7c3070bc1c2766633b8ff1d4d51089cf.txt (line 1))
+  Obtaining dependency information for machine==0.0.1 from https://files.pythonhosted.org/packages/c0/ce/0c62600971471aabe55865c7100a886f3c2cad767e3a0af2dff717d08e68/machine-0.0.1-py2.py3-none-any.whl.metadata
+  Downloading machine-0.0.1-py2.py3-none-any.whl.metadata (2.0 kB)
+Collecting pycrypto (from machine==0.0.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.7c3070bc1c2766633b8ff1d4d51089cf.txt (line 1))
+  Downloading pycrypto-2.6.1.tar.gz (446 kB)
+     -------------------------------------- 446.2/446.2 kB 2.3 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Downloading machine-0.0.1-py2.py3-none-any.whl (4.2 kB)
+Would install machine-0.0.1 pycrypto-2.6.1
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

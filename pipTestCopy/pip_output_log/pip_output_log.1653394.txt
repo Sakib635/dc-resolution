@@ -1,0 +1,43 @@
+Collecting pyramid==1.10.5 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1653394.txt (line 1))
+  Obtaining dependency information for pyramid==1.10.5 from https://files.pythonhosted.org/packages/1b/5a/6f934f9cf154aaf74469c2665029b473bb553ac0e1c9aa25f6d4d7891333/pyramid-1.10.5-py2.py3-none-any.whl.metadata
+  Downloading pyramid-1.10.5-py2.py3-none-any.whl.metadata (16 kB)
+Collecting webservice==0.3 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1653394.txt (line 2))
+  Downloading webservice-0.3.tar.gz (1.1 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'error'
+  error: subprocess-exited-with-error
+  
+  Getting requirements to build wheel did not run successfully.
+  exit code: 1
+  
+  [14 lines of output]
+  error: Multiple top-level modules discovered in a flat-layout: ['config', 'webservice'].
+  
+  To avoid accidental inclusion of unwanted files or directories,
+  setuptools will not proceed with this build.
+  
+  If you are trying to create a single distribution with multiple modules
+  on purpose, you should not rely on automatic discovery.
+  Instead, consider the following options:
+  
+  1. set up custom discovery (`find` directive with `include` or `exclude`)
+  2. use a `src-layout`
+  3. explicitly set `py_modules` or `packages` with a list of names
+  
+  To find more information, look for "package discovery" on setuptools docs.
+  [end of output]
+  
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+error: subprocess-exited-with-error
+
+Getting requirements to build wheel did not run successfully.
+exit code: 1
+
+See above for output.
+
+note: This error originates from a subprocess, and is likely not a problem with pip.
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

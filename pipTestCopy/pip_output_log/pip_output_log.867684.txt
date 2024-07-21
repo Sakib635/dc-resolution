@@ -1,0 +1,176 @@
+Collecting tornado==6.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.867684.txt (line 1))
+  Downloading tornado-6.1.tar.gz (497 kB)
+     -------------------------------------- 497.4/497.4 kB 1.7 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting your==0.6.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.867684.txt (line 2))
+  Obtaining dependency information for your==0.6.0 from https://files.pythonhosted.org/packages/77/ca/23a513a86bfbb7cad587fe53aedf109781e94b258bdbdab9566337c77d89/your-0.6.0-py3-none-any.whl.metadata
+  Downloading your-0.6.0-py3-none-any.whl.metadata (5.6 kB)
+Collecting matplotlib>=3.2.1 (from your==0.6.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.867684.txt (line 2))
+  Obtaining dependency information for matplotlib>=3.2.1 from https://files.pythonhosted.org/packages/e3/31/aeab8a3db1fb22a7d04c5215f872b92451baf7f6595ffd59004aeead0b2c/matplotlib-3.9.1-cp312-cp312-win_amd64.whl.metadata
+  Downloading matplotlib-3.9.1-cp312-cp312-win_amd64.whl.metadata (11 kB)
+Collecting numpy>=1.18.4 (from your==0.6.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.867684.txt (line 2))
+  Obtaining dependency information for numpy>=1.18.4 from https://files.pythonhosted.org/packages/ad/9c/4a93b8e395b755c53628573d75d7b21985d9a0f416e978d637084ccc8ec3/numpy-2.0.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading numpy-2.0.0-cp312-cp312-win_amd64.whl.metadata (60 kB)
+     ---------------------------------------- 60.9/60.9 kB 3.2 MB/s eta 0:00:00
+Collecting h5py>=2.10.0 (from your==0.6.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.867684.txt (line 2))
+  Obtaining dependency information for h5py>=2.10.0 from https://files.pythonhosted.org/packages/2b/b2/0ee327933ffa37af1fc7915df7fc067e6009adcd8445d55ad07a9bec11b5/h5py-3.11.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading h5py-3.11.0-cp312-cp312-win_amd64.whl.metadata (2.5 kB)
+Collecting scikit-image>=0.14.2 (from your==0.6.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.867684.txt (line 2))
+  Obtaining dependency information for scikit-image>=0.14.2 from https://files.pythonhosted.org/packages/d9/17/b561823143eb931de0f82fed03ae128ef954a9641309602ea0901c357f95/scikit_image-0.24.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading scikit_image-0.24.0-cp312-cp312-win_amd64.whl.metadata (14 kB)
+Collecting scipy>=1.3.0 (from your==0.6.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.867684.txt (line 2))
+  Obtaining dependency information for scipy>=1.3.0 from https://files.pythonhosted.org/packages/3f/72/305686527c68f33f1dd3ebdd28f53340d372b2f9e44dccaf6f92e17739d3/scipy-1.14.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading scipy-1.14.0-cp312-cp312-win_amd64.whl.metadata (60 kB)
+     ---------------------------------------- 60.8/60.8 kB 3.4 MB/s eta 0:00:00
+Collecting numba>=0.48.0 (from your==0.6.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.867684.txt (line 2))
+  Obtaining dependency information for numba>=0.48.0 from https://files.pythonhosted.org/packages/ca/bd/0fe29fcd1b6a8de479a4ed25c6e56470e467e3611c079d55869ceef2b6d1/numba-0.60.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading numba-0.60.0-cp312-cp312-win_amd64.whl.metadata (2.8 kB)
+Collecting astropy>=4.0 (from your==0.6.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.867684.txt (line 2))
+  Obtaining dependency information for astropy>=4.0 from https://files.pythonhosted.org/packages/dd/2a/8420a3eceb22a9014456f814156fae1e3616cc87ff0b0befa25d9291ddd0/astropy-6.1.1-cp312-cp312-win_amd64.whl.metadata
+  Downloading astropy-6.1.1-cp312-cp312-win_amd64.whl.metadata (10 kB)
+Collecting pandas>=1.0.3 (from your==0.6.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.867684.txt (line 2))
+  Obtaining dependency information for pandas>=1.0.3 from https://files.pythonhosted.org/packages/22/a5/a0b255295406ed54269814bc93723cfd1a0da63fb9aaf99e1364f07923e5/pandas-2.2.2-cp312-cp312-win_amd64.whl.metadata
+  Downloading pandas-2.2.2-cp312-cp312-win_amd64.whl.metadata (19 kB)
+Collecting rich>=8.0 (from your==0.6.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.867684.txt (line 2))
+  Obtaining dependency information for rich>=8.0 from https://files.pythonhosted.org/packages/87/67/a37f6214d0e9fe57f6ae54b2956d550ca8365857f42a1ce0392bb21d9410/rich-13.7.1-py3-none-any.whl.metadata
+  Downloading rich-13.7.1-py3-none-any.whl.metadata (18 kB)
+Collecting pyerfa>=2.0.1.1 (from astropy>=4.0->your==0.6.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.867684.txt (line 2))
+  Obtaining dependency information for pyerfa>=2.0.1.1 from https://files.pythonhosted.org/packages/dd/cc/fdce417aa810a6abddf699948d3e1a57b85e12380222d5093d1b0756fb1f/pyerfa-2.0.1.4-cp39-abi3-win_amd64.whl.metadata
+  Downloading pyerfa-2.0.1.4-cp39-abi3-win_amd64.whl.metadata (5.9 kB)
+Collecting astropy-iers-data>=0.2024.5.27.0.30.8 (from astropy>=4.0->your==0.6.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.867684.txt (line 2))
+  Obtaining dependency information for astropy-iers-data>=0.2024.5.27.0.30.8 from https://files.pythonhosted.org/packages/fa/99/7395dc0b180f2e758949785a844ffc8cd1c558d8e00036aa9ceaffc52b2e/astropy_iers_data-0.2024.7.15.0.31.42-py3-none-any.whl.metadata
+  Downloading astropy_iers_data-0.2024.7.15.0.31.42-py3-none-any.whl.metadata (5.1 kB)
+Collecting PyYAML>=3.13 (from astropy>=4.0->your==0.6.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.867684.txt (line 2))
+  Obtaining dependency information for PyYAML>=3.13 from https://files.pythonhosted.org/packages/2b/9f/fbade56564ad486809c27b322d0f7e6a89c01f6b4fe208402e90d4443a99/PyYAML-6.0.1-cp312-cp312-win_amd64.whl.metadata
+  Downloading PyYAML-6.0.1-cp312-cp312-win_amd64.whl.metadata (2.1 kB)
+Collecting packaging>=19.0 (from astropy>=4.0->your==0.6.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.867684.txt (line 2))
+  Obtaining dependency information for packaging>=19.0 from https://files.pythonhosted.org/packages/08/aa/cc0199a5f0ad350994d660967a8efb233fe0416e4639146c089643407ce6/packaging-24.1-py3-none-any.whl.metadata
+  Downloading packaging-24.1-py3-none-any.whl.metadata (3.2 kB)
+Collecting numpy>=1.18.4 (from your==0.6.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.867684.txt (line 2))
+  Obtaining dependency information for numpy>=1.18.4 from https://files.pythonhosted.org/packages/16/2e/86f24451c2d530c88daf997cb8d6ac622c1d40d19f5a031ed68a4b73a374/numpy-1.26.4-cp312-cp312-win_amd64.whl.metadata
+  Downloading numpy-1.26.4-cp312-cp312-win_amd64.whl.metadata (61 kB)
+     ---------------------------------------- 61.0/61.0 kB 3.2 MB/s eta 0:00:00
+Collecting contourpy>=1.0.1 (from matplotlib>=3.2.1->your==0.6.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.867684.txt (line 2))
+  Obtaining dependency information for contourpy>=1.0.1 from https://files.pythonhosted.org/packages/78/38/a046bb0ebce6f530175d434e7364149e338ffe1069ee286ed8ba7f6481ee/contourpy-1.2.1-cp312-cp312-win_amd64.whl.metadata
+  Downloading contourpy-1.2.1-cp312-cp312-win_amd64.whl.metadata (5.8 kB)
+Collecting cycler>=0.10 (from matplotlib>=3.2.1->your==0.6.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.867684.txt (line 2))
+  Obtaining dependency information for cycler>=0.10 from https://files.pythonhosted.org/packages/e7/05/c19819d5e3d95294a6f5947fb9b9629efb316b96de511b418c53d245aae6/cycler-0.12.1-py3-none-any.whl.metadata
+  Downloading cycler-0.12.1-py3-none-any.whl.metadata (3.8 kB)
+Collecting fonttools>=4.22.0 (from matplotlib>=3.2.1->your==0.6.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.867684.txt (line 2))
+  Obtaining dependency information for fonttools>=4.22.0 from https://files.pythonhosted.org/packages/6d/9a/b695930e1b4e6929cc60e294489421632a05c105ac8c56ee63ef56a47872/fonttools-4.53.1-cp312-cp312-win_amd64.whl.metadata
+  Downloading fonttools-4.53.1-cp312-cp312-win_amd64.whl.metadata (165 kB)
+     -------------------------------------- 165.9/165.9 kB 4.9 MB/s eta 0:00:00
+Collecting kiwisolver>=1.3.1 (from matplotlib>=3.2.1->your==0.6.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.867684.txt (line 2))
+  Obtaining dependency information for kiwisolver>=1.3.1 from https://files.pythonhosted.org/packages/63/50/2746566bdf4a6a842d117367d05c90cfb87ac04e9e2845aa1fa21f071362/kiwisolver-1.4.5-cp312-cp312-win_amd64.whl.metadata
+  Downloading kiwisolver-1.4.5-cp312-cp312-win_amd64.whl.metadata (6.5 kB)
+Collecting pillow>=8 (from matplotlib>=3.2.1->your==0.6.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.867684.txt (line 2))
+  Obtaining dependency information for pillow>=8 from https://files.pythonhosted.org/packages/74/0a/d4ce3c44bca8635bd29a2eab5aa181b654a734a29b263ca8efe013beea98/pillow-10.4.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading pillow-10.4.0-cp312-cp312-win_amd64.whl.metadata (9.3 kB)
+Collecting pyparsing>=2.3.1 (from matplotlib>=3.2.1->your==0.6.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.867684.txt (line 2))
+  Obtaining dependency information for pyparsing>=2.3.1 from https://files.pythonhosted.org/packages/9d/ea/6d76df31432a0e6fdf81681a895f009a4bb47b3c39036db3e1b528191d52/pyparsing-3.1.2-py3-none-any.whl.metadata
+  Downloading pyparsing-3.1.2-py3-none-any.whl.metadata (5.1 kB)
+Collecting python-dateutil>=2.7 (from matplotlib>=3.2.1->your==0.6.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.867684.txt (line 2))
+  Obtaining dependency information for python-dateutil>=2.7 from https://files.pythonhosted.org/packages/ec/57/56b9bcc3c9c6a792fcbaf139543cee77261f3651ca9da0c93f5c1221264b/python_dateutil-2.9.0.post0-py2.py3-none-any.whl.metadata
+  Downloading python_dateutil-2.9.0.post0-py2.py3-none-any.whl.metadata (8.4 kB)
+Collecting llvmlite<0.44,>=0.43.0dev0 (from numba>=0.48.0->your==0.6.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.867684.txt (line 2))
+  Obtaining dependency information for llvmlite<0.44,>=0.43.0dev0 from https://files.pythonhosted.org/packages/c6/94/dea10e263655ce78d777e78d904903faae39d1fc440762be4a9dc46bed49/llvmlite-0.43.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading llvmlite-0.43.0-cp312-cp312-win_amd64.whl.metadata (4.9 kB)
+Collecting pytz>=2020.1 (from pandas>=1.0.3->your==0.6.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.867684.txt (line 2))
+  Obtaining dependency information for pytz>=2020.1 from https://files.pythonhosted.org/packages/9c/3d/a121f284241f08268b21359bd425f7d4825cffc5ac5cd0e1b3d82ffd2b10/pytz-2024.1-py2.py3-none-any.whl.metadata
+  Downloading pytz-2024.1-py2.py3-none-any.whl.metadata (22 kB)
+Collecting tzdata>=2022.7 (from pandas>=1.0.3->your==0.6.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.867684.txt (line 2))
+  Obtaining dependency information for tzdata>=2022.7 from https://files.pythonhosted.org/packages/65/58/f9c9e6be752e9fcb8b6a0ee9fb87e6e7a1f6bcab2cdc73f02bb7ba91ada0/tzdata-2024.1-py2.py3-none-any.whl.metadata
+  Downloading tzdata-2024.1-py2.py3-none-any.whl.metadata (1.4 kB)
+Collecting markdown-it-py>=2.2.0 (from rich>=8.0->your==0.6.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.867684.txt (line 2))
+  Obtaining dependency information for markdown-it-py>=2.2.0 from https://files.pythonhosted.org/packages/42/d7/1ec15b46af6af88f19b8e5ffea08fa375d433c998b8a7639e76935c14f1f/markdown_it_py-3.0.0-py3-none-any.whl.metadata
+  Downloading markdown_it_py-3.0.0-py3-none-any.whl.metadata (6.9 kB)
+Collecting pygments<3.0.0,>=2.13.0 (from rich>=8.0->your==0.6.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.867684.txt (line 2))
+  Obtaining dependency information for pygments<3.0.0,>=2.13.0 from https://files.pythonhosted.org/packages/f7/3f/01c8b82017c199075f8f788d0d906b9ffbbc5a47dc9918a945e13d5a2bda/pygments-2.18.0-py3-none-any.whl.metadata
+  Downloading pygments-2.18.0-py3-none-any.whl.metadata (2.5 kB)
+Collecting networkx>=2.8 (from scikit-image>=0.14.2->your==0.6.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.867684.txt (line 2))
+  Obtaining dependency information for networkx>=2.8 from https://files.pythonhosted.org/packages/38/e9/5f72929373e1a0e8d142a130f3f97e6ff920070f87f91c4e13e40e0fba5a/networkx-3.3-py3-none-any.whl.metadata
+  Downloading networkx-3.3-py3-none-any.whl.metadata (5.1 kB)
+Collecting imageio>=2.33 (from scikit-image>=0.14.2->your==0.6.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.867684.txt (line 2))
+  Obtaining dependency information for imageio>=2.33 from https://files.pythonhosted.org/packages/3d/84/f1647217231f6cc46883e5d26e870cc3e1520d458ecd52d6df750810d53c/imageio-2.34.2-py3-none-any.whl.metadata
+  Downloading imageio-2.34.2-py3-none-any.whl.metadata (4.9 kB)
+Collecting tifffile>=2022.8.12 (from scikit-image>=0.14.2->your==0.6.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.867684.txt (line 2))
+  Obtaining dependency information for tifffile>=2022.8.12 from https://files.pythonhosted.org/packages/d2/d7/ca95f347442e82700f591f3608e336596ee607daecbcad6a7ebd16ff5de4/tifffile-2024.7.2-py3-none-any.whl.metadata
+  Downloading tifffile-2024.7.2-py3-none-any.whl.metadata (30 kB)
+Collecting lazy-loader>=0.4 (from scikit-image>=0.14.2->your==0.6.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.867684.txt (line 2))
+  Obtaining dependency information for lazy-loader>=0.4 from https://files.pythonhosted.org/packages/83/60/d497a310bde3f01cb805196ac61b7ad6dc5dcf8dce66634dc34364b20b4f/lazy_loader-0.4-py3-none-any.whl.metadata
+  Downloading lazy_loader-0.4-py3-none-any.whl.metadata (7.6 kB)
+Collecting mdurl~=0.1 (from markdown-it-py>=2.2.0->rich>=8.0->your==0.6.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.867684.txt (line 2))
+  Obtaining dependency information for mdurl~=0.1 from https://files.pythonhosted.org/packages/b3/38/89ba8ad64ae25be8de66a6d463314cf1eb366222074cfda9ee839c56a4b4/mdurl-0.1.2-py3-none-any.whl.metadata
+  Downloading mdurl-0.1.2-py3-none-any.whl.metadata (1.6 kB)
+Collecting six>=1.5 (from python-dateutil>=2.7->matplotlib>=3.2.1->your==0.6.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.867684.txt (line 2))
+  Obtaining dependency information for six>=1.5 from https://files.pythonhosted.org/packages/d9/5a/e7c31adbe875f2abbb91bd84cf2dc52d792b5a01506781dbcf25c91daf11/six-1.16.0-py2.py3-none-any.whl.metadata
+  Downloading six-1.16.0-py2.py3-none-any.whl.metadata (1.8 kB)
+Downloading your-0.6.0-py3-none-any.whl (79 kB)
+   ---------------------------------------- 79.5/79.5 kB 4.3 MB/s eta 0:00:00
+Downloading astropy-6.1.1-cp312-cp312-win_amd64.whl (6.4 MB)
+   ---------------------------------------- 6.4/6.4 MB 8.3 MB/s eta 0:00:00
+Downloading h5py-3.11.0-cp312-cp312-win_amd64.whl (3.0 MB)
+   ---------------------------------------- 3.0/3.0 MB 17.3 MB/s eta 0:00:00
+Downloading matplotlib-3.9.1-cp312-cp312-win_amd64.whl (8.0 MB)
+   ---------------------------------------- 8.0/8.0 MB 18.2 MB/s eta 0:00:00
+Downloading numba-0.60.0-cp312-cp312-win_amd64.whl (2.7 MB)
+   ---------------------------------------- 2.7/2.7 MB 21.6 MB/s eta 0:00:00
+Downloading numpy-1.26.4-cp312-cp312-win_amd64.whl (15.5 MB)
+   ---------------------------------------- 15.5/15.5 MB 20.4 MB/s eta 0:00:00
+Downloading pandas-2.2.2-cp312-cp312-win_amd64.whl (11.5 MB)
+   ---------------------------------------- 11.5/11.5 MB 22.6 MB/s eta 0:00:00
+Downloading rich-13.7.1-py3-none-any.whl (240 kB)
+   --------------------------------------- 240.7/240.7 kB 15.4 MB/s eta 0:00:00
+Downloading scikit_image-0.24.0-cp312-cp312-win_amd64.whl (12.9 MB)
+   ---------------------------------------- 12.9/12.9 MB 18.2 MB/s eta 0:00:00
+Downloading scipy-1.14.0-cp312-cp312-win_amd64.whl (44.5 MB)
+   ---------------------------------------- 44.5/44.5 MB 10.6 MB/s eta 0:00:00
+Downloading astropy_iers_data-0.2024.7.15.0.31.42-py3-none-any.whl (1.9 MB)
+   ---------------------------------------- 1.9/1.9 MB 20.4 MB/s eta 0:00:00
+Downloading contourpy-1.2.1-cp312-cp312-win_amd64.whl (189 kB)
+   ---------------------------------------- 189.9/189.9 kB ? eta 0:00:00
+Downloading cycler-0.12.1-py3-none-any.whl (8.3 kB)
+Downloading fonttools-4.53.1-cp312-cp312-win_amd64.whl (2.2 MB)
+   ---------------------------------------- 2.2/2.2 MB 27.6 MB/s eta 0:00:00
+Downloading imageio-2.34.2-py3-none-any.whl (313 kB)
+   --------------------------------------- 313.5/313.5 kB 20.2 MB/s eta 0:00:00
+Downloading kiwisolver-1.4.5-cp312-cp312-win_amd64.whl (56 kB)
+   ---------------------------------------- 56.0/56.0 kB 3.1 MB/s eta 0:00:00
+Downloading lazy_loader-0.4-py3-none-any.whl (12 kB)
+Downloading llvmlite-0.43.0-cp312-cp312-win_amd64.whl (28.1 MB)
+   ---------------------------------------- 28.1/28.1 MB 13.4 MB/s eta 0:00:00
+Downloading markdown_it_py-3.0.0-py3-none-any.whl (87 kB)
+   ---------------------------------------- 87.5/87.5 kB 5.2 MB/s eta 0:00:00
+Downloading networkx-3.3-py3-none-any.whl (1.7 MB)
+   ---------------------------------------- 1.7/1.7 MB 7.8 MB/s eta 0:00:00
+Downloading packaging-24.1-py3-none-any.whl (53 kB)
+   ---------------------------------------- 54.0/54.0 kB 2.9 MB/s eta 0:00:00
+Downloading pillow-10.4.0-cp312-cp312-win_amd64.whl (2.6 MB)
+   ---------------------------------------- 2.6/2.6 MB 27.1 MB/s eta 0:00:00
+Downloading pyerfa-2.0.1.4-cp39-abi3-win_amd64.whl (347 kB)
+   --------------------------------------- 347.1/347.1 kB 21.1 MB/s eta 0:00:00
+Downloading pygments-2.18.0-py3-none-any.whl (1.2 MB)
+   ---------------------------------------- 1.2/1.2 MB 19.0 MB/s eta 0:00:00
+Downloading pyparsing-3.1.2-py3-none-any.whl (103 kB)
+   ---------------------------------------- 103.2/103.2 kB ? eta 0:00:00
+Downloading python_dateutil-2.9.0.post0-py2.py3-none-any.whl (229 kB)
+   --------------------------------------- 229.9/229.9 kB 13.7 MB/s eta 0:00:00
+Downloading pytz-2024.1-py2.py3-none-any.whl (505 kB)
+   --------------------------------------- 505.5/505.5 kB 16.0 MB/s eta 0:00:00
+Downloading PyYAML-6.0.1-cp312-cp312-win_amd64.whl (138 kB)
+   ---------------------------------------- 138.7/138.7 kB 8.6 MB/s eta 0:00:00
+Downloading tifffile-2024.7.2-py3-none-any.whl (225 kB)
+   --------------------------------------- 225.9/225.9 kB 13.5 MB/s eta 0:00:00
+Downloading tzdata-2024.1-py2.py3-none-any.whl (345 kB)
+   --------------------------------------- 345.4/345.4 kB 10.8 MB/s eta 0:00:00
+Downloading mdurl-0.1.2-py3-none-any.whl (10.0 kB)
+Downloading six-1.16.0-py2.py3-none-any.whl (11 kB)
+Would install PyYAML-6.0.1 Pygments-2.18.0 astropy-6.1.1 astropy-iers-data-0.2024.7.15.0.31.42 contourpy-1.2.1 cycler-0.12.1 fonttools-4.53.1 h5py-3.11.0 imageio-2.34.2 kiwisolver-1.4.5 lazy_loader-0.4 llvmlite-0.43.0 markdown-it-py-3.0.0 matplotlib-3.9.1 mdurl-0.1.2 networkx-3.3 numba-0.60.0 numpy-1.26.4 packaging-24.1 pandas-2.2.2 pillow-10.4.0 pyerfa-2.0.1.4 pyparsing-3.1.2 python-dateutil-2.9.0.post0 pytz-2024.1 rich-13.7.1 scikit-image-0.24.0 scipy-1.14.0 six-1.16.0 tifffile-2024.7.2 tornado-6.1 tzdata-2024.1 your-0.6.0
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

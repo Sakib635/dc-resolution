@@ -1,0 +1,42 @@
+Collecting kivy==2.0.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3582544.txt (line 1))
+  Downloading Kivy-2.0.0.tar.gz (23.7 MB)
+     --------------------------------------- 23.7/23.7 MB 13.6 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'error'
+  error: subprocess-exited-with-error
+  
+  pip subprocess to install build dependencies did not run successfully.
+  exit code: 1
+  
+  [17 lines of output]
+  Collecting setuptools
+    Obtaining dependency information for setuptools from https://files.pythonhosted.org/packages/01/82/a2c6c0a1612c89bdb21dc4d9196ba9e7dcbc2e285afda93ebdf663ba2ada/setuptools-71.0.0-py3-none-any.whl.metadata
+    Downloading setuptools-71.0.0-py3-none-any.whl.metadata (6.5 kB)
+  Collecting wheel
+    Obtaining dependency information for wheel from https://files.pythonhosted.org/packages/7d/cd/d7460c9a869b16c3dd4e1e403cce337df165368c71d6af229a74699622ce/wheel-0.43.0-py3-none-any.whl.metadata
+    Downloading wheel-0.43.0-py3-none-any.whl.metadata (2.2 kB)
+  Collecting cython!=0.27,!=0.27.2,<=0.29.21,>=0.24
+    Obtaining dependency information for cython!=0.27,!=0.27.2,<=0.29.21,>=0.24 from https://files.pythonhosted.org/packages/ad/4b/9e53bcce3c959fd0db143626e573210bba07be810fe8d7296373948c4183/Cython-0.29.21-py2.py3-none-any.whl.metadata
+    Downloading Cython-0.29.21-py2.py3-none-any.whl.metadata (2.6 kB)
+  Collecting kivy_deps.gstreamer_dev~=0.3.1
+    Obtaining dependency information for kivy_deps.gstreamer_dev~=0.3.1 from https://files.pythonhosted.org/packages/be/e3/6e4d32636a39bf25a83fa956373805b494d95c77a57cf021971da000d3e8/kivy_deps.gstreamer_dev-0.3.3-cp312-cp312-win_amd64.whl.metadata
+    Downloading kivy_deps.gstreamer_dev-0.3.3-cp312-cp312-win_amd64.whl.metadata (215 bytes)
+  ERROR: Could not find a version that satisfies the requirement kivy_deps.sdl2_dev~=0.3.1 (from versions: 0.7.0)
+  ERROR: No matching distribution found for kivy_deps.sdl2_dev~=0.3.1
+  
+  [notice] A new release of pip is available: 23.2.1 -> 24.1.2
+  [notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip
+  [end of output]
+  
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+error: subprocess-exited-with-error
+
+pip subprocess to install build dependencies did not run successfully.
+exit code: 1
+
+See above for output.
+
+note: This error originates from a subprocess, and is likely not a problem with pip.
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

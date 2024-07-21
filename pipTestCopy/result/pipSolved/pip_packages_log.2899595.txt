@@ -1,0 +1,10 @@
+Django-3.1.5
+ajaxuploader-0.3.8
+asgiref-3.8.1
+boto-2.49.0
+dnspython-1.16.0
+eventlet-0.30.0
+greenlet-3.0.3
+pytz-2024.1
+six-1.16.0
+sqlparse-0.5.1

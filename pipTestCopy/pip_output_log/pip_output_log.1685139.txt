@@ -1,0 +1,109 @@
+Collecting Django==3.1.5 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1685139.txt (line 1))
+  Obtaining dependency information for Django==3.1.5 from https://files.pythonhosted.org/packages/b2/8f/d27f35f0639103271231bc81a96ad9188e6b5bc878e140ccb0dc610ccef0/Django-3.1.5-py3-none-any.whl.metadata
+  Downloading Django-3.1.5-py3-none-any.whl.metadata (3.7 kB)
+Collecting splinter==0.14.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1685139.txt (line 2))
+  Obtaining dependency information for splinter==0.14.0 from https://files.pythonhosted.org/packages/f8/94/836feeefcc8af55cba5ea9716b83c665fd85ae9e1d81e22ae73357bf61cf/splinter-0.14.0-py3-none-any.whl.metadata
+  Downloading splinter-0.14.0-py3-none-any.whl.metadata (4.3 kB)
+Collecting asgiref<4,>=3.2.10 (from Django==3.1.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1685139.txt (line 1))
+  Obtaining dependency information for asgiref<4,>=3.2.10 from https://files.pythonhosted.org/packages/39/e3/893e8757be2612e6c266d9bb58ad2e3651524b5b40cf56761e985a28b13e/asgiref-3.8.1-py3-none-any.whl.metadata
+  Downloading asgiref-3.8.1-py3-none-any.whl.metadata (9.3 kB)
+Collecting pytz (from Django==3.1.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1685139.txt (line 1))
+  Obtaining dependency information for pytz from https://files.pythonhosted.org/packages/9c/3d/a121f284241f08268b21359bd425f7d4825cffc5ac5cd0e1b3d82ffd2b10/pytz-2024.1-py2.py3-none-any.whl.metadata
+  Downloading pytz-2024.1-py2.py3-none-any.whl.metadata (22 kB)
+Collecting sqlparse>=0.2.2 (from Django==3.1.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1685139.txt (line 1))
+  Obtaining dependency information for sqlparse>=0.2.2 from https://files.pythonhosted.org/packages/5d/a5/b2860373aa8de1e626b2bdfdd6df4355f0565b47e51f7d0c54fe70faf8fe/sqlparse-0.5.1-py3-none-any.whl.metadata
+  Downloading sqlparse-0.5.1-py3-none-any.whl.metadata (3.9 kB)
+Collecting selenium>=3.141.0 (from splinter==0.14.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1685139.txt (line 2))
+  Obtaining dependency information for selenium>=3.141.0 from https://files.pythonhosted.org/packages/f2/7d/3a0b9c229d87a189b64c3b8e6d87a970a1ef7875995dc31bd18e65fa1c17/selenium-4.22.0-py3-none-any.whl.metadata
+  Downloading selenium-4.22.0-py3-none-any.whl.metadata (7.0 kB)
+Collecting six (from splinter==0.14.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1685139.txt (line 2))
+  Obtaining dependency information for six from https://files.pythonhosted.org/packages/d9/5a/e7c31adbe875f2abbb91bd84cf2dc52d792b5a01506781dbcf25c91daf11/six-1.16.0-py2.py3-none-any.whl.metadata
+  Downloading six-1.16.0-py2.py3-none-any.whl.metadata (1.8 kB)
+Collecting urllib3[socks]<3,>=1.26 (from selenium>=3.141.0->splinter==0.14.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1685139.txt (line 2))
+  Obtaining dependency information for urllib3[socks]<3,>=1.26 from https://files.pythonhosted.org/packages/ca/1c/89ffc63a9605b583d5df2be791a27bc1a42b7c32bab68d3c8f2f73a98cd4/urllib3-2.2.2-py3-none-any.whl.metadata
+  Downloading urllib3-2.2.2-py3-none-any.whl.metadata (6.4 kB)
+Collecting trio~=0.17 (from selenium>=3.141.0->splinter==0.14.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1685139.txt (line 2))
+  Obtaining dependency information for trio~=0.17 from https://files.pythonhosted.org/packages/77/34/461280cc615614a9e434c6e23373371a2436f71d045303cadabb1d775eba/trio-0.26.0-py3-none-any.whl.metadata
+  Downloading trio-0.26.0-py3-none-any.whl.metadata (8.8 kB)
+Collecting trio-websocket~=0.9 (from selenium>=3.141.0->splinter==0.14.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1685139.txt (line 2))
+  Obtaining dependency information for trio-websocket~=0.9 from https://files.pythonhosted.org/packages/48/be/a9ae5f50cad5b6f85bd2574c2c923730098530096e170c1ce7452394d7aa/trio_websocket-0.11.1-py3-none-any.whl.metadata
+  Downloading trio_websocket-0.11.1-py3-none-any.whl.metadata (4.7 kB)
+Collecting certifi>=2021.10.8 (from selenium>=3.141.0->splinter==0.14.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1685139.txt (line 2))
+  Obtaining dependency information for certifi>=2021.10.8 from https://files.pythonhosted.org/packages/1c/d5/c84e1a17bf61d4df64ca866a1c9a913874b4e9bdc131ec689a0ad013fb36/certifi-2024.7.4-py3-none-any.whl.metadata
+  Downloading certifi-2024.7.4-py3-none-any.whl.metadata (2.2 kB)
+Collecting typing_extensions>=4.9.0 (from selenium>=3.141.0->splinter==0.14.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1685139.txt (line 2))
+  Obtaining dependency information for typing_extensions>=4.9.0 from https://files.pythonhosted.org/packages/26/9f/ad63fc0248c5379346306f8668cda6e2e2e9c95e01216d2b8ffd9ff037d0/typing_extensions-4.12.2-py3-none-any.whl.metadata
+  Downloading typing_extensions-4.12.2-py3-none-any.whl.metadata (3.0 kB)
+Collecting websocket-client>=1.8.0 (from selenium>=3.141.0->splinter==0.14.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1685139.txt (line 2))
+  Obtaining dependency information for websocket-client>=1.8.0 from https://files.pythonhosted.org/packages/5a/84/44687a29792a70e111c5c477230a72c4b957d88d16141199bf9acb7537a3/websocket_client-1.8.0-py3-none-any.whl.metadata
+  Downloading websocket_client-1.8.0-py3-none-any.whl.metadata (8.0 kB)
+Collecting attrs>=23.2.0 (from trio~=0.17->selenium>=3.141.0->splinter==0.14.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1685139.txt (line 2))
+  Obtaining dependency information for attrs>=23.2.0 from https://files.pythonhosted.org/packages/e0/44/827b2a91a5816512fcaf3cc4ebc465ccd5d598c45cefa6703fcf4a79018f/attrs-23.2.0-py3-none-any.whl.metadata
+  Downloading attrs-23.2.0-py3-none-any.whl.metadata (9.5 kB)
+Collecting sortedcontainers (from trio~=0.17->selenium>=3.141.0->splinter==0.14.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1685139.txt (line 2))
+  Obtaining dependency information for sortedcontainers from https://files.pythonhosted.org/packages/32/46/9cb0e58b2deb7f82b84065f37f3bffeb12413f947f9388e4cac22c4621ce/sortedcontainers-2.4.0-py2.py3-none-any.whl.metadata
+  Downloading sortedcontainers-2.4.0-py2.py3-none-any.whl.metadata (10 kB)
+Collecting idna (from trio~=0.17->selenium>=3.141.0->splinter==0.14.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1685139.txt (line 2))
+  Obtaining dependency information for idna from https://files.pythonhosted.org/packages/e5/3e/741d8c82801c347547f8a2a06aa57dbb1992be9e948df2ea0eda2c8b79e8/idna-3.7-py3-none-any.whl.metadata
+  Downloading idna-3.7-py3-none-any.whl.metadata (9.9 kB)
+Collecting outcome (from trio~=0.17->selenium>=3.141.0->splinter==0.14.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1685139.txt (line 2))
+  Obtaining dependency information for outcome from https://files.pythonhosted.org/packages/55/8b/5ab7257531a5d830fc8000c476e63c935488d74609b50f9384a643ec0a62/outcome-1.3.0.post0-py2.py3-none-any.whl.metadata
+  Downloading outcome-1.3.0.post0-py2.py3-none-any.whl.metadata (2.6 kB)
+Collecting sniffio>=1.3.0 (from trio~=0.17->selenium>=3.141.0->splinter==0.14.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1685139.txt (line 2))
+  Obtaining dependency information for sniffio>=1.3.0 from https://files.pythonhosted.org/packages/e9/44/75a9c9421471a6c4805dbf2356f7c181a29c1879239abab1ea2cc8f38b40/sniffio-1.3.1-py3-none-any.whl.metadata
+  Downloading sniffio-1.3.1-py3-none-any.whl.metadata (3.9 kB)
+Collecting cffi>=1.14 (from trio~=0.17->selenium>=3.141.0->splinter==0.14.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1685139.txt (line 2))
+  Obtaining dependency information for cffi>=1.14 from https://files.pythonhosted.org/packages/e9/63/e285470a4880a4f36edabe4810057bd4b562c6ddcc165eacf9c3c7210b40/cffi-1.16.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading cffi-1.16.0-cp312-cp312-win_amd64.whl.metadata (1.5 kB)
+Collecting wsproto>=0.14 (from trio-websocket~=0.9->selenium>=3.141.0->splinter==0.14.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1685139.txt (line 2))
+  Obtaining dependency information for wsproto>=0.14 from https://files.pythonhosted.org/packages/78/58/e860788190eba3bcce367f74d29c4675466ce8dddfba85f7827588416f01/wsproto-1.2.0-py3-none-any.whl.metadata
+  Downloading wsproto-1.2.0-py3-none-any.whl.metadata (5.6 kB)
+Collecting pysocks!=1.5.7,<2.0,>=1.5.6 (from urllib3[socks]<3,>=1.26->selenium>=3.141.0->splinter==0.14.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1685139.txt (line 2))
+  Obtaining dependency information for pysocks!=1.5.7,<2.0,>=1.5.6 from https://files.pythonhosted.org/packages/8d/59/b4572118e098ac8e46e399a1dd0f2d85403ce8bbaad9ec79373ed6badaf9/PySocks-1.7.1-py3-none-any.whl.metadata
+  Downloading PySocks-1.7.1-py3-none-any.whl.metadata (13 kB)
+Collecting pycparser (from cffi>=1.14->trio~=0.17->selenium>=3.141.0->splinter==0.14.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1685139.txt (line 2))
+  Obtaining dependency information for pycparser from https://files.pythonhosted.org/packages/13/a3/a812df4e2dd5696d1f351d58b8fe16a405b234ad2886a0dab9183fb78109/pycparser-2.22-py3-none-any.whl.metadata
+  Downloading pycparser-2.22-py3-none-any.whl.metadata (943 bytes)
+Collecting h11<1,>=0.9.0 (from wsproto>=0.14->trio-websocket~=0.9->selenium>=3.141.0->splinter==0.14.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.1685139.txt (line 2))
+  Obtaining dependency information for h11<1,>=0.9.0 from https://files.pythonhosted.org/packages/95/04/ff642e65ad6b90db43e668d70ffb6736436c7ce41fcc549f4e9472234127/h11-0.14.0-py3-none-any.whl.metadata
+  Downloading h11-0.14.0-py3-none-any.whl.metadata (8.2 kB)
+Downloading Django-3.1.5-py3-none-any.whl (7.8 MB)
+   ---------------------------------------- 7.8/7.8 MB 8.1 MB/s eta 0:00:00
+Downloading splinter-0.14.0-py3-none-any.whl (36 kB)
+Downloading asgiref-3.8.1-py3-none-any.whl (23 kB)
+Downloading selenium-4.22.0-py3-none-any.whl (9.4 MB)
+   ---------------------------------------- 9.4/9.4 MB 11.6 MB/s eta 0:00:00
+Downloading sqlparse-0.5.1-py3-none-any.whl (44 kB)
+   ---------------------------------------- 44.2/44.2 kB 2.1 MB/s eta 0:00:00
+Downloading pytz-2024.1-py2.py3-none-any.whl (505 kB)
+   --------------------------------------- 505.5/505.5 kB 16.0 MB/s eta 0:00:00
+Downloading six-1.16.0-py2.py3-none-any.whl (11 kB)
+Downloading certifi-2024.7.4-py3-none-any.whl (162 kB)
+   --------------------------------------- 163.0/163.0 kB 10.2 MB/s eta 0:00:00
+Downloading trio-0.26.0-py3-none-any.whl (475 kB)
+   --------------------------------------- 475.7/475.7 kB 15.0 MB/s eta 0:00:00
+Downloading trio_websocket-0.11.1-py3-none-any.whl (17 kB)
+Downloading typing_extensions-4.12.2-py3-none-any.whl (37 kB)
+Downloading websocket_client-1.8.0-py3-none-any.whl (58 kB)
+   ---------------------------------------- 58.8/58.8 kB ? eta 0:00:00
+Downloading attrs-23.2.0-py3-none-any.whl (60 kB)
+   ---------------------------------------- 60.8/60.8 kB ? eta 0:00:00
+Downloading cffi-1.16.0-cp312-cp312-win_amd64.whl (181 kB)
+   ---------------------------------------- 182.0/182.0 kB 3.7 MB/s eta 0:00:00
+Downloading PySocks-1.7.1-py3-none-any.whl (16 kB)
+Downloading sniffio-1.3.1-py3-none-any.whl (10 kB)
+Downloading wsproto-1.2.0-py3-none-any.whl (24 kB)
+Downloading idna-3.7-py3-none-any.whl (66 kB)
+   ---------------------------------------- 66.8/66.8 kB ? eta 0:00:00
+Downloading outcome-1.3.0.post0-py2.py3-none-any.whl (10 kB)
+Downloading sortedcontainers-2.4.0-py2.py3-none-any.whl (29 kB)
+Downloading urllib3-2.2.2-py3-none-any.whl (121 kB)
+   ---------------------------------------- 121.4/121.4 kB 7.0 MB/s eta 0:00:00
+Downloading h11-0.14.0-py3-none-any.whl (58 kB)
+   ---------------------------------------- 58.3/58.3 kB 3.2 MB/s eta 0:00:00
+Downloading pycparser-2.22-py3-none-any.whl (117 kB)
+   ---------------------------------------- 117.6/117.6 kB 6.7 MB/s eta 0:00:00
+Would install Django-3.1.5 PySocks-1.7.1 asgiref-3.8.1 attrs-23.2.0 certifi-2024.7.4 cffi-1.16.0 h11-0.14.0 idna-3.7 outcome-1.3.0.post0 pycparser-2.22 pytz-2024.1 selenium-4.22.0 six-1.16.0 sniffio-1.3.1 sortedcontainers-2.4.0 splinter-0.14.0 sqlparse-0.5.1 trio-0.26.0 trio-websocket-0.11.1 typing_extensions-4.12.2 urllib3-2.2.2 websocket-client-1.8.0 wsproto-1.2.0
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

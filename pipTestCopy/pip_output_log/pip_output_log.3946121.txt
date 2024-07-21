@@ -1,0 +1,25 @@
+Collecting colorz==1.0.3 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3946121.txt (line 1))
+  Obtaining dependency information for colorz==1.0.3 from https://files.pythonhosted.org/packages/6b/38/1dcc0641bfbf8edf1d3310a879cde418ff8e86c13f121c8d018940a992aa/colorz-1.0.3-py2.py3-none-any.whl.metadata
+  Downloading colorz-1.0.3-py2.py3-none-any.whl.metadata (2.8 kB)
+Collecting Pillow (from colorz==1.0.3->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3946121.txt (line 1))
+  Obtaining dependency information for Pillow from https://files.pythonhosted.org/packages/74/0a/d4ce3c44bca8635bd29a2eab5aa181b654a734a29b263ca8efe013beea98/pillow-10.4.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading pillow-10.4.0-cp312-cp312-win_amd64.whl.metadata (9.3 kB)
+Collecting scipy (from colorz==1.0.3->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3946121.txt (line 1))
+  Obtaining dependency information for scipy from https://files.pythonhosted.org/packages/3f/72/305686527c68f33f1dd3ebdd28f53340d372b2f9e44dccaf6f92e17739d3/scipy-1.14.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading scipy-1.14.0-cp312-cp312-win_amd64.whl.metadata (60 kB)
+     -------------------------------------- 60.8/60.8 kB 647.8 kB/s eta 0:00:00
+Collecting numpy<2.3,>=1.23.5 (from scipy->colorz==1.0.3->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3946121.txt (line 1))
+  Obtaining dependency information for numpy<2.3,>=1.23.5 from https://files.pythonhosted.org/packages/ad/9c/4a93b8e395b755c53628573d75d7b21985d9a0f416e978d637084ccc8ec3/numpy-2.0.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading numpy-2.0.0-cp312-cp312-win_amd64.whl.metadata (60 kB)
+     ---------------------------------------- 60.9/60.9 kB 1.6 MB/s eta 0:00:00
+Downloading colorz-1.0.3-py2.py3-none-any.whl (7.3 kB)
+Downloading pillow-10.4.0-cp312-cp312-win_amd64.whl (2.6 MB)
+   ---------------------------------------- 2.6/2.6 MB 8.1 MB/s eta 0:00:00
+Downloading scipy-1.14.0-cp312-cp312-win_amd64.whl (44.5 MB)
+   ---------------------------------------- 44.5/44.5 MB 7.4 MB/s eta 0:00:00
+Downloading numpy-2.0.0-cp312-cp312-win_amd64.whl (16.2 MB)
+   ---------------------------------------- 16.2/16.2 MB 10.2 MB/s eta 0:00:00
+Would install colorz-1.0.3 numpy-2.0.0 pillow-10.4.0 scipy-1.14.0
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

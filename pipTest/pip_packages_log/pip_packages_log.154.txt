@@ -1,4 +1,0 @@
-click-8.1.7
-colorama-0.4.6
-first-2.0.2
-six-1.16.0

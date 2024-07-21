@@ -1,0 +1,17 @@
+Collecting Django==3.1.5 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.809993.txt (line 1))
+  Obtaining dependency information for Django==3.1.5 from https://files.pythonhosted.org/packages/b2/8f/d27f35f0639103271231bc81a96ad9188e6b5bc878e140ccb0dc610ccef0/Django-3.1.5-py3-none-any.whl.metadata
+  Downloading Django-3.1.5-py3-none-any.whl.metadata (3.7 kB)
+Collecting django_tastypie==0.14.3 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.809993.txt (line 2))
+  Downloading django-tastypie-0.14.3.tar.gz (148 kB)
+     ------------------------------------ 148.9/148.9 kB 888.8 kB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+ERROR: Could not find a version that satisfies the requirement sandbox==0.3.5 (from versions: none)
+ERROR: No matching distribution found for sandbox==0.3.5
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

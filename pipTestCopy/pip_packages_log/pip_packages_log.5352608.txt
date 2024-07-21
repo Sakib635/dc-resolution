@@ -1,0 +1,6 @@
+APScheduler-3.6.3
+pytz-2024.1
+setuptools-71.0.0
+six-1.16.0
+tzdata-2024.1
+tzlocal-5.2

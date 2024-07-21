@@ -1,0 +1,12 @@
+PasteDeploy-3.1.0
+WebOb-1.8.7
+hupper-1.12.1
+myapp-0.1.dev0
+plaster-1.1.2
+plaster-pastedeploy-1.0.1
+pyramid-1.10.5
+setuptools-71.0.0
+translationstring-1.4
+venusian-3.1.0
+zope.deprecation-5.0
+zope.interface-6.4.post2

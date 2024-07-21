@@ -1,0 +1,14 @@
+Collecting django_tastypie==0.14.3 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.5476453.txt (line 1))
+  Downloading django-tastypie-0.14.3.tar.gz (148 kB)
+     ------------------------------------ 148.9/148.9 kB 888.8 kB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+ERROR: Could not find a version that satisfies the requirement guardian==0.0.1 (from versions: 0.2.0, 0.2.1, 0.2.2)
+ERROR: No matching distribution found for guardian==0.0.1
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

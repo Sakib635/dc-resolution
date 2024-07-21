@@ -1,0 +1,64 @@
+Collecting maya==0.6.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2b83b1c47a18448d3cbf.txt (line 1))
+  Obtaining dependency information for maya==0.6.1 from https://files.pythonhosted.org/packages/1d/56/789ebf410acc1491bf4078ef57a7a277b42c0b18f43e17007bfb6c1caaf3/maya-0.6.1-py2.py3-none-any.whl.metadata
+  Downloading maya-0.6.1-py2.py3-none-any.whl.metadata (7.1 kB)
+Collecting humanize (from maya==0.6.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2b83b1c47a18448d3cbf.txt (line 1))
+  Obtaining dependency information for humanize from https://files.pythonhosted.org/packages/8f/49/a29c79bea335e52fb512a43faf84998c184c87fef82c65f568f8c56f2642/humanize-4.10.0-py3-none-any.whl.metadata
+  Downloading humanize-4.10.0-py3-none-any.whl.metadata (7.9 kB)
+Collecting pytz (from maya==0.6.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2b83b1c47a18448d3cbf.txt (line 1))
+  Obtaining dependency information for pytz from https://files.pythonhosted.org/packages/9c/3d/a121f284241f08268b21359bd425f7d4825cffc5ac5cd0e1b3d82ffd2b10/pytz-2024.1-py2.py3-none-any.whl.metadata
+  Downloading pytz-2024.1-py2.py3-none-any.whl.metadata (22 kB)
+Collecting dateparser>=0.7.0 (from maya==0.6.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2b83b1c47a18448d3cbf.txt (line 1))
+  Obtaining dependency information for dateparser>=0.7.0 from https://files.pythonhosted.org/packages/a4/29/db12aa4dda81580be1999824a689bd52aa40061fc12c9ccdc3feab5ea718/dateparser-1.2.0-py2.py3-none-any.whl.metadata
+  Downloading dateparser-1.2.0-py2.py3-none-any.whl.metadata (28 kB)
+Collecting tzlocal (from maya==0.6.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2b83b1c47a18448d3cbf.txt (line 1))
+  Obtaining dependency information for tzlocal from https://files.pythonhosted.org/packages/97/3f/c4c51c55ff8487f2e6d0e618dba917e3c3ee2caae6cf0fbb59c9b1876f2e/tzlocal-5.2-py3-none-any.whl.metadata
+  Downloading tzlocal-5.2-py3-none-any.whl.metadata (7.8 kB)
+Collecting pendulum>=2.0.2 (from maya==0.6.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2b83b1c47a18448d3cbf.txt (line 1))
+  Obtaining dependency information for pendulum>=2.0.2 from https://files.pythonhosted.org/packages/9a/91/fcd992eb36b77ab43f2cf44307b72c01a6fbb27f55c1bb2d4af30e9a6cb7/pendulum-3.0.0-cp312-none-win_amd64.whl.metadata
+  Downloading pendulum-3.0.0-cp312-none-win_amd64.whl.metadata (7.0 kB)
+Collecting snaptime (from maya==0.6.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2b83b1c47a18448d3cbf.txt (line 1))
+  Downloading snaptime-0.2.4.tar.gz (2.9 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting python-dateutil (from dateparser>=0.7.0->maya==0.6.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2b83b1c47a18448d3cbf.txt (line 1))
+  Obtaining dependency information for python-dateutil from https://files.pythonhosted.org/packages/ec/57/56b9bcc3c9c6a792fcbaf139543cee77261f3651ca9da0c93f5c1221264b/python_dateutil-2.9.0.post0-py2.py3-none-any.whl.metadata
+  Downloading python_dateutil-2.9.0.post0-py2.py3-none-any.whl.metadata (8.4 kB)
+Collecting regex!=2019.02.19,!=2021.8.27 (from dateparser>=0.7.0->maya==0.6.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2b83b1c47a18448d3cbf.txt (line 1))
+  Obtaining dependency information for regex!=2019.02.19,!=2021.8.27 from https://files.pythonhosted.org/packages/8b/ee/05f14a99a81f1a897a9146f3f565efb116ad6412f875f52e895c02666825/regex-2024.5.15-cp312-cp312-win_amd64.whl.metadata
+  Downloading regex-2024.5.15-cp312-cp312-win_amd64.whl.metadata (41 kB)
+     ---------------------------------------- 42.0/42.0 kB 2.0 MB/s eta 0:00:00
+Collecting tzdata>=2020.1 (from pendulum>=2.0.2->maya==0.6.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2b83b1c47a18448d3cbf.txt (line 1))
+  Obtaining dependency information for tzdata>=2020.1 from https://files.pythonhosted.org/packages/65/58/f9c9e6be752e9fcb8b6a0ee9fb87e6e7a1f6bcab2cdc73f02bb7ba91ada0/tzdata-2024.1-py2.py3-none-any.whl.metadata
+  Downloading tzdata-2024.1-py2.py3-none-any.whl.metadata (1.4 kB)
+Collecting time-machine>=2.6.0 (from pendulum>=2.0.2->maya==0.6.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2b83b1c47a18448d3cbf.txt (line 1))
+  Obtaining dependency information for time-machine>=2.6.0 from https://files.pythonhosted.org/packages/af/06/26dedd152cd614bdc6c28f3b84d550479cb923600e94700bfe61fa7199c0/time_machine-2.14.2-cp312-cp312-win_amd64.whl.metadata
+  Downloading time_machine-2.14.2-cp312-cp312-win_amd64.whl.metadata (21 kB)
+Collecting six>=1.5 (from python-dateutil->dateparser>=0.7.0->maya==0.6.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.2b83b1c47a18448d3cbf.txt (line 1))
+  Obtaining dependency information for six>=1.5 from https://files.pythonhosted.org/packages/d9/5a/e7c31adbe875f2abbb91bd84cf2dc52d792b5a01506781dbcf25c91daf11/six-1.16.0-py2.py3-none-any.whl.metadata
+  Downloading six-1.16.0-py2.py3-none-any.whl.metadata (1.8 kB)
+Downloading maya-0.6.1-py2.py3-none-any.whl (12 kB)
+Downloading dateparser-1.2.0-py2.py3-none-any.whl (294 kB)
+   ---------------------------------------- 295.0/295.0 kB 4.6 MB/s eta 0:00:00
+Downloading pendulum-3.0.0-cp312-none-win_amd64.whl (293 kB)
+   ---------------------------------------- 293.5/293.5 kB 9.1 MB/s eta 0:00:00
+Downloading humanize-4.10.0-py3-none-any.whl (126 kB)
+   ---------------------------------------- 127.0/127.0 kB 7.3 MB/s eta 0:00:00
+Downloading pytz-2024.1-py2.py3-none-any.whl (505 kB)
+   --------------------------------------- 505.5/505.5 kB 16.0 MB/s eta 0:00:00
+Downloading tzlocal-5.2-py3-none-any.whl (17 kB)
+Downloading python_dateutil-2.9.0.post0-py2.py3-none-any.whl (229 kB)
+   --------------------------------------- 229.9/229.9 kB 14.6 MB/s eta 0:00:00
+Downloading regex-2024.5.15-cp312-cp312-win_amd64.whl (268 kB)
+   ---------------------------------------- 268.5/268.5 kB 8.3 MB/s eta 0:00:00
+Downloading time_machine-2.14.2-cp312-cp312-win_amd64.whl (20 kB)
+Downloading tzdata-2024.1-py2.py3-none-any.whl (345 kB)
+   --------------------------------------- 345.4/345.4 kB 20.9 MB/s eta 0:00:00
+Downloading six-1.16.0-py2.py3-none-any.whl (11 kB)
+Would install dateparser-1.2.0 humanize-4.10.0 maya-0.6.1 pendulum-3.0.0 python-dateutil-2.9.0.post0 pytz-2024.1 regex-2024.5.15 six-1.16.0 snaptime-0.2.4 time-machine-2.14.2 tzdata-2024.1 tzlocal-5.2
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

@@ -1,0 +1,7 @@
+PyYAML-5.3.1
+click-8.1.7
+colorama-0.4.6
+joblib-1.4.2
+nltk-3.5
+regex-2024.5.15
+tqdm-4.66.4

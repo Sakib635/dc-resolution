@@ -1,0 +1,4 @@
+docutils-0.21.2
+lockfile-0.12.2
+python-daemon-2.2.4
+setuptools-71.0.0

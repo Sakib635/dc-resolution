@@ -1,0 +1,8 @@
+Collecting click==7.1.2 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.45c1c820a8fa67d8e17e3079d6aa2a65.txt (line 1))
+  Obtaining dependency information for click==7.1.2 from https://files.pythonhosted.org/packages/d2/3d/fa76db83bf75c4f8d338c2fd15c8d33fdd7ad23a9b5e57eb6c5de26b430e/click-7.1.2-py2.py3-none-any.whl.metadata
+  Downloading click-7.1.2-py2.py3-none-any.whl.metadata (2.9 kB)
+ERROR: Could not find a version that satisfies the requirement torch==1.7.1 (from versions: 2.2.0, 2.2.1, 2.2.2, 2.3.0, 2.3.1)
+ERROR: No matching distribution found for torch==1.7.1
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

@@ -1,0 +1,151 @@
+Collecting requests==2.25.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.0ec0c3f5ca69bac2b625.txt (line 1))
+  Obtaining dependency information for requests==2.25.1 from https://files.pythonhosted.org/packages/29/c1/24814557f1d22c56d50280771a17307e6bf87b70727d975fd6b2ce6b014a/requests-2.25.1-py2.py3-none-any.whl.metadata
+  Downloading requests-2.25.1-py2.py3-none-any.whl.metadata (4.2 kB)
+Collecting gevent==21.1.2 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.0ec0c3f5ca69bac2b625.txt (line 2))
+  Downloading gevent-21.1.2.tar.gz (5.9 MB)
+     ---------------------------------------- 5.9/5.9 MB 3.7 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'error'
+  error: subprocess-exited-with-error
+  
+  pip subprocess to install build dependencies did not run successfully.
+  exit code: 1
+  
+  [123 lines of output]
+  Collecting setuptools>=40.8.0
+    Obtaining dependency information for setuptools>=40.8.0 from https://files.pythonhosted.org/packages/ef/15/88e46eb9387e905704b69849618e699dc2f54407d8953cc4ec4b8b46528d/setuptools-70.3.0-py3-none-any.whl.metadata
+    Downloading setuptools-70.3.0-py3-none-any.whl.metadata (5.8 kB)
+  Collecting wheel
+    Obtaining dependency information for wheel from https://files.pythonhosted.org/packages/7d/cd/d7460c9a869b16c3dd4e1e403cce337df165368c71d6af229a74699622ce/wheel-0.43.0-py3-none-any.whl.metadata
+    Downloading wheel-0.43.0-py3-none-any.whl.metadata (2.2 kB)
+  Collecting Cython>=3.0a6
+    Obtaining dependency information for Cython>=3.0a6 from https://files.pythonhosted.org/packages/2f/59/6669edfd1fad83ee18d698b897f25871b5296e258f74964a003d50d003fe/Cython-3.0.10-cp312-cp312-win_amd64.whl.metadata
+    Downloading Cython-3.0.10-cp312-cp312-win_amd64.whl.metadata (3.2 kB)
+  Collecting cffi>=1.12.3
+    Obtaining dependency information for cffi>=1.12.3 from https://files.pythonhosted.org/packages/e9/63/e285470a4880a4f36edabe4810057bd4b562c6ddcc165eacf9c3c7210b40/cffi-1.16.0-cp312-cp312-win_amd64.whl.metadata
+    Downloading cffi-1.16.0-cp312-cp312-win_amd64.whl.metadata (1.5 kB)
+  Collecting greenlet<2.0,>=0.4.17
+    Downloading greenlet-1.1.3.post0.tar.gz (91 kB)
+       -------------------------------------- 91.8/91.8 kB 867.5 kB/s eta 0:00:00
+    Installing build dependencies: started
+    Installing build dependencies: finished with status 'done'
+    Getting requirements to build wheel: started
+    Getting requirements to build wheel: finished with status 'done'
+    Preparing metadata (pyproject.toml): started
+    Preparing metadata (pyproject.toml): finished with status 'done'
+  Collecting pycparser (from cffi>=1.12.3)
+    Obtaining dependency information for pycparser from https://files.pythonhosted.org/packages/13/a3/a812df4e2dd5696d1f351d58b8fe16a405b234ad2886a0dab9183fb78109/pycparser-2.22-py3-none-any.whl.metadata
+    Downloading pycparser-2.22-py3-none-any.whl.metadata (943 bytes)
+  Using cached setuptools-70.3.0-py3-none-any.whl (931 kB)
+  Using cached wheel-0.43.0-py3-none-any.whl (65 kB)
+  Downloading Cython-3.0.10-cp312-cp312-win_amd64.whl (2.8 MB)
+     ---------------------------------------- 2.8/2.8 MB 14.9 MB/s eta 0:00:00
+  Downloading cffi-1.16.0-cp312-cp312-win_amd64.whl (181 kB)
+     --------------------------------------- 182.0/182.0 kB 11.4 MB/s eta 0:00:00
+  Downloading pycparser-2.22-py3-none-any.whl (117 kB)
+     ---------------------------------------- 117.6/117.6 kB 7.2 MB/s eta 0:00:00
+  Building wheels for collected packages: greenlet
+    Building wheel for greenlet (pyproject.toml): started
+    Building wheel for greenlet (pyproject.toml): finished with status 'error'
+    error: subprocess-exited-with-error
+  
+    Building wheel for greenlet (pyproject.toml) did not run successfully.
+    exit code: 1
+  
+    [73 lines of output]
+    running bdist_wheel
+    running build
+    running build_py
+    creating build
+    creating build\lib.win-amd64-cpython-312
+    creating build\lib.win-amd64-cpython-312\greenlet
+    copying src\greenlet\__init__.py -> build\lib.win-amd64-cpython-312\greenlet
+    creating build\lib.win-amd64-cpython-312\greenlet\platform
+    copying src\greenlet\platform\__init__.py -> build\lib.win-amd64-cpython-312\greenlet\platform
+    creating build\lib.win-amd64-cpython-312\greenlet\tests
+    copying src\greenlet\tests\test_contextvars.py -> build\lib.win-amd64-cpython-312\greenlet\tests
+    copying src\greenlet\tests\test_cpp.py -> build\lib.win-amd64-cpython-312\greenlet\tests
+    copying src\greenlet\tests\test_extension_interface.py -> build\lib.win-amd64-cpython-312\greenlet\tests
+    copying src\greenlet\tests\test_gc.py -> build\lib.win-amd64-cpython-312\greenlet\tests
+    copying src\greenlet\tests\test_generator.py -> build\lib.win-amd64-cpython-312\greenlet\tests
+    copying src\greenlet\tests\test_generator_nested.py -> build\lib.win-amd64-cpython-312\greenlet\tests
+    copying src\greenlet\tests\test_greenlet.py -> build\lib.win-amd64-cpython-312\greenlet\tests
+    copying src\greenlet\tests\test_leaks.py -> build\lib.win-amd64-cpython-312\greenlet\tests
+    copying src\greenlet\tests\test_stack_saved.py -> build\lib.win-amd64-cpython-312\greenlet\tests
+    copying src\greenlet\tests\test_throw.py -> build\lib.win-amd64-cpython-312\greenlet\tests
+    copying src\greenlet\tests\test_tracing.py -> build\lib.win-amd64-cpython-312\greenlet\tests
+    copying src\greenlet\tests\test_version.py -> build\lib.win-amd64-cpython-312\greenlet\tests
+    copying src\greenlet\tests\test_weakref.py -> build\lib.win-amd64-cpython-312\greenlet\tests
+    copying src\greenlet\tests\__init__.py -> build\lib.win-amd64-cpython-312\greenlet\tests
+    running egg_info
+    writing src\greenlet.egg-info\PKG-INFO
+    writing dependency_links to src\greenlet.egg-info\dependency_links.txt
+    writing requirements to src\greenlet.egg-info\requires.txt
+    writing top-level names to src\greenlet.egg-info\top_level.txt
+    reading manifest file 'src\greenlet.egg-info\SOURCES.txt'
+    reading manifest template 'MANIFEST.in'
+    no previously-included directories found matching 'docs\_build'
+    warning: no files found matching '*.py' under directory 'appveyor'
+    warning: no previously-included files matching '*.pyc' found anywhere in distribution
+    warning: no previously-included files matching '*.pyd' found anywhere in distribution
+    warning: no previously-included files matching '*.so' found anywhere in distribution
+    warning: no previously-included files matching '.coverage' found anywhere in distribution
+    adding license file 'LICENSE'
+    adding license file 'LICENSE.PSF'
+    adding license file 'AUTHORS'
+    writing manifest file 'src\greenlet.egg-info\SOURCES.txt'
+    copying src\greenlet\greenlet.c -> build\lib.win-amd64-cpython-312\greenlet
+    copying src\greenlet\greenlet.h -> build\lib.win-amd64-cpython-312\greenlet
+    copying src\greenlet\slp_platformselect.h -> build\lib.win-amd64-cpython-312\greenlet
+    copying src\greenlet\platform\setup_switch_x64_masm.cmd -> build\lib.win-amd64-cpython-312\greenlet\platform
+    copying src\greenlet\platform\switch_aarch64_gcc.h -> build\lib.win-amd64-cpython-312\greenlet\platform
+    copying src\greenlet\platform\switch_alpha_unix.h -> build\lib.win-amd64-cpython-312\greenlet\platform
+    copying src\greenlet\platform\switch_amd64_unix.h -> build\lib.win-amd64-cpython-312\greenlet\platform
+    copying src\greenlet\platform\switch_arm32_gcc.h -> build\lib.win-amd64-cpython-312\greenlet\platform
+    copying src\greenlet\platform\switch_arm32_ios.h -> build\lib.win-amd64-cpython-312\greenlet\platform
+    copying src\greenlet\platform\switch_csky_gcc.h -> build\lib.win-amd64-cpython-312\greenlet\platform
+    copying src\greenlet\platform\switch_m68k_gcc.h -> build\lib.win-amd64-cpython-312\greenlet\platform
+    copying src\greenlet\platform\switch_mips_unix.h -> build\lib.win-amd64-cpython-312\greenlet\platform
+    copying src\greenlet\platform\switch_ppc64_aix.h -> build\lib.win-amd64-cpython-312\greenlet\platform
+    copying src\greenlet\platform\switch_ppc64_linux.h -> build\lib.win-amd64-cpython-312\greenlet\platform
+    copying src\greenlet\platform\switch_ppc_aix.h -> build\lib.win-amd64-cpython-312\greenlet\platform
+    copying src\greenlet\platform\switch_ppc_linux.h -> build\lib.win-amd64-cpython-312\greenlet\platform
+    copying src\greenlet\platform\switch_ppc_macosx.h -> build\lib.win-amd64-cpython-312\greenlet\platform
+    copying src\greenlet\platform\switch_ppc_unix.h -> build\lib.win-amd64-cpython-312\greenlet\platform
+    copying src\greenlet\platform\switch_riscv_unix.h -> build\lib.win-amd64-cpython-312\greenlet\platform
+    copying src\greenlet\platform\switch_s390_unix.h -> build\lib.win-amd64-cpython-312\greenlet\platform
+    copying src\greenlet\platform\switch_sparc_sun_gcc.h -> build\lib.win-amd64-cpython-312\greenlet\platform
+    copying src\greenlet\platform\switch_x32_unix.h -> build\lib.win-amd64-cpython-312\greenlet\platform
+    copying src\greenlet\platform\switch_x64_masm.asm -> build\lib.win-amd64-cpython-312\greenlet\platform
+    copying src\greenlet\platform\switch_x64_masm.obj -> build\lib.win-amd64-cpython-312\greenlet\platform
+    copying src\greenlet\platform\switch_x64_msvc.h -> build\lib.win-amd64-cpython-312\greenlet\platform
+    copying src\greenlet\platform\switch_x86_msvc.h -> build\lib.win-amd64-cpython-312\greenlet\platform
+    copying src\greenlet\platform\switch_x86_unix.h -> build\lib.win-amd64-cpython-312\greenlet\platform
+    copying src\greenlet\tests\_test_extension.c -> build\lib.win-amd64-cpython-312\greenlet\tests
+    copying src\greenlet\tests\_test_extension_cpp.cpp -> build\lib.win-amd64-cpython-312\greenlet\tests
+    running build_ext
+    building 'greenlet._greenlet' extension
+    error: Microsoft Visual C++ 14.0 or greater is required. Get it with "Microsoft C++ Build Tools": https://visualstudio.microsoft.com/visual-cpp-build-tools/
+    [end of output]
+  
+    note: This error originates from a subprocess, and is likely not a problem with pip.
+    ERROR: Failed building wheel for greenlet
+  Failed to build greenlet
+  ERROR: Could not build wheels for greenlet, which is required to install pyproject.toml-based projects
+  
+  [notice] A new release of pip is available: 23.2.1 -> 24.1.2
+  [notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip
+  [end of output]
+  
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+error: subprocess-exited-with-error
+
+pip subprocess to install build dependencies did not run successfully.
+exit code: 1
+
+See above for output.
+
+note: This error originates from a subprocess, and is likely not a problem with pip.
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

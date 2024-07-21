@@ -1,0 +1,94 @@
+Collecting Flask==1.1.2 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.b82d70b0d581dc4609e4.txt (line 1))
+  Obtaining dependency information for Flask==1.1.2 from https://files.pythonhosted.org/packages/f2/28/2a03252dfb9ebf377f40fba6a7841b47083260bf8bd8e737b0c6952df83f/Flask-1.1.2-py2.py3-none-any.whl.metadata
+  Downloading Flask-1.1.2-py2.py3-none-any.whl.metadata (4.6 kB)
+Collecting gensim==3.8.3 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.b82d70b0d581dc4609e4.txt (line 2))
+  Downloading gensim-3.8.3.tar.gz (23.4 MB)
+     --------------------------------------- 23.4/23.4 MB 11.9 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Installing backend dependencies: started
+  Installing backend dependencies: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'error'
+  error: subprocess-exited-with-error
+  
+  Preparing metadata (pyproject.toml) did not run successfully.
+  exit code: 1
+  
+  [60 lines of output]
+  running dist_info
+  creating C:\Users\ASUS\AppData\Local\Temp\pip-modern-metadata-vt914hcx\gensim.egg-info
+  writing C:\Users\ASUS\AppData\Local\Temp\pip-modern-metadata-vt914hcx\gensim.egg-info\PKG-INFO
+  writing dependency_links to C:\Users\ASUS\AppData\Local\Temp\pip-modern-metadata-vt914hcx\gensim.egg-info\dependency_links.txt
+  writing requirements to C:\Users\ASUS\AppData\Local\Temp\pip-modern-metadata-vt914hcx\gensim.egg-info\requires.txt
+  writing top-level names to C:\Users\ASUS\AppData\Local\Temp\pip-modern-metadata-vt914hcx\gensim.egg-info\top_level.txt
+  writing manifest file 'C:\Users\ASUS\AppData\Local\Temp\pip-modern-metadata-vt914hcx\gensim.egg-info\SOURCES.txt'
+  Traceback (most recent call last):
+    File "D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 353, in <module>
+      main()
+    File "D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 335, in main
+      json_out['return_val'] = hook(**hook_input['kwargs'])
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 149, in prepare_metadata_for_build_wheel
+      return hook(metadata_directory, config_settings)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-1i4jooef\overlay\Lib\site-packages\setuptools\build_meta.py", line 368, in prepare_metadata_for_build_wheel
+      self.run_setup()
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-1i4jooef\overlay\Lib\site-packages\setuptools\build_meta.py", line 497, in run_setup
+      super().run_setup(setup_script=setup_script)
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-1i4jooef\overlay\Lib\site-packages\setuptools\build_meta.py", line 313, in run_setup
+      exec(code, locals())
+    File "<string>", line 367, in <module>
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-1i4jooef\overlay\Lib\site-packages\setuptools\__init__.py", line 106, in setup
+      return distutils.core.setup(**attrs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-1i4jooef\overlay\Lib\site-packages\setuptools\_distutils\core.py", line 184, in setup
+      return run_commands(dist)
+             ^^^^^^^^^^^^^^^^^^
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-1i4jooef\overlay\Lib\site-packages\setuptools\_distutils\core.py", line 200, in run_commands
+      dist.run_commands()
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-1i4jooef\overlay\Lib\site-packages\setuptools\_distutils\dist.py", line 970, in run_commands
+      self.run_command(cmd)
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-1i4jooef\overlay\Lib\site-packages\setuptools\dist.py", line 974, in run_command
+      super().run_command(command)
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-1i4jooef\overlay\Lib\site-packages\setuptools\_distutils\dist.py", line 989, in run_command
+      cmd_obj.run()
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-1i4jooef\overlay\Lib\site-packages\setuptools\command\dist_info.py", line 92, in run
+      self.egg_info.run()
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-1i4jooef\overlay\Lib\site-packages\setuptools\command\egg_info.py", line 321, in run
+      self.find_sources()
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-1i4jooef\overlay\Lib\site-packages\setuptools\command\egg_info.py", line 329, in find_sources
+      mm.run()
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-1i4jooef\overlay\Lib\site-packages\setuptools\command\egg_info.py", line 550, in run
+      self.add_defaults()
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-1i4jooef\overlay\Lib\site-packages\setuptools\command\egg_info.py", line 588, in add_defaults
+      sdist.add_defaults(self)
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-1i4jooef\overlay\Lib\site-packages\setuptools\command\sdist.py", line 102, in add_defaults
+      super().add_defaults()
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-1i4jooef\overlay\Lib\site-packages\setuptools\_distutils\command\sdist.py", line 250, in add_defaults
+      self._add_defaults_ext()
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-1i4jooef\overlay\Lib\site-packages\setuptools\_distutils\command\sdist.py", line 334, in _add_defaults_ext
+      build_ext = self.get_finalized_command('build_ext')
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-1i4jooef\overlay\Lib\site-packages\setuptools\_distutils\cmd.py", line 303, in get_finalized_command
+      cmd_obj.ensure_finalized()
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-1i4jooef\overlay\Lib\site-packages\setuptools\_distutils\cmd.py", line 111, in ensure_finalized
+      self.finalize_options()
+    File "<string>", line 111, in finalize_options
+  AttributeError: 'dict' object has no attribute '__NUMPY_SETUP__'
+  [end of output]
+  
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+error: metadata-generation-failed
+
+Encountered error while generating package metadata.
+
+See above for output.
+
+note: This is an issue with the package mentioned above, not pip.
+hint: See above for details.
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

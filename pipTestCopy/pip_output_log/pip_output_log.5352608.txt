@@ -1,0 +1,32 @@
+Collecting apscheduler==3.6.3 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.5352608.txt (line 1))
+  Obtaining dependency information for apscheduler==3.6.3 from https://files.pythonhosted.org/packages/f3/34/9ef20ed473c4fd2c3df54ef77a27ae3fc7500b16b192add4720cab8b2c09/APScheduler-3.6.3-py2.py3-none-any.whl.metadata
+  Downloading APScheduler-3.6.3-py2.py3-none-any.whl.metadata (5.4 kB)
+Collecting setuptools>=0.7 (from apscheduler==3.6.3->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.5352608.txt (line 1))
+  Obtaining dependency information for setuptools>=0.7 from https://files.pythonhosted.org/packages/01/82/a2c6c0a1612c89bdb21dc4d9196ba9e7dcbc2e285afda93ebdf663ba2ada/setuptools-71.0.0-py3-none-any.whl.metadata
+  Downloading setuptools-71.0.0-py3-none-any.whl.metadata (6.5 kB)
+Collecting six>=1.4.0 (from apscheduler==3.6.3->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.5352608.txt (line 1))
+  Obtaining dependency information for six>=1.4.0 from https://files.pythonhosted.org/packages/d9/5a/e7c31adbe875f2abbb91bd84cf2dc52d792b5a01506781dbcf25c91daf11/six-1.16.0-py2.py3-none-any.whl.metadata
+  Downloading six-1.16.0-py2.py3-none-any.whl.metadata (1.8 kB)
+Collecting pytz (from apscheduler==3.6.3->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.5352608.txt (line 1))
+  Obtaining dependency information for pytz from https://files.pythonhosted.org/packages/9c/3d/a121f284241f08268b21359bd425f7d4825cffc5ac5cd0e1b3d82ffd2b10/pytz-2024.1-py2.py3-none-any.whl.metadata
+  Downloading pytz-2024.1-py2.py3-none-any.whl.metadata (22 kB)
+Collecting tzlocal>=1.2 (from apscheduler==3.6.3->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.5352608.txt (line 1))
+  Obtaining dependency information for tzlocal>=1.2 from https://files.pythonhosted.org/packages/97/3f/c4c51c55ff8487f2e6d0e618dba917e3c3ee2caae6cf0fbb59c9b1876f2e/tzlocal-5.2-py3-none-any.whl.metadata
+  Downloading tzlocal-5.2-py3-none-any.whl.metadata (7.8 kB)
+Collecting tzdata (from tzlocal>=1.2->apscheduler==3.6.3->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.5352608.txt (line 1))
+  Obtaining dependency information for tzdata from https://files.pythonhosted.org/packages/65/58/f9c9e6be752e9fcb8b6a0ee9fb87e6e7a1f6bcab2cdc73f02bb7ba91ada0/tzdata-2024.1-py2.py3-none-any.whl.metadata
+  Downloading tzdata-2024.1-py2.py3-none-any.whl.metadata (1.4 kB)
+Downloading APScheduler-3.6.3-py2.py3-none-any.whl (58 kB)
+   ---------------------------------------- 58.9/58.9 kB 3.0 MB/s eta 0:00:00
+Downloading setuptools-71.0.0-py3-none-any.whl (908 kB)
+   ---------------------------------------- 908.4/908.4 kB 9.6 MB/s eta 0:00:00
+Downloading six-1.16.0-py2.py3-none-any.whl (11 kB)
+Downloading tzlocal-5.2-py3-none-any.whl (17 kB)
+Downloading pytz-2024.1-py2.py3-none-any.whl (505 kB)
+   --------------------------------------- 505.5/505.5 kB 33.0 MB/s eta 0:00:00
+Downloading tzdata-2024.1-py2.py3-none-any.whl (345 kB)
+   --------------------------------------- 345.4/345.4 kB 10.5 MB/s eta 0:00:00
+Would install APScheduler-3.6.3 pytz-2024.1 setuptools-71.0.0 six-1.16.0 tzdata-2024.1 tzlocal-5.2
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

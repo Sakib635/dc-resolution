@@ -1,0 +1,5 @@
+Django-3.1.5
+apsw-3.9.2.post1
+asgiref-3.8.1
+pytz-2024.1
+sqlparse-0.5.1

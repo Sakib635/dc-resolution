@@ -1,0 +1,2 @@
+pystick-0.1.6
+setuptools-70.3.0

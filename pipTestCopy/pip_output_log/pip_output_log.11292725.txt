@@ -1,0 +1,63 @@
+Collecting requests==2.25.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.11292725.txt (line 1))
+  Obtaining dependency information for requests==2.25.1 from https://files.pythonhosted.org/packages/29/c1/24814557f1d22c56d50280771a17307e6bf87b70727d975fd6b2ce6b014a/requests-2.25.1-py2.py3-none-any.whl.metadata
+  Downloading requests-2.25.1-py2.py3-none-any.whl.metadata (4.2 kB)
+Collecting Adafruit_ADS1x15==1.0.2 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.11292725.txt (line 2))
+  Downloading Adafruit_ADS1x15-1.0.2.tar.gz (5.2 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting plotly==4.14.3 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.11292725.txt (line 3))
+  Obtaining dependency information for plotly==4.14.3 from https://files.pythonhosted.org/packages/1f/f6/bd3c17c8003b6641df1228e80e1acac97ed8402635e46c2571f8e1ef63af/plotly-4.14.3-py2.py3-none-any.whl.metadata
+  Downloading plotly-4.14.3-py2.py3-none-any.whl.metadata (7.6 kB)
+Collecting chardet<5,>=3.0.2 (from requests==2.25.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.11292725.txt (line 1))
+  Obtaining dependency information for chardet<5,>=3.0.2 from https://files.pythonhosted.org/packages/19/c7/fa589626997dd07bd87d9269342ccb74b1720384a4d739a1872bd84fbe68/chardet-4.0.0-py2.py3-none-any.whl.metadata
+  Downloading chardet-4.0.0-py2.py3-none-any.whl.metadata (3.5 kB)
+Collecting idna<3,>=2.5 (from requests==2.25.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.11292725.txt (line 1))
+  Obtaining dependency information for idna<3,>=2.5 from https://files.pythonhosted.org/packages/a2/38/928ddce2273eaa564f6f50de919327bf3a00f091b5baba8dfa9460f3a8a8/idna-2.10-py2.py3-none-any.whl.metadata
+  Downloading idna-2.10-py2.py3-none-any.whl.metadata (9.1 kB)
+Collecting urllib3<1.27,>=1.21.1 (from requests==2.25.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.11292725.txt (line 1))
+  Obtaining dependency information for urllib3<1.27,>=1.21.1 from https://files.pythonhosted.org/packages/ae/6a/99eaaeae8becaa17a29aeb334a18e5d582d873b6f084c11f02581b8d7f7f/urllib3-1.26.19-py2.py3-none-any.whl.metadata
+  Downloading urllib3-1.26.19-py2.py3-none-any.whl.metadata (49 kB)
+     -------------------------------------- 49.3/49.3 kB 831.5 kB/s eta 0:00:00
+Collecting certifi>=2017.4.17 (from requests==2.25.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.11292725.txt (line 1))
+  Obtaining dependency information for certifi>=2017.4.17 from https://files.pythonhosted.org/packages/1c/d5/c84e1a17bf61d4df64ca866a1c9a913874b4e9bdc131ec689a0ad013fb36/certifi-2024.7.4-py3-none-any.whl.metadata
+  Downloading certifi-2024.7.4-py3-none-any.whl.metadata (2.2 kB)
+Collecting Adafruit-GPIO>=0.6.5 (from Adafruit_ADS1x15==1.0.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.11292725.txt (line 2))
+  Downloading Adafruit_GPIO-1.0.3.tar.gz (24 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting retrying>=1.3.3 (from plotly==4.14.3->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.11292725.txt (line 3))
+  Obtaining dependency information for retrying>=1.3.3 from https://files.pythonhosted.org/packages/8f/04/9e36f28be4c0532c0e9207ff9dc01fb13a2b0eb036476a213b0000837d0e/retrying-1.3.4-py3-none-any.whl.metadata
+  Downloading retrying-1.3.4-py3-none-any.whl.metadata (6.9 kB)
+Collecting six (from plotly==4.14.3->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.11292725.txt (line 3))
+  Obtaining dependency information for six from https://files.pythonhosted.org/packages/d9/5a/e7c31adbe875f2abbb91bd84cf2dc52d792b5a01506781dbcf25c91daf11/six-1.16.0-py2.py3-none-any.whl.metadata
+  Downloading six-1.16.0-py2.py3-none-any.whl.metadata (1.8 kB)
+Collecting adafruit-pureio (from Adafruit-GPIO>=0.6.5->Adafruit_ADS1x15==1.0.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.11292725.txt (line 2))
+  Obtaining dependency information for adafruit-pureio from https://files.pythonhosted.org/packages/19/9d/28e9d12f36e13c5f2acba3098187b0e931290ecd1d8df924391b5ad2db19/Adafruit_PureIO-1.1.11-py3-none-any.whl.metadata
+  Downloading Adafruit_PureIO-1.1.11-py3-none-any.whl.metadata (3.0 kB)
+Downloading requests-2.25.1-py2.py3-none-any.whl (61 kB)
+   ---------------------------------------- 61.2/61.2 kB 3.2 MB/s eta 0:00:00
+Downloading plotly-4.14.3-py2.py3-none-any.whl (13.2 MB)
+   ---------------------------------------- 13.2/13.2 MB 15.2 MB/s eta 0:00:00
+Downloading certifi-2024.7.4-py3-none-any.whl (162 kB)
+   ---------------------------------------- 163.0/163.0 kB 9.5 MB/s eta 0:00:00
+Downloading chardet-4.0.0-py2.py3-none-any.whl (178 kB)
+   --------------------------------------- 178.7/178.7 kB 10.5 MB/s eta 0:00:00
+Downloading idna-2.10-py2.py3-none-any.whl (58 kB)
+   ---------------------------------------- 58.8/58.8 kB ? eta 0:00:00
+Downloading retrying-1.3.4-py3-none-any.whl (11 kB)
+Downloading six-1.16.0-py2.py3-none-any.whl (11 kB)
+Downloading urllib3-1.26.19-py2.py3-none-any.whl (143 kB)
+   ---------------------------------------- 143.9/143.9 kB ? eta 0:00:00
+Downloading Adafruit_PureIO-1.1.11-py3-none-any.whl (10 kB)
+Would install Adafruit-PureIO-1.1.11 Adafruit_ADS1x15-1.0.2 Adafruit_GPIO-1.0.3 certifi-2024.7.4 chardet-4.0.0 idna-2.10 plotly-4.14.3 requests-2.25.1 retrying-1.3.4 six-1.16.0 urllib3-1.26.19
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

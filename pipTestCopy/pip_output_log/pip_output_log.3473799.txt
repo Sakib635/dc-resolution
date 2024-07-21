@@ -1,0 +1,22 @@
+Collecting mechanize==0.4.5 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3473799.txt (line 1))
+  Obtaining dependency information for mechanize==0.4.5 from https://files.pythonhosted.org/packages/13/08/77368b47ba2f9e0c03f33902ed2c8e0fa83d15d81dcf7fe102b40778d810/mechanize-0.4.5-py2.py3-none-any.whl.metadata
+  Downloading mechanize-0.4.5-py2.py3-none-any.whl.metadata (2.7 kB)
+Collecting html5lib>=0.999999999 (from mechanize==0.4.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3473799.txt (line 1))
+  Obtaining dependency information for html5lib>=0.999999999 from https://files.pythonhosted.org/packages/6c/dd/a834df6482147d48e225a49515aabc28974ad5a4ca3215c18a882565b028/html5lib-1.1-py2.py3-none-any.whl.metadata
+  Downloading html5lib-1.1-py2.py3-none-any.whl.metadata (16 kB)
+Collecting six>=1.9 (from html5lib>=0.999999999->mechanize==0.4.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3473799.txt (line 1))
+  Obtaining dependency information for six>=1.9 from https://files.pythonhosted.org/packages/d9/5a/e7c31adbe875f2abbb91bd84cf2dc52d792b5a01506781dbcf25c91daf11/six-1.16.0-py2.py3-none-any.whl.metadata
+  Downloading six-1.16.0-py2.py3-none-any.whl.metadata (1.8 kB)
+Collecting webencodings (from html5lib>=0.999999999->mechanize==0.4.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3473799.txt (line 1))
+  Obtaining dependency information for webencodings from https://files.pythonhosted.org/packages/f4/24/2a3e3df732393fed8b3ebf2ec078f05546de641fe1b667ee316ec1dcf3b7/webencodings-0.5.1-py2.py3-none-any.whl.metadata
+  Downloading webencodings-0.5.1-py2.py3-none-any.whl.metadata (2.1 kB)
+Downloading mechanize-0.4.5-py2.py3-none-any.whl (109 kB)
+   ---------------------------------------- 109.4/109.4 kB 1.3 MB/s eta 0:00:00
+Downloading html5lib-1.1-py2.py3-none-any.whl (112 kB)
+   ---------------------------------------- 112.2/112.2 kB 6.4 MB/s eta 0:00:00
+Downloading six-1.16.0-py2.py3-none-any.whl (11 kB)
+Downloading webencodings-0.5.1-py2.py3-none-any.whl (11 kB)
+Would install html5lib-1.1 mechanize-0.4.5 six-1.16.0 webencodings-0.5.1
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

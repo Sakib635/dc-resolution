@@ -1,0 +1,14 @@
+dateparser-1.2.0
+future-1.0.0
+humanize-4.10.0
+maya-0.6.1
+pendulum-3.0.0
+pymel-1.2.0a6
+python-dateutil-2.9.0.post0
+pytz-2024.1
+regex-2024.5.15
+six-1.16.0
+snaptime-0.2.4
+time-machine-2.14.2
+tzdata-2024.1
+tzlocal-5.2

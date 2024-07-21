@@ -1,0 +1,225 @@
+Collecting flume==0.5.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.492858.txt (line 1))
+  Downloading flume-0.5.0.tar.gz (48 kB)
+     -------------------------------------- 48.5/48.5 kB 347.6 kB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Installing backend dependencies: started
+  Installing backend dependencies: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting tap==0.2 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.492858.txt (line 2))
+  Downloading tap-0.2.tar.gz (2.8 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting thrift==0.13.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.492858.txt (line 3))
+  Downloading thrift-0.13.0.tar.gz (59 kB)
+     ---------------------------------------- 59.9/59.9 kB 1.1 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting again==1.2.21 (from flume==0.5.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.492858.txt (line 1))
+  Downloading again-1.2.21.tar.gz (5.7 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting backports.ssl-match-hostname==3.5.0.1 (from flume==0.5.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.492858.txt (line 1))
+  Downloading backports.ssl_match_hostname-3.5.0.1.tar.gz (5.6 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting cairocffi==0.7.2 (from flume==0.5.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.492858.txt (line 1))
+  Downloading cairocffi-0.7.2.tar.gz (75 kB)
+     ---------------------------------------- 75.3/75.3 kB 4.1 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Installing backend dependencies: started
+  Installing backend dependencies: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting CairoSVG==1.0.20 (from flume==0.5.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.492858.txt (line 1))
+  Downloading CairoSVG-1.0.20.tar.gz (30 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting cffi==1.6.0 (from flume==0.5.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.492858.txt (line 1))
+  Downloading cffi-1.6.0.tar.gz (397 kB)
+     -------------------------------------- 397.0/397.0 kB 8.2 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting click==6.6 (from flume==0.5.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.492858.txt (line 1))
+  Obtaining dependency information for click==6.6 from https://files.pythonhosted.org/packages/1c/7c/10b4132dd952b6a04e37626258825b8aa8c1eb99545f2eb26a77c21efb55/click-6.6-py2.py3-none-any.whl.metadata
+  Downloading click-6.6-py2.py3-none-any.whl.metadata (424 bytes)
+Collecting cssselect==0.9.1 (from flume==0.5.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.492858.txt (line 1))
+  Downloading cssselect-0.9.1.tar.gz (32 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting delta==0.4.2 (from flume==0.5.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.492858.txt (line 1))
+  Downloading delta-0.4.2.tar.gz (4.1 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting dici==0.4.1 (from flume==0.5.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.492858.txt (line 1))
+  Downloading dici-0.4.1.tar.gz (2.0 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting elasticsearch==2.3.0 (from flume==0.5.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.492858.txt (line 1))
+  Obtaining dependency information for elasticsearch==2.3.0 from https://files.pythonhosted.org/packages/c3/db/3869181ba938814d092a53ffbe2597be8597f0a4be62fc3989a82b0fa85a/elasticsearch-2.3.0-py2.py3-none-any.whl.metadata
+  Downloading elasticsearch-2.3.0-py2.py3-none-any.whl.metadata (5.3 kB)
+Collecting ijson==2.3 (from flume==0.5.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.492858.txt (line 1))
+  Obtaining dependency information for ijson==2.3 from https://files.pythonhosted.org/packages/7f/e9/8508c5f4987ba238a2b169e582c1f70a47272b22a2f1fb06b9318201bb9e/ijson-2.3-py2.py3-none-any.whl.metadata
+  Downloading ijson-2.3-py2.py3-none-any.whl.metadata (3.6 kB)
+Collecting ipaddress==1.0.16 (from flume==0.5.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.492858.txt (line 1))
+  Downloading ipaddress-1.0.16.tar.gz (31 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting lxml==3.6.0 (from flume==0.5.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.492858.txt (line 1))
+  Downloading lxml-3.6.0.tar.gz (3.7 MB)
+     ---------------------------------------- 3.7/3.7 MB 16.9 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting parsedatetime==2.1 (from flume==0.5.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.492858.txt (line 1))
+  Downloading parsedatetime-2.1.tar.gz (56 kB)
+     ---------------------------------------- 56.3/56.3 kB ? eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting pycparser==2.14 (from flume==0.5.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.492858.txt (line 1))
+  Downloading pycparser-2.14.tar.gz (223 kB)
+     ------------------------------------- 223.3/223.3 kB 13.3 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting pygal==2.2.2 (from flume==0.5.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.492858.txt (line 1))
+  Obtaining dependency information for pygal==2.2.2 from https://files.pythonhosted.org/packages/8f/49/bed5374437aa7c39458854e2af3fe8a777aab104b3cae59414df69ded498/pygal-2.2.2-py2.py3-none-any.whl.metadata
+  Downloading pygal-2.2.2-py2.py3-none-any.whl.metadata (840 bytes)
+Collecting pygrok==0.7.1 (from flume==0.5.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.492858.txt (line 1))
+  Downloading pygrok-0.7.1.tar.gz (13 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting python-dateutil==2.5.3 (from flume==0.5.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.492858.txt (line 1))
+  Obtaining dependency information for python-dateutil==2.5.3 from https://files.pythonhosted.org/packages/33/68/9eadc96f9899caebd98f55f942d6a8f3fb2b8f8e69ba81a0f771269897e9/python_dateutil-2.5.3-py2.py3-none-any.whl.metadata
+  Downloading python_dateutil-2.5.3-py2.py3-none-any.whl.metadata (1.1 kB)
+Collecting pytz==2016.4 (from flume==0.5.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.492858.txt (line 1))
+  Obtaining dependency information for pytz==2016.4 from https://files.pythonhosted.org/packages/ae/cf/a7442138ad899a7587489641a8923f1e640cafc2d6ffe4e79e5d15cc5b3e/pytz-2016.4-py2.py3-none-any.whl.metadata
+  Downloading pytz-2016.4-py2.py3-none-any.whl.metadata (20 kB)
+Collecting regex==2016.6.19 (from flume==0.5.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.492858.txt (line 1))
+  Downloading regex-2016.06.19.tar.gz (584 kB)
+     ------------------------------------- 584.8/584.8 kB 18.5 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting requests==2.10.0 (from flume==0.5.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.492858.txt (line 1))
+  Obtaining dependency information for requests==2.10.0 from https://files.pythonhosted.org/packages/99/b4/63d99ba8e189c47d906b43bae18af4396e336f2b1bfec86af31efe2d2cb8/requests-2.10.0-py2.py3-none-any.whl.metadata
+  Downloading requests-2.10.0-py2.py3-none-any.whl.metadata (38 kB)
+Collecting requests-cache==0.4.12 (from flume==0.5.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.492858.txt (line 1))
+  Obtaining dependency information for requests-cache==0.4.12 from https://files.pythonhosted.org/packages/76/03/e49e7d37540dd00912738f573eaaadc3e4d822931febe544d9c3102ce18d/requests_cache-0.4.12-py2.py3-none-any.whl.metadata
+  Downloading requests_cache-0.4.12-py2.py3-none-any.whl.metadata (5.6 kB)
+Collecting six==1.10.0 (from flume==0.5.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.492858.txt (line 1))
+  Obtaining dependency information for six==1.10.0 from https://files.pythonhosted.org/packages/c8/0a/b6723e1bc4c516cb687841499455a8505b44607ab535be01091c0f24f079/six-1.10.0-py2.py3-none-any.whl.metadata
+  Downloading six-1.10.0-py2.py3-none-any.whl.metadata (1.3 kB)
+Collecting tinycss==0.3 (from flume==0.5.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.492858.txt (line 1))
+  Downloading tinycss-0.3.tar.gz (72 kB)
+     ---------------------------------------- 72.9/72.9 kB 3.9 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting urllib3==1.16 (from flume==0.5.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.492858.txt (line 1))
+  Obtaining dependency information for urllib3==1.16 from https://files.pythonhosted.org/packages/61/54/3f6149b3b9027f3386ad56816a3be83c201fe7bed1ba67a0ca249f1a8cb1/urllib3-1.16-py2.py3-none-any.whl.metadata
+  Downloading urllib3-1.16-py2.py3-none-any.whl.metadata (27 kB)
+Collecting websocket-client==0.37.0 (from flume==0.5.0->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.492858.txt (line 1))
+  Downloading websocket_client-0.37.0.tar.gz (194 kB)
+     ------------------------------------- 194.2/194.2 kB 11.5 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting mc-bin-client (from tap==0.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.492858.txt (line 2))
+  Downloading mc_bin_client-1.0.1.tar.gz (6.4 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Downloading click-6.6-py2.py3-none-any.whl (71 kB)
+   ---------------------------------------- 71.0/71.0 kB 3.8 MB/s eta 0:00:00
+Downloading elasticsearch-2.3.0-py2.py3-none-any.whl (51 kB)
+   ---------------------------------------- 51.6/51.6 kB 2.6 MB/s eta 0:00:00
+Downloading ijson-2.3-py2.py3-none-any.whl (15 kB)
+Downloading pygal-2.2.2-py2.py3-none-any.whl (126 kB)
+   ---------------------------------------- 126.6/126.6 kB ? eta 0:00:00
+Downloading python_dateutil-2.5.3-py2.py3-none-any.whl (201 kB)
+   -------------------------------------- 201.5/201.5 kB 877.4 kB/s eta 0:00:00
+Downloading pytz-2016.4-py2.py3-none-any.whl (480 kB)
+   --------------------------------------- 480.9/480.9 kB 15.2 MB/s eta 0:00:00
+Downloading requests-2.10.0-py2.py3-none-any.whl (506 kB)
+   --------------------------------------- 506.9/506.9 kB 16.0 MB/s eta 0:00:00
+Downloading requests_cache-0.4.12-py2.py3-none-any.whl (22 kB)
+Downloading six-1.10.0-py2.py3-none-any.whl (10 kB)
+Downloading urllib3-1.16-py2.py3-none-any.whl (98 kB)
+   ---------------------------------------- 99.0/99.0 kB 5.9 MB/s eta 0:00:00
+Would install CairoSVG-1.0.20 again-1.2.21 backports.ssl_match_hostname-3.5.0.1 cairocffi-0.7.2 cffi-1.6.0 click-6.6 cssselect-0.9.1 delta-0.4.2 dici-0.4.1 elasticsearch-2.3.0 flume-0.5.0 ijson-2.3 ipaddress-1.0.16 lxml-3.6.0 mc_bin_client-1.0.1 parsedatetime-2.1 pycparser-2.14 pygal-2.2.2 pygrok-0.7.1 python-dateutil-2.5.3 pytz-2016.4 regex-2016.6.19 requests-2.10.0 requests-cache-0.4.12 six-1.10.0 tap-0.2 thrift-0.13.0 tinycss-0.3 urllib3-1.16 websocket_client-0.37.0
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

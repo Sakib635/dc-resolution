@@ -1,0 +1,4 @@
+Paste-3.10.1
+WSGIProxy-0.2.2
+bottle-0.12.19
+setuptools-71.0.0

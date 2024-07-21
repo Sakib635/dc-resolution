@@ -1,0 +1,265 @@
+Collecting numpy==1.16.6 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.e9fb36ca2220a167b7ed.txt (line 1))
+  Downloading numpy-1.16.6.zip (5.1 MB)
+     ---------------------------------------- 5.1/5.1 MB 10.6 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'error'
+  error: subprocess-exited-with-error
+  
+  Preparing metadata (pyproject.toml) did not run successfully.
+  exit code: 1
+  
+  [236 lines of output]
+  Running from numpy source directory.
+  <string>:394: UserWarning: Unrecognized setuptools command, proceeding with generating Cython sources and expanding templates
+  C:\Users\ASUS\AppData\Local\Temp\pip-install-yr7bgpfu\numpy_ceb9110352c24ec0bf0c18889ba36db2\numpy\distutils\misc_util.py:476: SyntaxWarning: "is" with 'str' literal. Did you mean "=="?
+    return is_string(s) and ('*' in s or '?' is s)
+  blas_opt_info:
+  blas_mkl_info:
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+    libraries mkl_rt not found in ['D:\\Windsor\\WindsorThesis\\Git repo\\Thesis-Project-Python-Dependency-Conflict-Resolution\\pipTest\\myenv\\lib', 'C:\\']
+    NOT AVAILABLE
+  
+  blis_info:
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+    libraries blis not found in ['D:\\Windsor\\WindsorThesis\\Git repo\\Thesis-Project-Python-Dependency-Conflict-Resolution\\pipTest\\myenv\\lib', 'C:\\']
+    NOT AVAILABLE
+  
+  openblas_info:
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+    libraries openblas not found in ['D:\\Windsor\\WindsorThesis\\Git repo\\Thesis-Project-Python-Dependency-Conflict-Resolution\\pipTest\\myenv\\lib', 'C:\\']
+  get_default_fcompiler: matching types: '['gnu', 'intelv', 'absoft', 'compaqv', 'intelev', 'gnu95', 'g95', 'intelvem', 'intelem', 'flang']'
+  customize GnuFCompiler
+  Could not locate executable g77
+  Could not locate executable f77
+  customize IntelVisualFCompiler
+  Could not locate executable ifort
+  Could not locate executable ifl
+  customize AbsoftFCompiler
+  Could not locate executable f90
+  customize CompaqVisualFCompiler
+  Could not locate executable DF
+  customize IntelItaniumVisualFCompiler
+  Could not locate executable efl
+  customize Gnu95FCompiler
+  Could not locate executable gfortran
+  Could not locate executable f95
+  customize G95FCompiler
+  Could not locate executable g95
+  customize IntelEM64VisualFCompiler
+  customize IntelEM64TFCompiler
+  Could not locate executable efort
+  Could not locate executable efc
+  customize PGroupFlangCompiler
+  Could not locate executable flang
+  don't know how to compile Fortran code on platform 'nt'
+    NOT AVAILABLE
+  
+  atlas_3_10_blas_threads_info:
+  Setting PTATLAS=ATLAS
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+    libraries tatlas not found in ['D:\\Windsor\\WindsorThesis\\Git repo\\Thesis-Project-Python-Dependency-Conflict-Resolution\\pipTest\\myenv\\lib', 'C:\\']
+    NOT AVAILABLE
+  
+  atlas_3_10_blas_info:
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+    libraries satlas not found in ['D:\\Windsor\\WindsorThesis\\Git repo\\Thesis-Project-Python-Dependency-Conflict-Resolution\\pipTest\\myenv\\lib', 'C:\\']
+    NOT AVAILABLE
+  
+  atlas_blas_threads_info:
+  Setting PTATLAS=ATLAS
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+    libraries ptf77blas,ptcblas,atlas not found in ['D:\\Windsor\\WindsorThesis\\Git repo\\Thesis-Project-Python-Dependency-Conflict-Resolution\\pipTest\\myenv\\lib', 'C:\\']
+    NOT AVAILABLE
+  
+  atlas_blas_info:
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+    libraries f77blas,cblas,atlas not found in ['D:\\Windsor\\WindsorThesis\\Git repo\\Thesis-Project-Python-Dependency-Conflict-Resolution\\pipTest\\myenv\\lib', 'C:\\']
+    NOT AVAILABLE
+  
+  accelerate_info:
+    NOT AVAILABLE
+  
+  C:\Users\ASUS\AppData\Local\Temp\pip-install-yr7bgpfu\numpy_ceb9110352c24ec0bf0c18889ba36db2\numpy\distutils\system_info.py:639: UserWarning:
+      Atlas (http://math-atlas.sourceforge.net/) libraries not found.
+      Directories to search for the libraries can be specified in the
+      numpy/distutils/site.cfg file (section [atlas]) or by setting
+      the ATLAS environment variable.
+    self.calc_info()
+  blas_info:
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+    libraries blas not found in ['D:\\Windsor\\WindsorThesis\\Git repo\\Thesis-Project-Python-Dependency-Conflict-Resolution\\pipTest\\myenv\\lib', 'C:\\']
+    NOT AVAILABLE
+  
+  C:\Users\ASUS\AppData\Local\Temp\pip-install-yr7bgpfu\numpy_ceb9110352c24ec0bf0c18889ba36db2\numpy\distutils\system_info.py:639: UserWarning:
+      Blas (http://www.netlib.org/blas/) libraries not found.
+      Directories to search for the libraries can be specified in the
+      numpy/distutils/site.cfg file (section [blas]) or by setting
+      the BLAS environment variable.
+    self.calc_info()
+  blas_src_info:
+    NOT AVAILABLE
+  
+  C:\Users\ASUS\AppData\Local\Temp\pip-install-yr7bgpfu\numpy_ceb9110352c24ec0bf0c18889ba36db2\numpy\distutils\system_info.py:639: UserWarning:
+      Blas (http://www.netlib.org/blas/) sources not found.
+      Directories to search for the sources can be specified in the
+      numpy/distutils/site.cfg file (section [blas_src]) or by setting
+      the BLAS_SRC environment variable.
+    self.calc_info()
+    NOT AVAILABLE
+  
+  'svnversion' is not recognized as an internal or external command,
+  operable program or batch file.
+  non-existing path in 'numpy\\distutils': 'site.cfg'
+  lapack_opt_info:
+  lapack_mkl_info:
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+    libraries mkl_rt not found in ['D:\\Windsor\\WindsorThesis\\Git repo\\Thesis-Project-Python-Dependency-Conflict-Resolution\\pipTest\\myenv\\lib', 'C:\\']
+    NOT AVAILABLE
+  
+  openblas_lapack_info:
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+    libraries openblas not found in ['D:\\Windsor\\WindsorThesis\\Git repo\\Thesis-Project-Python-Dependency-Conflict-Resolution\\pipTest\\myenv\\lib', 'C:\\']
+    NOT AVAILABLE
+  
+  openblas_clapack_info:
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+    libraries openblas,lapack not found in ['D:\\Windsor\\WindsorThesis\\Git repo\\Thesis-Project-Python-Dependency-Conflict-Resolution\\pipTest\\myenv\\lib', 'C:\\']
+    NOT AVAILABLE
+  
+  atlas_3_10_threads_info:
+  Setting PTATLAS=ATLAS
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+    libraries lapack_atlas not found in D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\lib
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+    libraries tatlas,tatlas not found in D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\lib
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+    libraries lapack_atlas not found in C:\
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+    libraries tatlas,tatlas not found in C:\
+  <class 'numpy.distutils.system_info.atlas_3_10_threads_info'>
+    NOT AVAILABLE
+  
+  atlas_3_10_info:
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+    libraries lapack_atlas not found in D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\lib
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+    libraries satlas,satlas not found in D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\lib
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+    libraries lapack_atlas not found in C:\
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+    libraries satlas,satlas not found in C:\
+  <class 'numpy.distutils.system_info.atlas_3_10_info'>
+    NOT AVAILABLE
+  
+  atlas_threads_info:
+  Setting PTATLAS=ATLAS
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+    libraries lapack_atlas not found in D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\lib
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+    libraries ptf77blas,ptcblas,atlas not found in D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\lib
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+    libraries lapack_atlas not found in C:\
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+    libraries ptf77blas,ptcblas,atlas not found in C:\
+  <class 'numpy.distutils.system_info.atlas_threads_info'>
+    NOT AVAILABLE
+  
+  atlas_info:
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+    libraries lapack_atlas not found in D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\lib
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+    libraries f77blas,cblas,atlas not found in D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\lib
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+    libraries lapack_atlas not found in C:\
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+    libraries f77blas,cblas,atlas not found in C:\
+  <class 'numpy.distutils.system_info.atlas_info'>
+    NOT AVAILABLE
+  
+  lapack_info:
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  customize MSVCCompiler
+    libraries lapack not found in ['D:\\Windsor\\WindsorThesis\\Git repo\\Thesis-Project-Python-Dependency-Conflict-Resolution\\pipTest\\myenv\\lib', 'C:\\']
+    NOT AVAILABLE
+  
+  C:\Users\ASUS\AppData\Local\Temp\pip-install-yr7bgpfu\numpy_ceb9110352c24ec0bf0c18889ba36db2\numpy\distutils\system_info.py:639: UserWarning:
+      Lapack (http://www.netlib.org/lapack/) libraries not found.
+      Directories to search for the libraries can be specified in the
+      numpy/distutils/site.cfg file (section [lapack]) or by setting
+      the LAPACK environment variable.
+    self.calc_info()
+  lapack_src_info:
+    NOT AVAILABLE
+  
+  C:\Users\ASUS\AppData\Local\Temp\pip-install-yr7bgpfu\numpy_ceb9110352c24ec0bf0c18889ba36db2\numpy\distutils\system_info.py:639: UserWarning:
+      Lapack (http://www.netlib.org/lapack/) sources not found.
+      Directories to search for the sources can be specified in the
+      numpy/distutils/site.cfg file (section [lapack_src]) or by setting
+      the LAPACK_SRC environment variable.
+    self.calc_info()
+    NOT AVAILABLE
+  
+  C:\Users\ASUS\AppData\Local\Temp\pip-build-env-w5j5de0a\overlay\Lib\site-packages\setuptools\_distutils\dist.py:268: UserWarning: Unknown distribution option: 'define_macros'
+    warnings.warn(msg)
+  running dist_info
+  running build_src
+  build_src
+  building py_modules sources
+  creating build
+  creating build\src.win-amd64-3.1
+  creating build\src.win-amd64-3.1\numpy
+  creating build\src.win-amd64-3.1\numpy\distutils
+  building library "npymath" sources
+  No module named 'numpy.distutils._msvccompiler' in numpy.distutils; trying from distutils
+  error: Microsoft Visual C++ 14.0 or greater is required. Get it with "Microsoft C++ Build Tools": https://visualstudio.microsoft.com/visual-cpp-build-tools/
+  [end of output]
+  
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+error: metadata-generation-failed
+
+Encountered error while generating package metadata.
+
+See above for output.
+
+note: This is an issue with the package mentioned above, not pip.
+hint: See above for details.
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

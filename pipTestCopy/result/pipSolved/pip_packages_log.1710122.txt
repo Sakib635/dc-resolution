@@ -1,0 +1,9 @@
+Flask-1.1.2
+Jinja2-3.1.4
+MarkupSafe-2.1.5
+Werkzeug-1.0.1
+click-8.1.7
+colorama-0.4.6
+itsdangerous-2.2.0
+python-memcached-1.59
+six-1.16.0

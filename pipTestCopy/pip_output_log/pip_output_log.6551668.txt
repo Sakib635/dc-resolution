@@ -1,0 +1,42 @@
+Collecting pytz==2020.5 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.6551668.txt (line 1))
+  Obtaining dependency information for pytz==2020.5 from https://files.pythonhosted.org/packages/89/06/2c2d3034b4d6bf22f2a4ae546d16925898658a33b4400cfb7e2c1e2871a3/pytz-2020.5-py2.py3-none-any.whl.metadata
+  Downloading pytz-2020.5-py2.py3-none-any.whl.metadata (21 kB)
+Collecting ndg_httpsclient==0.5.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.6551668.txt (line 2))
+  Obtaining dependency information for ndg_httpsclient==0.5.1 from https://files.pythonhosted.org/packages/fb/67/c2f508c00ed2a6911541494504b7cac16fe0b0473912568df65fd1801132/ndg_httpsclient-0.5.1-py3-none-any.whl.metadata
+  Downloading ndg_httpsclient-0.5.1-py3-none-any.whl.metadata (6.2 kB)
+Collecting pyasn1==0.4.8 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.6551668.txt (line 3))
+  Obtaining dependency information for pyasn1==0.4.8 from https://files.pythonhosted.org/packages/62/1e/a94a8d635fa3ce4cfc7f506003548d0a2447ae76fd5ca53932970fe3053f/pyasn1-0.4.8-py2.py3-none-any.whl.metadata
+  Downloading pyasn1-0.4.8-py2.py3-none-any.whl.metadata (1.5 kB)
+Collecting pyOpenSSL==20.0.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.6551668.txt (line 4))
+  Obtaining dependency information for pyOpenSSL==20.0.1 from https://files.pythonhosted.org/packages/b2/5e/06351ede29fd4899782ad335c2e02f1f862a887c20a3541f17c3fa1a3525/pyOpenSSL-20.0.1-py2.py3-none-any.whl.metadata
+  Downloading pyOpenSSL-20.0.1-py2.py3-none-any.whl.metadata (6.7 kB)
+Collecting cryptography>=3.2 (from pyOpenSSL==20.0.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.6551668.txt (line 4))
+  Obtaining dependency information for cryptography>=3.2 from https://files.pythonhosted.org/packages/a2/7b/b0d330852dd5953daee6b15f742f15d9f18e9c0154eb4cfcc8718f0436da/cryptography-42.0.8-cp39-abi3-win_amd64.whl.metadata
+  Downloading cryptography-42.0.8-cp39-abi3-win_amd64.whl.metadata (5.4 kB)
+Collecting six>=1.5.2 (from pyOpenSSL==20.0.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.6551668.txt (line 4))
+  Obtaining dependency information for six>=1.5.2 from https://files.pythonhosted.org/packages/d9/5a/e7c31adbe875f2abbb91bd84cf2dc52d792b5a01506781dbcf25c91daf11/six-1.16.0-py2.py3-none-any.whl.metadata
+  Downloading six-1.16.0-py2.py3-none-any.whl.metadata (1.8 kB)
+Collecting cffi>=1.12 (from cryptography>=3.2->pyOpenSSL==20.0.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.6551668.txt (line 4))
+  Obtaining dependency information for cffi>=1.12 from https://files.pythonhosted.org/packages/e9/63/e285470a4880a4f36edabe4810057bd4b562c6ddcc165eacf9c3c7210b40/cffi-1.16.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading cffi-1.16.0-cp312-cp312-win_amd64.whl.metadata (1.5 kB)
+Collecting pycparser (from cffi>=1.12->cryptography>=3.2->pyOpenSSL==20.0.1->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.6551668.txt (line 4))
+  Obtaining dependency information for pycparser from https://files.pythonhosted.org/packages/13/a3/a812df4e2dd5696d1f351d58b8fe16a405b234ad2886a0dab9183fb78109/pycparser-2.22-py3-none-any.whl.metadata
+  Downloading pycparser-2.22-py3-none-any.whl.metadata (943 bytes)
+Downloading pytz-2020.5-py2.py3-none-any.whl (510 kB)
+   ---------------------------------------- 510.8/510.8 kB 5.3 MB/s eta 0:00:00
+Downloading ndg_httpsclient-0.5.1-py3-none-any.whl (34 kB)
+Downloading pyasn1-0.4.8-py2.py3-none-any.whl (77 kB)
+   ---------------------------------------- 77.1/77.1 kB 4.2 MB/s eta 0:00:00
+Downloading pyOpenSSL-20.0.1-py2.py3-none-any.whl (54 kB)
+   ---------------------------------------- 54.1/54.1 kB ? eta 0:00:00
+Downloading cryptography-42.0.8-cp39-abi3-win_amd64.whl (2.9 MB)
+   ---------------------------------------- 2.9/2.9 MB 8.8 MB/s eta 0:00:00
+Downloading six-1.16.0-py2.py3-none-any.whl (11 kB)
+Downloading cffi-1.16.0-cp312-cp312-win_amd64.whl (181 kB)
+   ---------------------------------------- 182.0/182.0 kB 5.5 MB/s eta 0:00:00
+Downloading pycparser-2.22-py3-none-any.whl (117 kB)
+   ---------------------------------------- 117.6/117.6 kB 6.7 MB/s eta 0:00:00
+Would install cffi-1.16.0 cryptography-42.0.8 ndg-httpsclient-0.5.1 pyOpenSSL-20.0.1 pyasn1-0.4.8 pycparser-2.22 pytz-2020.5 six-1.16.0
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

@@ -1,0 +1,8 @@
+Collecting ecdsa==0.16.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.8458501.txt (line 1))
+  Obtaining dependency information for ecdsa==0.16.1 from https://files.pythonhosted.org/packages/98/16/70be2716e24eaf5d81074bb3c05429d60292c2a96613a78ac3d69526ad2a/ecdsa-0.16.1-py2.py3-none-any.whl.metadata
+  Downloading ecdsa-0.16.1-py2.py3-none-any.whl.metadata (24 kB)
+ERROR: Could not find a version that satisfies the requirement obelisk==0.0 (from versions: none)
+ERROR: No matching distribution found for obelisk==0.0
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

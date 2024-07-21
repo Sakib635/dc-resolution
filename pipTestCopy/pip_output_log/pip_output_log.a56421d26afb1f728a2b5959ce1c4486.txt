@@ -1,0 +1,49 @@
+Collecting hyperopt==0.2.5 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.a56421d26afb1f728a2b5959ce1c4486.txt (line 1))
+  Obtaining dependency information for hyperopt==0.2.5 from https://files.pythonhosted.org/packages/a6/07/bd524635d218adae139be320eeac87fb4fbbd45c63b0bd58930c9e91f1fc/hyperopt-0.2.5-py2.py3-none-any.whl.metadata
+  Downloading hyperopt-0.2.5-py2.py3-none-any.whl.metadata (1.6 kB)
+Collecting numpy (from hyperopt==0.2.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.a56421d26afb1f728a2b5959ce1c4486.txt (line 1))
+  Obtaining dependency information for numpy from https://files.pythonhosted.org/packages/ad/9c/4a93b8e395b755c53628573d75d7b21985d9a0f416e978d637084ccc8ec3/numpy-2.0.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading numpy-2.0.0-cp312-cp312-win_amd64.whl.metadata (60 kB)
+     -------------------------------------- 60.9/60.9 kB 405.3 kB/s eta 0:00:00
+Collecting scipy (from hyperopt==0.2.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.a56421d26afb1f728a2b5959ce1c4486.txt (line 1))
+  Obtaining dependency information for scipy from https://files.pythonhosted.org/packages/3f/72/305686527c68f33f1dd3ebdd28f53340d372b2f9e44dccaf6f92e17739d3/scipy-1.14.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading scipy-1.14.0-cp312-cp312-win_amd64.whl.metadata (60 kB)
+     ---------------------------------------- 60.8/60.8 kB 1.6 MB/s eta 0:00:00
+Collecting six (from hyperopt==0.2.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.a56421d26afb1f728a2b5959ce1c4486.txt (line 1))
+  Obtaining dependency information for six from https://files.pythonhosted.org/packages/d9/5a/e7c31adbe875f2abbb91bd84cf2dc52d792b5a01506781dbcf25c91daf11/six-1.16.0-py2.py3-none-any.whl.metadata
+  Downloading six-1.16.0-py2.py3-none-any.whl.metadata (1.8 kB)
+Collecting networkx>=2.2 (from hyperopt==0.2.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.a56421d26afb1f728a2b5959ce1c4486.txt (line 1))
+  Obtaining dependency information for networkx>=2.2 from https://files.pythonhosted.org/packages/38/e9/5f72929373e1a0e8d142a130f3f97e6ff920070f87f91c4e13e40e0fba5a/networkx-3.3-py3-none-any.whl.metadata
+  Downloading networkx-3.3-py3-none-any.whl.metadata (5.1 kB)
+Collecting future (from hyperopt==0.2.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.a56421d26afb1f728a2b5959ce1c4486.txt (line 1))
+  Obtaining dependency information for future from https://files.pythonhosted.org/packages/da/71/ae30dadffc90b9006d77af76b393cb9dfbfc9629f339fc1574a1c52e6806/future-1.0.0-py3-none-any.whl.metadata
+  Downloading future-1.0.0-py3-none-any.whl.metadata (4.0 kB)
+Collecting tqdm (from hyperopt==0.2.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.a56421d26afb1f728a2b5959ce1c4486.txt (line 1))
+  Obtaining dependency information for tqdm from https://files.pythonhosted.org/packages/18/eb/fdb7eb9e48b7b02554e1664afd3bd3f117f6b6d6c5881438a0b055554f9b/tqdm-4.66.4-py3-none-any.whl.metadata
+  Downloading tqdm-4.66.4-py3-none-any.whl.metadata (57 kB)
+     ---------------------------------------- 57.6/57.6 kB 3.2 MB/s eta 0:00:00
+Collecting cloudpickle (from hyperopt==0.2.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.a56421d26afb1f728a2b5959ce1c4486.txt (line 1))
+  Obtaining dependency information for cloudpickle from https://files.pythonhosted.org/packages/96/43/dae06432d0c4b1dc9e9149ad37b4ca8384cf6eb7700cd9215b177b914f0a/cloudpickle-3.0.0-py3-none-any.whl.metadata
+  Downloading cloudpickle-3.0.0-py3-none-any.whl.metadata (7.0 kB)
+Collecting colorama (from tqdm->hyperopt==0.2.5->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.a56421d26afb1f728a2b5959ce1c4486.txt (line 1))
+  Obtaining dependency information for colorama from https://files.pythonhosted.org/packages/d1/d6/3965ed04c63042e047cb6a3e6ed1a63a35087b6a609aa3a15ed8ac56c221/colorama-0.4.6-py2.py3-none-any.whl.metadata
+  Downloading colorama-0.4.6-py2.py3-none-any.whl.metadata (17 kB)
+Downloading hyperopt-0.2.5-py2.py3-none-any.whl (965 kB)
+   ---------------------------------------- 966.0/966.0 kB 4.4 MB/s eta 0:00:00
+Downloading networkx-3.3-py3-none-any.whl (1.7 MB)
+   ---------------------------------------- 1.7/1.7 MB 7.2 MB/s eta 0:00:00
+Downloading cloudpickle-3.0.0-py3-none-any.whl (20 kB)
+Downloading future-1.0.0-py3-none-any.whl (491 kB)
+   --------------------------------------- 491.3/491.3 kB 32.1 MB/s eta 0:00:00
+Downloading numpy-2.0.0-cp312-cp312-win_amd64.whl (16.2 MB)
+   ---------------------------------------- 16.2/16.2 MB 17.2 MB/s eta 0:00:00
+Downloading scipy-1.14.0-cp312-cp312-win_amd64.whl (44.5 MB)
+   ---------------------------------------- 44.5/44.5 MB 9.9 MB/s eta 0:00:00
+Downloading six-1.16.0-py2.py3-none-any.whl (11 kB)
+Downloading tqdm-4.66.4-py3-none-any.whl (78 kB)
+   ---------------------------------------- 78.3/78.3 kB ? eta 0:00:00
+Downloading colorama-0.4.6-py2.py3-none-any.whl (25 kB)
+Would install cloudpickle-3.0.0 colorama-0.4.6 future-1.0.0 hyperopt-0.2.5 networkx-3.3 numpy-2.0.0 scipy-1.14.0 six-1.16.0 tqdm-4.66.4
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

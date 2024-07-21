@@ -1,0 +1,14 @@
+Collecting mininet==2.3.0.dev6 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.11280233.txt (line 1))
+  Obtaining dependency information for mininet==2.3.0.dev6 from https://files.pythonhosted.org/packages/3b/28/84a4ec5e4f018b67196f73b8152f1020de764fe5d37c201b36fe785e45d9/mininet-2.3.0.dev6-py2.py3-none-any.whl.metadata
+  Downloading mininet-2.3.0.dev6-py2.py3-none-any.whl.metadata (722 bytes)
+Collecting setuptools (from mininet==2.3.0.dev6->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.11280233.txt (line 1))
+  Obtaining dependency information for setuptools from https://files.pythonhosted.org/packages/ef/15/88e46eb9387e905704b69849618e699dc2f54407d8953cc4ec4b8b46528d/setuptools-70.3.0-py3-none-any.whl.metadata
+  Downloading setuptools-70.3.0-py3-none-any.whl.metadata (5.8 kB)
+Downloading mininet-2.3.0.dev6-py2.py3-none-any.whl (152 kB)
+   ---------------------------------------- 152.0/152.0 kB 1.3 MB/s eta 0:00:00
+Downloading setuptools-70.3.0-py3-none-any.whl (931 kB)
+   ---------------------------------------- 931.1/931.1 kB 9.8 MB/s eta 0:00:00
+Would install mininet-2.3.0.dev6 setuptools-70.3.0
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

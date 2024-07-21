@@ -1,0 +1,114 @@
+Collecting servicemanager==2.0.7 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.10554232.txt (line 1))
+  Downloading servicemanager-2.0.7.tar.gz (32 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting requests~=2.24.0 (from servicemanager==2.0.7->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.10554232.txt (line 1))
+  Obtaining dependency information for requests~=2.24.0 from https://files.pythonhosted.org/packages/45/1e/0c169c6a5381e241ba7404532c16a21d86ab872c9bed8bdcd4c423954103/requests-2.24.0-py2.py3-none-any.whl.metadata
+  Downloading requests-2.24.0-py2.py3-none-any.whl.metadata (6.9 kB)
+Collecting pymongo==3.11.0 (from servicemanager==2.0.7->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.10554232.txt (line 1))
+  Downloading pymongo-3.11.0.tar.gz (771 kB)
+     -------------------------------------- 771.7/771.7 kB 7.0 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting bottle==0.12.18 (from servicemanager==2.0.7->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.10554232.txt (line 1))
+  Obtaining dependency information for bottle==0.12.18 from https://files.pythonhosted.org/packages/e9/39/2bf3a1fd963e749cdbe5036a184eda8c37d8af25d1297d94b8b7aeec17c4/bottle-0.12.18-py3-none-any.whl.metadata
+  Downloading bottle-0.12.18-py3-none-any.whl.metadata (1.8 kB)
+Collecting pytest==5.4.3 (from servicemanager==2.0.7->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.10554232.txt (line 1))
+  Obtaining dependency information for pytest==5.4.3 from https://files.pythonhosted.org/packages/9f/f3/0a83558da436a081344aa6c8b85ea5b5f05071214106036ce341b7769b0b/pytest-5.4.3-py3-none-any.whl.metadata
+  Downloading pytest-5.4.3-py3-none-any.whl.metadata (7.3 kB)
+Collecting pyhamcrest==2.0.2 (from servicemanager==2.0.7->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.10554232.txt (line 1))
+  Obtaining dependency information for pyhamcrest==2.0.2 from https://files.pythonhosted.org/packages/40/16/e54cc65891f01cb62893540f44ffd3e8dab0a22443e1b438f1a9f5574bee/PyHamcrest-2.0.2-py3-none-any.whl.metadata
+  Downloading PyHamcrest-2.0.2-py3-none-any.whl.metadata (15 kB)
+Collecting argcomplete~=1.12.0 (from servicemanager==2.0.7->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.10554232.txt (line 1))
+  Obtaining dependency information for argcomplete~=1.12.0 from https://files.pythonhosted.org/packages/b7/9e/9dc74d330c07866d72f62d553fe8bdbe32786ff247a14e68b5659963e6bd/argcomplete-1.12.3-py2.py3-none-any.whl.metadata
+  Downloading argcomplete-1.12.3-py2.py3-none-any.whl.metadata (18 kB)
+Collecting prettytable==0.7.2 (from servicemanager==2.0.7->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.10554232.txt (line 1))
+  Downloading prettytable-0.7.2.zip (28 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting py>=1.5.0 (from pytest==5.4.3->servicemanager==2.0.7->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.10554232.txt (line 1))
+  Obtaining dependency information for py>=1.5.0 from https://files.pythonhosted.org/packages/f6/f0/10642828a8dfb741e5f3fbaac830550a518a775c7fff6f04a007259b0548/py-1.11.0-py2.py3-none-any.whl.metadata
+  Downloading py-1.11.0-py2.py3-none-any.whl.metadata (2.8 kB)
+Collecting packaging (from pytest==5.4.3->servicemanager==2.0.7->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.10554232.txt (line 1))
+  Obtaining dependency information for packaging from https://files.pythonhosted.org/packages/08/aa/cc0199a5f0ad350994d660967a8efb233fe0416e4639146c089643407ce6/packaging-24.1-py3-none-any.whl.metadata
+  Downloading packaging-24.1-py3-none-any.whl.metadata (3.2 kB)
+Collecting attrs>=17.4.0 (from pytest==5.4.3->servicemanager==2.0.7->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.10554232.txt (line 1))
+  Obtaining dependency information for attrs>=17.4.0 from https://files.pythonhosted.org/packages/e0/44/827b2a91a5816512fcaf3cc4ebc465ccd5d598c45cefa6703fcf4a79018f/attrs-23.2.0-py3-none-any.whl.metadata
+  Downloading attrs-23.2.0-py3-none-any.whl.metadata (9.5 kB)
+Collecting more-itertools>=4.0.0 (from pytest==5.4.3->servicemanager==2.0.7->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.10554232.txt (line 1))
+  Obtaining dependency information for more-itertools>=4.0.0 from https://files.pythonhosted.org/packages/bb/23/2d1cdb0427aecb2b150dc2ac2d15400990c4f05585b3fbc1b5177d74d7fb/more_itertools-10.3.0-py3-none-any.whl.metadata
+  Downloading more_itertools-10.3.0-py3-none-any.whl.metadata (36 kB)
+Collecting pluggy<1.0,>=0.12 (from pytest==5.4.3->servicemanager==2.0.7->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.10554232.txt (line 1))
+  Obtaining dependency information for pluggy<1.0,>=0.12 from https://files.pythonhosted.org/packages/a0/28/85c7aa31b80d150b772fbe4a229487bc6644da9ccb7e427dd8cc60cb8a62/pluggy-0.13.1-py2.py3-none-any.whl.metadata
+  Downloading pluggy-0.13.1-py2.py3-none-any.whl.metadata (15 kB)
+Collecting wcwidth (from pytest==5.4.3->servicemanager==2.0.7->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.10554232.txt (line 1))
+  Obtaining dependency information for wcwidth from https://files.pythonhosted.org/packages/fd/84/fd2ba7aafacbad3c4201d395674fc6348826569da3c0937e75505ead3528/wcwidth-0.2.13-py2.py3-none-any.whl.metadata
+  Downloading wcwidth-0.2.13-py2.py3-none-any.whl.metadata (14 kB)
+Collecting atomicwrites>=1.0 (from pytest==5.4.3->servicemanager==2.0.7->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.10554232.txt (line 1))
+  Downloading atomicwrites-1.4.1.tar.gz (14 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting colorama (from pytest==5.4.3->servicemanager==2.0.7->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.10554232.txt (line 1))
+  Obtaining dependency information for colorama from https://files.pythonhosted.org/packages/d1/d6/3965ed04c63042e047cb6a3e6ed1a63a35087b6a609aa3a15ed8ac56c221/colorama-0.4.6-py2.py3-none-any.whl.metadata
+  Downloading colorama-0.4.6-py2.py3-none-any.whl.metadata (17 kB)
+Collecting chardet<4,>=3.0.2 (from requests~=2.24.0->servicemanager==2.0.7->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.10554232.txt (line 1))
+  Obtaining dependency information for chardet<4,>=3.0.2 from https://files.pythonhosted.org/packages/bc/a9/01ffebfb562e4274b6487b4bb1ddec7ca55ec7510b22e4c51f14098443b8/chardet-3.0.4-py2.py3-none-any.whl.metadata
+  Downloading chardet-3.0.4-py2.py3-none-any.whl.metadata (3.2 kB)
+Collecting idna<3,>=2.5 (from requests~=2.24.0->servicemanager==2.0.7->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.10554232.txt (line 1))
+  Obtaining dependency information for idna<3,>=2.5 from https://files.pythonhosted.org/packages/a2/38/928ddce2273eaa564f6f50de919327bf3a00f091b5baba8dfa9460f3a8a8/idna-2.10-py2.py3-none-any.whl.metadata
+  Downloading idna-2.10-py2.py3-none-any.whl.metadata (9.1 kB)
+Collecting urllib3!=1.25.0,!=1.25.1,<1.26,>=1.21.1 (from requests~=2.24.0->servicemanager==2.0.7->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.10554232.txt (line 1))
+  Obtaining dependency information for urllib3!=1.25.0,!=1.25.1,<1.26,>=1.21.1 from https://files.pythonhosted.org/packages/56/aa/4ef5aa67a9a62505db124a5cb5262332d1d4153462eb8fd89c9fa41e5d92/urllib3-1.25.11-py2.py3-none-any.whl.metadata
+  Downloading urllib3-1.25.11-py2.py3-none-any.whl.metadata (41 kB)
+     ---------------------------------------- 41.1/41.1 kB 2.1 MB/s eta 0:00:00
+Collecting certifi>=2017.4.17 (from requests~=2.24.0->servicemanager==2.0.7->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.10554232.txt (line 1))
+  Obtaining dependency information for certifi>=2017.4.17 from https://files.pythonhosted.org/packages/1c/d5/c84e1a17bf61d4df64ca866a1c9a913874b4e9bdc131ec689a0ad013fb36/certifi-2024.7.4-py3-none-any.whl.metadata
+  Downloading certifi-2024.7.4-py3-none-any.whl.metadata (2.2 kB)
+Downloading bottle-0.12.18-py3-none-any.whl (89 kB)
+   ---------------------------------------- 89.6/89.6 kB 5.3 MB/s eta 0:00:00
+Downloading PyHamcrest-2.0.2-py3-none-any.whl (52 kB)
+   ---------------------------------------- 52.1/52.1 kB 2.8 MB/s eta 0:00:00
+Downloading pytest-5.4.3-py3-none-any.whl (248 kB)
+   --------------------------------------- 248.1/248.1 kB 15.9 MB/s eta 0:00:00
+Downloading argcomplete-1.12.3-py2.py3-none-any.whl (38 kB)
+Downloading requests-2.24.0-py2.py3-none-any.whl (61 kB)
+   ---------------------------------------- 61.8/61.8 kB ? eta 0:00:00
+Downloading attrs-23.2.0-py3-none-any.whl (60 kB)
+   ---------------------------------------- 60.8/60.8 kB 3.4 MB/s eta 0:00:00
+Downloading certifi-2024.7.4-py3-none-any.whl (162 kB)
+   ---------------------------------------- 163.0/163.0 kB 9.5 MB/s eta 0:00:00
+Downloading chardet-3.0.4-py2.py3-none-any.whl (133 kB)
+   ---------------------------------------- 133.4/133.4 kB 7.7 MB/s eta 0:00:00
+Downloading idna-2.10-py2.py3-none-any.whl (58 kB)
+   ---------------------------------------- 58.8/58.8 kB 3.2 MB/s eta 0:00:00
+Downloading more_itertools-10.3.0-py3-none-any.whl (59 kB)
+   ---------------------------------------- 59.2/59.2 kB ? eta 0:00:00
+Downloading pluggy-0.13.1-py2.py3-none-any.whl (18 kB)
+Downloading py-1.11.0-py2.py3-none-any.whl (98 kB)
+   ---------------------------------------- 98.7/98.7 kB 5.9 MB/s eta 0:00:00
+Downloading urllib3-1.25.11-py2.py3-none-any.whl (127 kB)
+   ---------------------------------------- 128.0/128.0 kB 3.8 MB/s eta 0:00:00
+Downloading colorama-0.4.6-py2.py3-none-any.whl (25 kB)
+Downloading packaging-24.1-py3-none-any.whl (53 kB)
+   ---------------------------------------- 54.0/54.0 kB 2.7 MB/s eta 0:00:00
+Downloading wcwidth-0.2.13-py2.py3-none-any.whl (34 kB)
+Would install PyHamcrest-2.0.2 argcomplete-1.12.3 atomicwrites-1.4.1 attrs-23.2.0 bottle-0.12.18 certifi-2024.7.4 chardet-3.0.4 colorama-0.4.6 idna-2.10 more-itertools-10.3.0 packaging-24.1 pluggy-0.13.1 prettytable-0.7.2 py-1.11.0 pymongo-3.11.0 pytest-5.4.3 requests-2.24.0 servicemanager-2.0.7 urllib3-1.25.11 wcwidth-0.2.13
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

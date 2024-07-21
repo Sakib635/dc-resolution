@@ -1,0 +1,192 @@
+Collecting homeassistant==2021.1.2 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4d3a1d7c49de414942b87d7f6ab1461c.txt (line 1))
+  Obtaining dependency information for homeassistant==2021.1.2 from https://files.pythonhosted.org/packages/4c/b8/67c95a10e32e9c9b6711f78ec1f9f1b676cbc9ad6f3df341e460eac78925/homeassistant-2021.1.2-py3-none-any.whl.metadata
+  Downloading homeassistant-2021.1.2-py3-none-any.whl.metadata (3.5 kB)
+Collecting aiohttp==3.7.1 (from homeassistant==2021.1.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4d3a1d7c49de414942b87d7f6ab1461c.txt (line 1))
+  Downloading aiohttp-3.7.1.tar.gz (1.1 MB)
+     ---------------------------------------- 1.1/1.1 MB 5.9 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting astral==1.10.1 (from homeassistant==2021.1.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4d3a1d7c49de414942b87d7f6ab1461c.txt (line 1))
+  Obtaining dependency information for astral==1.10.1 from https://files.pythonhosted.org/packages/ff/5d/261f49822b7f77c265197d46cdbaaaaf06f458734e9ac55a140dd75bdf29/astral-1.10.1-py2.py3-none-any.whl.metadata
+  Downloading astral-1.10.1-py2.py3-none-any.whl.metadata (1.9 kB)
+Collecting async-timeout==3.0.1 (from homeassistant==2021.1.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4d3a1d7c49de414942b87d7f6ab1461c.txt (line 1))
+  Obtaining dependency information for async-timeout==3.0.1 from https://files.pythonhosted.org/packages/e1/1e/5a4441be21b0726c4464f3f23c8b19628372f606755a9d2e46c187e65ec4/async_timeout-3.0.1-py3-none-any.whl.metadata
+  Downloading async_timeout-3.0.1-py3-none-any.whl.metadata (4.0 kB)
+Collecting attrs==19.3.0 (from homeassistant==2021.1.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4d3a1d7c49de414942b87d7f6ab1461c.txt (line 1))
+  Obtaining dependency information for attrs==19.3.0 from https://files.pythonhosted.org/packages/a2/db/4313ab3be961f7a763066401fb77f7748373b6094076ae2bda2806988af6/attrs-19.3.0-py2.py3-none-any.whl.metadata
+  Downloading attrs-19.3.0-py2.py3-none-any.whl.metadata (9.0 kB)
+Collecting bcrypt==3.1.7 (from homeassistant==2021.1.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4d3a1d7c49de414942b87d7f6ab1461c.txt (line 1))
+  Downloading bcrypt-3.1.7.tar.gz (42 kB)
+     ---------------------------------------- 42.5/42.5 kB ? eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting certifi>=2020.6.20 (from homeassistant==2021.1.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4d3a1d7c49de414942b87d7f6ab1461c.txt (line 1))
+  Obtaining dependency information for certifi>=2020.6.20 from https://files.pythonhosted.org/packages/1c/d5/c84e1a17bf61d4df64ca866a1c9a913874b4e9bdc131ec689a0ad013fb36/certifi-2024.7.4-py3-none-any.whl.metadata
+  Downloading certifi-2024.7.4-py3-none-any.whl.metadata (2.2 kB)
+Collecting ciso8601==2.1.3 (from homeassistant==2021.1.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4d3a1d7c49de414942b87d7f6ab1461c.txt (line 1))
+  Downloading ciso8601-2.1.3.tar.gz (15 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting httpx==0.16.1 (from homeassistant==2021.1.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4d3a1d7c49de414942b87d7f6ab1461c.txt (line 1))
+  Obtaining dependency information for httpx==0.16.1 from https://files.pythonhosted.org/packages/2d/c6/59aa4188e7eddb9e89ec67a51598ca6bfc09f1b38c9b45f7ee45af7a4df4/httpx-0.16.1-py3-none-any.whl.metadata
+  Downloading httpx-0.16.1-py3-none-any.whl.metadata (38 kB)
+Collecting jinja2>=2.11.2 (from homeassistant==2021.1.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4d3a1d7c49de414942b87d7f6ab1461c.txt (line 1))
+  Obtaining dependency information for jinja2>=2.11.2 from https://files.pythonhosted.org/packages/31/80/3a54838c3fb461f6fec263ebf3a3a41771bd05190238de3486aae8540c36/jinja2-3.1.4-py3-none-any.whl.metadata
+  Downloading jinja2-3.1.4-py3-none-any.whl.metadata (2.6 kB)
+Collecting PyJWT==1.7.1 (from homeassistant==2021.1.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4d3a1d7c49de414942b87d7f6ab1461c.txt (line 1))
+  Obtaining dependency information for PyJWT==1.7.1 from https://files.pythonhosted.org/packages/87/8b/6a9f14b5f781697e51259d81657e6048fd31a113229cf346880bb7545565/PyJWT-1.7.1-py2.py3-none-any.whl.metadata
+  Downloading PyJWT-1.7.1-py2.py3-none-any.whl.metadata (3.9 kB)
+Collecting cryptography==3.2 (from homeassistant==2021.1.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4d3a1d7c49de414942b87d7f6ab1461c.txt (line 1))
+  Obtaining dependency information for cryptography==3.2 from https://files.pythonhosted.org/packages/56/0e/d8f79d6c38b1ca038babb19058b862e62920def274b56295a8a0e5373f3b/cryptography-3.2-cp36-abi3-win_amd64.whl.metadata
+  Downloading cryptography-3.2-cp36-abi3-win_amd64.whl.metadata (5.2 kB)
+Collecting pip<20.3,>=8.0.3 (from homeassistant==2021.1.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4d3a1d7c49de414942b87d7f6ab1461c.txt (line 1))
+  Obtaining dependency information for pip<20.3,>=8.0.3 from https://files.pythonhosted.org/packages/cb/28/91f26bd088ce8e22169032100d4260614fc3da435025ff389ef1d396a433/pip-20.2.4-py2.py3-none-any.whl.metadata
+  Downloading pip-20.2.4-py2.py3-none-any.whl.metadata (3.7 kB)
+Collecting python-slugify==4.0.1 (from homeassistant==2021.1.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4d3a1d7c49de414942b87d7f6ab1461c.txt (line 1))
+  Downloading python-slugify-4.0.1.tar.gz (11 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting pytz>=2020.1 (from homeassistant==2021.1.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4d3a1d7c49de414942b87d7f6ab1461c.txt (line 1))
+  Obtaining dependency information for pytz>=2020.1 from https://files.pythonhosted.org/packages/9c/3d/a121f284241f08268b21359bd425f7d4825cffc5ac5cd0e1b3d82ffd2b10/pytz-2024.1-py2.py3-none-any.whl.metadata
+  Downloading pytz-2024.1-py2.py3-none-any.whl.metadata (22 kB)
+Collecting pyyaml==5.3.1 (from homeassistant==2021.1.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4d3a1d7c49de414942b87d7f6ab1461c.txt (line 1))
+  Downloading PyYAML-5.3.1.tar.gz (269 kB)
+     ------------------------------------- 269.4/269.4 kB 16.2 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting requests==2.25.0 (from homeassistant==2021.1.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4d3a1d7c49de414942b87d7f6ab1461c.txt (line 1))
+  Obtaining dependency information for requests==2.25.0 from https://files.pythonhosted.org/packages/39/fc/f91eac5a39a65f75a7adb58eac7fa78871ea9872283fb9c44e6545998134/requests-2.25.0-py2.py3-none-any.whl.metadata
+  Downloading requests-2.25.0-py2.py3-none-any.whl.metadata (4.2 kB)
+Collecting ruamel.yaml==0.15.100 (from homeassistant==2021.1.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4d3a1d7c49de414942b87d7f6ab1461c.txt (line 1))
+  Downloading ruamel.yaml-0.15.100.tar.gz (318 kB)
+     -------------------------------------- 318.6/318.6 kB 6.6 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting voluptuous==0.12.1 (from homeassistant==2021.1.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4d3a1d7c49de414942b87d7f6ab1461c.txt (line 1))
+  Obtaining dependency information for voluptuous==0.12.1 from https://files.pythonhosted.org/packages/9c/b9/84f5bd190a7dc234cea2ca1da02c8900ace982e0ad4ae494660585844f04/voluptuous-0.12.1-py3-none-any.whl.metadata
+  Downloading voluptuous-0.12.1-py3-none-any.whl.metadata (20 kB)
+Collecting voluptuous-serialize==2.4.0 (from homeassistant==2021.1.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4d3a1d7c49de414942b87d7f6ab1461c.txt (line 1))
+  Obtaining dependency information for voluptuous-serialize==2.4.0 from https://files.pythonhosted.org/packages/b5/37/79066c7bd82e7a463ecbfe644598f9a79011a32179d9829121ea171b339a/voluptuous_serialize-2.4.0-py3-none-any.whl.metadata
+  Downloading voluptuous_serialize-2.4.0-py3-none-any.whl.metadata (322 bytes)
+Collecting yarl==1.4.2 (from homeassistant==2021.1.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4d3a1d7c49de414942b87d7f6ab1461c.txt (line 1))
+  Downloading yarl-1.4.2.tar.gz (163 kB)
+     ------------------------------------- 163.5/163.5 kB 10.2 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting chardet<4.0,>=2.0 (from aiohttp==3.7.1->homeassistant==2021.1.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4d3a1d7c49de414942b87d7f6ab1461c.txt (line 1))
+  Obtaining dependency information for chardet<4.0,>=2.0 from https://files.pythonhosted.org/packages/bc/a9/01ffebfb562e4274b6487b4bb1ddec7ca55ec7510b22e4c51f14098443b8/chardet-3.0.4-py2.py3-none-any.whl.metadata
+  Downloading chardet-3.0.4-py2.py3-none-any.whl.metadata (3.2 kB)
+Collecting multidict<7.0,>=4.5 (from aiohttp==3.7.1->homeassistant==2021.1.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4d3a1d7c49de414942b87d7f6ab1461c.txt (line 1))
+  Obtaining dependency information for multidict<7.0,>=4.5 from https://files.pythonhosted.org/packages/4a/68/66fceb758ad7a88993940dbdf3ac59911ba9dc46d7798bf6c8652f89f853/multidict-6.0.5-cp312-cp312-win_amd64.whl.metadata
+  Downloading multidict-6.0.5-cp312-cp312-win_amd64.whl.metadata (4.3 kB)
+Collecting typing-extensions>=3.6.5 (from aiohttp==3.7.1->homeassistant==2021.1.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4d3a1d7c49de414942b87d7f6ab1461c.txt (line 1))
+  Obtaining dependency information for typing-extensions>=3.6.5 from https://files.pythonhosted.org/packages/26/9f/ad63fc0248c5379346306f8668cda6e2e2e9c95e01216d2b8ffd9ff037d0/typing_extensions-4.12.2-py3-none-any.whl.metadata
+  Downloading typing_extensions-4.12.2-py3-none-any.whl.metadata (3.0 kB)
+Collecting cffi>=1.1 (from bcrypt==3.1.7->homeassistant==2021.1.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4d3a1d7c49de414942b87d7f6ab1461c.txt (line 1))
+  Obtaining dependency information for cffi>=1.1 from https://files.pythonhosted.org/packages/e9/63/e285470a4880a4f36edabe4810057bd4b562c6ddcc165eacf9c3c7210b40/cffi-1.16.0-cp312-cp312-win_amd64.whl.metadata
+  Using cached cffi-1.16.0-cp312-cp312-win_amd64.whl.metadata (1.5 kB)
+Collecting six>=1.4.1 (from bcrypt==3.1.7->homeassistant==2021.1.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4d3a1d7c49de414942b87d7f6ab1461c.txt (line 1))
+  Obtaining dependency information for six>=1.4.1 from https://files.pythonhosted.org/packages/d9/5a/e7c31adbe875f2abbb91bd84cf2dc52d792b5a01506781dbcf25c91daf11/six-1.16.0-py2.py3-none-any.whl.metadata
+  Downloading six-1.16.0-py2.py3-none-any.whl.metadata (1.8 kB)
+Collecting sniffio (from httpx==0.16.1->homeassistant==2021.1.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4d3a1d7c49de414942b87d7f6ab1461c.txt (line 1))
+  Obtaining dependency information for sniffio from https://files.pythonhosted.org/packages/e9/44/75a9c9421471a6c4805dbf2356f7c181a29c1879239abab1ea2cc8f38b40/sniffio-1.3.1-py3-none-any.whl.metadata
+  Downloading sniffio-1.3.1-py3-none-any.whl.metadata (3.9 kB)
+Collecting rfc3986[idna2008]<2,>=1.3 (from httpx==0.16.1->homeassistant==2021.1.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4d3a1d7c49de414942b87d7f6ab1461c.txt (line 1))
+  Obtaining dependency information for rfc3986[idna2008]<2,>=1.3 from https://files.pythonhosted.org/packages/c4/e5/63ca2c4edf4e00657584608bee1001302bbf8c5f569340b78304f2f446cb/rfc3986-1.5.0-py2.py3-none-any.whl.metadata
+  Downloading rfc3986-1.5.0-py2.py3-none-any.whl.metadata (6.5 kB)
+Collecting httpcore==0.12.* (from httpx==0.16.1->homeassistant==2021.1.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4d3a1d7c49de414942b87d7f6ab1461c.txt (line 1))
+  Obtaining dependency information for httpcore==0.12.* from https://files.pythonhosted.org/packages/50/ce/544244e2145075896d38f7db3e822c24d1be9f7966ed3d83f158e388d195/httpcore-0.12.3-py3-none-any.whl.metadata
+  Downloading httpcore-0.12.3-py3-none-any.whl.metadata (10 kB)
+Collecting text-unidecode>=1.3 (from python-slugify==4.0.1->homeassistant==2021.1.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4d3a1d7c49de414942b87d7f6ab1461c.txt (line 1))
+  Obtaining dependency information for text-unidecode>=1.3 from https://files.pythonhosted.org/packages/a6/a5/c0b6468d3824fe3fde30dbb5e1f687b291608f9473681bbf7dabbf5a87d7/text_unidecode-1.3-py2.py3-none-any.whl.metadata
+  Downloading text_unidecode-1.3-py2.py3-none-any.whl.metadata (2.4 kB)
+Collecting idna<3,>=2.5 (from requests==2.25.0->homeassistant==2021.1.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4d3a1d7c49de414942b87d7f6ab1461c.txt (line 1))
+  Obtaining dependency information for idna<3,>=2.5 from https://files.pythonhosted.org/packages/a2/38/928ddce2273eaa564f6f50de919327bf3a00f091b5baba8dfa9460f3a8a8/idna-2.10-py2.py3-none-any.whl.metadata
+  Downloading idna-2.10-py2.py3-none-any.whl.metadata (9.1 kB)
+Collecting urllib3<1.27,>=1.21.1 (from requests==2.25.0->homeassistant==2021.1.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4d3a1d7c49de414942b87d7f6ab1461c.txt (line 1))
+  Obtaining dependency information for urllib3<1.27,>=1.21.1 from https://files.pythonhosted.org/packages/ae/6a/99eaaeae8becaa17a29aeb334a18e5d582d873b6f084c11f02581b8d7f7f/urllib3-1.26.19-py2.py3-none-any.whl.metadata
+  Downloading urllib3-1.26.19-py2.py3-none-any.whl.metadata (49 kB)
+     ---------------------------------------- 49.3/49.3 kB 2.6 MB/s eta 0:00:00
+Collecting h11==0.* (from httpcore==0.12.*->httpx==0.16.1->homeassistant==2021.1.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4d3a1d7c49de414942b87d7f6ab1461c.txt (line 1))
+  Obtaining dependency information for h11==0.* from https://files.pythonhosted.org/packages/95/04/ff642e65ad6b90db43e668d70ffb6736436c7ce41fcc549f4e9472234127/h11-0.14.0-py3-none-any.whl.metadata
+  Downloading h11-0.14.0-py3-none-any.whl.metadata (8.2 kB)
+Collecting MarkupSafe>=2.0 (from jinja2>=2.11.2->homeassistant==2021.1.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4d3a1d7c49de414942b87d7f6ab1461c.txt (line 1))
+  Obtaining dependency information for MarkupSafe>=2.0 from https://files.pythonhosted.org/packages/3f/14/c3554d512d5f9100a95e737502f4a2323a1959f6d0d01e0d0997b35f7b10/MarkupSafe-2.1.5-cp312-cp312-win_amd64.whl.metadata
+  Downloading MarkupSafe-2.1.5-cp312-cp312-win_amd64.whl.metadata (3.1 kB)
+Collecting pycparser (from cffi>=1.1->bcrypt==3.1.7->homeassistant==2021.1.2->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.4d3a1d7c49de414942b87d7f6ab1461c.txt (line 1))
+  Obtaining dependency information for pycparser from https://files.pythonhosted.org/packages/13/a3/a812df4e2dd5696d1f351d58b8fe16a405b234ad2886a0dab9183fb78109/pycparser-2.22-py3-none-any.whl.metadata
+  Using cached pycparser-2.22-py3-none-any.whl.metadata (943 bytes)
+Downloading homeassistant-2021.1.2-py3-none-any.whl (10.2 MB)
+   ---------------------------------------- 10.2/10.2 MB 17.7 MB/s eta 0:00:00
+Downloading astral-1.10.1-py2.py3-none-any.whl (29 kB)
+Downloading async_timeout-3.0.1-py3-none-any.whl (8.2 kB)
+Downloading attrs-19.3.0-py2.py3-none-any.whl (39 kB)
+Downloading cryptography-3.2-cp36-abi3-win_amd64.whl (1.5 MB)
+   ---------------------------------------- 1.5/1.5 MB 6.9 MB/s eta 0:00:00
+Downloading httpx-0.16.1-py3-none-any.whl (65 kB)
+   ---------------------------------------- 65.6/65.6 kB 3.5 MB/s eta 0:00:00
+Downloading PyJWT-1.7.1-py2.py3-none-any.whl (18 kB)
+Downloading requests-2.25.0-py2.py3-none-any.whl (61 kB)
+   ---------------------------------------- 61.1/61.1 kB 3.2 MB/s eta 0:00:00
+Downloading voluptuous-0.12.1-py3-none-any.whl (29 kB)
+Downloading voluptuous_serialize-2.4.0-py3-none-any.whl (6.7 kB)
+Downloading httpcore-0.12.3-py3-none-any.whl (55 kB)
+   ---------------------------------------- 55.8/55.8 kB 2.8 MB/s eta 0:00:00
+Downloading sniffio-1.3.1-py3-none-any.whl (10 kB)
+Downloading h11-0.14.0-py3-none-any.whl (58 kB)
+   ---------------------------------------- 58.3/58.3 kB 3.0 MB/s eta 0:00:00
+Downloading certifi-2024.7.4-py3-none-any.whl (162 kB)
+   --------------------------------------- 163.0/163.0 kB 10.2 MB/s eta 0:00:00
+Downloading jinja2-3.1.4-py3-none-any.whl (133 kB)
+   ---------------------------------------- 133.3/133.3 kB 7.7 MB/s eta 0:00:00
+Downloading pip-20.2.4-py2.py3-none-any.whl (1.5 MB)
+   ---------------------------------------- 1.5/1.5 MB 31.8 MB/s eta 0:00:00
+Downloading pytz-2024.1-py2.py3-none-any.whl (505 kB)
+   --------------------------------------- 505.5/505.5 kB 31.0 MB/s eta 0:00:00
+Using cached cffi-1.16.0-cp312-cp312-win_amd64.whl (181 kB)
+Downloading chardet-3.0.4-py2.py3-none-any.whl (133 kB)
+   ---------------------------------------- 133.4/133.4 kB 1.1 MB/s eta 0:00:00
+Downloading idna-2.10-py2.py3-none-any.whl (58 kB)
+   ---------------------------------------- 58.8/58.8 kB ? eta 0:00:00
+Downloading MarkupSafe-2.1.5-cp312-cp312-win_amd64.whl (17 kB)
+Downloading multidict-6.0.5-cp312-cp312-win_amd64.whl (27 kB)
+Downloading six-1.16.0-py2.py3-none-any.whl (11 kB)
+Downloading text_unidecode-1.3-py2.py3-none-any.whl (78 kB)
+   ---------------------------------------- 78.2/78.2 kB 4.2 MB/s eta 0:00:00
+Downloading typing_extensions-4.12.2-py3-none-any.whl (37 kB)
+Downloading urllib3-1.26.19-py2.py3-none-any.whl (143 kB)
+   ---------------------------------------- 143.9/143.9 kB ? eta 0:00:00
+Using cached pycparser-2.22-py3-none-any.whl (117 kB)
+Downloading rfc3986-1.5.0-py2.py3-none-any.whl (31 kB)
+Would install Jinja2-3.1.4 MarkupSafe-2.1.5 PyJWT-1.7.1 PyYAML-5.3.1 aiohttp-3.7.1 astral-1.10.1 async-timeout-3.0.1 attrs-19.3.0 bcrypt-3.1.7 certifi-2024.7.4 cffi-1.16.0 chardet-3.0.4 ciso8601-2.1.3 cryptography-3.2 h11-0.14.0 homeassistant-2021.1.2 httpcore-0.12.3 httpx-0.16.1 idna-2.10 multidict-6.0.5 pip-20.2.4 pycparser-2.22 python-slugify-4.0.1 pytz-2024.1 requests-2.25.0 rfc3986-1.5.0 ruamel.yaml-0.15.100 six-1.16.0 sniffio-1.3.1 text-unidecode-1.3 typing_extensions-4.12.2 urllib3-1.26.19 voluptuous-0.12.1 voluptuous-serialize-2.4.0 yarl-1.4.2
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

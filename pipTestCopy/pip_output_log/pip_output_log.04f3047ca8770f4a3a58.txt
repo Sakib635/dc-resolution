@@ -1,0 +1,63 @@
+Collecting my_project==0.2dev (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.04f3047ca8770f4a3a58.txt (line 1))
+  Downloading my_project-0.2dev.tar.gz (1.1 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting scrapy==2.4.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.04f3047ca8770f4a3a58.txt (line 2))
+  Obtaining dependency information for scrapy==2.4.1 from https://files.pythonhosted.org/packages/3a/16/3c7c37caf25f91aa21db194655515718c2a15f704f9f5c59a194f5c83db0/Scrapy-2.4.1-py2.py3-none-any.whl.metadata
+  Downloading Scrapy-2.4.1-py2.py3-none-any.whl.metadata (4.4 kB)
+Collecting Twisted==21.2.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.04f3047ca8770f4a3a58.txt (line 3))
+  Obtaining dependency information for Twisted==21.2.0 from https://files.pythonhosted.org/packages/f2/16/3eb9c66a7bfb5220c7bcbaaac33d359fe8a157b028959cd210983749b2e0/Twisted-21.2.0-py3-none-any.whl.metadata
+  Downloading Twisted-21.2.0-py3-none-any.whl.metadata (12 kB)
+Collecting caipyrinha (from my_project==0.2dev->-r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.04f3047ca8770f4a3a58.txt (line 1))
+  Downloading caipyrinha-0.2.2.tar.gz (7.3 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'error'
+  error: subprocess-exited-with-error
+  
+  Getting requirements to build wheel did not run successfully.
+  exit code: 1
+  
+  [23 lines of output]
+  Traceback (most recent call last):
+    File "D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 353, in <module>
+      main()
+    File "D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 335, in main
+      json_out['return_val'] = hook(**hook_input['kwargs'])
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 118, in get_requires_for_build_wheel
+      return hook(config_settings)
+             ^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-sfn3ehed\overlay\Lib\site-packages\setuptools\build_meta.py", line 327, in get_requires_for_build_wheel
+      return self._get_build_requires(config_settings, requirements=[])
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-sfn3ehed\overlay\Lib\site-packages\setuptools\build_meta.py", line 297, in _get_build_requires
+      self.run_setup()
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-sfn3ehed\overlay\Lib\site-packages\setuptools\build_meta.py", line 497, in run_setup
+      super().run_setup(setup_script=setup_script)
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-build-env-sfn3ehed\overlay\Lib\site-packages\setuptools\build_meta.py", line 313, in run_setup
+      exec(code, locals())
+    File "<string>", line 28, in <module>
+    File "C:\Users\ASUS\AppData\Local\Temp\pip-install-0go940xc\caipyrinha_36aa33b96e0a4b23b76925a5d1e9cd8f\ez_setup.py", line 106
+      except pkg_resources.VersionConflict, e:
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  SyntaxError: multiple exception types must be parenthesized
+  [end of output]
+  
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+error: subprocess-exited-with-error
+
+Getting requirements to build wheel did not run successfully.
+exit code: 1
+
+See above for output.
+
+note: This error originates from a subprocess, and is likely not a problem with pip.
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

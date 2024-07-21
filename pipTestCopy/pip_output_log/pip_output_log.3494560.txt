@@ -1,0 +1,9 @@
+Collecting PyOpenGL==3.1.5 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.3494560.txt (line 1))
+  Obtaining dependency information for PyOpenGL==3.1.5 from https://files.pythonhosted.org/packages/47/9a/8d9364533ebcaa13621994a63dcc6a6051e27671ae5e1715dac4af18cac2/PyOpenGL-3.1.5-py3-none-any.whl.metadata
+  Downloading PyOpenGL-3.1.5-py3-none-any.whl.metadata (3.2 kB)
+Downloading PyOpenGL-3.1.5-py3-none-any.whl (2.4 MB)
+   ---------------------------------------- 2.4/2.4 MB 9.1 MB/s eta 0:00:00
+Would install PyOpenGL-3.1.5
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

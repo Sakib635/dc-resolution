@@ -1,0 +1,20 @@
+Collecting Flask==1.1.2 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.9358479.txt (line 1))
+  Obtaining dependency information for Flask==1.1.2 from https://files.pythonhosted.org/packages/f2/28/2a03252dfb9ebf377f40fba6a7841b47083260bf8bd8e737b0c6952df83f/Flask-1.1.2-py2.py3-none-any.whl.metadata
+  Downloading Flask-1.1.2-py2.py3-none-any.whl.metadata (4.6 kB)
+Collecting pytest==6.2.1 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.9358479.txt (line 2))
+  Obtaining dependency information for pytest==6.2.1 from https://files.pythonhosted.org/packages/d7/15/5ef931cbd22585865aad0ea025162545b53af9319cf38542e0b7981d5b34/pytest-6.2.1-py3-none-any.whl.metadata
+  Downloading pytest-6.2.1-py3-none-any.whl.metadata (7.1 kB)
+Collecting SQLAlchemy==1.3.22 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.9358479.txt (line 3))
+  Downloading SQLAlchemy-1.3.22.tar.gz (6.3 MB)
+     ---------------------------------------- 6.3/6.3 MB 12.6 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+ERROR: Could not find a version that satisfies the requirement tests==0.007 (from versions: none)
+ERROR: No matching distribution found for tests==0.007
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip

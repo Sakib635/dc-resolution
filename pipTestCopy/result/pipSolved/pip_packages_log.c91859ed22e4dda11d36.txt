@@ -1,0 +1,10 @@
+Adafruit-PureIO-1.1.11
+Adafruit_GPIO-1.0.3
+Adafruit_LED_Backpack-1.8.1
+Django-5.0.7
+asgiref-3.8.1
+image-1.5.33
+pillow-10.4.0
+six-1.16.0
+sqlparse-0.5.1
+tzdata-2024.1

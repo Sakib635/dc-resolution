@@ -1,0 +1,17 @@
+Collecting itsdangerous==1.1.0 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.5680477.txt (line 1))
+  Obtaining dependency information for itsdangerous==1.1.0 from https://files.pythonhosted.org/packages/76/ae/44b03b253d6fade317f32c24d100b3b35c2239807046a4c953c7b89fa49e/itsdangerous-1.1.0-py2.py3-none-any.whl.metadata
+  Downloading itsdangerous-1.1.0-py2.py3-none-any.whl.metadata (3.1 kB)
+Collecting mock==4.0.3 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.5680477.txt (line 2))
+  Obtaining dependency information for mock==4.0.3 from https://files.pythonhosted.org/packages/5c/03/b7e605db4a57c0f6fba744b11ef3ddf4ddebcada35022927a2b5fc623fdf/mock-4.0.3-py3-none-any.whl.metadata
+  Downloading mock-4.0.3-py3-none-any.whl.metadata (2.8 kB)
+Collecting PyHamcrest==2.0.2 (from -r D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/gist/main_gist\requirements.5680477.txt (line 3))
+  Obtaining dependency information for PyHamcrest==2.0.2 from https://files.pythonhosted.org/packages/40/16/e54cc65891f01cb62893540f44ffd3e8dab0a22443e1b438f1a9f5574bee/PyHamcrest-2.0.2-py3-none-any.whl.metadata
+  Downloading PyHamcrest-2.0.2-py3-none-any.whl.metadata (15 kB)
+Downloading itsdangerous-1.1.0-py2.py3-none-any.whl (16 kB)
+Downloading mock-4.0.3-py3-none-any.whl (28 kB)
+Downloading PyHamcrest-2.0.2-py3-none-any.whl (52 kB)
+   ---------------------------------------- 52.1/52.1 kB ? eta 0:00:00
+Would install PyHamcrest-2.0.2 itsdangerous-1.1.0 mock-4.0.3
+
+[notice] A new release of pip is available: 23.2.1 -> 24.1.2
+[notice] To update, run: D:\Windsor\WindsorThesis\Git repo\Thesis-Project-Python-Dependency-Conflict-Resolution\pipTest\myenv\Scripts\python.exe -m pip install --upgrade pip
