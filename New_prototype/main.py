@@ -1,3 +1,4 @@
+import os
 import time
 from z3 import Context
 from create_requirements import generate_requirements_txt, read_solution_file
@@ -12,7 +13,7 @@ def main():
     Main function to execute the dependency resolution process, including reading files,
     parsing requirements, fetching dependencies, generating SMT expressions, and solving them.
     """
-    directory = "D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset"
+    directory = "C:/Users/sakib51/Documents/dc-resolution/Dataset"
 
     # Log file setup
     log_file = "execution_log.txt"
@@ -22,11 +23,11 @@ def main():
         Log the execution time of a specific action to a log file.
 
         Args:
-        action_name (str): The name of the action being logged.
+        action_name (str): The name of the action being logged.m
         start_time (float): The start time of the action.
         end_time (float): The end time of the action.
         """
-        with open(log_file, "a") as file:
+        with open(os.path.join(directory, log_file), "a") as file:
             file.write(
                 f"{action_name} execution time: {end_time - start_time} seconds\n"
             )
@@ -65,35 +66,37 @@ def main():
     # Generate SMT expression
     start_time = time.time()
     ctx = Context()
-    solver, constraints = generate_smt_expression(
-        direct_dependencies, transitive_dependencies, ctx, add_soft_clauses=False
+    solver = generate_smt_expression(
+        direct_dependencies, transitive_dependencies, ctx, add_soft_clauses=True
     )
     end_time = time.time()
     log_execution_time("Generating SMT expression", start_time, end_time)
 
     # Save SMT expression to a file (optional)
-    with open("SMT_expression.txt", "w") as file:
+    with open(os.path.join(directory, "SMT_expression.txt"), "w") as file:
         file.write(str(solver))
 
     # Solve the SMT expression
     solution, proof, start_time, end_time = smt_solver(solver, ctx)
     if solution:  # Check if a solution was found before logging and printing
         log_execution_time("Solving SMT expression", start_time, end_time)
-        print(f"Optimal Solution: {solution}")
-        with open("string_solution.txt", "w") as file:
+        # print(f"Optimal Solution: {solution}")
+        with open(os.path.join(directory, "string_solution.txt"), "w") as file:
             file.write(str(solution))
-                # Generate requirements_txt
-        solution_dict = read_solution_file("D:/Windsor/WindsorThesis/Git repo/Thesis-Project-Python-Dependency-Conflict-Resolution/Dataset/string_solution.txt") 
-        start_time = time.time()        
-        generate_requirements_txt(solution_dict, "solution.txt") 
+            # Generate requirements_txt
+        solution_dict = read_solution_file(
+            "C:/Users/sakib51/Documents/dc-resolution/Dataset/string_solution.txt"
+        )
+        start_time = time.time()
+        generate_requirements_txt(solution_dict, directory, "solution.txt")
         end_time = time.time()
         log_execution_time("Generating requirements.txt", start_time, end_time)
+        print("solved")
     else:
-        print(proof)            
+        print(proof)
         # Save SMT expression to a file (optional)
-        with open("proof.txt", "w") as file:
+        with open(os.path.join(directory, "proof.txt"), "w") as file:
             file.write(proof)
-
 
 
 if __name__ == "__main__":

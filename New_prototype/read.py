@@ -12,12 +12,12 @@ def read_requirements(directory):
     Returns:
         str: The content of the `requirements.txt` file as a single string.
     """
-    with open(os.path.join(directory, "r3.txt"), "r") as file:
+    with open(os.path.join(directory, "r.txt"), "r") as file:
         return file.read()
 
 
 # Function to read the JSON file from a directory
-def read_json_file(directory, filename="KGBase10k.json"):
+def read_json_file(directory, filename="KBase.json"):
     """
     Reads the content of a JSON file from a specified directory.
 

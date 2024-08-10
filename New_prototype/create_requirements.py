@@ -1,4 +1,6 @@
 import ast
+import os
+
 
 def read_solution_file(file_path):
     """
@@ -10,15 +12,15 @@ def read_solution_file(file_path):
     Returns:
         dict: A dictionary where keys are package names and values are version strings.
     """
-    with open(file_path, 'r') as file:
+    with open(file_path, "r") as file:
         content = file.read()
-        solution_dict = ast.literal_eval(content)  # Safely evaluate the string to a dictionary
+        solution_dict = ast.literal_eval(
+            content
+        )  # Safely evaluate the string to a dictionary
     return solution_dict
 
 
-
-
-def generate_requirements_txt(solution, filename="requirements.txt"):
+def generate_requirements_txt(solution, directory, filename="requirements.txt"):
     """
     Generate a requirements.txt file from the solution dictionary.
 
@@ -26,7 +28,8 @@ def generate_requirements_txt(solution, filename="requirements.txt"):
         solution (dict): A dictionary where keys are package names and values are version strings.
         filename (str): The name of the requirements file to generate.
     """
-    with open(filename, 'w') as file:
+
+    with open(os.path.join(directory, filename), "w") as file:
         for package, version in solution.items():
             if version:  # Only include packages with versions
                 file.write(f"{package}=={version}\n")
